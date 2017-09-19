@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/slothpixel/hypixelconstants/issues"
   },
-  "homepage": "https://github.com/slothpixel/hypixelconstants#readme"
+  "homepage": "https://github.com/slothpixel/hypixelconstants#readme",
   "dependencies": {},
   "devDependencies": {
     "async": "^2.0.1",
