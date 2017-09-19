@@ -36,7 +36,7 @@ async.each(sources, function (s, cb) {
             if (s.transform) {
                 body = s.transform(body);
             }
-            fs.writeFileSync('../build/' + s.key + '.json', JSON.stringify(body, null, 2));
+            fs.writeFileSync('./build/' + s.key + '.json', JSON.stringify(body, null, 2));
             cb(err);
         }
     },
@@ -45,17 +45,17 @@ async.each(sources, function (s, cb) {
             throw err;
         }
         // Copy manual json files to build
-        const jsons = fs.readdirSync('../json');
+        const jsons = fs.readdirSync('./json');
         jsons.forEach((filename) => {
-            fs.writeFileSync('../build/' + filename, fs.readFileSync('../json/' + filename, 'utf-8'));
+            fs.writeFileSync('./build/' + filename, fs.readFileSync('./json/' + filename, 'utf-8'));
         });
         // Reference built files in index.js
-        const cfs = fs.readdirSync('../build');
+        const cfs = fs.readdirSync('./build');
         // Exports aren't supported in Node yet, so use old export syntax for now
         // const code = cfs.map((filename) => `export const ${filename.split('.')[0]} = require(__dirname + '/json/${filename.split('.')[0]}.json');`).join('\n';
         const code = `module.exports = {
 ${cfs.map((filename) => `${filename.split('.')[0]}: require(__dirname + '/build/${filename.split('.')[0]}.json')`).join(',\n')}
 };`;
-        fs.writeFileSync('../index.js', code);
+        fs.writeFileSync('./index.js', code);
         process.exit(0);
     });
