@@ -4,7 +4,8 @@
   "description": "Constant data for Hypixel applications",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node tasks/updateconstants"
   },
   "repository": {
     "type": "git",
@@ -16,4 +17,9 @@
     "url": "https://github.com/slothpixel/hypixelconstants/issues"
   },
   "homepage": "https://github.com/slothpixel/hypixelconstants#readme"
+  "dependencies": {},
+  "devDependencies": {
+    "async": "^2.0.1",
+    "request": "^2.74.0"
+  }
 }
