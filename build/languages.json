@@ -1,0 +1,37 @@
+{
+  "ENGLISH": {
+    "name": {
+      "common": "English"
+    }
+  },
+  "GERMAN": {
+    "name": {
+      "common": "German"
+    }
+  },
+  "FRENCH": {
+    "name": {
+      "common": "French"
+    }
+  },
+  "DUTCH": {
+    "name": {
+      "common": "Dutch"
+    }
+  },
+  "SPANISH": {
+    "name": {
+      "common": "Spanish"
+    }
+  },
+  "CHINESE_SIMPLIFIED": {
+    "name": {
+      "common": "Simplified Chinese"
+    }
+  },
+  "RUSSIAN": {
+    "name": {
+      "common": "Russian"
+    }
+  }
+}
