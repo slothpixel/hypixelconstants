@@ -1837,7 +1837,7 @@
         "FLAWLESS": {
           "points": 5,
           "name": "Flawless Victory",
-          "description": "Win with at least 2000 health remaining"
+          "description": "Win with at least 2000 health remaining in 2v2"
         },
         "PAIRS": {
           "points": 5,
@@ -1922,7 +1922,7 @@
         "NOT_EVEN_CLOSE": {
           "points": 5,
           "name": "Not Even Close, Baby!",
-          "description": "Win with 50 or less health remaining\nwhile being the only one alive"
+          "description": "Win with 50 or less health remaining\nwhile being the only one alive in 2v2"
         },
         "SUPPORT": {
           "points": 5,
@@ -2665,6 +2665,12 @@
           "points": 5,
           "name": "This Isn't A Funfair ... Maybe",
           "description": "Ride the monorail"
+        },
+        "SECRET_CHAMBER": {
+          "points": 15,
+          "name": "We're Set",
+          "description": "Find and enter the combination to open the secret chamber on Gold Rush",
+          "secret": true
         }
       },
       "tiered": {
@@ -2762,7 +2768,7 @@
           ]
         }
       },
-      "total_points": 625
+      "total_points": 640
     },
     "skyclash": {
       "one_time": {
@@ -5152,16 +5158,6 @@
           "name": "Popular",
           "description": "Get 25+ friends"
         },
-        "USE_PET": {
-          "points": 10,
-          "name": "Man's best friend",
-          "description": "Purchase a pet and use it in-game"
-        },
-        "I_HAVE_FRIENDS": {
-          "points": 5,
-          "name": "I have friends!",
-          "description": "Own a party of at least 5 players"
-        },
         "A_LONG_JOURNEY_BEGINS": {
           "points": 5,
           "name": "A long journey begins",
@@ -5181,11 +5177,6 @@
           "points": 10,
           "name": "Very Important Person",
           "description": "Become a VIP"
-        },
-        "TOGETHER_WE_SHINE": {
-          "points": 5,
-          "name": "Together we shine",
-          "description": "Join a guild"
         }
       },
       "tiered": {
@@ -5314,7 +5305,7 @@
           ]
         }
       },
-      "total_points": 425
+      "total_points": 405
     },
     "uhc": {
       "one_time": {
@@ -6095,7 +6086,7 @@
         },
         "CATCH_FISH": {
           "points": 5,
-          "name": "Kevin Kool'd",
+          "name": "Rod God",
           "description": "Catch a fish"
         },
         "FIRST_KIT": {
@@ -7335,6 +7326,140 @@
         }
       },
       "total_points": 775
+    },
+    "halloween2017": {
+      "one_time": {
+        "TBR_KRAKEN_ASSAULT_1_25": {
+          "points": 10,
+          "name": "Kraken Assault Great Time",
+          "description": "Complete Kraken Assault in under 01:25"
+        },
+        "SPOOKY_CHEST": {
+          "points": 5,
+          "name": "Spooky Spooky",
+          "description": "Open 3 Bed Wars Spooky Chests"
+        },
+        "SECOND_GHOST": {
+          "points": 5,
+          "name": "Second Ghost",
+          "description": "Find two Ghosts in the Main Lobby"
+        },
+        "PUMPKIN_DEATH": {
+          "points": 10,
+          "name": "Pumpkinator Rampage",
+          "description": "Bring 15 pumpkins at once to a Shopkeeper in Bedwars"
+        },
+        "PUMPKIN_DANCER": {
+          "points": 10,
+          "name": "Pumpkin Devil",
+          "description": "Obtain 222 points in a single Pumpkin Smash game"
+        },
+        "TBR_OBSERVATORY_SPIN": {
+          "points": 5,
+          "name": "Observatory Spin Completion",
+          "description": "Complete Observatory Spin in Turbo Bat Racers"
+        },
+        "TBR_MIDTOWN_TRIP": {
+          "points": 5,
+          "name": "Midtown Trip Completion",
+          "description": "Complete Midtown Trip in Turbo Bat Racers"
+        },
+        "ALL_GHOSTS": {
+          "points": 15,
+          "name": "All Ghosts",
+          "description": "Find all Ghosts in the Main Lobby"
+        },
+        "TBR_KRAKEN_ASSAULT": {
+          "points": 5,
+          "name": "Kraken Assault Completion",
+          "description": "Complete Kraken Assault in Turbo Bat Racers"
+        },
+        "TBR_MIDTOWN_TRIP_1_20": {
+          "points": 10,
+          "name": "Midtown Trip Great Time",
+          "description": "Complete Midtown Trip in under 01:30"
+        },
+        "TBR_OBSERVATORY_SPIN_1_10": {
+          "points": 10,
+          "name": "Observatory Spin Great Time",
+          "description": "Complete Observatory Spin in under 01:25"
+        },
+        "GOOD_TRY": {
+          "points": 5,
+          "name": "Good Try",
+          "description": "Die against the first bomb in Pumpkin Smash"
+        },
+        "HI_THERE": {
+          "points": 5,
+          "name": "Boo!",
+          "description": "Speak to the Halloween Guide in the Main Lobby"
+        }
+      },
+      "tiered": {
+        "PUMPKIN_SMASHER": {
+          "name": "Pumpkin Smasher",
+          "description": "Smash %s pumpkins in Pumpkin Smash",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 250
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 500
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 750
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 1000
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 3333
+            }
+          ]
+        },
+        "PUMPKINATOR": {
+          "name": "Pumpkinator Collector",
+          "description": "Collect %s pumpkins in Bedwars",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 5
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 25
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 100
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 250
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 1000
+            }
+          ]
+        }
+      },
+      "total_points": 250
     }
   }
 }
