@@ -1,37 +1,58 @@
 {
   "ENGLISH": {
     "name": {
-      "common": "English"
-    }
+      "common": "English",
+      "native": "English (US)"
+    },
+    "code": "en-US"
   },
   "GERMAN": {
     "name": {
-      "common": "German"
-    }
+      "common": "German",
+      "native": "Deutsch"
+    },
+    "code": "de-DE"
   },
   "FRENCH": {
     "name": {
-      "common": "French"
-    }
+      "common": "French",
+      "native": "Français"
+    },
+    "code": "fr-FR"
   },
   "DUTCH": {
     "name": {
-      "common": "Dutch"
-    }
+      "common": "Dutch",
+      "native": "Nederlands"
+    },
+    "code": "nl-NL"
   },
   "SPANISH": {
     "name": {
-      "common": "Spanish"
-    }
+      "common": "Spanish",
+      "native": "Español"
+    },
+    "code": "es-ES"
   },
   "CHINESE_SIMPLIFIED": {
     "name": {
-      "common": "Simplified Chinese"
-    }
+      "common": "Simplified Chinese",
+      "native": "中文"
+    },
+    "code": "zh-CN"
   },
   "RUSSIAN": {
     "name": {
-      "common": "Russian"
-    }
+      "common": "Russian",
+      "native": "Русский"
+    },
+    "code": "ru-RU"
+  },
+  "JAPANESE": {
+    "name": {
+      "common": "Japanese",
+      "native": "한국어"
+    },
+    "code": "ja-JP"
   }
 }
