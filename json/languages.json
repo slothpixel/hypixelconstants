@@ -33,5 +33,10 @@
     "name": {
       "common": "Russian"
     }
+  "JAPANESE": {
+    "name": {
+      "common": "Japanese",
+      "native": "한국어"
+    },
   }
 }
