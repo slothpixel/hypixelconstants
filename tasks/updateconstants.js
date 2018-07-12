@@ -6,6 +6,37 @@ const sources = [
     {
         key: "achievements",
         url: "https://raw.githubusercontent.com/HypixelDev/PublicAPI/master/Documentation/misc/Achievements.json"
+    },
+    {
+        key: "achievements_extended",
+        url: "https://raw.githubusercontent.com/HypixelDev/PublicAPI/master/Documentation/misc/Achievements.json",
+        transform: respObj => {
+            const { achievements } = respObj;
+            Object.keys(achievements).forEach((game) => {
+                // Total amount of achievements
+                const one_time = Object.keys(achievements[game].one_time);
+                const tiered = Object.keys(achievements[game].tiered);
+                achievements[game].total_one_time = one_time.length;
+                achievements[game].total_tiered = 0;
+                achievements[game].total = 0;
+                tiered.forEach((ach) => {
+                    achievements[game].total_tiered += achievements[game].tiered[ach].tiers.length;
+                });
+                achievements[game].total = achievements[game].total_one_time + achievements[game].total_tiered;
+                // Total available points for tiered and onetime
+                achievements[game].total_points_one_time = 0;
+                achievements[game].total_points_tiered = 0;
+                one_time.forEach((ach) => {
+                    achievements[game].total_points_one_time += achievements[game].one_time[ach].points;
+                });
+                tiered.forEach((ach) => {
+                    achievements[game].tiered[ach].tiers.forEach((tier) => {
+                        achievements[game].total_points_tiered += tier.points;
+                    })
+                })
+            });
+            return achievements;
+        }
     }
 ];
 
