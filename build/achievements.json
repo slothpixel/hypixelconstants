@@ -1186,6 +1186,206 @@
       },
       "total_points": 395
     },
+    "duels": {
+      "one_time": {
+        "MORE_DAMAGE": {
+          "points": 5,
+          "name": "More Damage",
+          "description": "Win a round of a Duels Tournament after the timer runs out by dealing the most damage"
+        },
+        "SMASH_YOUR_KEYBOARD": {
+          "points": 10,
+          "name": "Smash your Keyboard",
+          "description": "Come Second Place in a Duels Tournament"
+        },
+        "MY_PREFERENCE": {
+          "points": 5,
+          "name": "My Preference",
+          "description": "Use the kit editor to edit the layout of a kit"
+        },
+        "WELL_ROUNDED": {
+          "points": 15,
+          "name": "Well Rounded",
+          "description": "Win a game in 5 different Duels modes"
+        },
+        "SPEED_DUEL": {
+          "points": 10,
+          "name": "Speed Duel",
+          "description": "Win a duel within 30 seconds"
+        },
+        "REPLAY": {
+          "points": 5,
+          "name": "Replay",
+          "description": "Use the recently played option in the join menu"
+        },
+        "NOT_CLOSE_AT_ALL": {
+          "points": 5,
+          "name": "Not Close at all",
+          "description": "Win a duel with only 1 heart remaining"
+        },
+        "DOMINATION": {
+          "points": 10,
+          "name": "Domination!",
+          "description": "Win a Duel against the same player 3 times in a row"
+        },
+        "AXE_YOU_A_QUESTION": {
+          "points": 10,
+          "name": "Can I Axe you a Question?",
+          "description": "Win a game of UHC Duels without using your sword"
+        },
+        "REVENGE": {
+          "points": 10,
+          "name": "Revenge!",
+          "description": "Win a Duel against a player that has beaten you twice in a row"
+        },
+        "THE_WAITING_GAME": {
+          "points": 5,
+          "name": "The Waiting Game",
+          "description": "Win a Solo SkyWars Duel without getting a kill"
+        },
+        "FORTIFICATION": {
+          "points": 15,
+          "name": "Fortification",
+          "description": "Win a Combo Duel after having at least 4 pieces of armour break"
+        },
+        "NOT_HUNGARY": {
+          "points": 10,
+          "name": "Not Hungry",
+          "description": "Win a game of UHC Duels without eating any golden apples"
+        },
+        "TEAM_PLAYER": {
+          "points": 5,
+          "name": "Team Player",
+          "description": "Win a game of 4v4 UHC Duels"
+        },
+        "BURN_BABY_BURN": {
+          "points": 5,
+          "name": "Burn Baby Burn",
+          "description": "Kill an enemy using lava or fire"
+        },
+        "TRIAL_BY_COMBAT": {
+          "points": 5,
+          "name": "Trial by Combat",
+          "description": "Challenge a player using /duel"
+        },
+        "WE_ARE_NUMBER_ONE": {
+          "points": 15,
+          "name": "CHAMPION!",
+          "description": "Win a Duels Tournament"
+        },
+        "REMATCH": {
+          "points": 5,
+          "name": "Rematch!",
+          "description": "Win a rematch"
+        },
+        "SUMMONER": {
+          "points": 5,
+          "name": "Summoner",
+          "description": "Spawn a mob in a Blitz Duel"
+        },
+        "COMPETITOR": {
+          "points": 5,
+          "name": "Competitor",
+          "description": "Participate in a Duels Tournament"
+        }
+      },
+      "tiered": {
+        "DUELS_WINNER": {
+          "name": "Duels Winner",
+          "description": "Win %s Duels",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 25
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 100
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 250
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 500
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 1500
+            }
+          ]
+        },
+        "DUELS_TROPHIES": {
+          "name": "Duels Trophies",
+          "description": "Obtain %s Trophies by winning Duels Tournaments",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 1
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 10
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 25
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 50
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 100
+            }
+          ]
+        },
+        "DUELS_WIN_STREAK": {
+          "name": "Duels Win Streak",
+          "description": "Achieve an Overall Win Streak of %s",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 2
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 4
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 8
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 12
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 20
+            }
+          ]
+        }
+      },
+      "total_points": 385
+    },
     "murdermystery": {
       "one_time": {
         "KALI_FAVOR": {
@@ -1512,483 +1712,6 @@
       },
       "total_points": 655
     },
-    "duels": {
-      "one_time": {
-        "MORE_DAMAGE": {
-          "points": 5,
-          "name": "More Damage",
-          "description": "Win a round of a Duels Tournament after the timer runs out by dealing the most damage"
-        },
-        "SMASH_YOUR_KEYBOARD": {
-          "points": 10,
-          "name": "Smash your Keyboard",
-          "description": "Come Second Place in a Duels Tournament"
-        },
-        "MY_PREFERENCE": {
-          "points": 5,
-          "name": "My Preference",
-          "description": "Use the kit editor to edit the layout of a kit"
-        },
-        "WELL_ROUNDED": {
-          "points": 15,
-          "name": "Well Rounded",
-          "description": "Win a game in 5 different Duels modes"
-        },
-        "SPEED_DUEL": {
-          "points": 10,
-          "name": "Speed Duel",
-          "description": "Win a duel within 30 seconds"
-        },
-        "REPLAY": {
-          "points": 5,
-          "name": "Replay",
-          "description": "Use the recently played option in the join menu"
-        },
-        "NOT_CLOSE_AT_ALL": {
-          "points": 5,
-          "name": "Not Close at all",
-          "description": "Win a duel with only 1 heart remaining"
-        },
-        "DOMINATION": {
-          "points": 10,
-          "name": "Domination!",
-          "description": "Win a Duel against the same player 3 times in a row"
-        },
-        "AXE_YOU_A_QUESTION": {
-          "points": 10,
-          "name": "Can I Axe you a Question?",
-          "description": "Win a game of UHC Duels without using your sword"
-        },
-        "REVENGE": {
-          "points": 10,
-          "name": "Revenge!",
-          "description": "Win a Duel against a player that has beaten you twice in a row"
-        },
-        "THE_WAITING_GAME": {
-          "points": 5,
-          "name": "The Waiting Game",
-          "description": "Win a Solo SkyWars Duel without getting a kill"
-        },
-        "FORTIFICATION": {
-          "points": 15,
-          "name": "Fortification",
-          "description": "Win a Combo Duel after having at least 4 pieces of armour break"
-        },
-        "NOT_HUNGARY": {
-          "points": 10,
-          "name": "Not Hungry",
-          "description": "Win a game of UHC Duels without eating any golden apples"
-        },
-        "TEAM_PLAYER": {
-          "points": 5,
-          "name": "Team Player",
-          "description": "Win a game of 4v4 UHC Duels"
-        },
-        "BURN_BABY_BURN": {
-          "points": 5,
-          "name": "Burn Baby Burn",
-          "description": "Kill an enemy using lava or fire"
-        },
-        "TRIAL_BY_COMBAT": {
-          "points": 5,
-          "name": "Trial by Combat",
-          "description": "Challenge a player using /duel"
-        },
-        "WE_ARE_NUMBER_ONE": {
-          "points": 15,
-          "name": "CHAMPION!",
-          "description": "Win a Duels Tournament"
-        },
-        "REMATCH": {
-          "points": 5,
-          "name": "Rematch!",
-          "description": "Win a rematch"
-        },
-        "SUMMONER": {
-          "points": 5,
-          "name": "Summoner",
-          "description": "Spawn a mob in a Blitz Duel"
-        },
-        "COMPETITOR": {
-          "points": 5,
-          "name": "Competitor",
-          "description": "Participate in a Duels Tournament"
-        }
-      },
-      "tiered": {
-        "DUELS_WINNER": {
-          "name": "Duels Winner",
-          "description": "Win %s Duels",
-          "tiers": [
-            {
-              "tier": 1,
-              "points": 5,
-              "amount": 25
-            },
-            {
-              "tier": 2,
-              "points": 10,
-              "amount": 100
-            },
-            {
-              "tier": 3,
-              "points": 15,
-              "amount": 250
-            },
-            {
-              "tier": 4,
-              "points": 20,
-              "amount": 500
-            },
-            {
-              "tier": 5,
-              "points": 25,
-              "amount": 1500
-            }
-          ]
-        },
-        "DUELS_TROPHIES": {
-          "name": "Duels Trophies",
-          "description": "Obtain %s Trophies by winning Duels Tournaments",
-          "tiers": [
-            {
-              "tier": 1,
-              "points": 5,
-              "amount": 1
-            },
-            {
-              "tier": 2,
-              "points": 10,
-              "amount": 10
-            },
-            {
-              "tier": 3,
-              "points": 15,
-              "amount": 25
-            },
-            {
-              "tier": 4,
-              "points": 20,
-              "amount": 50
-            },
-            {
-              "tier": 5,
-              "points": 25,
-              "amount": 100
-            }
-          ]
-        },
-        "DUELS_WIN_STREAK": {
-          "name": "Duels Win Streak",
-          "description": "Achieve an Overall Win Streak of %s",
-          "tiers": [
-            {
-              "tier": 1,
-              "points": 5,
-              "amount": 2
-            },
-            {
-              "tier": 2,
-              "points": 10,
-              "amount": 4
-            },
-            {
-              "tier": 3,
-              "points": 15,
-              "amount": 8
-            },
-            {
-              "tier": 4,
-              "points": 20,
-              "amount": 12
-            },
-            {
-              "tier": 5,
-              "points": 25,
-              "amount": 20
-            }
-          ]
-        }
-      },
-      "total_points": 385
-    },
-    "vampirez": {
-      "one_time": {
-        "PURCHASE_BLOOD": {
-          "points": 5,
-          "name": "Cash4Blood",
-          "description": "Purchase Blood from the shop"
-        },
-        "PURCHASE_GOLD": {
-          "points": 5,
-          "name": "Coins4Gold",
-          "description": "Purchase Gold from the shop"
-        },
-        "BLOOD": {
-          "points": 5,
-          "name": "Bloodthirsty",
-          "description": "Have 150 Blood at once"
-        },
-        "PURCHASE_FOOD": {
-          "points": 5,
-          "name": "Not the Survival Games",
-          "description": "Purchase food from the Gold Shop"
-        },
-        "SOLE_SURVIVOR": {
-          "points": 10,
-          "name": "Last Man Standing",
-          "description": "Be the last remaining Survivor"
-        },
-        "VAMPIRE_FANG_KILL": {
-          "points": 5,
-          "name": "The Original",
-          "description": "Kill a Survivor with The Original Fang"
-        },
-        "VAMPIRE_KILLS_ONE_ROUND": {
-          "points": 10,
-          "name": "Vampire Slayer",
-          "description": "Kill 15 Vampires in one game"
-        },
-        "PURCHASE_ARMOR": {
-          "points": 5,
-          "name": "Fits Like a Glove",
-          "description": "Purchase armor from the Gold Shop"
-        },
-        "DONT_NEED_IT": {
-          "points": 15,
-          "name": "Don't need it!",
-          "description": "Win a game as a Human without using the shop"
-        },
-        "PURCHASE_SWORD": {
-          "points": 5,
-          "name": "Dangerous to Go Alone",
-          "description": "Purchase a sword from the Gold Shop"
-        },
-        "VAMPIRE_SHOP": {
-          "points": 5,
-          "name": "Vampiric Mutant",
-          "description": "Purchase something from the Blood Shop"
-        },
-        "POTIONS": {
-          "points": 5,
-          "name": "POTIONS!",
-          "description": "Drink 20 Potions as a Human in a single game"
-        },
-        "WIZARD": {
-          "points": 5,
-          "name": "Wizard",
-          "description": "Use 5 holy books in a single game as a Human"
-        },
-        "KILL_ZOMBIES": {
-          "points": 10,
-          "name": "Zombie Killer",
-          "description": "Kill 35 Zombies in one game"
-        },
-        "UNDEFEATABLE": {
-          "points": 10,
-          "name": "Undefeatable!",
-          "description": "Purchase a full set of God Armor and a God Sword as a Human"
-        },
-        "CHEST_HUNTER": {
-          "points": 10,
-          "name": "Chest Hunter",
-          "description": "Find 3 loot chests"
-        },
-        "GOLD": {
-          "points": 10,
-          "name": "Gold Digger",
-          "description": "Have 1000 Gold at once"
-        },
-        "LAST_CHANCE": {
-          "points": 15,
-          "name": "Last Chance",
-          "description": "Win the game as the last remaining Human"
-        },
-        "FIRST_WAVE_KILL": {
-          "points": 5,
-          "name": "Black Friday",
-          "description": "Kill a Survivor in the first round"
-        },
-        "ZOMBIE_SLAYER": {
-          "points": 10,
-          "name": "Zombie Slayer",
-          "description": "Kill 100 Zombies in a single game"
-        },
-        "SURVIVOR_KILLS_ONE_ROUND": {
-          "points": 10,
-          "name": "Bloody Bulldozer",
-          "description": "Kill 10 Survivors in one game"
-        },
-        "CLOSE_CALL": {
-          "points": 10,
-          "name": "Close Call",
-          "description": "Kill a Vampire while on half a heart"
-        },
-        "ZOMBIE_WHISPERER": {
-          "points": 5,
-          "name": "Zombie Whisperer",
-          "description": "Kill a survivor with a Baby Zombie"
-        }
-      },
-      "tiered": {
-        "ZOMBIE_KILLER": {
-          "name": "Zombie Hunter",
-          "description": "Kill %s Zombies",
-          "tiers": [
-            {
-              "tier": 1,
-              "points": 5,
-              "amount": 250
-            },
-            {
-              "tier": 2,
-              "points": 10,
-              "amount": 500
-            },
-            {
-              "tier": 3,
-              "points": 15,
-              "amount": 2500
-            },
-            {
-              "tier": 4,
-              "points": 20,
-              "amount": 7500
-            },
-            {
-              "tier": 5,
-              "points": 25,
-              "amount": 10000
-            }
-          ]
-        },
-        "COINS": {
-          "name": "VampireZ Banker",
-          "description": "Earn %s coins in VampireZ",
-          "tiers": [
-            {
-              "tier": 1,
-              "points": 5,
-              "amount": 10000
-            },
-            {
-              "tier": 2,
-              "points": 10,
-              "amount": 20000
-            },
-            {
-              "tier": 3,
-              "points": 15,
-              "amount": 55000
-            },
-            {
-              "tier": 4,
-              "points": 20,
-              "amount": 75000
-            },
-            {
-              "tier": 5,
-              "points": 25,
-              "amount": 150000
-            }
-          ]
-        },
-        "KILL_VAMPIRES": {
-          "name": "Vampire Hunter",
-          "description": "Kill %s Vampires",
-          "tiers": [
-            {
-              "tier": 1,
-              "points": 5,
-              "amount": 10
-            },
-            {
-              "tier": 2,
-              "points": 10,
-              "amount": 100
-            },
-            {
-              "tier": 3,
-              "points": 15,
-              "amount": 500
-            },
-            {
-              "tier": 4,
-              "points": 20,
-              "amount": 1000
-            },
-            {
-              "tier": 5,
-              "points": 25,
-              "amount": 2500
-            }
-          ]
-        },
-        "KILL_SURVIVORS": {
-          "name": "Blood Sucker",
-          "description": "Kill %s Survivors",
-          "tiers": [
-            {
-              "tier": 1,
-              "points": 5,
-              "amount": 10
-            },
-            {
-              "tier": 2,
-              "points": 10,
-              "amount": 100
-            },
-            {
-              "tier": 3,
-              "points": 15,
-              "amount": 500
-            },
-            {
-              "tier": 4,
-              "points": 20,
-              "amount": 1000
-            },
-            {
-              "tier": 5,
-              "points": 25,
-              "amount": 2500
-            }
-          ]
-        },
-        "SURVIVOR_WINS": {
-          "name": "Survivor",
-          "description": "Win %s games as a Survivor",
-          "tiers": [
-            {
-              "tier": 1,
-              "points": 5,
-              "amount": 1
-            },
-            {
-              "tier": 2,
-              "points": 10,
-              "amount": 10
-            },
-            {
-              "tier": 3,
-              "points": 15,
-              "amount": 50
-            },
-            {
-              "tier": 4,
-              "points": 20,
-              "amount": 100
-            },
-            {
-              "tier": 5,
-              "points": 25,
-              "amount": 150
-            }
-          ]
-        }
-      },
-      "total_points": 555
-    },
     "skywars": {
       "one_time": {
         "PEACEMAKER": {
@@ -2015,6 +1738,11 @@
           "points": 10,
           "name": "Baller!",
           "description": "Get 2 snowball kills in one game"
+        },
+        "ATTENTION_SEEKING": {
+          "points": 10,
+          "name": "Attention Seeking",
+          "description": "Have a bounty placed on you in Lucky Block Mode"
         },
         "NOW_IM_ENCHANTED": {
           "points": 10,
@@ -2064,7 +1792,7 @@
         "MEGA_WARRIOR": {
           "points": 10,
           "name": "Mega Warrior",
-          "description": "Kill 20 players in 1 mega game"
+          "description": "Kill 20 players in a single Mega game or 12 players in a single Mega Doubles game"
         },
         "TROLOL": {
           "points": 5,
@@ -2126,6 +1854,11 @@
           "name": "Slow and steady wins the race",
           "description": "Win a game using the sloth kit"
         },
+        "PLAYING_IT_SAFE": {
+          "points": 10,
+          "name": "Playing it safe",
+          "description": "Win a game of Lucky Block Mode while only opening Insane Lucky Blocks"
+        },
         "FISTS_OF_FURY": {
           "points": 10,
           "name": "Fist of Fury!",
@@ -2174,7 +1907,7 @@
         "MYSTERY_MOB": {
           "points": 10,
           "name": "Uh oh...",
-          "description": "Spawn the mystery mob"
+          "description": "Spawn the mystery mob using the zookeeper kit"
         },
         "PORTAL_GAME": {
           "points": 5,
@@ -2515,7 +2248,284 @@
           ]
         }
       },
-      "total_points": 1080
+      "total_points": 1100
+    },
+    "vampirez": {
+      "one_time": {
+        "PURCHASE_BLOOD": {
+          "points": 5,
+          "name": "Cash4Blood",
+          "description": "Purchase Blood from the shop"
+        },
+        "PURCHASE_GOLD": {
+          "points": 5,
+          "name": "Coins4Gold",
+          "description": "Purchase Gold from the shop"
+        },
+        "BLOOD": {
+          "points": 5,
+          "name": "Bloodthirsty",
+          "description": "Have 150 Blood at once"
+        },
+        "PURCHASE_FOOD": {
+          "points": 5,
+          "name": "Not the Survival Games",
+          "description": "Purchase food from the Gold Shop"
+        },
+        "SOLE_SURVIVOR": {
+          "points": 10,
+          "name": "Last Man Standing",
+          "description": "Be the last remaining Survivor"
+        },
+        "VAMPIRE_FANG_KILL": {
+          "points": 5,
+          "name": "The Original",
+          "description": "Kill a Survivor with The Original Fang"
+        },
+        "VAMPIRE_KILLS_ONE_ROUND": {
+          "points": 10,
+          "name": "Vampire Slayer",
+          "description": "Kill 15 Vampires in one game"
+        },
+        "PURCHASE_ARMOR": {
+          "points": 5,
+          "name": "Fits Like a Glove",
+          "description": "Purchase armor from the Gold Shop"
+        },
+        "DONT_NEED_IT": {
+          "points": 15,
+          "name": "Don't need it!",
+          "description": "Win a game as a Human without using the shop"
+        },
+        "PURCHASE_SWORD": {
+          "points": 5,
+          "name": "Dangerous to Go Alone",
+          "description": "Purchase a sword from the Gold Shop"
+        },
+        "VAMPIRE_SHOP": {
+          "points": 5,
+          "name": "Vampiric Mutant",
+          "description": "Purchase something from the Blood Shop"
+        },
+        "POTIONS": {
+          "points": 5,
+          "name": "POTIONS!",
+          "description": "Drink 20 Potions as a Human in a single game"
+        },
+        "WIZARD": {
+          "points": 5,
+          "name": "Wizard",
+          "description": "Use 5 holy books in a single game as a Human"
+        },
+        "KILL_ZOMBIES": {
+          "points": 10,
+          "name": "Zombie Killer",
+          "description": "Kill 35 Zombies in one game"
+        },
+        "UNDEFEATABLE": {
+          "points": 10,
+          "name": "Undefeatable!",
+          "description": "Purchase a full set of God Armor and a God Sword as a Human"
+        },
+        "CHEST_HUNTER": {
+          "points": 10,
+          "name": "Chest Hunter",
+          "description": "Find 3 loot chests"
+        },
+        "GOLD": {
+          "points": 10,
+          "name": "Gold Digger",
+          "description": "Have 1000 Gold at once"
+        },
+        "LAST_CHANCE": {
+          "points": 15,
+          "name": "Last Chance",
+          "description": "Win the game as the last remaining Human"
+        },
+        "FIRST_WAVE_KILL": {
+          "points": 5,
+          "name": "Black Friday",
+          "description": "Kill a Survivor in the first round"
+        },
+        "ZOMBIE_SLAYER": {
+          "points": 10,
+          "name": "Zombie Slayer",
+          "description": "Kill 100 Zombies in a single game"
+        },
+        "SURVIVOR_KILLS_ONE_ROUND": {
+          "points": 10,
+          "name": "Bloody Bulldozer",
+          "description": "Kill 10 Survivors in one game"
+        },
+        "CLOSE_CALL": {
+          "points": 10,
+          "name": "Close Call",
+          "description": "Kill a Vampire while on half a heart"
+        },
+        "ZOMBIE_WHISPERER": {
+          "points": 5,
+          "name": "Zombie Whisperer",
+          "description": "Kill a survivor with a Baby Zombie"
+        }
+      },
+      "tiered": {
+        "ZOMBIE_KILLER": {
+          "name": "Zombie Hunter",
+          "description": "Kill %s Zombies",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 250
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 500
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 2500
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 7500
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 10000
+            }
+          ]
+        },
+        "COINS": {
+          "name": "VampireZ Banker",
+          "description": "Earn %s coins in VampireZ",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 10000
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 20000
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 55000
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 75000
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 150000
+            }
+          ]
+        },
+        "KILL_VAMPIRES": {
+          "name": "Vampire Hunter",
+          "description": "Kill %s Vampires",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 10
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 100
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 500
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 1000
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 2500
+            }
+          ]
+        },
+        "KILL_SURVIVORS": {
+          "name": "Blood Sucker",
+          "description": "Kill %s Survivors",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 10
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 100
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 500
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 1000
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 2500
+            }
+          ]
+        },
+        "SURVIVOR_WINS": {
+          "name": "Survivor",
+          "description": "Win %s games as a Survivor",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 1
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 10
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 50
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 100
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 150
+            }
+          ]
+        }
+      },
+      "total_points": 555
     },
     "general": {
       "one_time": {
@@ -4008,7 +4018,7 @@
           "description": "Deliver the final blow to 2 Mini Withers in a game of Mini Walls"
         },
         "HIDE_AND_SEEK_PARTY_POOPER": {
-          "points": 5,
+          "points": 15,
           "name": "Party Pooper",
           "description": "Complete all objectives as a hider in Party Pooper"
         },
@@ -4430,7 +4440,7 @@
           ]
         }
       },
-      "total_points": 1050
+      "total_points": 1060
     },
     "supersmash": {
       "one_time": {
@@ -5220,6 +5230,620 @@
         }
       },
       "total_points": 705
+    },
+    "copsandcrims": {
+      "one_time": {
+        "IS_IT_GOOD_NOW": {
+          "points": 20,
+          "name": "Is it good now?",
+          "description": "Acquire all upgrades on a gun"
+        },
+        "OH_BABY_A_TRIPLE": {
+          "points": 15,
+          "name": "A Player's Nightmare",
+          "description": "Get a triple kill using a grenade"
+        },
+        "CHARACTER_UPGRADES": {
+          "points": 10,
+          "name": "Better Version Of Yourself",
+          "description": "Buy all character upgrades"
+        },
+        "ONE_SHOT_ONE_KIL": {
+          "points": 10,
+          "name": "One shot, one kill",
+          "description": "Get a kill with your first bullet"
+        },
+        "RUN_AWAY": {
+          "points": 5,
+          "name": "RUN AWAY!!",
+          "description": "Plant a bomb"
+        },
+        "CHALLENGE_COMPLETED": {
+          "points": 5,
+          "name": "Challenge Completed!",
+          "description": "Complete a challenge in TDM"
+        },
+        "LIKE_MY_GUN": {
+          "points": 5,
+          "name": "Like my gun?",
+          "description": "Use a reskined gun"
+        },
+        "STREET_ARTIST": {
+          "points": 5,
+          "name": "Street Artist",
+          "description": "Buy 2 Sprays and 5 Callouts"
+        },
+        "FANCY_NEW_TOYS": {
+          "points": 5,
+          "name": "Fancy New Toys",
+          "description": "Unlock 10 Gun Variations"
+        },
+        "NEVER_TOO_LATE": {
+          "points": 10,
+          "name": "It's never too late",
+          "description": "Win or tie a game being down 0-3"
+        },
+        "UNSTOPPABLE": {
+          "points": 10,
+          "name": "Unstoppable",
+          "description": "Get 15 kills without dying"
+        },
+        "UMADBRO": {
+          "points": 5,
+          "name": "umadbro?",
+          "description": "Use a Taunt"
+        },
+        "QUAD_FLASH": {
+          "points": 10,
+          "name": "Stunningly Good",
+          "description": "Flash 4 players with one flashbang"
+        },
+        "DARUDE_SANDSTORM": {
+          "points": 5,
+          "name": "Darude Sandstorm",
+          "description": "Win on both Sandstorm and Alleyway"
+        },
+        "GUN_MASTER": {
+          "points": 10,
+          "name": "Gun Master",
+          "description": "Get a kill with 5 different weapons in a game of Defusal"
+        },
+        "SAMURAI_WARRIOR": {
+          "points": 5,
+          "name": "Samurai Warrior",
+          "description": "Get a knife kill"
+        },
+        "SECRET_ORDER": {
+          "points": 5,
+          "name": "Secret Order",
+          "description": "Win a Challenge Mode game"
+        },
+        "TEAM_COMMUNICATOR": {
+          "points": 5,
+          "name": "Team Communicator",
+          "description": "Unlock 10 Radio Commands"
+        },
+        "WHERES_MY_NUKE": {
+          "points": 15,
+          "name": "Where's my Nuke?",
+          "description": "Get 25 kills without dying"
+        },
+        "HOMING_BULLETS": {
+          "points": 10,
+          "name": "Homing Bullets",
+          "description": "Get 7 kills in one round"
+        },
+        "TOO_EASY": {
+          "points": 5,
+          "name": "Too Easy",
+          "description": "Defuse a bomb with the Defuser Kit 9000"
+        },
+        "PENTAAAA": {
+          "points": 15,
+          "name": "PENTAAAA!!!",
+          "description": "Get 5 kills in less than 7 seconds"
+        },
+        "HUNTING_SEASON": {
+          "points": 5,
+          "name": "It's hunting season",
+          "description": "Buy a 50cal in round 2"
+        },
+        "KAMIKAZE": {
+          "points": 15,
+          "name": "Worth It",
+          "description": "Kill someone right before dying to fall damage"
+        },
+        "THE_CARRIER": {
+          "points": 10,
+          "name": "The Carrier",
+          "description": "Win a game with at least 1 bomb planted, 1 defused and 10 kills"
+        },
+        "CLOSE_CALL": {
+          "points": 10,
+          "name": "Close Call",
+          "description": "Defuse a bomb with less than 3 seconds before detonation"
+        },
+        "SNIPER": {
+          "points": 10,
+          "name": "Out Of Your League",
+          "description": "Snipe someone that is using a sniper"
+        },
+        "GRAFITTI_KING": {
+          "points": 5,
+          "name": "Grafitti King",
+          "description": "Use a Spray"
+        },
+        "BLIND_KILL": {
+          "points": 15,
+          "name": "Even A Blind Hen ...",
+          "description": "Get a kill while blinded"
+        },
+        "ON_FIRE": {
+          "points": 10,
+          "name": "I'm on FIRE!",
+          "description": "Obtain a kill streak of 10 in TDM"
+        },
+        "GRENADE_KILL": {
+          "points": 5,
+          "name": "BOOM!",
+          "description": "Get a grenade kill"
+        },
+        "DEATHMATCH_SPECIALIST": {
+          "points": 10,
+          "name": "TDM Specialist",
+          "description": "Obtain at least 300 points in TDM"
+        },
+        "FRIENDLY_GAME": {
+          "points": 5,
+          "name": "Less Talky Talky, more Pew Pew",
+          "description": "Play a game of Challenge Mode"
+        },
+        "SNEAKY": {
+          "points": 5,
+          "name": "Sneaky!",
+          "description": "Defuse a bomb with enemies left alive"
+        },
+        "COMEBACK_STORY": {
+          "points": 5,
+          "name": "Comeback Story",
+          "description": "Be the last man alive and win in a round of Defusal"
+        },
+        "TRIIPPLEE": {
+          "points": 10,
+          "name": "TRIIPPLEE!!!",
+          "description": "Get 3 kills in less than 3 seconds"
+        },
+        "SNEAK_KILL": {
+          "points": 5,
+          "name": "Quack Quack",
+          "description": "Kill someone while sneaking"
+        },
+        "WARFARE_STYLIST": {
+          "points": 5,
+          "name": "Warfare Stylist",
+          "description": "Unlock 4 Armor Variations"
+        },
+        "FLAWLESS": {
+          "points": 10,
+          "name": "Flawless",
+          "description": "Win a game without losing a single round"
+        }
+      },
+      "tiered": {
+        "CAC_BANKER": {
+          "name": "Bounty Hunter",
+          "description": "Earn %s Coins",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 10000
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 50000
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 100000
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 250000
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 500000
+            }
+          ]
+        },
+        "BOMB_SPECIALIST": {
+          "name": "Bomb Specialist",
+          "description": "Defuse or Plant %s bombs.",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 10
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 50
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 100
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 500
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 1000
+            }
+          ]
+        },
+        "SERIAL_KILLER": {
+          "name": "War Hero",
+          "description": "Kill %s players",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 100
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 500
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 2000
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 10000
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 25000
+            }
+          ]
+        },
+        "HEADSHOT_KILLS": {
+          "name": "In Your Face",
+          "description": "Get %s headshot kills",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 50
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 150
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 350
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 750
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 1500
+            }
+          ]
+        },
+        "GRENADE_KILLS": {
+          "name": "Trigger-less",
+          "description": "Get %s grenade kills",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 2
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 10
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 25
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 50
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 150
+            }
+          ]
+        },
+        "HERO_TERRORIST": {
+          "name": "Warfare",
+          "description": "Win %s Games",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 10
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 50
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 200
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 750
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 1500
+            }
+          ]
+        }
+      },
+      "total_points": 780
+    },
+    "speeduhc": {
+      "one_time": {
+        "POTION_BREWER": {
+          "points": 5,
+          "name": "This Better Work",
+          "description": "Brew a Potion"
+        },
+        "RIDE_PIG": {
+          "points": 5,
+          "name": "Oink",
+          "description": "Ride a Pig"
+        },
+        "USE_ENDERPEARL": {
+          "points": 5,
+          "name": "Ninja!",
+          "description": "Use an Ender Pearl"
+        },
+        "GOLDEN_APPLE": {
+          "points": 5,
+          "name": "Newton's Laws",
+          "description": "Find a Golden Apple from a tree"
+        },
+        "NATURAL_TALENT": {
+          "points": 10,
+          "name": "Natural Talent",
+          "description": "Obtain 100 kills with 7 different Masteries"
+        },
+        "MASTERY_UNLOCK": {
+          "points": 10,
+          "name": "New Strategies",
+          "description": "Find a Mastery in the Tear Exchange"
+        },
+        "ENCHANTED_ARMOR": {
+          "points": 5,
+          "name": "Ready for the Fashion Week",
+          "description": "Wear a fully enchanted set of Armor"
+        },
+        "SKELETON_BOW": {
+          "points": 5,
+          "name": "Generous Pile of Bones",
+          "description": "Obtain an enchanted Bow from a Skeleton"
+        },
+        "SNIPE_PLAYER": {
+          "points": 10,
+          "name": "Executed!",
+          "description": "Kill a player at least 75 blocks away with a bow"
+        },
+        "KIT_SPECIALIST": {
+          "points": 10,
+          "name": "Kit Specialist",
+          "description": "Unlock 15 different Kits"
+        },
+        "KIT_UNLOCK": {
+          "points": 5,
+          "name": "Feels Good Man",
+          "description": "Unlock a Kit using Salt"
+        },
+        "KILL_TNT": {
+          "points": 10,
+          "name": "I Do Things My Way",
+          "description": "Kill a player using TNT"
+        },
+        "MELON_SMASHER": {
+          "points": 5,
+          "name": "One Melon a Day Keeps the Doctor Away",
+          "description": "Smash a Melon"
+        },
+        "GOD_APPLE": {
+          "points": 5,
+          "name": "Stay Golden",
+          "description": "Eat a God Apple"
+        },
+        "PAPER_CUT": {
+          "points": 10,
+          "name": "Paper Cut",
+          "description": "Kill a player with a Map"
+        },
+        "ENCHANTED_BOOK": {
+          "points": 5,
+          "name": "Knowledge!",
+          "description": "Obtain an Enchanted Book from killing a player in Insane Mode"
+        },
+        "RUSHER": {
+          "points": 5,
+          "name": "One Happy Rusher",
+          "description": "Get a kill within 30 seconds of the game starting"
+        },
+        "DOMINATION": {
+          "points": 5,
+          "name": "Domination Achieved",
+          "description": "Win a Team game with your team having at least 10 kills"
+        },
+        "KILL_GHAST": {
+          "points": 5,
+          "name": "Tears for Fears",
+          "description": "Kill a Ghast"
+        }
+      },
+      "tiered": {
+        "SALTY": {
+          "name": "Salty",
+          "description": "Collect %s Salt",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 200
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 1000
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 5000
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 10000
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 25000
+            }
+          ]
+        },
+        "HUNTER": {
+          "name": "Hunter",
+          "description": "Kill %s players",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 50
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 200
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 1000
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 5000
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 10000
+            }
+          ]
+        },
+        "COLLECTOR": {
+          "name": "Collector",
+          "description": "Unlock %s Perks from the Tear Exchange",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 5
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 10
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 15
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 20
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 25
+            }
+          ]
+        },
+        "UHC_MASTER": {
+          "name": "UHC Master",
+          "description": "Win %s games",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 10
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 50
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 200
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 500
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 1500
+            }
+          ]
+        }
+      },
+      "total_points": 425
     },
     "walls3": {
       "one_time": {
@@ -6195,523 +6819,6 @@
         }
       },
       "total_points": 2140
-    },
-    "speeduhc": {
-      "one_time": {
-        "POTION_BREWER": {
-          "points": 5,
-          "name": "This Better Work",
-          "description": "Brew a Potion"
-        },
-        "RIDE_PIG": {
-          "points": 5,
-          "name": "Oink",
-          "description": "Ride a Pig"
-        },
-        "USE_ENDERPEARL": {
-          "points": 5,
-          "name": "Ninja!",
-          "description": "Use an Ender Pearl"
-        },
-        "GOLDEN_APPLE": {
-          "points": 5,
-          "name": "Newton's Laws",
-          "description": "Find a Golden Apple from a tree"
-        },
-        "NATURAL_TALENT": {
-          "points": 10,
-          "name": "Natural Talent",
-          "description": "Obtain 100 kills with 7 different Masteries"
-        },
-        "MASTERY_UNLOCK": {
-          "points": 10,
-          "name": "New Strategies",
-          "description": "Find a Mastery in the Tear Exchange"
-        },
-        "ENCHANTED_ARMOR": {
-          "points": 5,
-          "name": "Ready for the Fashion Week",
-          "description": "Wear a fully enchanted set of Armor"
-        },
-        "SKELETON_BOW": {
-          "points": 5,
-          "name": "Generous Pile of Bones",
-          "description": "Obtain an enchanted Bow from a Skeleton"
-        },
-        "SNIPE_PLAYER": {
-          "points": 10,
-          "name": "Executed!",
-          "description": "Kill a player at least 75 blocks away with a bow"
-        },
-        "KIT_SPECIALIST": {
-          "points": 10,
-          "name": "Kit Specialist",
-          "description": "Unlock 15 different Kits"
-        },
-        "KIT_UNLOCK": {
-          "points": 5,
-          "name": "Feels Good Man",
-          "description": "Unlock a Kit using Salt"
-        },
-        "KILL_TNT": {
-          "points": 10,
-          "name": "I Do Things My Way",
-          "description": "Kill a player using TNT"
-        },
-        "MELON_SMASHER": {
-          "points": 5,
-          "name": "One Melon a Day Keeps the Doctor Away",
-          "description": "Smash a Melon"
-        },
-        "GOD_APPLE": {
-          "points": 5,
-          "name": "Stay Golden",
-          "description": "Eat a God Apple"
-        },
-        "PAPER_CUT": {
-          "points": 10,
-          "name": "Paper Cut",
-          "description": "Kill a player with a Map"
-        },
-        "ENCHANTED_BOOK": {
-          "points": 5,
-          "name": "Knowledge!",
-          "description": "Obtain an Enchanted Book from killing a player in Insane Mode"
-        },
-        "RUSHER": {
-          "points": 5,
-          "name": "One Happy Rusher",
-          "description": "Get a kill within 30 seconds of the game starting"
-        },
-        "DOMINATION": {
-          "points": 5,
-          "name": "Domination Achieved",
-          "description": "Win a Team game with your team having at least 10 kills"
-        },
-        "KILL_GHAST": {
-          "points": 5,
-          "name": "Tears for Fears",
-          "description": "Kill a Ghast"
-        }
-      },
-      "tiered": {
-        "SALTY": {
-          "name": "Salty",
-          "description": "Collect %s Salt",
-          "tiers": [
-            {
-              "tier": 1,
-              "points": 5,
-              "amount": 200
-            },
-            {
-              "tier": 2,
-              "points": 10,
-              "amount": 1000
-            },
-            {
-              "tier": 3,
-              "points": 15,
-              "amount": 5000
-            },
-            {
-              "tier": 4,
-              "points": 20,
-              "amount": 10000
-            },
-            {
-              "tier": 5,
-              "points": 25,
-              "amount": 25000
-            }
-          ]
-        },
-        "HUNTER": {
-          "name": "Hunter",
-          "description": "Kill %s players",
-          "tiers": [
-            {
-              "tier": 1,
-              "points": 5,
-              "amount": 50
-            },
-            {
-              "tier": 2,
-              "points": 10,
-              "amount": 200
-            },
-            {
-              "tier": 3,
-              "points": 15,
-              "amount": 1000
-            },
-            {
-              "tier": 4,
-              "points": 20,
-              "amount": 5000
-            },
-            {
-              "tier": 5,
-              "points": 25,
-              "amount": 10000
-            }
-          ]
-        },
-        "COLLECTOR": {
-          "name": "Collector",
-          "description": "Unlock %s Perks from the Tear Exchange",
-          "tiers": [
-            {
-              "tier": 1,
-              "points": 5,
-              "amount": 5
-            },
-            {
-              "tier": 2,
-              "points": 10,
-              "amount": 10
-            },
-            {
-              "tier": 3,
-              "points": 15,
-              "amount": 15
-            },
-            {
-              "tier": 4,
-              "points": 20,
-              "amount": 20
-            },
-            {
-              "tier": 5,
-              "points": 25,
-              "amount": 25
-            }
-          ]
-        },
-        "UHC_MASTER": {
-          "name": "UHC Master",
-          "description": "Win %s games",
-          "tiers": [
-            {
-              "tier": 1,
-              "points": 5,
-              "amount": 10
-            },
-            {
-              "tier": 2,
-              "points": 10,
-              "amount": 50
-            },
-            {
-              "tier": 3,
-              "points": 15,
-              "amount": 200
-            },
-            {
-              "tier": 4,
-              "points": 20,
-              "amount": 500
-            },
-            {
-              "tier": 5,
-              "points": 25,
-              "amount": 1500
-            }
-          ]
-        }
-      },
-      "total_points": 425
-    },
-    "copsandcrims": {
-      "one_time": {
-        "IS_IT_GOOD_NOW": {
-          "points": 20,
-          "name": "Is it good now?",
-          "description": "Acquire all upgrades on a gun"
-        },
-        "ONE_SHOT_ONE_KIL": {
-          "points": 10,
-          "name": "One shot, one kill",
-          "description": "Get a kill with your first bullet"
-        },
-        "RUN_AWAY": {
-          "points": 5,
-          "name": "RUN AWAY!!",
-          "description": "Plant a bomb"
-        },
-        "CHALLENGE_COMPLETED": {
-          "points": 5,
-          "name": "Challenge Completed!",
-          "description": "Complete a challenge in TDM"
-        },
-        "LIKE_MY_GUN": {
-          "points": 5,
-          "name": "Like my gun?",
-          "description": "Use a reskined gun"
-        },
-        "STREET_ARTIST": {
-          "points": 5,
-          "name": "Street Artist",
-          "description": "Buy 2 Sprays and 5 Callouts"
-        },
-        "FANCY_NEW_TOYS": {
-          "points": 5,
-          "name": "Fancy New Toys",
-          "description": "Unlock 10 Gun Variations"
-        },
-        "NEVER_TOO_LATE": {
-          "points": 10,
-          "name": "It's never too late",
-          "description": "Win or tie a game being down 0-3"
-        },
-        "UNSTOPPABLE": {
-          "points": 10,
-          "name": "Unstoppable",
-          "description": "Get 15 kills without dying"
-        },
-        "UMADBRO": {
-          "points": 5,
-          "name": "umadbro?",
-          "description": "Use a Taunt"
-        },
-        "DARUDE_SANDSTORM": {
-          "points": 5,
-          "name": "Darude Sandstorm",
-          "description": "Win on both Sandstorm and Alleyway"
-        },
-        "GUN_MASTER": {
-          "points": 10,
-          "name": "Gun Master",
-          "description": "Get a kill with 5 different weapons in a game of Defusal"
-        },
-        "SAMURAI_WARRIOR": {
-          "points": 5,
-          "name": "Samurai Warrior",
-          "description": "Get a knife kill"
-        },
-        "SECRET_ORDER": {
-          "points": 5,
-          "name": "Secret Order",
-          "description": "Win a Challenge Mode game"
-        },
-        "TEAM_COMMUNICATOR": {
-          "points": 5,
-          "name": "Team Communicator",
-          "description": "Unlock 10 Radio Commands"
-        },
-        "WHERES_MY_NUKE": {
-          "points": 15,
-          "name": "Where's my Nuke?",
-          "description": "Get 25 kills without dying"
-        },
-        "HOMING_BULLETS": {
-          "points": 10,
-          "name": "Homing Bullets",
-          "description": "Get 7 kills in one round"
-        },
-        "TOO_EASY": {
-          "points": 5,
-          "name": "Too Easy",
-          "description": "Defuse a bomb with the Defuser Kit 9000"
-        },
-        "PENTAAAA": {
-          "points": 15,
-          "name": "PENTAAAA!!!",
-          "description": "Get 5 kills in less than 7 seconds"
-        },
-        "HUNTING_SEASON": {
-          "points": 5,
-          "name": "It's hunting season",
-          "description": "Buy a 50cal in round 2"
-        },
-        "THE_CARRIER": {
-          "points": 10,
-          "name": "The Carrier",
-          "description": "Win a game with at least 1 bomb planted, 1 defused and 10 kills"
-        },
-        "CLOSE_CALL": {
-          "points": 10,
-          "name": "Close Call",
-          "description": "Defuse a bomb with less than 3 seconds before detonation"
-        },
-        "GRAFITTI_KING": {
-          "points": 5,
-          "name": "Grafitti King",
-          "description": "Use a Spray"
-        },
-        "ON_FIRE": {
-          "points": 10,
-          "name": "I'm on FIRE!",
-          "description": "Obtain a kill streak of 10 in TDM"
-        },
-        "GRENADE_KILL": {
-          "points": 5,
-          "name": "BOOM!",
-          "description": "Get a grenade kill"
-        },
-        "DEATHMATCH_SPECIALIST": {
-          "points": 10,
-          "name": "TDM Specialist",
-          "description": "Obtain at least 300 points in TDM"
-        },
-        "FRIENDLY_GAME": {
-          "points": 5,
-          "name": "Less Talky Talky, more Pew Pew",
-          "description": "Play a game of Challenge Mode"
-        },
-        "SNEAKY": {
-          "points": 5,
-          "name": "Sneaky!",
-          "description": "Defuse a bomb with enemies left alive"
-        },
-        "COMEBACK_STORY": {
-          "points": 5,
-          "name": "Comeback Story",
-          "description": "Be the last man alive and win in a round of Defusal"
-        },
-        "TRIIPPLEE": {
-          "points": 10,
-          "name": "TRIIPPLEE!!!",
-          "description": "Get 3 kills in less than 3 seconds"
-        },
-        "WARFARE_STYLIST": {
-          "points": 5,
-          "name": "Warfare Stylist",
-          "description": "Unlock 4 Armor Variations"
-        },
-        "FLAWLESS": {
-          "points": 10,
-          "name": "Flawless",
-          "description": "Win a game without losing a single round"
-        }
-      },
-      "tiered": {
-        "CAC_BANKER": {
-          "name": "Bounty Hunter",
-          "description": "Earn %s Coins",
-          "tiers": [
-            {
-              "tier": 1,
-              "points": 5,
-              "amount": 10000
-            },
-            {
-              "tier": 2,
-              "points": 10,
-              "amount": 50000
-            },
-            {
-              "tier": 3,
-              "points": 15,
-              "amount": 100000
-            },
-            {
-              "tier": 4,
-              "points": 20,
-              "amount": 250000
-            },
-            {
-              "tier": 5,
-              "points": 25,
-              "amount": 500000
-            }
-          ]
-        },
-        "BOMB_SPECIALIST": {
-          "name": "Bomb Specialist",
-          "description": "Defuse or Plant %s bombs.",
-          "tiers": [
-            {
-              "tier": 1,
-              "points": 5,
-              "amount": 10
-            },
-            {
-              "tier": 2,
-              "points": 10,
-              "amount": 50
-            },
-            {
-              "tier": 3,
-              "points": 15,
-              "amount": 100
-            },
-            {
-              "tier": 4,
-              "points": 20,
-              "amount": 500
-            },
-            {
-              "tier": 5,
-              "points": 25,
-              "amount": 1000
-            }
-          ]
-        },
-        "SERIAL_KILLER": {
-          "name": "War Hero",
-          "description": "Kill %s players",
-          "tiers": [
-            {
-              "tier": 1,
-              "points": 5,
-              "amount": 100
-            },
-            {
-              "tier": 2,
-              "points": 10,
-              "amount": 500
-            },
-            {
-              "tier": 3,
-              "points": 15,
-              "amount": 2000
-            },
-            {
-              "tier": 4,
-              "points": 20,
-              "amount": 10000
-            },
-            {
-              "tier": 5,
-              "points": 25,
-              "amount": 25000
-            }
-          ]
-        },
-        "HERO_TERRORIST": {
-          "name": "Warfare",
-          "description": "Win %s Games",
-          "tiers": [
-            {
-              "tier": 1,
-              "points": 5,
-              "amount": 10
-            },
-            {
-              "tier": 2,
-              "points": 10,
-              "amount": 50
-            },
-            {
-              "tier": 3,
-              "points": 15,
-              "amount": 200
-            },
-            {
-              "tier": 4,
-              "points": 20,
-              "amount": 750
-            },
-            {
-              "tier": 5,
-              "points": 25,
-              "amount": 1500
-            }
-          ]
-        }
-      },
-      "total_points": 550
     },
     "uhc": {
       "one_time": {
