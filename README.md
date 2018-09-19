@@ -1,5 +1,32 @@
 # hypixelconstants
-Constant data for Hypixel applications
+<a href="https://badge.fury.io/js/hypixelconstants"><img src="https://badge.fury.io/js/hypixelconstants.svg" alt="npm version" height="18"></a>
+
+Constant data for Hypixel applications. Useful for processing data from the Hypixel API.
+
+List of Content
+----
+| Resource | Description           |
+|-----------|----------------------|
+| achievements | Achievement data mirrored from the Hypixel Documentation |
+| achievements_extended | Extended achievement data that includes things such as total achievements and points per game |
+| challenges | Challange data mirrored from the Hypixel Documentation |
+| game_types | Data useful for conversion between different game type names |
+| languages | Data of languages Hypixel is currently translated to |
+| pet_xp | Array containing the required xp to pet leveling |
+| quests | Quest data mirrored from the Hypixel API Documentation |
+
+Example usage
+----
+* Run `npm install hypixelconstants`
+
+The following code snippet prints quest data to the console.
+
+```js
+const constants = require('hypixelconstants');
+const { quests } = constants.quests;
+
+console.log(quests);
+```
 
 Notes
 ----
