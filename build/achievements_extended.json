@@ -1281,6 +1281,328 @@
     "total_points_one_time": 140,
     "total_points_tiered": 255
   },
+  "duels": {
+    "one_time": {
+      "GONE_FISHING": {
+        "points": 5,
+        "name": "Gone Fishing",
+        "description": "Catch a fish"
+      },
+      "MORE_DAMAGE": {
+        "points": 5,
+        "name": "More Damage",
+        "description": "Win a round of a Duels Tournament after the timer runs out by dealing the most damage"
+      },
+      "CLOSE_CALL": {
+        "points": 10,
+        "name": "Close Call!",
+        "description": "Use all your health potions in a NoDebuff Duel and win"
+      },
+      "SHUT_DOWN": {
+        "points": 15,
+        "name": "Shut Down",
+        "description": "Defeat someone who is on a win streak of 15 or more"
+      },
+      "MY_PREFERENCE": {
+        "points": 5,
+        "name": "My Preference",
+        "description": "Use the kit editor to edit the layout of a kit"
+      },
+      "WELL_ROUNDED": {
+        "points": 15,
+        "name": "Well Rounded",
+        "description": "Win a game in 5 different Duels modes"
+      },
+      "REPLAY": {
+        "points": 5,
+        "name": "Replay",
+        "description": "Use the recently played option in the join menu"
+      },
+      "DOMINATION": {
+        "points": 10,
+        "name": "Domination!",
+        "description": "Win a Duel against the same player 3 times in a row"
+      },
+      "HAWK_EYE": {
+        "points": 10,
+        "name": "Hawk's Eye",
+        "description": "Win a Bow Duels game with a 100% bow accuracy"
+      },
+      "REVENGE": {
+        "points": 10,
+        "name": "Revenge!",
+        "description": "Win a Duel against a player that has beaten you twice in a row"
+      },
+      "THE_WAITING_GAME": {
+        "points": 5,
+        "name": "The Waiting Game",
+        "description": "Win a Solo SkyWars Duel without getting a kill"
+      },
+      "FORTIFICATION": {
+        "points": 15,
+        "name": "Fortification",
+        "description": "Win a Combo Duel after having at least 4 pieces of armour break"
+      },
+      "BURN_BABY_BURN": {
+        "points": 5,
+        "name": "Burn Baby Burn",
+        "description": "Kill an enemy using lava or fire"
+      },
+      "TRIAL_BY_COMBAT": {
+        "points": 5,
+        "name": "Trial by Combat",
+        "description": "Challenge a player using /duel"
+      },
+      "BUILD_BATTLE": {
+        "points": 5,
+        "name": "Build Battle Duel",
+        "description": "Place 128 blocks in a single Duels game and win"
+      },
+      "REMATCH": {
+        "points": 5,
+        "name": "Rematch!",
+        "description": "Win a rematch"
+      },
+      "SUMMONER": {
+        "points": 5,
+        "name": "Summoner",
+        "description": "Spawn a mob in a Blitz Duel"
+      },
+      "COMPETITOR": {
+        "points": 5,
+        "name": "Competitor",
+        "description": "Participate in a Duels Tournament"
+      },
+      "UNTOUCHABLE": {
+        "points": 15,
+        "name": "Untouchable",
+        "description": "Win a game of Duels without taking any damage"
+      },
+      "SMASH_YOUR_KEYBOARD": {
+        "points": 10,
+        "name": "Smash your Keyboard",
+        "description": "Come Second Place in a Duels Tournament"
+      },
+      "HUNGRY": {
+        "points": 10,
+        "name": "Definitely Hungry",
+        "description": "Eat all 32 Golden Apples in a game of Combo Duels and win"
+      },
+      "LOBBY_SLAYER": {
+        "points": 10,
+        "name": "Lobby Slayer",
+        "description": "Get a 10 kill streak in the lobby Battle Arena"
+      },
+      "SPEED_DUEL": {
+        "points": 10,
+        "name": "Speed Duel",
+        "description": "Win a duel within 30 seconds"
+      },
+      "NOT_CLOSE_AT_ALL": {
+        "points": 5,
+        "name": "Not Close at all",
+        "description": "Win a duel with only 1 heart remaining"
+      },
+      "SPEEDY_SUMO": {
+        "points": 5,
+        "name": "Speedy Sumo",
+        "description": "Win a Sumo Duels game in 5 seconds or less"
+      },
+      "GETTING_LOOT": {
+        "points": 5,
+        "name": "Getting Loot",
+        "description": "Open a Duels Loot Chest"
+      },
+      "AXE_YOU_A_QUESTION": {
+        "points": 10,
+        "name": "Can I Axe you a Question?",
+        "description": "Win a game of UHC Duels without using your sword"
+      },
+      "ACE": {
+        "points": 15,
+        "name": "Ace!",
+        "description": "Kill all 4 enemies in a UHC Teams game"
+      },
+      "NOT_HUNGARY": {
+        "points": 10,
+        "name": "Not Hungry",
+        "description": "Win a game of UHC Duels without eating any golden apples"
+      },
+      "TEAM_PLAYER": {
+        "points": 5,
+        "name": "Team Player",
+        "description": "Win a game of 4v4 UHC Duels"
+      },
+      "WE_ARE_NUMBER_ONE": {
+        "points": 15,
+        "name": "CHAMPION!",
+        "description": "Win a Duels Tournament"
+      }
+    },
+    "tiered": {
+      "DUELS_DIVISION": {
+        "name": "Climbing the Ranks",
+        "description": "Achieve %s Title in any mode",
+        "tiers": [
+          {
+            "tier": 1,
+            "points": 5,
+            "amount": 1
+          },
+          {
+            "tier": 2,
+            "points": 10,
+            "amount": 2
+          },
+          {
+            "tier": 3,
+            "points": 15,
+            "amount": 3
+          },
+          {
+            "tier": 4,
+            "points": 20,
+            "amount": 4
+          },
+          {
+            "tier": 5,
+            "points": 25,
+            "amount": 5
+          }
+        ]
+      },
+      "DUELS_WINNER": {
+        "name": "Duels Winner",
+        "description": "Win %s Duels",
+        "tiers": [
+          {
+            "tier": 1,
+            "points": 5,
+            "amount": 25
+          },
+          {
+            "tier": 2,
+            "points": 10,
+            "amount": 100
+          },
+          {
+            "tier": 3,
+            "points": 15,
+            "amount": 250
+          },
+          {
+            "tier": 4,
+            "points": 20,
+            "amount": 500
+          },
+          {
+            "tier": 5,
+            "points": 25,
+            "amount": 1500
+          }
+        ]
+      },
+      "DUELS_TRAVELLER": {
+        "name": "Traveller",
+        "description": "Win a Duel on %s different maps",
+        "tiers": [
+          {
+            "tier": 1,
+            "points": 5,
+            "amount": 4
+          },
+          {
+            "tier": 2,
+            "points": 10,
+            "amount": 5
+          },
+          {
+            "tier": 3,
+            "points": 15,
+            "amount": 6
+          },
+          {
+            "tier": 4,
+            "points": 20,
+            "amount": 7
+          },
+          {
+            "tier": 5,
+            "points": 25,
+            "amount": 8
+          }
+        ]
+      },
+      "DUELS_TROPHIES": {
+        "name": "Duels Trophies",
+        "description": "Obtain %s Trophies by winning Duels Tournaments",
+        "tiers": [
+          {
+            "tier": 1,
+            "points": 5,
+            "amount": 1
+          },
+          {
+            "tier": 2,
+            "points": 10,
+            "amount": 10
+          },
+          {
+            "tier": 3,
+            "points": 15,
+            "amount": 25
+          },
+          {
+            "tier": 4,
+            "points": 20,
+            "amount": 50
+          },
+          {
+            "tier": 5,
+            "points": 25,
+            "amount": 100
+          }
+        ]
+      },
+      "DUELS_WIN_STREAK": {
+        "name": "Duels Win Streak",
+        "description": "Achieve an Overall Win Streak of %s",
+        "tiers": [
+          {
+            "tier": 1,
+            "points": 5,
+            "amount": 2
+          },
+          {
+            "tier": 2,
+            "points": 10,
+            "amount": 4
+          },
+          {
+            "tier": 3,
+            "points": 15,
+            "amount": 8
+          },
+          {
+            "tier": 4,
+            "points": 20,
+            "amount": 12
+          },
+          {
+            "tier": 5,
+            "points": 25,
+            "amount": 20
+          }
+        ]
+      }
+    },
+    "total_points": 640,
+    "total_one_time": 31,
+    "total_tiered": 25,
+    "total": 56,
+    "total_points_one_time": 265,
+    "total_points_tiered": 375
+  },
   "murdermystery": {
     "one_time": {
       "BLESSING_AND_CURSE": {
@@ -1687,328 +2009,6 @@
     "total": 74,
     "total_points_one_time": 505,
     "total_points_tiered": 300
-  },
-  "duels": {
-    "one_time": {
-      "GONE_FISHING": {
-        "points": 5,
-        "name": "Gone Fishing",
-        "description": "Catch a fish"
-      },
-      "MORE_DAMAGE": {
-        "points": 5,
-        "name": "More Damage",
-        "description": "Win a round of a Duels Tournament after the timer runs out by dealing the most damage"
-      },
-      "CLOSE_CALL": {
-        "points": 10,
-        "name": "Close Call!",
-        "description": "Use all your health potions in a NoDebuff Duel and win"
-      },
-      "SHUT_DOWN": {
-        "points": 15,
-        "name": "Shut Down",
-        "description": "Defeat someone who is on a win streak of 15 or more"
-      },
-      "MY_PREFERENCE": {
-        "points": 5,
-        "name": "My Preference",
-        "description": "Use the kit editor to edit the layout of a kit"
-      },
-      "WELL_ROUNDED": {
-        "points": 15,
-        "name": "Well Rounded",
-        "description": "Win a game in 5 different Duels modes"
-      },
-      "REPLAY": {
-        "points": 5,
-        "name": "Replay",
-        "description": "Use the recently played option in the join menu"
-      },
-      "DOMINATION": {
-        "points": 10,
-        "name": "Domination!",
-        "description": "Win a Duel against the same player 3 times in a row"
-      },
-      "HAWK_EYE": {
-        "points": 10,
-        "name": "Hawk's Eye",
-        "description": "Win a Bow Duels game with a 100% bow accuracy"
-      },
-      "REVENGE": {
-        "points": 10,
-        "name": "Revenge!",
-        "description": "Win a Duel against a player that has beaten you twice in a row"
-      },
-      "THE_WAITING_GAME": {
-        "points": 5,
-        "name": "The Waiting Game",
-        "description": "Win a Solo SkyWars Duel without getting a kill"
-      },
-      "FORTIFICATION": {
-        "points": 15,
-        "name": "Fortification",
-        "description": "Win a Combo Duel after having at least 4 pieces of armour break"
-      },
-      "BURN_BABY_BURN": {
-        "points": 5,
-        "name": "Burn Baby Burn",
-        "description": "Kill an enemy using lava or fire"
-      },
-      "TRIAL_BY_COMBAT": {
-        "points": 5,
-        "name": "Trial by Combat",
-        "description": "Challenge a player using /duel"
-      },
-      "BUILD_BATTLE": {
-        "points": 5,
-        "name": "Build Battle Duel",
-        "description": "Place 128 blocks in a single Duels game and win"
-      },
-      "REMATCH": {
-        "points": 5,
-        "name": "Rematch!",
-        "description": "Win a rematch"
-      },
-      "SUMMONER": {
-        "points": 5,
-        "name": "Summoner",
-        "description": "Spawn a mob in a Blitz Duel"
-      },
-      "COMPETITOR": {
-        "points": 5,
-        "name": "Competitor",
-        "description": "Participate in a Duels Tournament"
-      },
-      "UNTOUCHABLE": {
-        "points": 15,
-        "name": "Untouchable",
-        "description": "Win a game of Duels without taking any damage"
-      },
-      "SMASH_YOUR_KEYBOARD": {
-        "points": 10,
-        "name": "Smash your Keyboard",
-        "description": "Come Second Place in a Duels Tournament"
-      },
-      "HUNGRY": {
-        "points": 10,
-        "name": "Definitely Hungry",
-        "description": "Eat all 32 Golden Apples in a game of Combo Duels and win"
-      },
-      "LOBBY_SLAYER": {
-        "points": 10,
-        "name": "Lobby Slayer",
-        "description": "Get a 10 kill streak in the lobby Battle Arena"
-      },
-      "SPEED_DUEL": {
-        "points": 10,
-        "name": "Speed Duel",
-        "description": "Win a duel within 30 seconds"
-      },
-      "NOT_CLOSE_AT_ALL": {
-        "points": 5,
-        "name": "Not Close at all",
-        "description": "Win a duel with only 1 heart remaining"
-      },
-      "SPEEDY_SUMO": {
-        "points": 5,
-        "name": "Speedy Sumo",
-        "description": "Win a Sumo Duels game in 5 seconds or less"
-      },
-      "GETTING_LOOT": {
-        "points": 5,
-        "name": "Getting Loot",
-        "description": "Open a Duels Loot Chest"
-      },
-      "AXE_YOU_A_QUESTION": {
-        "points": 10,
-        "name": "Can I Axe you a Question?",
-        "description": "Win a game of UHC Duels without using your sword"
-      },
-      "ACE": {
-        "points": 15,
-        "name": "Ace!",
-        "description": "Kill all 4 enemies in a UHC Teams game"
-      },
-      "NOT_HUNGARY": {
-        "points": 10,
-        "name": "Not Hungry",
-        "description": "Win a game of UHC Duels without eating any golden apples"
-      },
-      "TEAM_PLAYER": {
-        "points": 5,
-        "name": "Team Player",
-        "description": "Win a game of 4v4 UHC Duels"
-      },
-      "WE_ARE_NUMBER_ONE": {
-        "points": 15,
-        "name": "CHAMPION!",
-        "description": "Win a Duels Tournament"
-      }
-    },
-    "tiered": {
-      "DUELS_DIVISION": {
-        "name": "Climbing the Ranks",
-        "description": "Achieve %s Title in any mode",
-        "tiers": [
-          {
-            "tier": 1,
-            "points": 5,
-            "amount": 1
-          },
-          {
-            "tier": 2,
-            "points": 10,
-            "amount": 2
-          },
-          {
-            "tier": 3,
-            "points": 15,
-            "amount": 3
-          },
-          {
-            "tier": 4,
-            "points": 20,
-            "amount": 4
-          },
-          {
-            "tier": 5,
-            "points": 25,
-            "amount": 5
-          }
-        ]
-      },
-      "DUELS_WINNER": {
-        "name": "Duels Winner",
-        "description": "Win %s Duels",
-        "tiers": [
-          {
-            "tier": 1,
-            "points": 5,
-            "amount": 25
-          },
-          {
-            "tier": 2,
-            "points": 10,
-            "amount": 100
-          },
-          {
-            "tier": 3,
-            "points": 15,
-            "amount": 250
-          },
-          {
-            "tier": 4,
-            "points": 20,
-            "amount": 500
-          },
-          {
-            "tier": 5,
-            "points": 25,
-            "amount": 1500
-          }
-        ]
-      },
-      "DUELS_TRAVELLER": {
-        "name": "Traveller",
-        "description": "Win a Duel on %s different maps",
-        "tiers": [
-          {
-            "tier": 1,
-            "points": 5,
-            "amount": 4
-          },
-          {
-            "tier": 2,
-            "points": 10,
-            "amount": 5
-          },
-          {
-            "tier": 3,
-            "points": 15,
-            "amount": 6
-          },
-          {
-            "tier": 4,
-            "points": 20,
-            "amount": 7
-          },
-          {
-            "tier": 5,
-            "points": 25,
-            "amount": 8
-          }
-        ]
-      },
-      "DUELS_TROPHIES": {
-        "name": "Duels Trophies",
-        "description": "Obtain %s Trophies by winning Duels Tournaments",
-        "tiers": [
-          {
-            "tier": 1,
-            "points": 5,
-            "amount": 1
-          },
-          {
-            "tier": 2,
-            "points": 10,
-            "amount": 10
-          },
-          {
-            "tier": 3,
-            "points": 15,
-            "amount": 25
-          },
-          {
-            "tier": 4,
-            "points": 20,
-            "amount": 50
-          },
-          {
-            "tier": 5,
-            "points": 25,
-            "amount": 100
-          }
-        ]
-      },
-      "DUELS_WIN_STREAK": {
-        "name": "Duels Win Streak",
-        "description": "Achieve an Overall Win Streak of %s",
-        "tiers": [
-          {
-            "tier": 1,
-            "points": 5,
-            "amount": 2
-          },
-          {
-            "tier": 2,
-            "points": 10,
-            "amount": 4
-          },
-          {
-            "tier": 3,
-            "points": 15,
-            "amount": 8
-          },
-          {
-            "tier": 4,
-            "points": 20,
-            "amount": 12
-          },
-          {
-            "tier": 5,
-            "points": 25,
-            "amount": 20
-          }
-        ]
-      }
-    },
-    "total_points": 640,
-    "total_one_time": 31,
-    "total_tiered": 25,
-    "total": 56,
-    "total_points_one_time": 265,
-    "total_points_tiered": 375
   },
   "skywars": {
     "one_time": {
@@ -2560,10 +2560,25 @@
         "name": "Cash4Blood",
         "description": "Purchase Blood from the shop"
       },
+      "NIGHTMARE": {
+        "points": 5,
+        "name": "Rampage!",
+        "description": "Kill 3 Vampires in 10 seconds as a Survivor"
+      },
+      "BLOOD_THIRSTY": {
+        "points": 15,
+        "name": "Blood Thirsty",
+        "description": "Kill 10 Survivors in a row without dying"
+      },
       "PURCHASE_GOLD": {
         "points": 5,
         "name": "Coins4Gold",
         "description": "Purchase Gold from the shop"
+      },
+      "PEST": {
+        "points": 5,
+        "name": "Pest!",
+        "description": "Kill a Vampire while they are in Bat Form"
       },
       "BLOOD": {
         "points": 5,
@@ -2579,6 +2594,11 @@
         "points": 10,
         "name": "Last Man Standing",
         "description": "Be the last remaining Survivor"
+      },
+      "ROBBED": {
+        "points": 15,
+        "name": "Robbed!",
+        "description": "Max out the Loot Drops Survivor perk"
       },
       "VAMPIRE_FANG_KILL": {
         "points": 5,
@@ -2620,10 +2640,25 @@
         "name": "Zombie Killer",
         "description": "Kill 35 Zombies in one game"
       },
+      "UPGRADED": {
+        "points": 10,
+        "name": "Upgraded",
+        "description": "Unlock 10 upgrades from the shop"
+      },
       "UNDEFEATABLE": {
         "points": 10,
         "name": "Undefeatable!",
         "description": "Purchase a full set of God Armor and a God Sword as a Human"
+      },
+      "WORD_PUNS": {
+        "points": 10,
+        "name": "Pun'ed",
+        "description": "Kill a Vampire with a Stake as a Survivor"
+      },
+      "PURIFIED": {
+        "points": 5,
+        "name": "Purified!",
+        "description": "Kill a Vampire with Holy Water"
       },
       "CHEST_HUNTER": {
         "points": 10,
@@ -2644,6 +2679,11 @@
         "points": 5,
         "name": "Black Friday",
         "description": "Kill a Survivor in the first round"
+      },
+      "TASTES_FUNNY": {
+        "points": 5,
+        "name": "This tastes funny",
+        "description": "Eat the Enchanted Steak"
       },
       "ZOMBIE_SLAYER": {
         "points": 10,
@@ -2823,11 +2863,11 @@
         ]
       }
     },
-    "total_points": 550,
-    "total_one_time": 22,
+    "total_points": 620,
+    "total_one_time": 30,
     "total_tiered": 25,
-    "total": 47,
-    "total_points_one_time": 175,
+    "total": 55,
+    "total_points_one_time": 245,
     "total_points_tiered": 375
   },
   "general": {
@@ -4160,201 +4200,6 @@
     "total_points_one_time": 90,
     "total_points_tiered": 225
   },
-  "christmas2017": {
-    "one_time": {
-      "GREED_INCARNATE": {
-        "points": 15,
-        "name": "Greed Incarnate",
-        "description": "Steal 42 presents in a single game of Grinch Simulator"
-      },
-      "LEGENDARY": {
-        "points": 10,
-        "name": "LEGENDARY!",
-        "description": "Find a Legendary Gift in SkyWars, Blitz or Murder Mystery"
-      },
-      "SHARING_IS_CARING": {
-        "points": 5,
-        "name": "Sharing is Caring",
-        "description": "Give one of your wrapped presents to another player in Bed Wars"
-      },
-      "EAT_THIS": {
-        "points": 5,
-        "name": "EAT THIS",
-        "description": "Shoot a snowball at another Grinch in Grinch Simulator"
-      },
-      "RESPECT_YOUR_ELDER": {
-        "points": 5,
-        "name": "Respect your Elder",
-        "description": "Bring a flower to Grandma in Santa Says"
-      },
-      "REAL_SANTA": {
-        "points": 25,
-        "name": "Real Santa",
-        "description": "Find all 88 presents in every lobby"
-      },
-      "CHRISTMAS_QUEST": {
-        "points": 10,
-        "name": "Seasonal Quester",
-        "description": "Complete 5 Winter Seasonal Quests"
-      },
-      "STEAL_FAIRLY": {
-        "points": 10,
-        "name": "Feared but Fair",
-        "description": "Steal a gift from each house in a game of Grinch Simulator"
-      },
-      "UH_UH": {
-        "points": 5,
-        "name": "Uh uh",
-        "description": "When tasked to shoot yourself with an arrow in Santa Says, shoot someone else"
-      },
-      "BLACKSMITH": {
-        "points": 10,
-        "name": "Ultimate Blacksmith",
-        "description": "When given ingots in Santa Says, craft a Clock"
-      },
-      "SUGAR_RUSH": {
-        "points": 5,
-        "name": "Sugar Rush",
-        "description": "Give sugar to a horse in Santa Says"
-      },
-      "DEM_COWS": {
-        "points": 5,
-        "name": "Worth it",
-        "description": "When tasked to kill a chicken in Santa Says, kill a cow instead"
-      },
-      "MERRY_CHRISTMAS": {
-        "points": 5,
-        "name": "Happy Holidays",
-        "description": "Speak to the Holidays Guide in the Main Lobby"
-      },
-      "BOUNCY_CASTLE": {
-        "points": 5,
-        "name": "Bouncy Castle",
-        "description": "Jump on the Bouncy Castle in the Main Lobby"
-      },
-      "NOT_MY_MOM": {
-        "points": 5,
-        "name": "You're not my mom",
-        "description": "When tasked to stand still in Santa Says, sneak"
-      },
-      "HUNT_BEGINS": {
-        "points": 5,
-        "name": "The Hunt Begins",
-        "description": "Find 2 lobby presents"
-      },
-      "SANTA_HELPER": {
-        "points": 5,
-        "name": "Santa Helper",
-        "description": "Bring the right items back to every special character in a single Bed Wars game"
-      },
-      "NOM_NOM": {
-        "points": 5,
-        "name": "Nom nom",
-        "description": "Craft a Santa Cookie in UHC"
-      }
-    },
-    "tiered": {
-      "SANTA_SAYS_ROUNDS": {
-        "name": "Santa Says Winner",
-        "description": "Complete %s tasks in Santa Says",
-        "tiers": [
-          {
-            "tier": 1,
-            "points": 5,
-            "amount": 3
-          },
-          {
-            "tier": 2,
-            "points": 10,
-            "amount": 10
-          },
-          {
-            "tier": 3,
-            "points": 15,
-            "amount": 30
-          },
-          {
-            "tier": 4,
-            "points": 20,
-            "amount": 75
-          },
-          {
-            "tier": 5,
-            "points": 25,
-            "amount": 150
-          }
-        ]
-      },
-      "ADVENT": {
-        "name": "Advent Calendar",
-        "description": "Claim %s days in the Advent Calendar",
-        "tiers": [
-          {
-            "tier": 1,
-            "points": 5,
-            "amount": 1
-          },
-          {
-            "tier": 2,
-            "points": 10,
-            "amount": 3
-          },
-          {
-            "tier": 3,
-            "points": 15,
-            "amount": 7
-          },
-          {
-            "tier": 4,
-            "points": 20,
-            "amount": 14
-          },
-          {
-            "tier": 5,
-            "points": 25,
-            "amount": 21
-          }
-        ]
-      },
-      "NO_CHRISTMAS": {
-        "name": "No Christmas For You",
-        "description": "Pickup %s presents in Grinch Simulator",
-        "tiers": [
-          {
-            "tier": 1,
-            "points": 5,
-            "amount": 5
-          },
-          {
-            "tier": 2,
-            "points": 10,
-            "amount": 25
-          },
-          {
-            "tier": 3,
-            "points": 15,
-            "amount": 60
-          },
-          {
-            "tier": 4,
-            "points": 20,
-            "amount": 150
-          },
-          {
-            "tier": 5,
-            "points": 25,
-            "amount": 300
-          }
-        ]
-      }
-    },
-    "total_points": 365,
-    "total_one_time": 18,
-    "total_tiered": 15,
-    "total": 33,
-    "total_points_one_time": 140,
-    "total_points_tiered": 225
-  },
   "arcade": {
     "one_time": {
       "CREEPER_ATTACK_SURVIVAL": {
@@ -4892,6 +4737,356 @@
     "total_points_one_time": 335,
     "total_points_tiered": 725
   },
+  "christmas2017": {
+    "one_time": {
+      "GREED_INCARNATE": {
+        "points": 15,
+        "name": "Greed Incarnate",
+        "description": "Steal 42 presents in a single game of Grinch Simulator"
+      },
+      "LEGENDARY": {
+        "points": 10,
+        "name": "LEGENDARY!",
+        "description": "Find a Legendary Gift in SkyWars, Blitz or Murder Mystery"
+      },
+      "SHARING_IS_CARING": {
+        "points": 5,
+        "name": "Sharing is Caring",
+        "description": "Give one of your wrapped presents to another player in Bed Wars"
+      },
+      "EAT_THIS": {
+        "points": 5,
+        "name": "EAT THIS",
+        "description": "Shoot a snowball at another Grinch in Grinch Simulator"
+      },
+      "RESPECT_YOUR_ELDER": {
+        "points": 5,
+        "name": "Respect your Elder",
+        "description": "Bring a flower to Grandma in Santa Says"
+      },
+      "REAL_SANTA": {
+        "points": 25,
+        "name": "Real Santa",
+        "description": "Find all 88 presents in every lobby"
+      },
+      "CHRISTMAS_QUEST": {
+        "points": 10,
+        "name": "Seasonal Quester",
+        "description": "Complete 5 Winter Seasonal Quests"
+      },
+      "STEAL_FAIRLY": {
+        "points": 10,
+        "name": "Feared but Fair",
+        "description": "Steal a gift from each house in a game of Grinch Simulator"
+      },
+      "UH_UH": {
+        "points": 5,
+        "name": "Uh uh",
+        "description": "When tasked to shoot yourself with an arrow in Santa Says, shoot someone else"
+      },
+      "BLACKSMITH": {
+        "points": 10,
+        "name": "Ultimate Blacksmith",
+        "description": "When given ingots in Santa Says, craft a Clock"
+      },
+      "SUGAR_RUSH": {
+        "points": 5,
+        "name": "Sugar Rush",
+        "description": "Give sugar to a horse in Santa Says"
+      },
+      "DEM_COWS": {
+        "points": 5,
+        "name": "Worth it",
+        "description": "When tasked to kill a chicken in Santa Says, kill a cow instead"
+      },
+      "MERRY_CHRISTMAS": {
+        "points": 5,
+        "name": "Happy Holidays",
+        "description": "Speak to the Holidays Guide in the Main Lobby"
+      },
+      "BOUNCY_CASTLE": {
+        "points": 5,
+        "name": "Bouncy Castle",
+        "description": "Jump on the Bouncy Castle in the Main Lobby"
+      },
+      "NOT_MY_MOM": {
+        "points": 5,
+        "name": "You're not my mom",
+        "description": "When tasked to stand still in Santa Says, sneak"
+      },
+      "HUNT_BEGINS": {
+        "points": 5,
+        "name": "The Hunt Begins",
+        "description": "Find 2 lobby presents"
+      },
+      "SANTA_HELPER": {
+        "points": 5,
+        "name": "Santa Helper",
+        "description": "Bring the right items back to every special character in a single Bed Wars game"
+      },
+      "NOM_NOM": {
+        "points": 5,
+        "name": "Nom nom",
+        "description": "Craft a Santa Cookie in UHC"
+      }
+    },
+    "tiered": {
+      "SANTA_SAYS_ROUNDS": {
+        "name": "Santa Says Winner",
+        "description": "Complete %s tasks in Santa Says",
+        "tiers": [
+          {
+            "tier": 1,
+            "points": 5,
+            "amount": 3
+          },
+          {
+            "tier": 2,
+            "points": 10,
+            "amount": 10
+          },
+          {
+            "tier": 3,
+            "points": 15,
+            "amount": 30
+          },
+          {
+            "tier": 4,
+            "points": 20,
+            "amount": 75
+          },
+          {
+            "tier": 5,
+            "points": 25,
+            "amount": 150
+          }
+        ]
+      },
+      "ADVENT": {
+        "name": "Advent Calendar",
+        "description": "Claim %s days in the Advent Calendar",
+        "tiers": [
+          {
+            "tier": 1,
+            "points": 5,
+            "amount": 1
+          },
+          {
+            "tier": 2,
+            "points": 10,
+            "amount": 3
+          },
+          {
+            "tier": 3,
+            "points": 15,
+            "amount": 7
+          },
+          {
+            "tier": 4,
+            "points": 20,
+            "amount": 14
+          },
+          {
+            "tier": 5,
+            "points": 25,
+            "amount": 21
+          }
+        ]
+      },
+      "NO_CHRISTMAS": {
+        "name": "No Christmas For You",
+        "description": "Pickup %s presents in Grinch Simulator",
+        "tiers": [
+          {
+            "tier": 1,
+            "points": 5,
+            "amount": 5
+          },
+          {
+            "tier": 2,
+            "points": 10,
+            "amount": 25
+          },
+          {
+            "tier": 3,
+            "points": 15,
+            "amount": 60
+          },
+          {
+            "tier": 4,
+            "points": 20,
+            "amount": 150
+          },
+          {
+            "tier": 5,
+            "points": 25,
+            "amount": 300
+          }
+        ]
+      }
+    },
+    "total_points": 365,
+    "total_one_time": 18,
+    "total_tiered": 15,
+    "total": 33,
+    "total_points_one_time": 140,
+    "total_points_tiered": 225
+  },
+  "gingerbread": {
+    "one_time": {
+      "NEW_STYLE": {
+        "points": 5,
+        "name": "New Style",
+        "description": "Unlock a kart skin"
+      },
+      "GET_HIT_BY_ME": {
+        "points": 5,
+        "name": "Get hit!",
+        "description": "Hit a player with any projectile"
+      },
+      "GETTING_GOOD": {
+        "points": 5,
+        "name": "Getting good!",
+        "description": "Complete a race"
+      },
+      "IS_THIS_SURVIVAL_GAMES": {
+        "points": 5,
+        "name": "Is this Survival Games?",
+        "description": "Hit 5 players with the \"Notched Sword\" in 1 race"
+      },
+      "TRYHARDER": {
+        "points": 5,
+        "name": "Tryharder!",
+        "description": "Win a trophy without using any items"
+      },
+      "NEVER_LUCKY": {
+        "points": 5,
+        "name": "Never Lucky",
+        "description": "Get hit by more than 1 Blue Torpedo in 1 race"
+      },
+      "GETTIN_PAID": {
+        "points": 5,
+        "name": "Gettin' Paid",
+        "description": "Win a Pink Part as a gaming reward"
+      },
+      "COINS_PLEASE": {
+        "points": 5,
+        "name": "Coins Please",
+        "description": "Use the junkyard"
+      },
+      "IM_LUCKY": {
+        "points": 5,
+        "name": "I'm Lucky",
+        "description": "Use the part roller"
+      },
+      "TASTE_MY_BANANA": {
+        "points": 5,
+        "name": "BA NA NA NA NA",
+        "description": "Hit a player with a banana"
+      }
+    },
+    "tiered": {
+      "WINNER": {
+        "name": "Winner!",
+        "description": "Get %s trophies",
+        "tiers": [
+          {
+            "tier": 1,
+            "points": 5,
+            "amount": 5
+          },
+          {
+            "tier": 2,
+            "points": 10,
+            "amount": 25
+          },
+          {
+            "tier": 3,
+            "points": 15,
+            "amount": 100
+          },
+          {
+            "tier": 4,
+            "points": 20,
+            "amount": 250
+          },
+          {
+            "tier": 5,
+            "points": 25,
+            "amount": 500
+          }
+        ]
+      },
+      "BANKER": {
+        "name": "TKR Banker",
+        "description": "Earn %s coins",
+        "tiers": [
+          {
+            "tier": 1,
+            "points": 5,
+            "amount": 5000
+          },
+          {
+            "tier": 2,
+            "points": 10,
+            "amount": 25000
+          },
+          {
+            "tier": 3,
+            "points": 15,
+            "amount": 100000
+          },
+          {
+            "tier": 4,
+            "points": 20,
+            "amount": 250000
+          },
+          {
+            "tier": 5,
+            "points": 25,
+            "amount": 500000
+          }
+        ]
+      },
+      "RACER": {
+        "name": "Racer",
+        "description": "Complete %s races",
+        "tiers": [
+          {
+            "tier": 1,
+            "points": 5,
+            "amount": 5
+          },
+          {
+            "tier": 2,
+            "points": 10,
+            "amount": 25
+          },
+          {
+            "tier": 3,
+            "points": 15,
+            "amount": 100
+          },
+          {
+            "tier": 4,
+            "points": 20,
+            "amount": 250
+          },
+          {
+            "tier": 5,
+            "points": 25,
+            "amount": 500
+          }
+        ]
+      }
+    },
+    "total_points": 275,
+    "total_one_time": 10,
+    "total_tiered": 15,
+    "total": 25,
+    "total_points_one_time": 50,
+    "total_points_tiered": 225
+  },
   "supersmash": {
     "one_time": {
       "GENCLUCK_CHALLENGE": {
@@ -5152,161 +5347,6 @@
     "total": 45,
     "total_points_one_time": 165,
     "total_points_tiered": 255
-  },
-  "gingerbread": {
-    "one_time": {
-      "NEW_STYLE": {
-        "points": 5,
-        "name": "New Style",
-        "description": "Unlock a kart skin"
-      },
-      "GET_HIT_BY_ME": {
-        "points": 5,
-        "name": "Get hit!",
-        "description": "Hit a player with any projectile"
-      },
-      "GETTING_GOOD": {
-        "points": 5,
-        "name": "Getting good!",
-        "description": "Complete a race"
-      },
-      "IS_THIS_SURVIVAL_GAMES": {
-        "points": 5,
-        "name": "Is this Survival Games?",
-        "description": "Hit 5 players with the \"Notched Sword\" in 1 race"
-      },
-      "TRYHARDER": {
-        "points": 5,
-        "name": "Tryharder!",
-        "description": "Win a trophy without using any items"
-      },
-      "NEVER_LUCKY": {
-        "points": 5,
-        "name": "Never Lucky",
-        "description": "Get hit by more than 1 Blue Torpedo in 1 race"
-      },
-      "GETTIN_PAID": {
-        "points": 5,
-        "name": "Gettin' Paid",
-        "description": "Win a Pink Part as a gaming reward"
-      },
-      "COINS_PLEASE": {
-        "points": 5,
-        "name": "Coins Please",
-        "description": "Use the junkyard"
-      },
-      "IM_LUCKY": {
-        "points": 5,
-        "name": "I'm Lucky",
-        "description": "Use the part roller"
-      },
-      "TASTE_MY_BANANA": {
-        "points": 5,
-        "name": "BA NA NA NA NA",
-        "description": "Hit a player with a banana"
-      }
-    },
-    "tiered": {
-      "WINNER": {
-        "name": "Winner!",
-        "description": "Get %s trophies",
-        "tiers": [
-          {
-            "tier": 1,
-            "points": 5,
-            "amount": 5
-          },
-          {
-            "tier": 2,
-            "points": 10,
-            "amount": 25
-          },
-          {
-            "tier": 3,
-            "points": 15,
-            "amount": 100
-          },
-          {
-            "tier": 4,
-            "points": 20,
-            "amount": 250
-          },
-          {
-            "tier": 5,
-            "points": 25,
-            "amount": 500
-          }
-        ]
-      },
-      "BANKER": {
-        "name": "TKR Banker",
-        "description": "Earn %s coins",
-        "tiers": [
-          {
-            "tier": 1,
-            "points": 5,
-            "amount": 5000
-          },
-          {
-            "tier": 2,
-            "points": 10,
-            "amount": 25000
-          },
-          {
-            "tier": 3,
-            "points": 15,
-            "amount": 100000
-          },
-          {
-            "tier": 4,
-            "points": 20,
-            "amount": 250000
-          },
-          {
-            "tier": 5,
-            "points": 25,
-            "amount": 500000
-          }
-        ]
-      },
-      "RACER": {
-        "name": "Racer",
-        "description": "Complete %s races",
-        "tiers": [
-          {
-            "tier": 1,
-            "points": 5,
-            "amount": 5
-          },
-          {
-            "tier": 2,
-            "points": 10,
-            "amount": 25
-          },
-          {
-            "tier": 3,
-            "points": 15,
-            "amount": 100
-          },
-          {
-            "tier": 4,
-            "points": 20,
-            "amount": 250
-          },
-          {
-            "tier": 5,
-            "points": 25,
-            "amount": 500
-          }
-        ]
-      }
-    },
-    "total_points": 275,
-    "total_one_time": 10,
-    "total_tiered": 15,
-    "total": 25,
-    "total_points_one_time": 50,
-    "total_points_tiered": 225
   },
   "skyclash": {
     "one_time": {
@@ -5695,237 +5735,6 @@
     "total": 68,
     "total_points_one_time": 300,
     "total_points_tiered": 405
-  },
-  "speeduhc": {
-    "one_time": {
-      "POTION_BREWER": {
-        "points": 5,
-        "name": "This Better Work",
-        "description": "Brew a Potion"
-      },
-      "RIDE_PIG": {
-        "points": 5,
-        "name": "Oink",
-        "description": "Ride a Pig"
-      },
-      "USE_ENDERPEARL": {
-        "points": 5,
-        "name": "Ninja!",
-        "description": "Use an Ender Pearl"
-      },
-      "GOLDEN_APPLE": {
-        "points": 5,
-        "name": "Newton's Laws",
-        "description": "Find a Golden Apple from a tree"
-      },
-      "NATURAL_TALENT": {
-        "points": 10,
-        "name": "Natural Talent",
-        "description": "Obtain 100 kills with 7 different Masteries"
-      },
-      "MASTERY_UNLOCK": {
-        "points": 10,
-        "name": "New Strategies",
-        "description": "Find a Mastery in the Tear Exchange"
-      },
-      "ENCHANTED_ARMOR": {
-        "points": 5,
-        "name": "Ready for the Fashion Week",
-        "description": "Wear a fully enchanted set of Armor"
-      },
-      "SKELETON_BOW": {
-        "points": 5,
-        "name": "Generous Pile of Bones",
-        "description": "Obtain an enchanted Bow from a Skeleton"
-      },
-      "SNIPE_PLAYER": {
-        "points": 10,
-        "name": "Executed!",
-        "description": "Kill a player at least 75 blocks away with a bow"
-      },
-      "KIT_SPECIALIST": {
-        "points": 10,
-        "name": "Kit Specialist",
-        "description": "Unlock 15 different Kits"
-      },
-      "KIT_UNLOCK": {
-        "points": 5,
-        "name": "Feels Good Man",
-        "description": "Unlock a Kit using Salt"
-      },
-      "KILL_TNT": {
-        "points": 10,
-        "name": "I Do Things My Way",
-        "description": "Kill a player using TNT"
-      },
-      "MELON_SMASHER": {
-        "points": 5,
-        "name": "One Melon a Day Keeps the Doctor Away",
-        "description": "Smash a Melon"
-      },
-      "GOD_APPLE": {
-        "points": 5,
-        "name": "Stay Golden",
-        "description": "Eat a God Apple"
-      },
-      "PAPER_CUT": {
-        "points": 10,
-        "name": "Paper Cut",
-        "description": "Kill a player with a Map"
-      },
-      "ENCHANTED_BOOK": {
-        "points": 5,
-        "name": "Knowledge!",
-        "description": "Obtain an Enchanted Book from killing a player in Insane Mode"
-      },
-      "RUSHER": {
-        "points": 5,
-        "name": "One Happy Rusher",
-        "description": "Get a kill within 30 seconds of the game starting"
-      },
-      "DOMINATION": {
-        "points": 5,
-        "name": "Domination Achieved",
-        "description": "Win a Team game with your team having at least 10 kills"
-      },
-      "KILL_GHAST": {
-        "points": 5,
-        "name": "Tears for Fears",
-        "description": "Kill a Ghast"
-      }
-    },
-    "tiered": {
-      "SALTY": {
-        "name": "Salty",
-        "description": "Collect %s Salt",
-        "tiers": [
-          {
-            "tier": 1,
-            "points": 5,
-            "amount": 200
-          },
-          {
-            "tier": 2,
-            "points": 10,
-            "amount": 1000
-          },
-          {
-            "tier": 3,
-            "points": 15,
-            "amount": 5000
-          },
-          {
-            "tier": 4,
-            "points": 20,
-            "amount": 10000
-          },
-          {
-            "tier": 5,
-            "points": 25,
-            "amount": 25000
-          }
-        ]
-      },
-      "HUNTER": {
-        "name": "Hunter",
-        "description": "Kill %s players",
-        "tiers": [
-          {
-            "tier": 1,
-            "points": 5,
-            "amount": 50
-          },
-          {
-            "tier": 2,
-            "points": 10,
-            "amount": 200
-          },
-          {
-            "tier": 3,
-            "points": 15,
-            "amount": 1000
-          },
-          {
-            "tier": 4,
-            "points": 20,
-            "amount": 5000
-          },
-          {
-            "tier": 5,
-            "points": 25,
-            "amount": 10000
-          }
-        ]
-      },
-      "COLLECTOR": {
-        "name": "Collector",
-        "description": "Unlock %s Perks from the Tear Exchange",
-        "tiers": [
-          {
-            "tier": 1,
-            "points": 5,
-            "amount": 5
-          },
-          {
-            "tier": 2,
-            "points": 10,
-            "amount": 10
-          },
-          {
-            "tier": 3,
-            "points": 15,
-            "amount": 15
-          },
-          {
-            "tier": 4,
-            "points": 20,
-            "amount": 20
-          },
-          {
-            "tier": 5,
-            "points": 25,
-            "amount": 25
-          }
-        ]
-      },
-      "UHC_MASTER": {
-        "name": "UHC Master",
-        "description": "Win %s games",
-        "tiers": [
-          {
-            "tier": 1,
-            "points": 5,
-            "amount": 10
-          },
-          {
-            "tier": 2,
-            "points": 10,
-            "amount": 50
-          },
-          {
-            "tier": 3,
-            "points": 15,
-            "amount": 200
-          },
-          {
-            "tier": 4,
-            "points": 20,
-            "amount": 500
-          },
-          {
-            "tier": 5,
-            "points": 25,
-            "amount": 1500
-          }
-        ]
-      }
-    },
-    "total_points": 425,
-    "total_one_time": 19,
-    "total_tiered": 20,
-    "total": 39,
-    "total_points_one_time": 125,
-    "total_points_tiered": 300
   },
   "walls3": {
     "one_time": {
@@ -6906,6 +6715,237 @@
     "total": 184,
     "total_points_one_time": 1540,
     "total_points_tiered": 600
+  },
+  "speeduhc": {
+    "one_time": {
+      "POTION_BREWER": {
+        "points": 5,
+        "name": "This Better Work",
+        "description": "Brew a Potion"
+      },
+      "RIDE_PIG": {
+        "points": 5,
+        "name": "Oink",
+        "description": "Ride a Pig"
+      },
+      "USE_ENDERPEARL": {
+        "points": 5,
+        "name": "Ninja!",
+        "description": "Use an Ender Pearl"
+      },
+      "GOLDEN_APPLE": {
+        "points": 5,
+        "name": "Newton's Laws",
+        "description": "Find a Golden Apple from a tree"
+      },
+      "NATURAL_TALENT": {
+        "points": 10,
+        "name": "Natural Talent",
+        "description": "Obtain 100 kills with 7 different Masteries"
+      },
+      "MASTERY_UNLOCK": {
+        "points": 10,
+        "name": "New Strategies",
+        "description": "Find a Mastery in the Tear Exchange"
+      },
+      "ENCHANTED_ARMOR": {
+        "points": 5,
+        "name": "Ready for the Fashion Week",
+        "description": "Wear a fully enchanted set of Armor"
+      },
+      "SKELETON_BOW": {
+        "points": 5,
+        "name": "Generous Pile of Bones",
+        "description": "Obtain an enchanted Bow from a Skeleton"
+      },
+      "SNIPE_PLAYER": {
+        "points": 10,
+        "name": "Executed!",
+        "description": "Kill a player at least 75 blocks away with a bow"
+      },
+      "KIT_SPECIALIST": {
+        "points": 10,
+        "name": "Kit Specialist",
+        "description": "Unlock 15 different Kits"
+      },
+      "KIT_UNLOCK": {
+        "points": 5,
+        "name": "Feels Good Man",
+        "description": "Unlock a Kit using Salt"
+      },
+      "KILL_TNT": {
+        "points": 10,
+        "name": "I Do Things My Way",
+        "description": "Kill a player using TNT"
+      },
+      "MELON_SMASHER": {
+        "points": 5,
+        "name": "One Melon a Day Keeps the Doctor Away",
+        "description": "Smash a Melon"
+      },
+      "GOD_APPLE": {
+        "points": 5,
+        "name": "Stay Golden",
+        "description": "Eat a God Apple"
+      },
+      "PAPER_CUT": {
+        "points": 10,
+        "name": "Paper Cut",
+        "description": "Kill a player with a Map"
+      },
+      "ENCHANTED_BOOK": {
+        "points": 5,
+        "name": "Knowledge!",
+        "description": "Obtain an Enchanted Book from killing a player in Insane Mode"
+      },
+      "RUSHER": {
+        "points": 5,
+        "name": "One Happy Rusher",
+        "description": "Get a kill within 30 seconds of the game starting"
+      },
+      "DOMINATION": {
+        "points": 5,
+        "name": "Domination Achieved",
+        "description": "Win a Team game with your team having at least 10 kills"
+      },
+      "KILL_GHAST": {
+        "points": 5,
+        "name": "Tears for Fears",
+        "description": "Kill a Ghast"
+      }
+    },
+    "tiered": {
+      "SALTY": {
+        "name": "Salty",
+        "description": "Collect %s Salt",
+        "tiers": [
+          {
+            "tier": 1,
+            "points": 5,
+            "amount": 200
+          },
+          {
+            "tier": 2,
+            "points": 10,
+            "amount": 1000
+          },
+          {
+            "tier": 3,
+            "points": 15,
+            "amount": 5000
+          },
+          {
+            "tier": 4,
+            "points": 20,
+            "amount": 10000
+          },
+          {
+            "tier": 5,
+            "points": 25,
+            "amount": 25000
+          }
+        ]
+      },
+      "HUNTER": {
+        "name": "Hunter",
+        "description": "Kill %s players",
+        "tiers": [
+          {
+            "tier": 1,
+            "points": 5,
+            "amount": 50
+          },
+          {
+            "tier": 2,
+            "points": 10,
+            "amount": 200
+          },
+          {
+            "tier": 3,
+            "points": 15,
+            "amount": 1000
+          },
+          {
+            "tier": 4,
+            "points": 20,
+            "amount": 5000
+          },
+          {
+            "tier": 5,
+            "points": 25,
+            "amount": 10000
+          }
+        ]
+      },
+      "COLLECTOR": {
+        "name": "Collector",
+        "description": "Unlock %s Perks from the Tear Exchange",
+        "tiers": [
+          {
+            "tier": 1,
+            "points": 5,
+            "amount": 5
+          },
+          {
+            "tier": 2,
+            "points": 10,
+            "amount": 10
+          },
+          {
+            "tier": 3,
+            "points": 15,
+            "amount": 15
+          },
+          {
+            "tier": 4,
+            "points": 20,
+            "amount": 20
+          },
+          {
+            "tier": 5,
+            "points": 25,
+            "amount": 25
+          }
+        ]
+      },
+      "UHC_MASTER": {
+        "name": "UHC Master",
+        "description": "Win %s games",
+        "tiers": [
+          {
+            "tier": 1,
+            "points": 5,
+            "amount": 10
+          },
+          {
+            "tier": 2,
+            "points": 10,
+            "amount": 50
+          },
+          {
+            "tier": 3,
+            "points": 15,
+            "amount": 200
+          },
+          {
+            "tier": 4,
+            "points": 20,
+            "amount": 500
+          },
+          {
+            "tier": 5,
+            "points": 25,
+            "amount": 1500
+          }
+        ]
+      }
+    },
+    "total_points": 425,
+    "total_one_time": 19,
+    "total_tiered": 20,
+    "total": 39,
+    "total_points_one_time": 125,
+    "total_points_tiered": 300
   },
   "copsandcrims": {
     "one_time": {
