@@ -1,89 +1,5 @@
 {
   "challenges": {
-    "arena": [
-      {
-        "id": "ARENA__where_is_it_challenge",
-        "name": "WHERE IS IT Challenge",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 3360
-          }
-        ]
-      },
-      {
-        "id": "ARENA__triple_kill_challenge",
-        "name": "Triple Kill Challenge",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 3360
-          }
-        ]
-      },
-      {
-        "id": "ARENA__no_ultimate_challenge",
-        "name": "No Ultimate Challenge",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 3360
-          }
-        ]
-      },
-      {
-        "id": "ARENA__cooperation_challenge",
-        "name": "Cooperation Challenge",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 3360
-          }
-        ]
-      }
-    ],
-    "skyclash": [
-      {
-        "id": "SKYCLASH__enderchest_challenge",
-        "name": "Enderchest Challenge",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 3360
-          }
-        ]
-      },
-      {
-        "id": "SKYCLASH__teamwork_challenge",
-        "name": "Teamwork Challenge",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 3360
-          }
-        ]
-      },
-      {
-        "id": "SKYCLASH__fighter_challenge",
-        "name": "Fighter Challenge",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 3360
-          }
-        ]
-      },
-      {
-        "id": "SKYCLASH__monster_killer_challenge",
-        "name": "Monster Killer Challenge",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 3360
-          }
-        ]
-      }
-    ],
     "arcade": [
       {
         "id": "ARCADE__farm_hunt_challenge",
@@ -246,10 +162,10 @@
         ]
       }
     ],
-    "uhc": [
+    "arena": [
       {
-        "id": "UHC__longshot_challenge",
-        "name": "Longshot Challenge",
+        "id": "ARENA__where_is_it_challenge",
+        "name": "WHERE IS IT Challenge",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -258,8 +174,8 @@
         ]
       },
       {
-        "id": "UHC__perfect_start_challenge",
-        "name": "Perfect Start Challenge",
+        "id": "ARENA__triple_kill_challenge",
+        "name": "Triple Kill Challenge",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -268,8 +184,8 @@
         ]
       },
       {
-        "id": "UHC__hunter_challenge",
-        "name": "Hunter Challenge",
+        "id": "ARENA__no_ultimate_challenge",
+        "name": "No Ultimate Challenge",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -278,8 +194,8 @@
         ]
       },
       {
-        "id": "UHC__threat_challenge",
-        "name": "Threat Challenge",
+        "id": "ARENA__cooperation_challenge",
+        "name": "Cooperation Challenge",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -288,10 +204,10 @@
         ]
       }
     ],
-    "walls": [
+    "bedwars": [
       {
-        "id": "WALLS__first_blood_challenge",
-        "name": "First Blood Challenge",
+        "id": "BEDWARS__defensive",
+        "name": "Defensive",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -300,8 +216,8 @@
         ]
       },
       {
-        "id": "WALLS__powerhouse_challenge",
-        "name": "Powerhouse Challenge",
+        "id": "BEDWARS__support",
+        "name": "Support",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -310,18 +226,8 @@
         ]
       },
       {
-        "id": "WALLS__looting_challenge",
-        "name": "Looting Challenge",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 3360
-          }
-        ]
-      },
-      {
-        "id": "WALLS__double_kill_challenge",
-        "name": "Double Kill Challenge",
+        "id": "BEDWARS__offensive",
+        "name": "Offensive",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -330,10 +236,10 @@
         ]
       }
     ],
-    "paintball": [
+    "hungergames": [
       {
-        "id": "PAINTBALL__kill_streak_challenge",
-        "name": "Kill Streak Challenge",
+        "id": "SURVIVAL_GAMES__star_challenge",
+        "name": "Star Challenge",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -342,8 +248,8 @@
         ]
       },
       {
-        "id": "PAINTBALL__killing_spree_challenge",
-        "name": "Killing Spree Challenge",
+        "id": "SURVIVAL_GAMES__iron_man_challenge",
+        "name": "Iron Man Challenge",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -352,8 +258,8 @@
         ]
       },
       {
-        "id": "PAINTBALL__nuke_challenge",
-        "name": "Nuke Challenge",
+        "id": "SURVIVAL_GAMES__blitz_challenge",
+        "name": "Blitz Challenge",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -362,8 +268,8 @@
         ]
       },
       {
-        "id": "PAINTBALL__finish_challenge",
-        "name": "Finish Challenge",
+        "id": "SURVIVAL_GAMES__resistance_challenge",
+        "name": "Resistance Challenge",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -386,6 +292,80 @@
       {
         "id": "BUILD_BATTLE__guesser_challenge",
         "name": "Guesser Challenge",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3360
+          }
+        ]
+      }
+    ],
+    "truecombat": [
+      {
+        "id": "TRUE_COMBAT__rampage_challenge",
+        "name": "Rampage Challenge",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3360
+          }
+        ]
+      },
+      {
+        "id": "TRUE_COMBAT__samples_challenge",
+        "name": "Samples Challenge",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3360
+          }
+        ]
+      },
+      {
+        "id": "TRUE_COMBAT__archer_challenge",
+        "name": "Archer Challenge",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3360
+          }
+        ]
+      },
+      {
+        "id": "TRUE_COMBAT__super_lucky_challenge",
+        "name": "Super Lucky Challenge",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3360
+          }
+        ]
+      }
+    ],
+    "duels": [
+      {
+        "id": "DUELS__feed_the_void_challenge",
+        "name": "Feed The Void Challenge",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3360
+          }
+        ]
+      },
+      {
+        "id": "DUELS__teams_challenge",
+        "name": "Teams Challenge",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3360
+          }
+        ]
+      },
+      {
+        "id": "DUELS__target_practice_challenge",
+        "name": "Target Practice Challenge",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -436,10 +416,10 @@
         ]
       }
     ],
-    "battleground": [
+    "murdermystery": [
       {
-        "id": "BATTLEGROUND__support_challenge",
-        "name": "Support Challenge",
+        "id": "MURDER_MYSTERY__murder_spree",
+        "name": "Murder Spree",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -448,8 +428,8 @@
         ]
       },
       {
-        "id": "BATTLEGROUND__brute_challenge",
-        "name": "Brute Challenge",
+        "id": "MURDER_MYSTERY__sherlock",
+        "name": "Sherlock",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -458,8 +438,8 @@
         ]
       },
       {
-        "id": "BATTLEGROUND__capture_challenge",
-        "name": "Capture Challenge",
+        "id": "MURDER_MYSTERY__hero",
+        "name": "Hero",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -468,8 +448,218 @@
         ]
       },
       {
-        "id": "BATTLEGROUND__carry_challenge",
-        "name": "Carry Challenge",
+        "id": "MURDER_MYSTERY__serial_killer",
+        "name": "Serial Killer",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3360
+          }
+        ]
+      }
+    ],
+    "paintball": [
+      {
+        "id": "PAINTBALL__kill_streak_challenge",
+        "name": "Kill Streak Challenge",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3360
+          }
+        ]
+      },
+      {
+        "id": "PAINTBALL__killing_spree_challenge",
+        "name": "Killing Spree Challenge",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3360
+          }
+        ]
+      },
+      {
+        "id": "PAINTBALL__nuke_challenge",
+        "name": "Nuke Challenge",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3360
+          }
+        ]
+      },
+      {
+        "id": "PAINTBALL__finish_challenge",
+        "name": "Finish Challenge",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3360
+          }
+        ]
+      }
+    ],
+    "quake": [
+      {
+        "id": "QUAKECRAFT__powerup_challenge",
+        "name": "Powerup Challenge",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3360
+          }
+        ]
+      },
+      {
+        "id": "QUAKECRAFT__killing_streak_challenge",
+        "name": "Killing Streak Challenge",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3360
+          }
+        ]
+      },
+      {
+        "id": "QUAKECRAFT__don't_blink_challenge",
+        "name": "Don't Blink Challenge",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3360
+          }
+        ]
+      },
+      {
+        "id": "QUAKECRAFT__combo_challenge",
+        "name": "Combo Challenge",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3360
+          }
+        ]
+      }
+    ],
+    "skyclash": [
+      {
+        "id": "SKYCLASH__enderchest_challenge",
+        "name": "Enderchest Challenge",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3360
+          }
+        ]
+      },
+      {
+        "id": "SKYCLASH__teamwork_challenge",
+        "name": "Teamwork Challenge",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3360
+          }
+        ]
+      },
+      {
+        "id": "SKYCLASH__fighter_challenge",
+        "name": "Fighter Challenge",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3360
+          }
+        ]
+      },
+      {
+        "id": "SKYCLASH__monster_killer_challenge",
+        "name": "Monster Killer Challenge",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3360
+          }
+        ]
+      }
+    ],
+    "skywars": [
+      {
+        "id": "SKYWARS__feeding_the_void_challenge",
+        "name": "Feeding the Void Challenge",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3360
+          }
+        ]
+      },
+      {
+        "id": "SKYWARS__rush_challenge",
+        "name": "Rush Challenge",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3360
+          }
+        ]
+      },
+      {
+        "id": "SKYWARS__ranked_challenge",
+        "name": "Ranked Challenge",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3360
+          }
+        ]
+      },
+      {
+        "id": "SKYWARS__enderman_challenge",
+        "name": "Enderman Challenge",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3360
+          }
+        ]
+      }
+    ],
+    "supersmash": [
+      {
+        "id": "SUPER_SMASH__leaderboard_challenge",
+        "name": "Leaderboard Challenge",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3360
+          }
+        ]
+      },
+      {
+        "id": "SUPER_SMASH__crystal_challenge",
+        "name": "Crystal Challenge",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3360
+          }
+        ]
+      },
+      {
+        "id": "SUPER_SMASH__smash_challenge",
+        "name": "Smash Challenge",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3360
+          }
+        ]
+      },
+      {
+        "id": "SUPER_SMASH__flawless_challenge",
+        "name": "Flawless Challenge",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -520,10 +710,10 @@
         ]
       }
     ],
-    "duels": [
+    "gingerbread": [
       {
-        "id": "DUELS__feed_the_void_challenge",
-        "name": "Feed The Void Challenge",
+        "id": "GINGERBREAD__coin_challenge",
+        "name": "Coin Challenge",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -532,8 +722,8 @@
         ]
       },
       {
-        "id": "DUELS__teams_challenge",
-        "name": "Teams Challenge",
+        "id": "GINGERBREAD__first_place_challenge",
+        "name": "First Place Challenge",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -542,8 +732,18 @@
         ]
       },
       {
-        "id": "DUELS__target_practice_challenge",
-        "name": "Target Practice Challenge",
+        "id": "GINGERBREAD__banana_challenge",
+        "name": "Banana Challenge",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3360
+          }
+        ]
+      },
+      {
+        "id": "GINGERBREAD__leaderboard_challenge",
+        "name": "Leaderboard Challenge",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -654,10 +854,10 @@
         ]
       }
     ],
-    "skywars": [
+    "uhc": [
       {
-        "id": "SKYWARS__feeding_the_void_challenge",
-        "name": "Feeding the Void Challenge",
+        "id": "UHC__longshot_challenge",
+        "name": "Longshot Challenge",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -666,8 +866,8 @@
         ]
       },
       {
-        "id": "SKYWARS__rush_challenge",
-        "name": "Rush Challenge",
+        "id": "UHC__perfect_start_challenge",
+        "name": "Perfect Start Challenge",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -676,8 +876,8 @@
         ]
       },
       {
-        "id": "SKYWARS__ranked_challenge",
-        "name": "Ranked Challenge",
+        "id": "UHC__hunter_challenge",
+        "name": "Hunter Challenge",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -686,218 +886,8 @@
         ]
       },
       {
-        "id": "SKYWARS__enderman_challenge",
-        "name": "Enderman Challenge",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 3360
-          }
-        ]
-      }
-    ],
-    "hungergames": [
-      {
-        "id": "SURVIVAL_GAMES__star_challenge",
-        "name": "Star Challenge",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 3360
-          }
-        ]
-      },
-      {
-        "id": "SURVIVAL_GAMES__iron_man_challenge",
-        "name": "Iron Man Challenge",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 3360
-          }
-        ]
-      },
-      {
-        "id": "SURVIVAL_GAMES__blitz_challenge",
-        "name": "Blitz Challenge",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 3360
-          }
-        ]
-      },
-      {
-        "id": "SURVIVAL_GAMES__resistance_challenge",
-        "name": "Resistance Challenge",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 3360
-          }
-        ]
-      }
-    ],
-    "quake": [
-      {
-        "id": "QUAKECRAFT__powerup_challenge",
-        "name": "Powerup Challenge",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 3360
-          }
-        ]
-      },
-      {
-        "id": "QUAKECRAFT__killing_streak_challenge",
-        "name": "Killing Streak Challenge",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 3360
-          }
-        ]
-      },
-      {
-        "id": "QUAKECRAFT__don't_blink_challenge",
-        "name": "Don't Blink Challenge",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 3360
-          }
-        ]
-      },
-      {
-        "id": "QUAKECRAFT__combo_challenge",
-        "name": "Combo Challenge",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 3360
-          }
-        ]
-      }
-    ],
-    "walls3": [
-      {
-        "id": "WALLS3__wither_challenge",
-        "name": "Wither Challenge",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 3360
-          }
-        ]
-      },
-      {
-        "id": "WALLS3__protector_challenge",
-        "name": "Protector Challenge",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 3360
-          }
-        ]
-      },
-      {
-        "id": "WALLS3__berserk_challenge",
-        "name": "Berserk Challenge",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 3360
-          }
-        ]
-      },
-      {
-        "id": "WALLS3__comeback_challenge",
-        "name": "Comeback Challenge",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 3360
-          }
-        ]
-      }
-    ],
-    "supersmash": [
-      {
-        "id": "SUPER_SMASH__leaderboard_challenge",
-        "name": "Leaderboard Challenge",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 3360
-          }
-        ]
-      },
-      {
-        "id": "SUPER_SMASH__crystal_challenge",
-        "name": "Crystal Challenge",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 3360
-          }
-        ]
-      },
-      {
-        "id": "SUPER_SMASH__smash_challenge",
-        "name": "Smash Challenge",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 3360
-          }
-        ]
-      },
-      {
-        "id": "SUPER_SMASH__flawless_challenge",
-        "name": "Flawless Challenge",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 3360
-          }
-        ]
-      }
-    ],
-    "murdermystery": [
-      {
-        "id": "MURDER_MYSTERY__murder_spree",
-        "name": "Murder Spree",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 3360
-          }
-        ]
-      },
-      {
-        "id": "MURDER_MYSTERY__sherlock",
-        "name": "Sherlock",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 3360
-          }
-        ]
-      },
-      {
-        "id": "MURDER_MYSTERY__hero",
-        "name": "Hero",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 3360
-          }
-        ]
-      },
-      {
-        "id": "MURDER_MYSTERY__serial_killer",
-        "name": "Serial Killer",
+        "id": "UHC__threat_challenge",
+        "name": "Threat Challenge",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -948,10 +938,10 @@
         ]
       }
     ],
-    "bedwars": [
+    "walls3": [
       {
-        "id": "BEDWARS__defensive",
-        "name": "Defensive",
+        "id": "WALLS3__wither_challenge",
+        "name": "Wither Challenge",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -960,8 +950,8 @@
         ]
       },
       {
-        "id": "BEDWARS__support",
-        "name": "Support",
+        "id": "WALLS3__protector_challenge",
+        "name": "Protector Challenge",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -970,8 +960,18 @@
         ]
       },
       {
-        "id": "BEDWARS__offensive",
-        "name": "Offensive",
+        "id": "WALLS3__berserk_challenge",
+        "name": "Berserk Challenge",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3360
+          }
+        ]
+      },
+      {
+        "id": "WALLS3__comeback_challenge",
+        "name": "Comeback Challenge",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -980,10 +980,10 @@
         ]
       }
     ],
-    "gingerbread": [
+    "walls": [
       {
-        "id": "GINGERBREAD__coin_challenge",
-        "name": "Coin Challenge",
+        "id": "WALLS__first_blood_challenge",
+        "name": "First Blood Challenge",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -992,8 +992,8 @@
         ]
       },
       {
-        "id": "GINGERBREAD__first_place_challenge",
-        "name": "First Place Challenge",
+        "id": "WALLS__powerhouse_challenge",
+        "name": "Powerhouse Challenge",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -1002,8 +1002,8 @@
         ]
       },
       {
-        "id": "GINGERBREAD__banana_challenge",
-        "name": "Banana Challenge",
+        "id": "WALLS__looting_challenge",
+        "name": "Looting Challenge",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -1012,8 +1012,8 @@
         ]
       },
       {
-        "id": "GINGERBREAD__leaderboard_challenge",
-        "name": "Leaderboard Challenge",
+        "id": "WALLS__double_kill_challenge",
+        "name": "Double Kill Challenge",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -1022,10 +1022,10 @@
         ]
       }
     ],
-    "truecombat": [
+    "battleground": [
       {
-        "id": "TRUE_COMBAT__rampage_challenge",
-        "name": "Rampage Challenge",
+        "id": "BATTLEGROUND__support_challenge",
+        "name": "Support Challenge",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -1034,8 +1034,8 @@
         ]
       },
       {
-        "id": "TRUE_COMBAT__samples_challenge",
-        "name": "Samples Challenge",
+        "id": "BATTLEGROUND__brute_challenge",
+        "name": "Brute Challenge",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -1044,8 +1044,8 @@
         ]
       },
       {
-        "id": "TRUE_COMBAT__archer_challenge",
-        "name": "Archer Challenge",
+        "id": "BATTLEGROUND__capture_challenge",
+        "name": "Capture Challenge",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -1054,8 +1054,8 @@
         ]
       },
       {
-        "id": "TRUE_COMBAT__super_lucky_challenge",
-        "name": "Super Lucky Challenge",
+        "id": "BATTLEGROUND__carry_challenge",
+        "name": "Carry Challenge",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
