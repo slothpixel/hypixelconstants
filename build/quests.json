@@ -2153,36 +2153,6 @@
         ]
       },
       {
-        "id": "skywars_mega_doubles_wins",
-        "name": "Weekly Quest: Skywars Mega Doubles Wins",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 18000
-          },
-          {
-            "type": "MultipliedCoinReward",
-            "amount": 5000
-          },
-          {
-            "type": "SkyWarsSoulReward",
-            "amount": 3
-          }
-        ],
-        "objectives": [
-          {
-            "id": "skywars_mega_doubles_win",
-            "type": "IntegerObjective",
-            "integer": 5
-          }
-        ],
-        "requirements": [
-          {
-            "type": "WeeklyResetQuestRequirement"
-          }
-        ]
-      },
-      {
         "id": "skywars_daily_tokens",
         "name": "Daily Quest: Tokens!",
         "rewards": [
@@ -2221,7 +2191,7 @@
           {
             "id": "skywars_free_loot_chest_win",
             "type": "IntegerObjective",
-            "integer": 1
+            "integer": 3
           }
         ],
         "requirements": [
@@ -2231,8 +2201,8 @@
         ]
       },
       {
-        "id": "skywars_weekly_hard_chest",
-        "name": "Weekly Quest: Extra Loot Chest",
+        "id": "skywars_halloween_harvest",
+        "name": "Special Quest: Harvest Season",
         "rewards": [
           {
             "type": "GameLootChestReward",
@@ -2240,19 +2210,37 @@
           },
           {
             "type": "SkyWarsTokenReward",
-            "amount": 2500
+            "amount": 80000
+          },
+          {
+            "type": "MultipliedCoinReward",
+            "amount": 20000
+          },
+          {
+            "type": "PackageReward",
+            "package": "cage_ender"
           }
         ],
         "objectives": [
           {
-            "id": "skywars_weekly_hard_loot_chest",
+            "id": "skywars_halloween_kills",
             "type": "IntegerObjective",
-            "integer": 7
+            "integer": 333
+          },
+          {
+            "id": "skywars_halloween_corrupted_wins",
+            "type": "IntegerObjective",
+            "integer": 3
+          },
+          {
+            "id": "skywars_halloween_mega_wins",
+            "type": "IntegerObjective",
+            "integer": 3
           }
         ],
         "requirements": [
           {
-            "type": "WeeklyResetQuestRequirement"
+            "type": "OneTimeQuestRequirement"
           }
         ]
       }
@@ -2850,6 +2838,71 @@
             "type": "WeeklyResetQuestRequirement"
           }
         ]
+      },
+      {
+        "id": "bedwars_daily_nightmares",
+        "name": "Special Daily: Nightmares",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 2000
+          },
+          {
+            "type": "BedwarsExpReward",
+            "amount": 1000
+          },
+          {
+            "type": "MultipliedCoinReward",
+            "amount": 500
+          }
+        ],
+        "objectives": [
+          {
+            "id": "bedwars_daily_nightmare_beds",
+            "type": "IntegerObjective",
+            "integer": 4
+          },
+          {
+            "id": "bedwars_daily_nightmare_wins",
+            "type": "IntegerObjective",
+            "integer": 2
+          }
+        ],
+        "requirements": [
+          {
+            "type": "DailyResetQuestRequirement"
+          }
+        ]
+      },
+      {
+        "id": "bedwars_weekly_pumpkinator",
+        "name": "Special Weekly: Pumpkinator",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 666
+          },
+          {
+            "type": "BedwarsExpReward",
+            "amount": 6666
+          },
+          {
+            "type": "PackageReward",
+            "package": "islandtopper_pumpkin"
+          }
+        ],
+        "objectives": [
+          {
+            "id": "bedwars_special_weekly_pumpkinator",
+            "type": "IntegerObjective",
+            "integer": 99
+          }
+        ],
+        "requirements": [
+          {
+            "type": "WeeklyResetQuestRequirement"
+          }
+        ]
       }
     ],
     "murdermystery": [
@@ -3068,6 +3121,32 @@
         "requirements": [
           {
             "type": "WeeklyResetQuestRequirement"
+          }
+        ]
+      },
+      {
+        "id": "build_battle_halloween",
+        "name": "Special Daily: Hyper",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3000
+          },
+          {
+            "type": "MultipliedCoinReward",
+            "amount": 5000
+          }
+        ],
+        "objectives": [
+          {
+            "id": "play",
+            "type": "IntegerObjective",
+            "integer": 2
+          }
+        ],
+        "requirements": [
+          {
+            "type": "DailyResetQuestRequirement"
           }
         ]
       }

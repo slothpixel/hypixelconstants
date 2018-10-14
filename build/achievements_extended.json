@@ -3622,6 +3622,16 @@
   },
   "halloween2017": {
     "one_time": {
+      "ALL_GHOSTS_2018": {
+        "points": 15,
+        "name": "All Ghosts (2018)",
+        "description": "Find all Ghosts in the Main Lobby"
+      },
+      "FIRE_FROM_HELL": {
+        "points": 5,
+        "name": "Fire from Hell",
+        "description": "Win a game of Smash Heroes using Skullfire"
+      },
       "TBR_KRAKEN_ASSAULT_1_25": {
         "points": 10,
         "name": "Kraken Assault Great Time",
@@ -3629,23 +3639,113 @@
       },
       "SECOND_GHOST": {
         "points": 5,
-        "name": "Second Ghost",
+        "name": "Second Ghost (2017)",
         "description": "Find two Ghosts in the Main Lobby"
+      },
+      "PUMPKIN_DEATH": {
+        "points": 10,
+        "name": "Pumpkinator Rampage",
+        "description": "Bring 10 pumpkins at once to a Shopkeeper in Bedwars"
+      },
+      "PUMPKIN_VISION": {
+        "points": 5,
+        "name": "Pumpkin Vision",
+        "description": "Kill a player in UHC while wearing a Pumpkin on your head"
+      },
+      "TBR_SHARKNADO_JAUNT_FAST": {
+        "points": 10,
+        "name": "Sharknado Jaunt Great Time",
+        "description": "Complete Sharknado Jaunt in under 1:15"
+      },
+      "TBR_MIDTOWN_TRIP": {
+        "points": 5,
+        "name": "Midtown Trip Completion",
+        "description": "Complete Midtown Trip in Turbo Bat Racers"
+      },
+      "CORPSE_STILL_RUNS": {
+        "points": 5,
+        "name": "Corpse Still Runs",
+        "description": "Win a game of Warlords Domination while having the Corpse Mare mount equipped"
+      },
+      "BLAME_YOUR_TEAM": {
+        "points": 15,
+        "name": "That wasn't eaZy",
+        "description": "Reach Round 25 playing Zombies on Alien Arcadium"
+      },
+      "VAMPIRES_BE_GONE": {
+        "points": 5,
+        "name": "Vamps b gone",
+        "description": "Kill 2 vampires in a single game of VampireZ"
+      },
+      "FULL_MOON": {
+        "points": 5,
+        "name": "Full Moon",
+        "description": "Get a Final Kill as Werewolf in Mega Walls"
+      },
+      "SECOND_GHOST_2018": {
+        "points": 5,
+        "name": "Second Ghost (2018)",
+        "description": "Find two Ghosts in the Main Lobby"
+      },
+      "PUMPKIN_DANCER": {
+        "points": 10,
+        "name": "Pumpkin Devil",
+        "description": "Obtain 222 points in a single Pumpkin Smash game without dying"
+      },
+      "RISING_DEAD": {
+        "points": 5,
+        "name": "Rising Dead",
+        "description": "Trigger the Necromancer Perk in Sky Wars"
+      },
+      "GRAVEDIGGER": {
+        "points": 5,
+        "name": "Gravedigger",
+        "description": "Win a game of solo Blitz SG with the Gravedigger Kill Effect"
+      },
+      "UNDEAD_TARGET_PRACTICE": {
+        "points": 10,
+        "name": "Undead Target Practice",
+        "description": "Reach a score of 333 before the 1 minute mark in the Main Lobby Shooting Range"
       },
       "TBR_OBSERVATORY_SPIN": {
         "points": 5,
         "name": "Observatory Spin Completion",
         "description": "Complete Observatory Spin in Turbo Bat Racers"
       },
-      "PUMPKIN_DEATH": {
-        "points": 10,
-        "name": "Pumpkinator Rampage",
-        "description": "Bring 15 pumpkins at once to a Shopkeeper in Bedwars"
+      "THE_CRAWLING_DEAD": {
+        "points": 5,
+        "name": "The Crawling Dead",
+        "description": "Get 66 kills in a single game of The Blocking Dead"
+      },
+      "SURVIVORS_BE_GONE": {
+        "points": 5,
+        "name": "Vamps r cool",
+        "description": "Kill 5 survivors in a single game of VampireZ"
+      },
+      "TBR_SHARKNADO_JAUNT": {
+        "points": 5,
+        "name": "Sharknado Jaunt Completion",
+        "description": "Complete Sharknado Jaunt in Turbo Bat Racers"
+      },
+      "THAT_WAS_EASY": {
+        "points": 5,
+        "name": "That was eaZy",
+        "description": "Reach Round 10 playing Zombies on Dead End or Bad Blood"
       },
       "SPOOKY_CHEST": {
         "points": 5,
         "name": "Spooky Spooky",
         "description": "Open 3 Bed Wars Spooky Chests"
+      },
+      "CLASSY_WITHER": {
+        "points": 10,
+        "name": "Classy Wither",
+        "description": "Win a game of TNT Wizards with the Wither Wizard kit and the Wither Death Effect"
+      },
+      "MY_HALLOWEEN_COSTUME": {
+        "points": 5,
+        "name": "My Halloween Costume",
+        "description": "Use a Morph in a lobby"
       },
       "GOOD_TRY": {
         "points": 5,
@@ -3659,18 +3759,18 @@
       },
       "ALL_GHOSTS": {
         "points": 15,
-        "name": "All Ghosts",
+        "name": "All Ghosts (2017)",
         "description": "Find all Ghosts in the Main Lobby"
-      },
-      "TBR_MIDTOWN_TRIP": {
-        "points": 5,
-        "name": "Midtown Trip Completion",
-        "description": "Complete Midtown Trip in Turbo Bat Racers"
       },
       "TBR_OBSERVATORY_SPIN_1_10": {
         "points": 10,
         "name": "Observatory Spin Great Time",
-        "description": "Complete Observatory Spin in under 01:25"
+        "description": "Complete Observatory Spin in under 01:15"
+      },
+      "OCTOBER_BETRAYAL": {
+        "points": 10,
+        "name": "October Betrayal",
+        "description": "Win a Murder Mystery classic game as Murderer"
       },
       "HI_THERE": {
         "points": 5,
@@ -3682,10 +3782,20 @@
         "name": "Midtown Trip Great Time",
         "description": "Complete Midtown Trip in under 01:30"
       },
-      "PUMPKIN_DANCER": {
-        "points": 10,
-        "name": "Pumpkin Devil",
-        "description": "Obtain 222 points in a single Pumpkin Smash game without dying"
+      "EL_SPOODER": {
+        "points": 5,
+        "name": "El Spooder",
+        "description": "Earn a Golden Skull using the Spiderling kit in Crazy Walls"
+      },
+      "NOT_SO_SCARY": {
+        "points": 5,
+        "name": "Not so Scary",
+        "description": "Win a game of Build Battle Halloween Hyper Mode"
+      },
+      "NECROTHERAPY": {
+        "points": 5,
+        "name": "Necrotherapy",
+        "description": "Get a kill in SkyClash using the Necromancer kit"
       }
     },
     "tiered": {
@@ -3752,11 +3862,11 @@
         ]
       }
     },
-    "total_points": 250,
-    "total_one_time": 13,
+    "total_points": 400,
+    "total_one_time": 35,
     "total_tiered": 10,
-    "total": 23,
-    "total_points_one_time": 100,
+    "total": 45,
+    "total_points_one_time": 250,
     "total_points_tiered": 150
   },
   "housing": {
