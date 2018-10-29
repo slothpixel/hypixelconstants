@@ -1718,331 +1718,6 @@
       },
       "total_points": 1150
     },
-    "bridge": {
-      "one_time": {
-        "EXPRESS_YOURSELF": {
-          "points": 0,
-          "name": "Express Yourself",
-          "description": "Use a glyph in-game"
-        },
-        "ON_FIRE": {
-          "points": 0,
-          "name": "On Fire",
-          "description": "Score 3 goals in a row for your team"
-        },
-        "ONE_V_ONE_ME": {
-          "points": 0,
-          "name": "1v1 Me!",
-          "description": "Challenge someone to a 1v1 using /bc"
-        },
-        "COMMUNITY_ORIENTED": {
-          "points": 0,
-          "name": "Community Oriented",
-          "description": "Play a game on a community-submitted map"
-        },
-        "NINJA": {
-          "points": 0,
-          "name": "Ninja'd",
-          "description": "Score a goal while an enemy is close to your portal"
-        },
-        "VOID_ARCHER": {
-          "points": 0,
-          "name": "Void Archer",
-          "description": "Knock a player into the void from 20 or more blocks away"
-        },
-        "CARRIED": {
-          "points": 0,
-          "name": "Carried",
-          "description": "Score 5 goals in a 4 Teams game"
-        },
-        "JUMPING_TO_CONCLUSIONS": {
-          "points": 0,
-          "name": "Jumping to Conclusions",
-          "description": "Kill a player after you use a jump pad"
-        },
-        "GG": {
-          "points": 0,
-          "name": "GG",
-          "description": "Win a game with a score of 5-4"
-        },
-        "HAT_TRICK": {
-          "points": 0,
-          "name": "Hat Trick",
-          "description": "Score 3 goals in a game"
-        },
-        "CLEAN_SWEEP": {
-          "points": 0,
-          "name": "Clean Sweep",
-          "description": "Score 5 goals in a 4v4 game"
-        },
-        "LAST_STAND": {
-          "points": 0,
-          "name": "Last Stand",
-          "description": "Score a goal with less than 1 HP remaining"
-        },
-        "GOT_YA": {
-          "points": 0,
-          "name": "Got Ya!",
-          "description": "Kill an enemy while they are close to your portal"
-        },
-        "HEART_HOARDER": {
-          "points": 0,
-          "name": "Heart Hoarder",
-          "description": "Win a 4 Teams game with 7 lives remaining"
-        }
-      },
-      "tiered": {
-        "UNIQUE_MAP_WINS": {
-          "name": "Conqueror",
-          "description": "Win a game on %s unique maps",
-          "tiers": [
-            {
-              "tier": 1,
-              "points": 0,
-              "amount": 3
-            },
-            {
-              "tier": 2,
-              "points": 0,
-              "amount": 6
-            },
-            {
-              "tier": 3,
-              "points": 0,
-              "amount": 9
-            },
-            {
-              "tier": 4,
-              "points": 0,
-              "amount": 12
-            },
-            {
-              "tier": 5,
-              "points": 0,
-              "amount": 15
-            }
-          ]
-        },
-        "WIN_STREAK": {
-          "name": "The Bridge Streak",
-          "description": "Get a win streak of %s in any mode",
-          "tiers": [
-            {
-              "tier": 1,
-              "points": 0,
-              "amount": 3
-            },
-            {
-              "tier": 2,
-              "points": 0,
-              "amount": 6
-            },
-            {
-              "tier": 3,
-              "points": 0,
-              "amount": 10
-            },
-            {
-              "tier": 4,
-              "points": 0,
-              "amount": 15
-            },
-            {
-              "tier": 5,
-              "points": 0,
-              "amount": 25
-            }
-          ]
-        },
-        "GOALS": {
-          "name": "The Bridge Scorer",
-          "description": "Score %s goals",
-          "tiers": [
-            {
-              "tier": 1,
-              "points": 0,
-              "amount": 25
-            },
-            {
-              "tier": 2,
-              "points": 0,
-              "amount": 100
-            },
-            {
-              "tier": 3,
-              "points": 0,
-              "amount": 250
-            },
-            {
-              "tier": 4,
-              "points": 0,
-              "amount": 500
-            },
-            {
-              "tier": 5,
-              "points": 0,
-              "amount": 1000
-            }
-          ]
-        },
-        "WINS": {
-          "name": "The Bridge Winner",
-          "description": "Win %s games of The Bridge",
-          "tiers": [
-            {
-              "tier": 1,
-              "points": 0,
-              "amount": 20
-            },
-            {
-              "tier": 2,
-              "points": 0,
-              "amount": 100
-            },
-            {
-              "tier": 3,
-              "points": 0,
-              "amount": 200
-            },
-            {
-              "tier": 4,
-              "points": 0,
-              "amount": 500
-            },
-            {
-              "tier": 5,
-              "points": 0,
-              "amount": 1000
-            }
-          ]
-        },
-        "TWO_V_TWO_WINS": {
-          "name": "2v2 Winner",
-          "description": "Win %s games of 2v2",
-          "tiers": [
-            {
-              "tier": 1,
-              "points": 0,
-              "amount": 10
-            },
-            {
-              "tier": 2,
-              "points": 0,
-              "amount": 50
-            },
-            {
-              "tier": 3,
-              "points": 0,
-              "amount": 100
-            },
-            {
-              "tier": 4,
-              "points": 0,
-              "amount": 250
-            },
-            {
-              "tier": 5,
-              "points": 0,
-              "amount": 500
-            }
-          ]
-        },
-        "FOUR_V_FOUR_WINS": {
-          "name": "4v4 Winner",
-          "description": "Win %s games of 4v4",
-          "tiers": [
-            {
-              "tier": 1,
-              "points": 0,
-              "amount": 10
-            },
-            {
-              "tier": 2,
-              "points": 0,
-              "amount": 50
-            },
-            {
-              "tier": 3,
-              "points": 0,
-              "amount": 100
-            },
-            {
-              "tier": 4,
-              "points": 0,
-              "amount": 250
-            },
-            {
-              "tier": 5,
-              "points": 0,
-              "amount": 500
-            }
-          ]
-        },
-        "FOUR_TEAMS_WINS": {
-          "name": "Four Teams Winner",
-          "description": "Win %s games in Four Teams modes",
-          "tiers": [
-            {
-              "tier": 1,
-              "points": 0,
-              "amount": 10
-            },
-            {
-              "tier": 2,
-              "points": 0,
-              "amount": 50
-            },
-            {
-              "tier": 3,
-              "points": 0,
-              "amount": 100
-            },
-            {
-              "tier": 4,
-              "points": 0,
-              "amount": 250
-            },
-            {
-              "tier": 5,
-              "points": 0,
-              "amount": 500
-            }
-          ]
-        },
-        "ONE_V_ONE_WINS": {
-          "name": "1v1 Winner",
-          "description": "Win %s games of 1v1",
-          "tiers": [
-            {
-              "tier": 1,
-              "points": 0,
-              "amount": 10
-            },
-            {
-              "tier": 2,
-              "points": 0,
-              "amount": 50
-            },
-            {
-              "tier": 3,
-              "points": 0,
-              "amount": 100
-            },
-            {
-              "tier": 4,
-              "points": 0,
-              "amount": 250
-            },
-            {
-              "tier": 5,
-              "points": 0,
-              "amount": 500
-            }
-          ]
-        }
-      },
-      "total_points": 0
-    },
     "buildbattle": {
       "one_time": {
         "GUESSING_STREAK": {
@@ -2910,6 +2585,11 @@
           "name": "More Damage",
           "description": "Win a round of a Duels Tournament after the timer runs out by dealing the most damage"
         },
+        "ON_FIRE": {
+          "points": 5,
+          "name": "On Fire",
+          "description": "Score 3 goals in a row for your team in The Bridge"
+        },
         "CLOSE_CALL": {
           "points": 10,
           "name": "Close Call!",
@@ -2929,6 +2609,21 @@
           "points": 15,
           "name": "Well Rounded",
           "description": "Win a game in 5 different Duels modes"
+        },
+        "COMMUNITY_ORIENTED": {
+          "points": 5,
+          "name": "Community Oriented",
+          "description": "Play a game on a community-submitted map"
+        },
+        "GG": {
+          "points": 5,
+          "name": "GG",
+          "description": "Win a game of The Bridge with a score of 5-4"
+        },
+        "CARRIED": {
+          "points": 5,
+          "name": "Carried",
+          "description": "Score 5 goals in a 4 Teams game of The Bridge"
         },
         "REPLAY": {
           "points": 5,
@@ -2995,6 +2690,11 @@
           "name": "Untouchable",
           "description": "Win a game of Duels without taking any damage"
         },
+        "EXPRESS_YOURSELF": {
+          "points": 5,
+          "name": "Express Yourself",
+          "description": "Use a glyph in The Bridge"
+        },
         "SMASH_YOUR_KEYBOARD": {
           "points": 10,
           "name": "Smash your Keyboard",
@@ -3015,15 +2715,40 @@
           "name": "Speed Duel",
           "description": "Win a duel within 30 seconds"
         },
+        "NINJA": {
+          "points": 5,
+          "name": "Ninja'd",
+          "description": "Score a goal while an enemy is close to your goal in The Bridge"
+        },
         "NOT_CLOSE_AT_ALL": {
           "points": 5,
           "name": "Not Close at all",
           "description": "Win a duel with only 1 heart remaining"
         },
+        "VOID_ARCHER": {
+          "points": 5,
+          "name": "Void Archer",
+          "description": "Knock a player into the void from 20 or more blocks away in The Bridge"
+        },
         "SPEEDY_SUMO": {
           "points": 5,
           "name": "Speedy Sumo",
           "description": "Win a Sumo Duels game in 5 seconds or less"
+        },
+        "GOT_YA": {
+          "points": 5,
+          "name": "Got Ya!",
+          "description": "Kill an enemy while they are close to your goal in The Bridge"
+        },
+        "LAST_STAND": {
+          "points": 5,
+          "name": "Last Stand",
+          "description": "Score a goal with less than 1 HP remaining in The Bridge"
+        },
+        "HAT_TRICK": {
+          "points": 5,
+          "name": "Hat Trick",
+          "description": "Score 3 goals in a game of The Bridge"
         },
         "GETTING_LOOT": {
           "points": 5,
@@ -3034,6 +2759,16 @@
           "points": 10,
           "name": "Can I Axe you a Question?",
           "description": "Win a game of UHC Duels without using your sword"
+        },
+        "CLEAN_SWEEP": {
+          "points": 5,
+          "name": "Clean Sweep",
+          "description": "Score 5 goals in a game of The Bridge Teams"
+        },
+        "HEART_HOARDER": {
+          "points": 10,
+          "name": "Heart Hoarder",
+          "description": "Win a 4 Teams game of The Bridge with 7 lives remaining"
         },
         "ACE": {
           "points": 15,
@@ -3054,6 +2789,11 @@
           "points": 15,
           "name": "CHAMPION!",
           "description": "Win a Duels Tournament"
+        },
+        "ONE_V_ONE_ME": {
+          "points": 5,
+          "name": "1v1 Me!",
+          "description": "Challenge someone to a Bridge Duel using /duel"
         }
       },
       "tiered": {
@@ -3085,6 +2825,37 @@
               "tier": 5,
               "points": 25,
               "amount": 5
+            }
+          ]
+        },
+        "BRIDGE_FOUR_TEAMS_WINS": {
+          "name": "Four Teams Winner",
+          "description": "Win %s games in Four Teams modes",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 10
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 50
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 100
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 250
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 500
             }
           ]
         },
@@ -3150,6 +2921,130 @@
             }
           ]
         },
+        "BRIDGE_WINS": {
+          "name": "The Bridge Winner",
+          "description": "Win %s games of The Bridge",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 20
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 100
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 200
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 500
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 1000
+            }
+          ]
+        },
+        "BRIDGE_DOUBLES_WINS": {
+          "name": "The Bridge Doubles Winner",
+          "description": "Win %s games of The Bridge Doubles",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 10
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 50
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 100
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 250
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 500
+            }
+          ]
+        },
+        "GOALS": {
+          "name": "The Bridge Scorer",
+          "description": "Score %s goals in The Bridge",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 25
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 100
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 250
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 500
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 1000
+            }
+          ]
+        },
+        "BRIDGE_TEAMS_WINS": {
+          "name": "The Bridge Teams Winner",
+          "description": "Win %s games of The Bridge Teams",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 10
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 50
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 100
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 250
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 500
+            }
+          ]
+        },
         "DUELS_TRAVELLER": {
           "name": "Traveller",
           "description": "Win a Duel on %s different maps",
@@ -3211,9 +3106,102 @@
               "amount": 100
             }
           ]
+        },
+        "BRIDGE_WIN_STREAK": {
+          "name": "The Bridge Streak",
+          "description": "Get a win streak of %s in The Bridge",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 3
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 6
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 10
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 15
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 25
+            }
+          ]
+        },
+        "BRIDGE_DUELS_WINS": {
+          "name": "The Bridge Duel Winner",
+          "description": "Win %s The Bridge Duels",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 10
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 50
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 100
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 250
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 500
+            }
+          ]
+        },
+        "UNIQUE_MAP_WINS": {
+          "name": "Conqueror",
+          "description": "Win a game on %s unique maps",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 3
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 6
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 9
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 12
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 15
+            }
+          ]
         }
       },
-      "total_points": 640
+      "total_points": 1310
     },
     "general": {
       "one_time": {
@@ -3436,7 +3424,7 @@
         "SLIPPERY": {
           "points": 10,
           "name": "Slippery",
-          "description": "Have players hit your bananas 15 times in 1 game"
+          "description": "Have players hit your bananas 12 times in 1 game"
         },
         "CANT_SEE_ANYTHING": {
           "points": 10,
@@ -4441,40 +4429,55 @@
     },
     "paintball": {
       "one_time": {
-        "UNLOCK_HAT": {
-          "points": 5,
-          "name": "Mad Hatter",
-          "description": "Unlock a hat from the store"
-        },
         "ACTIVATE_KILLSTREAKS": {
           "points": 10,
           "name": "Unstoppable",
           "description": "Activate ten killstreaks"
+        },
+        "CHEATING_DEATH": {
+          "points": 5,
+          "name": "Cheating Death",
+          "description": "Have the Ghost Hat save you from dying 5 times in one game"
         },
         "ACTIVATE_PLUS_TEN": {
           "points": 10,
           "name": "Team Player",
           "description": "Activate PlusTen three times in a game"
         },
-        "FIRST_KILL": {
+        "TRIGGER_HAPPY": {
           "points": 5,
-          "name": "The Starter",
-          "description": "Be the first person to kill someone"
+          "name": "Trigger Happy",
+          "description": "Throw the most paintballs in one game"
         },
-        "HACKER": {
+        "ENERGY_DRINK": {
           "points": 5,
-          "name": "Hacker?",
-          "description": "Use the forcefield killstreak twice in a game"
+          "name": "Energy Drink",
+          "description": "Activate Super Strong Arm and Quintuple Shot at the same time"
+        },
+        "THUNDER_STRUCK": {
+          "points": 10,
+          "name": "Thunder Struck",
+          "description": "Kill 7 or more players with one lightning strike"
         },
         "COMBO": {
           "points": 10,
           "name": "Combo",
           "description": "Activate TripleShot and Strongarm\nperks at the same time"
         },
-        "UNLOCK_KILLSTREAKS": {
+        "GOD_KILLER": {
           "points": 10,
-          "name": "Specialist",
-          "description": "Unlock ten killstreaks"
+          "name": "God Killer",
+          "description": "Use Revenge on someone with Forcefield activated"
+        },
+        "LIGHTS_OUT": {
+          "points": 5,
+          "name": "Lights Out",
+          "description": "Kill 5 players in one game while they are blinded"
+        },
+        "NOW_YOU_SEE_ME": {
+          "points": 5,
+          "name": "Now you see me",
+          "description": "Have your Ender Hat teleport you 3 times in one game"
         },
         "NO_KILLSTREAKS": {
           "points": 10,
@@ -4491,10 +4494,115 @@
           "name": "LEEEEROOYYY",
           "description": "Activate Leeroy Jenkins"
         },
+        "AT_LEAST_I_TRIED": {
+          "points": 10,
+          "name": "At least I tried",
+          "description": "Have the most kills in the game but still lose"
+        },
+        "KILLING_SPREE": {
+          "points": 10,
+          "name": "Killing Spree",
+          "description": "Kill 5 players in 5 seconds or less"
+        },
+        "HACKER": {
+          "points": 5,
+          "name": "Hacker?",
+          "description": "Use the forcefield killstreak twice in a game"
+        },
+        "UNLOCK_KILLSTREAKS": {
+          "points": 10,
+          "name": "Specialist",
+          "description": "Unlock ten killstreaks"
+        },
+        "UNDERCOVER_SLOTH": {
+          "points": 5,
+          "name": "Undercover Sloth",
+          "description": "Get a kill using the Hypixel Hat ability"
+        },
+        "EXPLOSIVE_DEATH": {
+          "points": 5,
+          "name": "Explosive Death",
+          "description": "Have the TNT Hat activate and kill a player"
+        },
+        "SARCRIFICE": {
+          "points": 5,
+          "name": "Sacrifice",
+          "description": "Kill 3 or more players using Bomberman"
+        },
+        "FIRST_KILL": {
+          "points": 5,
+          "name": "The Starter",
+          "description": "Be the first person to kill someone"
+        },
+        "CLOSURE": {
+          "points": 10,
+          "name": "Closure",
+          "description": "Get the first and last kill of the game"
+        },
+        "ON_THE_BRINK_OF_DEFEAT": {
+          "points": 5,
+          "name": "On the brink of defeat",
+          "description": "Buy lives for your team when it has less than 3 remaining"
+        },
+        "SHAKY_HANDS": {
+          "points": 10,
+          "name": "Shaky Hands",
+          "description": "Make it into the top 3 for kills in a game while using the Shaky hat"
+        },
+        "HOW_DOES_IT_FEEL": {
+          "points": 5,
+          "name": "How does it feel?",
+          "description": "Kill the same player twice in a row"
+        },
+        "SAMPLING": {
+          "points": 5,
+          "name": "Sampling",
+          "description": "Use 10 different killstreaks in one game"
+        },
+        "GO_HOME_YOURE_DRUNK": {
+          "points": 10,
+          "name": "Go home, you're drunk",
+          "description": "Get 30 kills in one game using the Drunk Hat"
+        },
         "ADMIN_HAT": {
           "points": 10,
           "name": "The Originals",
           "description": "Unlock the Hypixel and Rezzus hats"
+        },
+        "UNLOCK_HAT": {
+          "points": 5,
+          "name": "Mad Hatter",
+          "description": "Unlock a hat from the store"
+        },
+        "GODFATHER": {
+          "points": 10,
+          "name": "Godfather",
+          "description": "Unlock Godfather XXX"
+        },
+        "WARFARE_TIME": {
+          "points": 5,
+          "name": "Warfare Time",
+          "description": "Use a killstreak on Warfare Wednesday"
+        },
+        "DO_I_GET_MY_NUKE_NOW": {
+          "points": 15,
+          "name": "Do I get my nuke now?",
+          "description": "Kill 25 players without dying or activating a killstreak"
+        },
+        "JACKSON_POLLOCK": {
+          "points": 15,
+          "name": "Jackson Pollock",
+          "description": "Get 100 kills in one game"
+        },
+        "ENDURANCE": {
+          "points": 10,
+          "name": "Endurance",
+          "description": "Unlock Endurance XXX"
+        },
+        "ESPIONAGE": {
+          "points": 5,
+          "name": "Espionage",
+          "description": "Get a kill using the AgentK Hat ability"
         }
       },
       "tiered": {
@@ -4526,6 +4634,89 @@
               "tier": 5,
               "points": 25,
               "amount": 2500
+            }
+          ]
+        },
+        "HAT_COLLECTOR": {
+          "name": "Hat Collector",
+          "description": "Collect %s hats",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 7
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 14
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 21
+            }
+          ]
+        },
+        "INVINCIBLE": {
+          "name": "Invincible",
+          "description": "Spend %s seconds in a Forcefield",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 300
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 900
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 1800
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 2700
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 3600
+            }
+          ]
+        },
+        "KILL_STREAKS": {
+          "name": "Kill Streaks",
+          "description": "Activate %s killstreaks",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 100
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 500
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 10000
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 5000
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 10000
             }
           ]
         },
@@ -4592,7 +4783,7 @@
           ]
         }
       },
-      "total_points": 315
+      "total_points": 680
     },
     "quake": {
       "one_time": {
