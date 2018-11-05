@@ -1,5 +1,10 @@
 # hypixelconstants
-<a href="https://badge.fury.io/js/hypixelconstants"><img src="https://badge.fury.io/js/hypixelconstants.svg" alt="npm version" height="18"></a>
+<a href="https://badge.fury.io/js/hypixelconstants">
+   <img src="https://badge.fury.io/js/hypixelconstants.svg" alt="npm version" height="18">
+</a>
+<a href="https://www.npmjs.com/package/hypixelconstants">
+   <img src="https://img.shields.io/npm/dm/hypixelconstants.svg" alt="downloads" height="18">
+</a>
 
 Constant data for Hypixel applications. Useful for processing data from the Hypixel API.
 
