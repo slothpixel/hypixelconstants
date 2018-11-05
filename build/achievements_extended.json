@@ -32,7 +32,7 @@
         "description": "Win a game of Farm Hunt as a horse"
       },
       "DRAGONTAMER": {
-        "points": 10,
+        "points": 15,
         "name": "DragonTamer",
         "description": "Kill 7 people in one Dragon Wars game while riding a Dragon"
       },
@@ -77,7 +77,7 @@
         "description": "Gain 250 points in Lawn Moower"
       },
       "ZOMBIES_SPEED_RUNNER": {
-        "points": 10,
+        "points": 15,
         "name": "Zombies Speed Runner",
         "description": "Win a game of Zombies in under 45 minutes"
       },
@@ -152,7 +152,7 @@
         "description": "Kill a player zombie with a knife in Blocking Dead"
       },
       "ZOMBIES_WIN": {
-        "points": 15,
+        "points": 10,
         "name": "Zombies Winner",
         "description": "Win a game of Zombies"
       },
@@ -529,11 +529,11 @@
         ]
       }
     },
-    "total_points": 1060,
+    "total_points": 1065,
     "total_one_time": 44,
     "total_tiered": 49,
     "total": 93,
-    "total_points_one_time": 335,
+    "total_points_one_time": 340,
     "total_points_tiered": 725
   },
   "arena": {
@@ -543,40 +543,15 @@
         "name": "Spartacus",
         "description": "Kill someone with over 1250\nrating in 2v2"
       },
-      "NOT_EVEN_CLOSE": {
-        "points": 5,
-        "name": "Not Even Close, Baby!",
-        "description": "Win with 250 or less health remaining\nwhile being the only one alive in 2v2"
-      },
-      "COOLDOWN": {
-        "points": 10,
-        "name": "Cooldown Specialization ",
-        "description": "Buy all Cooldown Combat Upgrades"
-      },
       "MAGICAL": {
         "points": 5,
         "name": "Magical Shenanigans",
         "description": "Open the Magical Chest for\nthe first time"
       },
-      "POOL": {
-        "points": 5,
-        "name": "Life Pool",
-        "description": "Get the healing buff twice in a single game"
-      },
       "PIG": {
         "points": 15,
         "name": "Lucky Pig!",
         "description": "Find the Guided Pig 2000\nin the Magical Chest"
-      },
-      "SMASH": {
-        "points": 5,
-        "name": "Smash!",
-        "description": "Hit 2 players with a single Boulder Toss"
-      },
-      "FLAWLESS": {
-        "points": 5,
-        "name": "Flawless Victory",
-        "description": "Win with at least 2000 health remaining in 2v2"
       },
       "UTILITY": {
         "points": 5,
@@ -588,25 +563,55 @@
         "name": "Melee Specialization ",
         "description": "Buy all Melee Combat Upgrades"
       },
-      "RUNIC": {
-        "points": 5,
-        "name": "Runic Enhancements",
-        "description": "Unlock a Rune in the shop"
-      },
       "PUNISHER": {
         "points": 5,
         "name": "The Punisher",
         "description": "Get the double damage buff\ntwice in a single game"
       },
-      "OVERKILL": {
-        "points": 5,
-        "name": "Overkill",
-        "description": "Deal over 800 damage at once"
-      },
       "ENERGY": {
         "points": 10,
         "name": "Energy Specialization ",
         "description": "Buy all Energy Combat Upgrades"
+      },
+      "OFFENSIVE": {
+        "points": 5,
+        "name": "Offensive Training",
+        "description": "Unlock an Offensive Skill"
+      },
+      "NOT_EVEN_CLOSE": {
+        "points": 15,
+        "name": "Not Even Close, Baby!",
+        "description": "Win with 250 or less health remaining\nwhile being the only one alive in 2v2"
+      },
+      "COOLDOWN": {
+        "points": 10,
+        "name": "Cooldown Specialization ",
+        "description": "Buy all Cooldown Combat Upgrades"
+      },
+      "POOL": {
+        "points": 5,
+        "name": "Life Pool",
+        "description": "Get the healing buff twice in a single game"
+      },
+      "SMASH": {
+        "points": 5,
+        "name": "Smash!",
+        "description": "Hit 2 players with a single Boulder Toss"
+      },
+      "FLAWLESS": {
+        "points": 5,
+        "name": "Flawless Victory",
+        "description": "Win with at least 2000 health remaining in 2v2"
+      },
+      "RUNIC": {
+        "points": 5,
+        "name": "Runic Enhancements",
+        "description": "Unlock a Rune in the shop"
+      },
+      "OVERKILL": {
+        "points": 5,
+        "name": "Overkill",
+        "description": "Deal over 800 damage at once"
       },
       "ULTIMATE": {
         "points": 5,
@@ -632,11 +637,6 @@
         "points": 5,
         "name": "Totem Destroyer",
         "description": "Destroy a healing totem"
-      },
-      "OFFENSIVE": {
-        "points": 5,
-        "name": "Offensive Training",
-        "description": "Unlock an Offensive Skill"
       },
       "NOT_TODAY": {
         "points": 5,
@@ -709,7 +709,7 @@
       },
       "GLADIATOR": {
         "name": "Gladiator",
-        "description": "Win 2v2 %s times",
+        "description": "Win %s times",
         "tiers": [
           {
             "tier": 1,
@@ -760,11 +760,11 @@
         ]
       }
     },
-    "total_points": 395,
+    "total_points": 405,
     "total_one_time": 21,
     "total_tiered": 18,
     "total": 39,
-    "total_points_one_time": 140,
+    "total_points_one_time": 150,
     "total_points_tiered": 255
   },
   "bedwars": {
@@ -895,7 +895,7 @@
         "description": "Collect at least 50 Diamonds from generators in a game"
       },
       "SLAYER": {
-        "points": 10,
+        "points": 15,
         "name": "Dragon Slayer",
         "description": "Kill an Ender Dragon"
       },
@@ -970,7 +970,7 @@
         "description": "Be the first player to obtain an Emerald from the middle island"
       },
       "DESTROY_BEDS": {
-        "points": 15,
+        "points": 10,
         "name": "Getting the job done",
         "description": "Destroy half of the beds in one game"
       },
@@ -980,7 +980,7 @@
         "description": "Be the first player to kill an enemy"
       },
       "GETTING_THE_JOB_DONE_BETTER": {
-        "points": 10,
+        "points": 15,
         "name": "Getting The Job Done Better",
         "description": "Destroy all of the beds in a single game"
       }
@@ -1158,26 +1158,26 @@
           {
             "tier": 3,
             "points": 15,
-            "amount": 100
+            "amount": 50
           },
           {
             "tier": 4,
             "points": 20,
-            "amount": 250
+            "amount": 100
           },
           {
             "tier": 5,
             "points": 25,
-            "amount": 500
+            "amount": 250
           }
         ]
       }
     },
-    "total_points": 790,
+    "total_points": 795,
     "total_one_time": 43,
     "total_tiered": 30,
     "total": 73,
-    "total_points_one_time": 340,
+    "total_points_one_time": 345,
     "total_points_tiered": 450
   },
   "blitz": {
@@ -1320,7 +1320,7 @@
       "UNSTOPPABLE": {
         "points": 10,
         "name": "Unstoppable",
-        "description": "Kill 5 players within 10 seconds"
+        "description": "Kill 5 players within 15 seconds"
       },
       "INVINCIBLE": {
         "points": 15,
@@ -1398,12 +1398,12 @@
         "description": "Kill a player using the Rambo kit"
       },
       "LEVEL_SEVEN": {
-        "points": 15,
+        "points": 10,
         "name": "Lucky #7",
         "description": "Get a kit to level 7"
       },
       "COLLECTOR": {
-        "points": 15,
+        "points": 20,
         "name": "Collector",
         "description": "Unlock 3 level X kits"
       },
@@ -1555,22 +1555,22 @@
           {
             "tier": 2,
             "points": 10,
-            "amount": 50
+            "amount": 20
           },
           {
             "tier": 3,
             "points": 15,
-            "amount": 100
+            "amount": 50
           },
           {
             "tier": 4,
             "points": 20,
-            "amount": 250
+            "amount": 100
           },
           {
             "tier": 5,
             "points": 25,
-            "amount": 500
+            "amount": 250
           }
         ]
       },
@@ -2047,7 +2047,7 @@
         "description": "Bring a flower to Grandma in Santa Says"
       },
       "REAL_SANTA": {
-        "points": 25,
+        "points": 15,
         "name": "Real Santa",
         "description": "Find all 88 presents in every lobby"
       },
@@ -2207,11 +2207,11 @@
         ]
       }
     },
-    "total_points": 365,
+    "total_points": 355,
     "total_one_time": 18,
     "total_tiered": 15,
     "total": 33,
-    "total_points_one_time": 140,
+    "total_points_one_time": 130,
     "total_points_tiered": 225
   },
   "copsandcrims": {
@@ -2224,15 +2224,15 @@
       "OH_BABY_A_TRIPLE": {
         "points": 15,
         "name": "A Player's Nightmare",
-        "description": "Get a triple kill using a grenade"
+        "description": "Get a double kill using a grenade"
       },
       "CHARACTER_UPGRADES": {
-        "points": 10,
+        "points": 15,
         "name": "Better Version Of Yourself",
         "description": "Buy all character upgrades"
       },
       "ONE_SHOT_ONE_KIL": {
-        "points": 10,
+        "points": 5,
         "name": "One shot, one kill",
         "description": "Get a kill with your first bullet"
       },
@@ -2279,7 +2279,7 @@
       "QUAD_FLASH": {
         "points": 10,
         "name": "Stunningly Good",
-        "description": "Flash 4 players with one flashbang"
+        "description": "Flash 3 players with one flashbang"
       },
       "DARUDE_SANDSTORM": {
         "points": 5,
@@ -2414,7 +2414,7 @@
     },
     "tiered": {
       "CAC_BANKER": {
-        "name": "Bounty Hunter",
+        "name": "Bounty Collector",
         "description": "Earn %s Coins",
         "tiers": [
           {
@@ -2471,7 +2471,7 @@
           {
             "tier": 5,
             "points": 25,
-            "amount": 1000
+            "amount": 750
           }
         ]
       },
@@ -2502,7 +2502,7 @@
           {
             "tier": 5,
             "points": 25,
-            "amount": 25000
+            "amount": 20000
           }
         ]
       },
@@ -2595,7 +2595,7 @@
           {
             "tier": 5,
             "points": 25,
-            "amount": 1500
+            "amount": 1200
           }
         ]
       }
@@ -2640,7 +2640,7 @@
         "description": "Use the kit editor to edit the layout of a kit"
       },
       "WELL_ROUNDED": {
-        "points": 15,
+        "points": 10,
         "name": "Well Rounded",
         "description": "Win a game in 5 different Duels modes"
       },
@@ -2755,7 +2755,7 @@
         "description": "Score a goal while an enemy is close to your goal in The Bridge"
       },
       "NOT_CLOSE_AT_ALL": {
-        "points": 5,
+        "points": 10,
         "name": "Not Close at all",
         "description": "Win a duel with only 1 heart remaining"
       },
@@ -3410,7 +3410,7 @@
         ]
       },
       "WINS": {
-        "name": "Winning!",
+        "name": "Well Rounded!",
         "description": "Win %s minigames",
         "tiers": [
           {
@@ -3456,7 +3456,7 @@
         "description": "Hit 5 players with the \"Notched Sword\" in 1 race"
       },
       "TRYHARDER": {
-        "points": 5,
+        "points": 10,
         "name": "Tryharder!",
         "description": "Win a trophy without using any items"
       },
@@ -3556,7 +3556,7 @@
         "description": "Claim a Grand Prix reward"
       },
       "GETTIN_PAID": {
-        "points": 5,
+        "points": 15,
         "name": "Gettin' Paid",
         "description": "Win a Pink Part as a gaming reward"
       },
@@ -3638,7 +3638,7 @@
     },
     "tiered": {
       "WINNER": {
-        "name": "Winner!",
+        "name": "Medalist",
         "description": "Get %s trophies",
         "tiers": [
           {
@@ -3762,11 +3762,11 @@
         ]
       }
     },
-    "total_points": 585,
+    "total_points": 600,
     "total_one_time": 37,
     "total_tiered": 20,
     "total": 57,
-    "total_points_one_time": 285,
+    "total_points_one_time": 300,
     "total_points_tiered": 300
   },
   "halloween2017": {
@@ -3889,7 +3889,7 @@
       "CLASSY_WITHER": {
         "points": 10,
         "name": "Classy Wither",
-        "description": "Win a game of TNT Wizards with the Wither Wizard kit and the Wither Death Effect"
+        "description": "Win a game of TNT Wizards with the Wither Wizard kit"
       },
       "MY_HALLOWEEN_COSTUME": {
         "points": 5,
@@ -4534,7 +4534,7 @@
         "description": "Use Revenge on someone with Forcefield activated"
       },
       "LIGHTS_OUT": {
-        "points": 5,
+        "points": 10,
         "name": "Lights Out",
         "description": "Kill 5 players in one game while they are blinded"
       },
@@ -4569,7 +4569,7 @@
         "description": "Kill 5 players in 5 seconds or less"
       },
       "HACKER": {
-        "points": 5,
+        "points": 15,
         "name": "Hacker?",
         "description": "Use the forcefield killstreak twice in a game"
       },
@@ -4651,7 +4651,7 @@
       "DO_I_GET_MY_NUKE_NOW": {
         "points": 15,
         "name": "Do I get my nuke now?",
-        "description": "Kill 25 players without dying or activating a killstreak"
+        "description": "Kill 25 players in a row without dying or activating a killstreak"
       },
       "JACKSON_POLLOCK": {
         "points": 15,
@@ -4697,7 +4697,7 @@
           {
             "tier": 5,
             "points": 25,
-            "amount": 2500
+            "amount": 2000
           }
         ]
       },
@@ -4770,7 +4770,7 @@
           {
             "tier": 3,
             "points": 15,
-            "amount": 10000
+            "amount": 1000
           },
           {
             "tier": 4,
@@ -4837,21 +4837,21 @@
           {
             "tier": 4,
             "points": 20,
-            "amount": 100000
+            "amount": 50000
           },
           {
             "tier": 5,
             "points": 25,
-            "amount": 200000
+            "amount": 100000
           }
         ]
       }
     },
-    "total_points": 680,
+    "total_points": 695,
     "total_one_time": 35,
     "total_tiered": 28,
     "total": 63,
-    "total_points_one_time": 275,
+    "total_points_one_time": 290,
     "total_points_tiered": 405
   },
   "quake": {
@@ -5436,14 +5436,14 @@
         "description": "Knock someone into the void using the One Punch Bow"
       },
       "NEW_PASSIVE": {
-        "points": 10,
+        "points": 15,
         "name": "New Passive!",
         "description": "Master a Kit"
       },
       "SHARP_JUSTICE": {
         "points": 5,
         "name": "Sharpened Justice",
-        "description": "Find a Sharpness II Sword of Justice in a chest"
+        "description": "Find a Sword of Justice in a chest"
       },
       "SKYCLASH_EXPERT": {
         "points": 5,
@@ -5466,7 +5466,7 @@
         "description": "Win a game without using any kind of potion"
       },
       "BOO": {
-        "points": 10,
+        "points": 5,
         "name": "Boo!",
         "description": "Get a kill within 3 seconds of using an Ender Pearl"
       },
@@ -5533,10 +5533,10 @@
       "IM_A_BETTER_WIZARD": {
         "points": 10,
         "name": "I'm an even better Wizard!",
-        "description": "Kill 2 or more players with one Fireball"
+        "description": "Kill a player with a Fireball"
       },
       "GOD_OF_MONSTERS": {
-        "points": 5,
+        "points": 10,
         "name": "God of monsters",
         "description": "Spawn a total of 1,000 mobs"
       },
@@ -5556,7 +5556,7 @@
         "description": "Kill 3 players in the same game with The Spoon"
       },
       "ENDLESS_QUIVER": {
-        "points": 5,
+        "points": 10,
         "name": "Endless Quiver",
         "description": "Shoot a total of 10,000 arrows"
       },
@@ -5615,12 +5615,12 @@
           {
             "tier": 4,
             "points": 20,
-            "amount": 1500
+            "amount": 1000
           },
           {
             "tier": 5,
             "points": 25,
-            "amount": 3000
+            "amount": 2000
           }
         ]
       },
@@ -5651,7 +5651,7 @@
           {
             "tier": 5,
             "points": 25,
-            "amount": 1500
+            "amount": 1000
           }
         ]
       },
@@ -5739,21 +5739,21 @@
           {
             "tier": 4,
             "points": 20,
-            "amount": 750
+            "amount": 700
           },
           {
             "tier": 5,
             "points": 25,
-            "amount": 1500
+            "amount": 1200
           }
         ]
       }
     },
-    "total_points": 705,
+    "total_points": 715,
     "total_one_time": 40,
     "total_tiered": 28,
     "total": 68,
-    "total_points_one_time": 300,
+    "total_points_one_time": 310,
     "total_points_tiered": 405
   },
   "skywars": {
@@ -5774,12 +5774,12 @@
         "description": "Wear a full Diamond set of armor"
       },
       "MOB_SPAWNER": {
-        "points": 10,
+        "points": 5,
         "name": "Mob Spawner",
         "description": "Spawn a mob"
       },
       "BALLER": {
-        "points": 10,
+        "points": 5,
         "name": "Baller!",
         "description": "Get 2 snowball kills in one game"
       },
@@ -5849,12 +5849,12 @@
         "description": "Eat a Golden Apple"
       },
       "NICK_CAGE": {
-        "points": 10,
+        "points": 15,
         "name": "Nick Cage",
         "description": "Unlock Nicolas Cage"
       },
       "WELL_WELL": {
-        "points": 10,
+        "points": 5,
         "name": "Well, well",
         "description": "Use the Soul Well"
       },
@@ -5874,7 +5874,7 @@
         "description": "Win a Mega game without opening any chest"
       },
       "GONE_FISHING": {
-        "points": 10,
+        "points": 5,
         "name": "Gone Fishing",
         "description": "Get a Fishing Rod kill"
       },
@@ -5884,7 +5884,7 @@
         "description": "Get a kill in the first 10 seconds of the game"
       },
       "FEAR_ME": {
-        "points": 10,
+        "points": 15,
         "name": "Fear me mortals",
         "description": "Max out a Mega Kit"
       },
@@ -5929,7 +5929,7 @@
         "description": "Win a Mega game before the last chest refill"
       },
       "CRIMINAL": {
-        "points": 5,
+        "points": 10,
         "name": "Criminal",
         "description": "Use the robbery perk to drop an item from another player"
       },
@@ -5949,7 +5949,7 @@
         "description": "Win a Ranked game in less than a minute"
       },
       "MYSTERY_MOB": {
-        "points": 10,
+        "points": 15,
         "name": "Uh oh...",
         "description": "Spawn the mystery mob using the zookeeper kit"
       },
@@ -5992,12 +5992,12 @@
           {
             "tier": 4,
             "points": 20,
-            "amount": 500
+            "amount": 250
           },
           {
             "tier": 5,
             "points": 25,
-            "amount": 1000
+            "amount": 500
           }
         ]
       },
@@ -6194,7 +6194,7 @@
           {
             "tier": 5,
             "points": 25,
-            "amount": 25000
+            "amount": 10000
           }
         ]
       },
@@ -6322,7 +6322,7 @@
         "description": "Find a Golden Apple from a tree"
       },
       "NATURAL_TALENT": {
-        "points": 10,
+        "points": 15,
         "name": "Natural Talent",
         "description": "Obtain 100 kills with 7 different Masteries"
       },
@@ -6342,7 +6342,7 @@
         "description": "Obtain an enchanted Bow from a Skeleton"
       },
       "SNIPE_PLAYER": {
-        "points": 10,
+        "points": 15,
         "name": "Executed!",
         "description": "Kill a player at least 75 blocks away with a bow"
       },
@@ -6451,12 +6451,12 @@
           {
             "tier": 4,
             "points": 20,
-            "amount": 5000
+            "amount": 3500
           },
           {
             "tier": 5,
             "points": 25,
-            "amount": 10000
+            "amount": 7000
           }
         ]
       },
@@ -6518,16 +6518,16 @@
           {
             "tier": 5,
             "points": 25,
-            "amount": 1500
+            "amount": 1000
           }
         ]
       }
     },
-    "total_points": 425,
+    "total_points": 435,
     "total_one_time": 19,
     "total_tiered": 20,
     "total": 39,
-    "total_points_one_time": 125,
+    "total_points_one_time": 135,
     "total_points_tiered": 300
   },
   "supersmash": {
@@ -6535,7 +6535,7 @@
       "GENCLUCK_CHALLENGE": {
         "points": 5,
         "name": "General Cluck Challenge",
-        "description": "Kill every enemy hero at least once with your Chicken Army"
+        "description": "Kill 2 enemy heroes with your Chicken Army"
       },
       "PUG_CHALLENGE": {
         "points": 5,
@@ -6543,7 +6543,7 @@
         "description": "Kill at least 2 enemies with the same Sonic Bark"
       },
       "YOUNG_APPRENTICE": {
-        "points": 10,
+        "points": 20,
         "name": "Young Apprentice, You are not",
         "description": "Unlock a Master Skin for a Hero"
       },
@@ -6686,7 +6686,7 @@
           {
             "tier": 3,
             "points": 15,
-            "amount": 300
+            "amount": 250
           },
           {
             "tier": 4,
@@ -6696,7 +6696,7 @@
           {
             "tier": 5,
             "points": 25,
-            "amount": 1000
+            "amount": 750
           }
         ]
       },
@@ -6784,11 +6784,11 @@
         ]
       }
     },
-    "total_points": 420,
+    "total_points": 430,
     "total_one_time": 27,
     "total_tiered": 18,
     "total": 45,
-    "total_points_one_time": 165,
+    "total_points_one_time": 175,
     "total_points_tiered": 255
   },
   "tntgames": {
@@ -6854,12 +6854,12 @@
         "description": "Upgrade Bow Spleef Repulsor\nto level VI"
       },
       "PVP_RUN_FLYING": {
-        "points": 15,
+        "points": 10,
         "name": "I can do that",
         "description": "Kill someone in PVP Run with your sword while using a Double Jump"
       },
       "WIZARDS_TRIPLE": {
-        "points": 10,
+        "points": 15,
         "name": "1 ... 2 ... 3!",
         "description": "Get a triple kill in TNT Wizards"
       },
@@ -6971,7 +6971,7 @@
       "WIZARDS_ASSISTANT": {
         "points": 10,
         "name": "Assistant",
-        "description": "Get 30 assists in one TNT Wizards game"
+        "description": "Get 20 assists in one TNT Wizards game"
       },
       "BYE_BYE": {
         "points": 10,
@@ -7172,7 +7172,7 @@
           {
             "tier": 5,
             "points": 25,
-            "amount": 500
+            "amount": 250
           }
         ]
       },
@@ -7405,7 +7405,7 @@
           {
             "tier": 2,
             "points": 10,
-            "amount": 20
+            "amount": 25
           },
           {
             "tier": 3,
@@ -7420,7 +7420,7 @@
           {
             "tier": 5,
             "points": 25,
-            "amount": 500
+            "amount": 150
           }
         ]
       },
@@ -7507,7 +7507,7 @@
         "description": "Use more than 20 healing potions in a single game"
       },
       "NOT_UHC": {
-        "points": 5,
+        "points": 10,
         "name": "This is not UHC!",
         "description": "Kill a player using Lightning Axe"
       },
@@ -7579,10 +7579,10 @@
       "I_FNA": {
         "points": 5,
         "name": "I FNA!",
-        "description": "Win while wearing a staff member's head"
+        "description": "Win while wearing a MVP++'s head"
       },
       "DOMINATING": {
-        "points": 10,
+        "points": 5,
         "name": "Dominating!",
         "description": "Kill 2 players before the red walls fall"
       },
@@ -7597,9 +7597,9 @@
         "description": "Buy an item in the shop in game"
       },
       "MONSTERKILL": {
-        "points": 10,
+        "points": 15,
         "name": "Monsterkill",
-        "description": "Get at least 15 kills in a game of Team Mode"
+        "description": "Get at least 12 kills in a game of Team Mode"
       },
       "DESTINY_CALLS": {
         "points": 5,
@@ -7607,7 +7607,7 @@
         "description": "Find a Lucky Block"
       },
       "STICKY_SITUATION": {
-        "points": 5,
+        "points": 10,
         "name": "Sticky Situation",
         "description": "Get the legendary stick from the weapon lucky block"
       },
@@ -7638,7 +7638,7 @@
       },
       "DRAGON_SLAYER": {
         "points": 15,
-        "name": "Dragon Slayer",
+        "name": "Boss fight",
         "description": "Kill an Ender Dragon"
       },
       "MAXED_PERK": {
@@ -7674,7 +7674,7 @@
     },
     "tiered": {
       "SOLO_KILLER": {
-        "name": "Solo Killer",
+        "name": "Crazy Killer",
         "description": "Kill %s players in Solo Normal or Lucky modes",
         "tiers": [
           {
@@ -7726,13 +7726,13 @@
         ]
       },
       "SOLO_WINNER": {
-        "name": "Solo Winner",
+        "name": "Maniac",
         "description": "Win %s games of Solo Normal or Lucky modes",
         "tiers": [
           {
             "tier": 1,
             "points": 5,
-            "amount": 5
+            "amount": 10
           },
           {
             "tier": 2,
@@ -7742,17 +7742,17 @@
           {
             "tier": 3,
             "points": 15,
-            "amount": 200
+            "amount": 100
           },
           {
             "tier": 4,
             "points": 20,
-            "amount": 500
+            "amount": 250
           },
           {
             "tier": 5,
             "points": 25,
-            "amount": 1000
+            "amount": 500
           }
         ]
       },
@@ -7814,7 +7814,7 @@
           {
             "tier": 5,
             "points": 25,
-            "amount": 1500
+            "amount": 1000
           }
         ]
       },
@@ -7840,13 +7840,13 @@
         ]
       },
       "TEAM_WINNER": {
-        "name": "Team Winner",
+        "name": "Crazy Teamwork",
         "description": "Win %s games of Team Normal or Lucky modes",
         "tiers": [
           {
             "tier": 1,
             "points": 5,
-            "amount": 5
+            "amount": 10
           },
           {
             "tier": 2,
@@ -7856,22 +7856,22 @@
           {
             "tier": 3,
             "points": 15,
-            "amount": 200
+            "amount": 100
           },
           {
             "tier": 4,
             "points": 20,
-            "amount": 500
+            "amount": 250
           },
           {
             "tier": 5,
             "points": 25,
-            "amount": 1000
+            "amount": 500
           }
         ]
       },
       "TEAM_KILLER": {
-        "name": "Team Killer",
+        "name": "Team Butcher",
         "description": "Kill %s players in Team Normal or Lucky modes",
         "tiers": [
           {
@@ -7902,11 +7902,11 @@
         ]
       }
     },
-    "total_points": 775,
+    "total_points": 785,
     "total_one_time": 35,
     "total_tiered": 36,
     "total": 71,
-    "total_points_one_time": 265,
+    "total_points_one_time": 275,
     "total_points_tiered": 510
   },
   "uhc": {
@@ -8012,7 +8012,7 @@
         "description": "Enter the Nether"
       },
       "CHAMPION_RANK": {
-        "points": 15,
+        "points": 25,
         "name": "Champion!",
         "description": "Get the Champion Rank"
       },
@@ -8208,11 +8208,11 @@
         ]
       }
     },
-    "total_points": 585,
+    "total_points": 595,
     "total_one_time": 34,
     "total_tiered": 20,
     "total": 54,
-    "total_points_one_time": 285,
+    "total_points_one_time": 295,
     "total_points_tiered": 300
   },
   "vampirez": {
@@ -8356,11 +8356,6 @@
         "points": 10,
         "name": "Bloody Bulldozer",
         "description": "Kill 10 Survivors in one game"
-      },
-      "CLOSE_CALL": {
-        "points": 10,
-        "name": "Close Call",
-        "description": "Kill a Vampire while on half a heart"
       },
       "ZOMBIE_WHISPERER": {
         "points": 5,
@@ -8525,11 +8520,11 @@
         ]
       }
     },
-    "total_points": 620,
-    "total_one_time": 30,
+    "total_points": 610,
+    "total_one_time": 29,
     "total_tiered": 25,
-    "total": 55,
-    "total_points_one_time": 245,
+    "total": 54,
+    "total_points_one_time": 235,
     "total_points_tiered": 375
   },
   "walls": {
@@ -8565,7 +8560,7 @@
         "description": "Craft a boat"
       },
       "TEN_KILLS": {
-        "points": 10,
+        "points": 15,
         "name": "Disaster",
         "description": "Get ten kills in one game"
       },
@@ -8610,7 +8605,7 @@
         "description": "Get the Canadian Starter Kit"
       },
       "STARTER_KITS": {
-        "points": 15,
+        "points": 10,
         "name": "MOAR!!",
         "description": "Unlock 15 Starter Kits"
       },
@@ -8747,7 +8742,7 @@
       "WOLF_SMASH": {
         "points": 10,
         "name": "Dirty dog",
-        "description": "Get 15 total FK's while under 5 HP as Werewolf"
+        "description": "Get 15 total FK's while under 10 HP as Werewolf"
       },
       "GONE_VEGAN": {
         "points": 10,
@@ -8772,7 +8767,7 @@
       "BIRDS_EYE": {
         "points": 10,
         "name": "Bird's Eye",
-        "description": "Hit an enemy with Shadow Burst from over 50 blocks away."
+        "description": "Hit an enemy with Shadow Burst from over 35 blocks away."
       },
       "TREASURE_HUNTER": {
         "points": 10,
@@ -8792,7 +8787,7 @@
       "HAMMER_HEAD": {
         "points": 10,
         "name": "Hammerhead",
-        "description": "Kill 250 players while both you and them are in water"
+        "description": "Kill 100 players while both you and them are in water"
       },
       "LEGENDARY_SQUID": {
         "points": 15,
@@ -8892,7 +8887,7 @@
       "SNEAK_ATTACK": {
         "points": 10,
         "name": "Sneak attack",
-        "description": "Get 200 total FK's or FA's from behind as Enderman"
+        "description": "Get 100 total FK's or FA's from behind as Enderman"
       },
       "BLOOD_LUST": {
         "points": 5,
@@ -8922,7 +8917,7 @@
       "SLEEPYTIME": {
         "points": 10,
         "name": "Sleepytime",
-        "description": "Craft and place a bed in 100 games as Zombie"
+        "description": "Craft and place a bed in 50 games as Zombie"
       },
       "LEGENDARY_ENDERMAN": {
         "points": 15,
@@ -8952,7 +8947,7 @@
       "MARKSMAN": {
         "points": 10,
         "name": "Marksman",
-        "description": "Get 25 FK's or FA's from over 50 blocks as Skeleton"
+        "description": "Get 25 FK's from over 30 blocks as Skeleton"
       },
       "LEGENDARY_SHARK": {
         "points": 15,
@@ -8987,7 +8982,7 @@
       "POTIONS_OF_DEATH": {
         "points": 10,
         "name": "Potions of Death",
-        "description": "Get 10 Final Kills with Arcane Explosion as Arcanist"
+        "description": "Get 8 Final Kills with Arcane Explosion as Arcanist"
       },
       "LEGENDARY_ASSASSIN": {
         "points": 15,
@@ -9032,7 +9027,7 @@
       "MULTI_KILL": {
         "points": 10,
         "name": "Multi-kill!",
-        "description": "Get 5 FK's or FA's in a period of 7 seconds as Herobrine"
+        "description": "Get 5 FK's or FA's in a period of 15 seconds as Herobrine"
       },
       "YEEHAW": {
         "points": 10,
@@ -9077,7 +9072,7 @@
       "SPEED_RUN": {
         "points": 10,
         "name": "Speedrun",
-        "description": "Attack all three enemy withers within 2 minutes after the walls have fallen as Enderman"
+        "description": "Attack all three enemy withers within 3 minutes after the walls have fallen as Enderman"
       },
       "BORN_TALENTED": {
         "points": 10,
@@ -9142,7 +9137,7 @@
       "SKELETONS_BEST_FRIEND": {
         "points": 10,
         "name": "Skeleton's best friend",
-        "description": "Mine 100 diamond ore as Skeleton"
+        "description": "Mine 50 diamond ore as Skeleton"
       },
       "DEATH_FROM_ABOVE": {
         "points": 10,
@@ -9217,7 +9212,7 @@
       "MAXIMUM_EFFORT": {
         "points": 10,
         "name": "Maximum Effort",
-        "description": "Get 3 Final Kills in 6 seconds as Dreadlord"
+        "description": "Get 3 Final Kills in 12 seconds as Dreadlord"
       },
       "REVENGE_OF_THE_WOLVES": {
         "points": 10,
@@ -9227,7 +9222,7 @@
       "RUSHLORD": {
         "points": 10,
         "name": "Rushlord",
-        "description": "Deal 50,000 wither damage total as Dreadlord"
+        "description": "Deal 20,000 wither damage total as Dreadlord"
       },
       "HIGH_ON_ORES": {
         "points": 10,
@@ -9285,7 +9280,7 @@
         "description": "Hit 1200 enemies while coming out of Shadow Cloak"
       },
       "EXCHANGE": {
-        "points": 5,
+        "points": 15,
         "name": "Exchange",
         "description": "Purchase 10 Mythic Favor at once"
       },
@@ -9402,12 +9397,12 @@
       "TERMINATED_SCRIPT": {
         "points": 10,
         "name": "Terminated Script",
-        "description": "Siphon 8000 energy from killing enemies"
+        "description": "Siphon 3000 energy from killing enemies"
       },
       "CONSTRUCTOR": {
         "points": 10,
         "name": "Constructor",
-        "description": "Place 25,000 total blocks in preparation time as Moleman"
+        "description": "Place 15,000 total blocks in preparation time as Moleman"
       },
       "MOO_BRAWL": {
         "points": 10,
@@ -9649,22 +9644,22 @@
           {
             "tier": 2,
             "points": 10,
-            "amount": 5
+            "amount": 4
           },
           {
             "tier": 3,
             "points": 15,
-            "amount": 10
+            "amount": 8
           },
           {
             "tier": 4,
             "points": 20,
-            "amount": 20
+            "amount": 12
           },
           {
             "tier": 5,
             "points": 25,
-            "amount": 35
+            "amount": 16
           }
         ]
       },
@@ -9700,17 +9695,17 @@
         ]
       }
     },
-    "total_points": 2140,
+    "total_points": 2150,
     "total_one_time": 144,
     "total_tiered": 40,
     "total": 184,
-    "total_points_one_time": 1540,
+    "total_points_one_time": 1550,
     "total_points_tiered": 600
   },
   "warlords": {
     "one_time": {
       "MEDIUM_RARE": {
-        "points": 10,
+        "points": 5,
         "name": "Medium Rare",
         "description": "Receive a Rare weapon from The Weaponsmith."
       },
@@ -9770,7 +9765,7 @@
         "description": "Win by 500 points in Team Deathmatch."
       },
       "CAPTURE_THE_WIN": {
-        "points": 5,
+        "points": 10,
         "name": "Capture The Win!",
         "description": "Capture 3 flags in one game of CTF."
       },
@@ -9805,7 +9800,7 @@
         "description": "Survive a game of Team Deathmatch with at least one kill, without dying yourself."
       },
       "MAKIN_SOME_ROOM": {
-        "points": 10,
+        "points": 5,
         "name": "Makin' Some Room",
         "description": "Salvage a Weapon."
       },
@@ -9815,7 +9810,7 @@
         "description": "Heal yourself for a total of at least 1000 health with the Earthliving weapon."
       },
       "SLOW_DOWN_THERE": {
-        "points": 5,
+        "points": 10,
         "name": "Slow Down There",
         "description": "Kill someone with a Freezing Breath while holding a flag."
       },
@@ -9865,17 +9860,17 @@
         "description": "Heal yourself and 5 allies with 1 skill"
       },
       "COLLATERAL_DAMAGE": {
-        "points": 5,
+        "points": 10,
         "name": "Collateral Damage",
         "description": "Kill 2 players with one Chain Lightning."
       },
       "FEELING_SPECIAL": {
-        "points": 10,
+        "points": 5,
         "name": "Feeling Special!",
         "description": "Change your weapon's appearance using the Skin Selector."
       },
       "FIRST_OF_MANY": {
-        "points": 10,
+        "points": 5,
         "name": "The First Of Many",
         "description": "Get a Broken Weapon repaired by The Weaponsmith."
       },
@@ -9885,7 +9880,7 @@
         "description": "Receive an Epic weapon from The Weaponsmith."
       },
       "LEGENDARY": {
-        "points": 10,
+        "points": 15,
         "name": "Legen...Wait For It...Dary!",
         "description": "Receive a Legendary weapon from The Weaponsmith."
       },
@@ -9905,12 +9900,12 @@
         "description": "Place in the top 3 for both damage and healing at the end of the game"
       },
       "CHAIN_KILL": {
-        "points": 10,
+        "points": 5,
         "name": "Chain Kill",
         "description": "Kill two players within 5 seconds of each other."
       },
       "SUPER_SOAKER": {
-        "points": 5,
+        "points": 10,
         "name": "Super Soaker",
         "description": "Shoot a Water Bolt that simultaneously lands a killing blow on an enemy and heals a teammate that had less than 75% health remaining."
       },
@@ -10005,17 +10000,17 @@
           {
             "tier": 3,
             "points": 15,
-            "amount": 250
+            "amount": 100
           },
           {
             "tier": 4,
             "points": 20,
-            "amount": 500
+            "amount": 250
           },
           {
             "tier": 5,
             "points": 25,
-            "amount": 1000
+            "amount": 500
           }
         ]
       },
@@ -10160,17 +10155,17 @@
           {
             "tier": 3,
             "points": 15,
-            "amount": 250
+            "amount": 100
           },
           {
             "tier": 4,
             "points": 20,
-            "amount": 500
+            "amount": 250
           },
           {
             "tier": 5,
             "points": 25,
-            "amount": 1000
+            "amount": 500
           }
         ]
       },
@@ -10232,7 +10227,7 @@
           {
             "tier": 5,
             "points": 25,
-            "amount": 25000
+            "amount": 20000
           }
         ]
       },
