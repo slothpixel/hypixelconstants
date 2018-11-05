@@ -1,4 +1,30 @@
 {
+  "CvC": {
+    "alleyway": {
+      "name": "Alleyway"
+    },
+    "atomic": {
+      "name": "Atomic"
+    },
+    "carrier": {
+      "name": "Carrier"
+    },
+    "melon_factory": {
+      "name": "Melon Factory"
+    },
+    "overgrown": {
+      "name": "Overgrown"
+    },
+    "reserve": {
+      "name": "Reserve"
+    },
+    "sandstorm": {
+      "name": "Sandstorm"
+    },
+    "temple": {
+      "name": "Temple"
+    }
+  },
   "TKR": {
     "retro": {
       "name": "Retro"
@@ -14,6 +40,50 @@
     },
     "canyon": {
       "name": "Canyon"
+    }
+  },
+  "Quake": {
+    "apex": {
+      "name": "Apex"
+    },
+    "apex2": {
+      "name": "Apex II"
+    },
+    "ascended": {
+      "name": "Ascended"
+    },
+    "belmorn": {
+      "name": "Belmorn"
+    },
+    "cold_war": {
+      "name": "Cold War"
+    },
+    "demonic": {
+      "name": "Demonic"
+    },
+    "depths": {
+      "name": "Depths"
+    },
+    "digsite": {
+      "name": "Digsite"
+    },
+    "digsite2": {
+      "name": "Digsite 2"
+    },
+    "fryst": {
+      "name": "Fryst"
+    },
+    "lost_world": {
+      "name": "Lost World"
+    },
+    "martian": {
+      "name": "Martian"
+    },
+    "reactor": {
+      "name": "Reactor"
+    },
+    "sero": {
+      "name": "Sero"
     }
   }
 }
