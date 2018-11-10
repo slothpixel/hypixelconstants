@@ -19,7 +19,7 @@
   "homepage": "https://github.com/slothpixel/hypixelconstants#readme",
   "dependencies": {},
   "devDependencies": {
-    "async": "^2.0.1",
-    "request": "^2.74.0"
+    "async": "^2.6.1",
+    "request": "^2.88.0"
   }
 }
