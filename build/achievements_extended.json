@@ -1,5 +1,655 @@
 {
-  "arcade": {
+  "christmas2017": {
+    "one_time": {
+      "GREED_INCARNATE": {
+        "points": 15,
+        "name": "Greed Incarnate",
+        "description": "Steal 42 presents in a single game of Grinch Simulator"
+      },
+      "LEGENDARY": {
+        "points": 10,
+        "name": "LEGENDARY!",
+        "description": "Find a Legendary Gift in SkyWars, Blitz or Murder Mystery"
+      },
+      "SHARING_IS_CARING": {
+        "points": 5,
+        "name": "Sharing is Caring",
+        "description": "Give one of your wrapped presents to another player in Bed Wars"
+      },
+      "EAT_THIS": {
+        "points": 5,
+        "name": "EAT THIS",
+        "description": "Shoot a snowball at another Grinch in Grinch Simulator"
+      },
+      "RESPECT_YOUR_ELDER": {
+        "points": 5,
+        "name": "Respect your Elder",
+        "description": "Bring a flower to Grandma in Santa Says"
+      },
+      "REAL_SANTA": {
+        "points": 15,
+        "name": "Real Santa",
+        "description": "Find all 88 presents in every lobby"
+      },
+      "CHRISTMAS_QUEST": {
+        "points": 10,
+        "name": "Seasonal Quester",
+        "description": "Complete 5 Winter Seasonal Quests"
+      },
+      "STEAL_FAIRLY": {
+        "points": 10,
+        "name": "Feared but Fair",
+        "description": "Steal a gift from each house in a game of Grinch Simulator"
+      },
+      "UH_UH": {
+        "points": 5,
+        "name": "Uh uh",
+        "description": "When tasked to shoot yourself with an arrow in Santa Says, shoot someone else"
+      },
+      "BLACKSMITH": {
+        "points": 10,
+        "name": "Ultimate Blacksmith",
+        "description": "When given ingots in Santa Says, craft a Clock"
+      },
+      "SUGAR_RUSH": {
+        "points": 5,
+        "name": "Sugar Rush",
+        "description": "Give sugar to a horse in Santa Says"
+      },
+      "DEM_COWS": {
+        "points": 5,
+        "name": "Worth it",
+        "description": "When tasked to kill a chicken in Santa Says, kill a cow instead"
+      },
+      "MERRY_CHRISTMAS": {
+        "points": 5,
+        "name": "Happy Holidays",
+        "description": "Speak to the Holidays Guide in the Main Lobby"
+      },
+      "BOUNCY_CASTLE": {
+        "points": 5,
+        "name": "Bouncy Castle",
+        "description": "Jump on the Bouncy Castle in the Main Lobby"
+      },
+      "NOT_MY_MOM": {
+        "points": 5,
+        "name": "You're not my mom",
+        "description": "When tasked to stand still in Santa Says, sneak"
+      },
+      "HUNT_BEGINS": {
+        "points": 5,
+        "name": "The Hunt Begins",
+        "description": "Find 2 lobby presents"
+      },
+      "SANTA_HELPER": {
+        "points": 5,
+        "name": "Santa Helper",
+        "description": "Bring the right items back to every special character in a single Bed Wars game"
+      },
+      "NOM_NOM": {
+        "points": 5,
+        "name": "Nom nom",
+        "description": "Craft a Santa Cookie in UHC"
+      }
+    },
+    "tiered": {
+      "SANTA_SAYS_ROUNDS": {
+        "name": "Santa Says Winner",
+        "description": "Complete %s tasks in Santa Says",
+        "tiers": [
+          {
+            "tier": 1,
+            "points": 5,
+            "amount": 3
+          },
+          {
+            "tier": 2,
+            "points": 10,
+            "amount": 10
+          },
+          {
+            "tier": 3,
+            "points": 15,
+            "amount": 30
+          },
+          {
+            "tier": 4,
+            "points": 20,
+            "amount": 75
+          },
+          {
+            "tier": 5,
+            "points": 25,
+            "amount": 150
+          }
+        ]
+      },
+      "ADVENT": {
+        "name": "Advent Calendar",
+        "description": "Claim %s days in the Advent Calendar",
+        "tiers": [
+          {
+            "tier": 1,
+            "points": 5,
+            "amount": 1
+          },
+          {
+            "tier": 2,
+            "points": 10,
+            "amount": 3
+          },
+          {
+            "tier": 3,
+            "points": 15,
+            "amount": 7
+          },
+          {
+            "tier": 4,
+            "points": 20,
+            "amount": 14
+          },
+          {
+            "tier": 5,
+            "points": 25,
+            "amount": 21
+          }
+        ]
+      },
+      "NO_CHRISTMAS": {
+        "name": "No Christmas For You",
+        "description": "Pickup %s presents in Grinch Simulator",
+        "tiers": [
+          {
+            "tier": 1,
+            "points": 5,
+            "amount": 5
+          },
+          {
+            "tier": 2,
+            "points": 10,
+            "amount": 25
+          },
+          {
+            "tier": 3,
+            "points": 15,
+            "amount": 60
+          },
+          {
+            "tier": 4,
+            "points": 20,
+            "amount": 150
+          },
+          {
+            "tier": 5,
+            "points": 25,
+            "amount": 300
+          }
+        ]
+      }
+    },
+    "total_points": 355,
+    "total_one_time": 18,
+    "total_tiered": 15,
+    "total": 33,
+    "total_points_one_time": 130,
+    "total_points_tiered": 225
+  },
+  "general": {
+    "one_time": {
+      "VIP": {
+        "points": 10,
+        "name": "Very Important Person",
+        "description": "Become a VIP"
+      },
+      "FRIENDS_25": {
+        "points": 10,
+        "name": "Popular",
+        "description": "Get 25+ friends"
+      },
+      "YOUTUBER": {
+        "points": 10,
+        "name": "EEEEKK!",
+        "description": "Be in the same lobby as a YouTuber"
+      },
+      "FIRST_JOIN": {
+        "points": 5,
+        "name": "Achievement Get! Hypixel Server!",
+        "description": "Join the Hypixel Network for the first time"
+      },
+      "USE_PORTAL": {
+        "points": 5,
+        "name": "Thinking with Portals",
+        "description": "Use a portal to teleport to a game"
+      },
+      "FIRST_GAME": {
+        "points": 5,
+        "name": "Baby Steps",
+        "description": "Play a minigame"
+      },
+      "FIRST_CHAT": {
+        "points": 5,
+        "name": "Let the world hear your voice!",
+        "description": "Use chat for the first time"
+      },
+      "FIRST_FRIEND": {
+        "points": 5,
+        "name": "Not forever alone...",
+        "description": "Make a friend using the friend\nsystem"
+      },
+      "ACHIEVEMENT_NPC": {
+        "points": 5,
+        "name": "Achievements!?!",
+        "description": "Click the Achievements Guide in the Main Lobby"
+      },
+      "VIP_PLUS": {
+        "points": 15,
+        "name": "Very Very Important Person",
+        "description": "Become a VIP+"
+      },
+      "CREEPERBOOK": {
+        "points": 5,
+        "name": "Creeperbook",
+        "description": "Link your Minecraft account with\nyour forum account"
+      },
+      "GIFTING": {
+        "points": 15,
+        "name": "Gift Giver",
+        "description": "Send a gift bundle to one\nof your friends"
+      },
+      "FIRST_PARTY": {
+        "points": 10,
+        "name": "Strength in numbers",
+        "description": "Party up for the first time"
+      },
+      "A_LONG_JOURNEY_BEGINS": {
+        "points": 5,
+        "name": "A long journey begins",
+        "description": "Complete a quest"
+      }
+    },
+    "tiered": {
+      "CHALLENGER": {
+        "name": "Challenger",
+        "description": "Complete a total of %s challenges",
+        "tiers": [
+          {
+            "tier": 1,
+            "points": 5,
+            "amount": 10
+          },
+          {
+            "tier": 2,
+            "points": 10,
+            "amount": 50
+          },
+          {
+            "tier": 3,
+            "points": 15,
+            "amount": 100
+          },
+          {
+            "tier": 4,
+            "points": 20,
+            "amount": 250
+          },
+          {
+            "tier": 5,
+            "points": 25,
+            "amount": 500
+          }
+        ]
+      },
+      "COINS": {
+        "name": "Ultimate Banker",
+        "description": "Earn a total of %s coins",
+        "tiers": [
+          {
+            "tier": 1,
+            "points": 5,
+            "amount": 1000
+          },
+          {
+            "tier": 2,
+            "points": 10,
+            "amount": 25000
+          },
+          {
+            "tier": 3,
+            "points": 15,
+            "amount": 75000
+          },
+          {
+            "tier": 4,
+            "points": 20,
+            "amount": 150000
+          },
+          {
+            "tier": 5,
+            "points": 25,
+            "amount": 250000
+          }
+        ]
+      },
+      "QUEST_MASTER": {
+        "name": "Quest Master",
+        "description": "Complete a total of %s quests",
+        "tiers": [
+          {
+            "tier": 1,
+            "points": 5,
+            "amount": 5
+          },
+          {
+            "tier": 2,
+            "points": 10,
+            "amount": 25
+          },
+          {
+            "tier": 3,
+            "points": 15,
+            "amount": 50
+          },
+          {
+            "tier": 4,
+            "points": 20,
+            "amount": 125
+          },
+          {
+            "tier": 5,
+            "points": 25,
+            "amount": 250
+          }
+        ]
+      },
+      "WINS": {
+        "name": "Well Rounded!",
+        "description": "Win %s minigames",
+        "tiers": [
+          {
+            "tier": 1,
+            "points": 5,
+            "amount": 15
+          },
+          {
+            "tier": 2,
+            "points": 10,
+            "amount": 150
+          },
+          {
+            "tier": 3,
+            "points": 15,
+            "amount": 500
+          },
+          {
+            "tier": 4,
+            "points": 20,
+            "amount": 1500
+          },
+          {
+            "tier": 5,
+            "points": 25,
+            "amount": 2500
+          }
+        ]
+      }
+    },
+    "total_points": 410,
+    "total_one_time": 14,
+    "total_tiered": 20,
+    "total": 34,
+    "total_points_one_time": 110,
+    "total_points_tiered": 300
+  },
+  "halloween2017": {
+    "one_time": {
+      "ALL_GHOSTS_2018": {
+        "points": 15,
+        "name": "All Ghosts (2018)",
+        "description": "Find all Ghosts in the Main Lobby"
+      },
+      "FIRE_FROM_HELL": {
+        "points": 5,
+        "name": "Fire from Hell",
+        "description": "Win a game of Smash Heroes using Skullfire"
+      },
+      "TBR_KRAKEN_ASSAULT_1_25": {
+        "points": 10,
+        "name": "Kraken Assault Great Time",
+        "description": "Complete Kraken Assault in under 01:25"
+      },
+      "SECOND_GHOST": {
+        "points": 5,
+        "name": "Second Ghost (2017)",
+        "description": "Find two Ghosts in the Main Lobby"
+      },
+      "PUMPKIN_DEATH": {
+        "points": 10,
+        "name": "Pumpkinator Rampage",
+        "description": "Bring 10 pumpkins at once to a Shopkeeper in Bedwars"
+      },
+      "PUMPKIN_VISION": {
+        "points": 5,
+        "name": "Pumpkin Vision",
+        "description": "Kill a player in UHC while wearing a Pumpkin on your head"
+      },
+      "TBR_SHARKNADO_JAUNT_FAST": {
+        "points": 10,
+        "name": "Sharknado Jaunt Great Time",
+        "description": "Complete Sharknado Jaunt in under 1:15"
+      },
+      "TBR_MIDTOWN_TRIP": {
+        "points": 5,
+        "name": "Midtown Trip Completion",
+        "description": "Complete Midtown Trip in Turbo Bat Racers"
+      },
+      "CORPSE_STILL_RUNS": {
+        "points": 5,
+        "name": "Corpse Still Runs",
+        "description": "Win a game of Warlords Domination while having the Corpse Mare mount equipped"
+      },
+      "BLAME_YOUR_TEAM": {
+        "points": 15,
+        "name": "That wasn't eaZy",
+        "description": "Reach Round 25 playing Zombies on Alien Arcadium"
+      },
+      "VAMPIRES_BE_GONE": {
+        "points": 5,
+        "name": "Vamps b gone",
+        "description": "Kill 2 vampires in a single game of VampireZ"
+      },
+      "FULL_MOON": {
+        "points": 5,
+        "name": "Full Moon",
+        "description": "Get a Final Kill as Werewolf in Mega Walls"
+      },
+      "SECOND_GHOST_2018": {
+        "points": 5,
+        "name": "Second Ghost (2018)",
+        "description": "Find two Ghosts in the Main Lobby"
+      },
+      "PUMPKIN_DANCER": {
+        "points": 10,
+        "name": "Pumpkin Devil",
+        "description": "Obtain 222 points in a single Pumpkin Smash game without dying"
+      },
+      "RISING_DEAD": {
+        "points": 5,
+        "name": "Rising Dead",
+        "description": "Trigger the Necromancer Perk in Sky Wars"
+      },
+      "GRAVEDIGGER": {
+        "points": 5,
+        "name": "Gravedigger",
+        "description": "Win a game of solo Blitz SG with the Gravedigger Kill Effect"
+      },
+      "UNDEAD_TARGET_PRACTICE": {
+        "points": 10,
+        "name": "Undead Target Practice",
+        "description": "Reach a score of 333 before the 1 minute mark in the Main Lobby Shooting Range"
+      },
+      "TBR_OBSERVATORY_SPIN": {
+        "points": 5,
+        "name": "Observatory Spin Completion",
+        "description": "Complete Observatory Spin in Turbo Bat Racers"
+      },
+      "THE_CRAWLING_DEAD": {
+        "points": 5,
+        "name": "The Crawling Dead",
+        "description": "Get 66 kills in a single game of The Blocking Dead"
+      },
+      "SURVIVORS_BE_GONE": {
+        "points": 5,
+        "name": "Vamps r cool",
+        "description": "Kill 5 survivors in a single game of VampireZ"
+      },
+      "TBR_SHARKNADO_JAUNT": {
+        "points": 5,
+        "name": "Sharknado Jaunt Completion",
+        "description": "Complete Sharknado Jaunt in Turbo Bat Racers"
+      },
+      "THAT_WAS_EASY": {
+        "points": 5,
+        "name": "That was eaZy",
+        "description": "Reach Round 10 playing Zombies on Dead End or Bad Blood"
+      },
+      "SPOOKY_CHEST": {
+        "points": 5,
+        "name": "Spooky Spooky",
+        "description": "Open 3 Bed Wars Spooky Chests"
+      },
+      "CLASSY_WITHER": {
+        "points": 10,
+        "name": "Classy Wither",
+        "description": "Win a game of TNT Wizards with the Wither Wizard kit"
+      },
+      "MY_HALLOWEEN_COSTUME": {
+        "points": 5,
+        "name": "My Halloween Costume",
+        "description": "Use a Morph in a lobby"
+      },
+      "GOOD_TRY": {
+        "points": 5,
+        "name": "Good Try",
+        "description": "Die against the first bomb in Pumpkin Smash"
+      },
+      "TBR_KRAKEN_ASSAULT": {
+        "points": 5,
+        "name": "Kraken Assault Completion",
+        "description": "Complete Kraken Assault in Turbo Bat Racers"
+      },
+      "ALL_GHOSTS": {
+        "points": 15,
+        "name": "All Ghosts (2017)",
+        "description": "Find all Ghosts in the Main Lobby"
+      },
+      "TBR_OBSERVATORY_SPIN_1_10": {
+        "points": 10,
+        "name": "Observatory Spin Great Time",
+        "description": "Complete Observatory Spin in under 01:15"
+      },
+      "OCTOBER_BETRAYAL": {
+        "points": 10,
+        "name": "October Betrayal",
+        "description": "Win a Murder Mystery classic game as Murderer"
+      },
+      "HI_THERE": {
+        "points": 5,
+        "name": "Boo!",
+        "description": "Speak to the Halloween Guide in the Main Lobby"
+      },
+      "TBR_MIDTOWN_TRIP_1_20": {
+        "points": 10,
+        "name": "Midtown Trip Great Time",
+        "description": "Complete Midtown Trip in under 01:30"
+      },
+      "EL_SPOODER": {
+        "points": 5,
+        "name": "El Spooder",
+        "description": "Earn a Golden Skull using the Spiderling kit in Crazy Walls"
+      },
+      "NOT_SO_SCARY": {
+        "points": 5,
+        "name": "Not so Scary",
+        "description": "Win a game of Build Battle Halloween Hyper Mode"
+      },
+      "NECROTHERAPY": {
+        "points": 5,
+        "name": "Necrotherapy",
+        "description": "Get a kill in SkyClash using the Necromancer kit"
+      }
+    },
+    "tiered": {
+      "PUMPKINATOR": {
+        "name": "Pumpkinator Collector",
+        "description": "Collect %s pumpkins in Bedwars",
+        "tiers": [
+          {
+            "tier": 1,
+            "points": 5,
+            "amount": 5
+          },
+          {
+            "tier": 2,
+            "points": 10,
+            "amount": 25
+          },
+          {
+            "tier": 3,
+            "points": 15,
+            "amount": 100
+          },
+          {
+            "tier": 4,
+            "points": 20,
+            "amount": 250
+          },
+          {
+            "tier": 5,
+            "points": 25,
+            "amount": 1000
+          }
+        ]
+      },
+      "PUMPKIN_SMASHER": {
+        "name": "Pumpkin Smasher",
+        "description": "Smash %s pumpkins in Pumpkin Smash",
+        "tiers": [
+          {
+            "tier": 1,
+            "points": 5,
+            "amount": 250
+          },
+          {
+            "tier": 2,
+            "points": 10,
+            "amount": 500
+          },
+          {
+            "tier": 3,
+            "points": 15,
+            "amount": 750
+          },
+          {
+            "tier": 4,
+            "points": 20,
+            "amount": 1000
+          },
+          {
+            "tier": 5,
+            "points": 25,
+            "amount": 3333
+          }
+        ]
+      }
+    },
+    "total_points": 400,
+    "total_one_time": 35,
+    "total_tiered": 10,
+    "total": 45,
+    "total_points_one_time": 250,
+    "total_points_tiered": 150
+  },
+  "Arcade": {
     "one_time": {
       "CREEPER_ATTACK_SURVIVAL": {
         "points": 10,
@@ -536,7 +1186,7 @@
     "total_points_one_time": 340,
     "total_points_tiered": 725
   },
-  "arena": {
+  "Arena": {
     "one_time": {
       "SPARTACUS": {
         "points": 10,
@@ -767,7 +1417,7 @@
     "total_points_one_time": 150,
     "total_points_tiered": 255
   },
-  "bedwars": {
+  "BedWars": {
     "one_time": {
       "IRON_PUNCH": {
         "points": 5,
@@ -1180,7 +1830,7 @@
     "total_points_one_time": 345,
     "total_points_tiered": 450
   },
-  "blitz": {
+  "Blitz": {
     "one_time": {
       "FIRST_BLOOD": {
         "points": 10,
@@ -1737,7 +2387,7 @@
     "total_points_one_time": 400,
     "total_points_tiered": 750
   },
-  "buildbattle": {
+  "BuildBattle": {
     "one_time": {
       "GUESSING_STREAK": {
         "points": 5,
@@ -2019,202 +2669,7 @@
     "total_points_one_time": 185,
     "total_points_tiered": 375
   },
-  "christmas2017": {
-    "one_time": {
-      "GREED_INCARNATE": {
-        "points": 15,
-        "name": "Greed Incarnate",
-        "description": "Steal 42 presents in a single game of Grinch Simulator"
-      },
-      "LEGENDARY": {
-        "points": 10,
-        "name": "LEGENDARY!",
-        "description": "Find a Legendary Gift in SkyWars, Blitz or Murder Mystery"
-      },
-      "SHARING_IS_CARING": {
-        "points": 5,
-        "name": "Sharing is Caring",
-        "description": "Give one of your wrapped presents to another player in Bed Wars"
-      },
-      "EAT_THIS": {
-        "points": 5,
-        "name": "EAT THIS",
-        "description": "Shoot a snowball at another Grinch in Grinch Simulator"
-      },
-      "RESPECT_YOUR_ELDER": {
-        "points": 5,
-        "name": "Respect your Elder",
-        "description": "Bring a flower to Grandma in Santa Says"
-      },
-      "REAL_SANTA": {
-        "points": 15,
-        "name": "Real Santa",
-        "description": "Find all 88 presents in every lobby"
-      },
-      "CHRISTMAS_QUEST": {
-        "points": 10,
-        "name": "Seasonal Quester",
-        "description": "Complete 5 Winter Seasonal Quests"
-      },
-      "STEAL_FAIRLY": {
-        "points": 10,
-        "name": "Feared but Fair",
-        "description": "Steal a gift from each house in a game of Grinch Simulator"
-      },
-      "UH_UH": {
-        "points": 5,
-        "name": "Uh uh",
-        "description": "When tasked to shoot yourself with an arrow in Santa Says, shoot someone else"
-      },
-      "BLACKSMITH": {
-        "points": 10,
-        "name": "Ultimate Blacksmith",
-        "description": "When given ingots in Santa Says, craft a Clock"
-      },
-      "SUGAR_RUSH": {
-        "points": 5,
-        "name": "Sugar Rush",
-        "description": "Give sugar to a horse in Santa Says"
-      },
-      "DEM_COWS": {
-        "points": 5,
-        "name": "Worth it",
-        "description": "When tasked to kill a chicken in Santa Says, kill a cow instead"
-      },
-      "MERRY_CHRISTMAS": {
-        "points": 5,
-        "name": "Happy Holidays",
-        "description": "Speak to the Holidays Guide in the Main Lobby"
-      },
-      "BOUNCY_CASTLE": {
-        "points": 5,
-        "name": "Bouncy Castle",
-        "description": "Jump on the Bouncy Castle in the Main Lobby"
-      },
-      "NOT_MY_MOM": {
-        "points": 5,
-        "name": "You're not my mom",
-        "description": "When tasked to stand still in Santa Says, sneak"
-      },
-      "HUNT_BEGINS": {
-        "points": 5,
-        "name": "The Hunt Begins",
-        "description": "Find 2 lobby presents"
-      },
-      "SANTA_HELPER": {
-        "points": 5,
-        "name": "Santa Helper",
-        "description": "Bring the right items back to every special character in a single Bed Wars game"
-      },
-      "NOM_NOM": {
-        "points": 5,
-        "name": "Nom nom",
-        "description": "Craft a Santa Cookie in UHC"
-      }
-    },
-    "tiered": {
-      "SANTA_SAYS_ROUNDS": {
-        "name": "Santa Says Winner",
-        "description": "Complete %s tasks in Santa Says",
-        "tiers": [
-          {
-            "tier": 1,
-            "points": 5,
-            "amount": 3
-          },
-          {
-            "tier": 2,
-            "points": 10,
-            "amount": 10
-          },
-          {
-            "tier": 3,
-            "points": 15,
-            "amount": 30
-          },
-          {
-            "tier": 4,
-            "points": 20,
-            "amount": 75
-          },
-          {
-            "tier": 5,
-            "points": 25,
-            "amount": 150
-          }
-        ]
-      },
-      "ADVENT": {
-        "name": "Advent Calendar",
-        "description": "Claim %s days in the Advent Calendar",
-        "tiers": [
-          {
-            "tier": 1,
-            "points": 5,
-            "amount": 1
-          },
-          {
-            "tier": 2,
-            "points": 10,
-            "amount": 3
-          },
-          {
-            "tier": 3,
-            "points": 15,
-            "amount": 7
-          },
-          {
-            "tier": 4,
-            "points": 20,
-            "amount": 14
-          },
-          {
-            "tier": 5,
-            "points": 25,
-            "amount": 21
-          }
-        ]
-      },
-      "NO_CHRISTMAS": {
-        "name": "No Christmas For You",
-        "description": "Pickup %s presents in Grinch Simulator",
-        "tiers": [
-          {
-            "tier": 1,
-            "points": 5,
-            "amount": 5
-          },
-          {
-            "tier": 2,
-            "points": 10,
-            "amount": 25
-          },
-          {
-            "tier": 3,
-            "points": 15,
-            "amount": 60
-          },
-          {
-            "tier": 4,
-            "points": 20,
-            "amount": 150
-          },
-          {
-            "tier": 5,
-            "points": 25,
-            "amount": 300
-          }
-        ]
-      }
-    },
-    "total_points": 355,
-    "total_one_time": 18,
-    "total_tiered": 15,
-    "total": 33,
-    "total_points_one_time": 130,
-    "total_points_tiered": 225
-  },
-  "copsandcrims": {
+  "CvC": {
     "one_time": {
       "IS_IT_GOOD_NOW": {
         "points": 20,
@@ -2607,7 +3062,7 @@
     "total_points_one_time": 330,
     "total_points_tiered": 450
   },
-  "duels": {
+  "Duels": {
     "one_time": {
       "GONE_FISHING": {
         "points": 5,
@@ -3242,213 +3697,7 @@
     "total_points_one_time": 335,
     "total_points_tiered": 975
   },
-  "general": {
-    "one_time": {
-      "VIP": {
-        "points": 10,
-        "name": "Very Important Person",
-        "description": "Become a VIP"
-      },
-      "FRIENDS_25": {
-        "points": 10,
-        "name": "Popular",
-        "description": "Get 25+ friends"
-      },
-      "YOUTUBER": {
-        "points": 10,
-        "name": "EEEEKK!",
-        "description": "Be in the same lobby as a YouTuber"
-      },
-      "FIRST_JOIN": {
-        "points": 5,
-        "name": "Achievement Get! Hypixel Server!",
-        "description": "Join the Hypixel Network for the first time"
-      },
-      "USE_PORTAL": {
-        "points": 5,
-        "name": "Thinking with Portals",
-        "description": "Use a portal to teleport to a game"
-      },
-      "FIRST_GAME": {
-        "points": 5,
-        "name": "Baby Steps",
-        "description": "Play a minigame"
-      },
-      "FIRST_CHAT": {
-        "points": 5,
-        "name": "Let the world hear your voice!",
-        "description": "Use chat for the first time"
-      },
-      "FIRST_FRIEND": {
-        "points": 5,
-        "name": "Not forever alone...",
-        "description": "Make a friend using the friend\nsystem"
-      },
-      "ACHIEVEMENT_NPC": {
-        "points": 5,
-        "name": "Achievements!?!",
-        "description": "Click the Achievements Guide in the Main Lobby"
-      },
-      "VIP_PLUS": {
-        "points": 15,
-        "name": "Very Very Important Person",
-        "description": "Become a VIP+"
-      },
-      "CREEPERBOOK": {
-        "points": 5,
-        "name": "Creeperbook",
-        "description": "Link your Minecraft account with\nyour forum account"
-      },
-      "GIFTING": {
-        "points": 15,
-        "name": "Gift Giver",
-        "description": "Send a gift bundle to one\nof your friends"
-      },
-      "FIRST_PARTY": {
-        "points": 10,
-        "name": "Strength in numbers",
-        "description": "Party up for the first time"
-      },
-      "A_LONG_JOURNEY_BEGINS": {
-        "points": 5,
-        "name": "A long journey begins",
-        "description": "Complete a quest"
-      }
-    },
-    "tiered": {
-      "CHALLENGER": {
-        "name": "Challenger",
-        "description": "Complete a total of %s challenges",
-        "tiers": [
-          {
-            "tier": 1,
-            "points": 5,
-            "amount": 10
-          },
-          {
-            "tier": 2,
-            "points": 10,
-            "amount": 50
-          },
-          {
-            "tier": 3,
-            "points": 15,
-            "amount": 100
-          },
-          {
-            "tier": 4,
-            "points": 20,
-            "amount": 250
-          },
-          {
-            "tier": 5,
-            "points": 25,
-            "amount": 500
-          }
-        ]
-      },
-      "COINS": {
-        "name": "Ultimate Banker",
-        "description": "Earn a total of %s coins",
-        "tiers": [
-          {
-            "tier": 1,
-            "points": 5,
-            "amount": 1000
-          },
-          {
-            "tier": 2,
-            "points": 10,
-            "amount": 25000
-          },
-          {
-            "tier": 3,
-            "points": 15,
-            "amount": 75000
-          },
-          {
-            "tier": 4,
-            "points": 20,
-            "amount": 150000
-          },
-          {
-            "tier": 5,
-            "points": 25,
-            "amount": 250000
-          }
-        ]
-      },
-      "QUEST_MASTER": {
-        "name": "Quest Master",
-        "description": "Complete a total of %s quests",
-        "tiers": [
-          {
-            "tier": 1,
-            "points": 5,
-            "amount": 5
-          },
-          {
-            "tier": 2,
-            "points": 10,
-            "amount": 25
-          },
-          {
-            "tier": 3,
-            "points": 15,
-            "amount": 50
-          },
-          {
-            "tier": 4,
-            "points": 20,
-            "amount": 125
-          },
-          {
-            "tier": 5,
-            "points": 25,
-            "amount": 250
-          }
-        ]
-      },
-      "WINS": {
-        "name": "Well Rounded!",
-        "description": "Win %s minigames",
-        "tiers": [
-          {
-            "tier": 1,
-            "points": 5,
-            "amount": 15
-          },
-          {
-            "tier": 2,
-            "points": 10,
-            "amount": 150
-          },
-          {
-            "tier": 3,
-            "points": 15,
-            "amount": 500
-          },
-          {
-            "tier": 4,
-            "points": 20,
-            "amount": 1500
-          },
-          {
-            "tier": 5,
-            "points": 25,
-            "amount": 2500
-          }
-        ]
-      }
-    },
-    "total_points": 410,
-    "total_one_time": 14,
-    "total_tiered": 20,
-    "total": 34,
-    "total_points_one_time": 110,
-    "total_points_tiered": 300
-  },
-  "gingerbread": {
+  "TKR": {
     "one_time": {
       "IS_THIS_SURVIVAL_GAMES": {
         "points": 5,
@@ -3769,256 +4018,7 @@
     "total_points_one_time": 300,
     "total_points_tiered": 300
   },
-  "halloween2017": {
-    "one_time": {
-      "ALL_GHOSTS_2018": {
-        "points": 15,
-        "name": "All Ghosts (2018)",
-        "description": "Find all Ghosts in the Main Lobby"
-      },
-      "FIRE_FROM_HELL": {
-        "points": 5,
-        "name": "Fire from Hell",
-        "description": "Win a game of Smash Heroes using Skullfire"
-      },
-      "TBR_KRAKEN_ASSAULT_1_25": {
-        "points": 10,
-        "name": "Kraken Assault Great Time",
-        "description": "Complete Kraken Assault in under 01:25"
-      },
-      "SECOND_GHOST": {
-        "points": 5,
-        "name": "Second Ghost (2017)",
-        "description": "Find two Ghosts in the Main Lobby"
-      },
-      "PUMPKIN_DEATH": {
-        "points": 10,
-        "name": "Pumpkinator Rampage",
-        "description": "Bring 10 pumpkins at once to a Shopkeeper in Bedwars"
-      },
-      "PUMPKIN_VISION": {
-        "points": 5,
-        "name": "Pumpkin Vision",
-        "description": "Kill a player in UHC while wearing a Pumpkin on your head"
-      },
-      "TBR_SHARKNADO_JAUNT_FAST": {
-        "points": 10,
-        "name": "Sharknado Jaunt Great Time",
-        "description": "Complete Sharknado Jaunt in under 1:15"
-      },
-      "TBR_MIDTOWN_TRIP": {
-        "points": 5,
-        "name": "Midtown Trip Completion",
-        "description": "Complete Midtown Trip in Turbo Bat Racers"
-      },
-      "CORPSE_STILL_RUNS": {
-        "points": 5,
-        "name": "Corpse Still Runs",
-        "description": "Win a game of Warlords Domination while having the Corpse Mare mount equipped"
-      },
-      "BLAME_YOUR_TEAM": {
-        "points": 15,
-        "name": "That wasn't eaZy",
-        "description": "Reach Round 25 playing Zombies on Alien Arcadium"
-      },
-      "VAMPIRES_BE_GONE": {
-        "points": 5,
-        "name": "Vamps b gone",
-        "description": "Kill 2 vampires in a single game of VampireZ"
-      },
-      "FULL_MOON": {
-        "points": 5,
-        "name": "Full Moon",
-        "description": "Get a Final Kill as Werewolf in Mega Walls"
-      },
-      "SECOND_GHOST_2018": {
-        "points": 5,
-        "name": "Second Ghost (2018)",
-        "description": "Find two Ghosts in the Main Lobby"
-      },
-      "PUMPKIN_DANCER": {
-        "points": 10,
-        "name": "Pumpkin Devil",
-        "description": "Obtain 222 points in a single Pumpkin Smash game without dying"
-      },
-      "RISING_DEAD": {
-        "points": 5,
-        "name": "Rising Dead",
-        "description": "Trigger the Necromancer Perk in Sky Wars"
-      },
-      "GRAVEDIGGER": {
-        "points": 5,
-        "name": "Gravedigger",
-        "description": "Win a game of solo Blitz SG with the Gravedigger Kill Effect"
-      },
-      "UNDEAD_TARGET_PRACTICE": {
-        "points": 10,
-        "name": "Undead Target Practice",
-        "description": "Reach a score of 333 before the 1 minute mark in the Main Lobby Shooting Range"
-      },
-      "TBR_OBSERVATORY_SPIN": {
-        "points": 5,
-        "name": "Observatory Spin Completion",
-        "description": "Complete Observatory Spin in Turbo Bat Racers"
-      },
-      "THE_CRAWLING_DEAD": {
-        "points": 5,
-        "name": "The Crawling Dead",
-        "description": "Get 66 kills in a single game of The Blocking Dead"
-      },
-      "SURVIVORS_BE_GONE": {
-        "points": 5,
-        "name": "Vamps r cool",
-        "description": "Kill 5 survivors in a single game of VampireZ"
-      },
-      "TBR_SHARKNADO_JAUNT": {
-        "points": 5,
-        "name": "Sharknado Jaunt Completion",
-        "description": "Complete Sharknado Jaunt in Turbo Bat Racers"
-      },
-      "THAT_WAS_EASY": {
-        "points": 5,
-        "name": "That was eaZy",
-        "description": "Reach Round 10 playing Zombies on Dead End or Bad Blood"
-      },
-      "SPOOKY_CHEST": {
-        "points": 5,
-        "name": "Spooky Spooky",
-        "description": "Open 3 Bed Wars Spooky Chests"
-      },
-      "CLASSY_WITHER": {
-        "points": 10,
-        "name": "Classy Wither",
-        "description": "Win a game of TNT Wizards with the Wither Wizard kit"
-      },
-      "MY_HALLOWEEN_COSTUME": {
-        "points": 5,
-        "name": "My Halloween Costume",
-        "description": "Use a Morph in a lobby"
-      },
-      "GOOD_TRY": {
-        "points": 5,
-        "name": "Good Try",
-        "description": "Die against the first bomb in Pumpkin Smash"
-      },
-      "TBR_KRAKEN_ASSAULT": {
-        "points": 5,
-        "name": "Kraken Assault Completion",
-        "description": "Complete Kraken Assault in Turbo Bat Racers"
-      },
-      "ALL_GHOSTS": {
-        "points": 15,
-        "name": "All Ghosts (2017)",
-        "description": "Find all Ghosts in the Main Lobby"
-      },
-      "TBR_OBSERVATORY_SPIN_1_10": {
-        "points": 10,
-        "name": "Observatory Spin Great Time",
-        "description": "Complete Observatory Spin in under 01:15"
-      },
-      "OCTOBER_BETRAYAL": {
-        "points": 10,
-        "name": "October Betrayal",
-        "description": "Win a Murder Mystery classic game as Murderer"
-      },
-      "HI_THERE": {
-        "points": 5,
-        "name": "Boo!",
-        "description": "Speak to the Halloween Guide in the Main Lobby"
-      },
-      "TBR_MIDTOWN_TRIP_1_20": {
-        "points": 10,
-        "name": "Midtown Trip Great Time",
-        "description": "Complete Midtown Trip in under 01:30"
-      },
-      "EL_SPOODER": {
-        "points": 5,
-        "name": "El Spooder",
-        "description": "Earn a Golden Skull using the Spiderling kit in Crazy Walls"
-      },
-      "NOT_SO_SCARY": {
-        "points": 5,
-        "name": "Not so Scary",
-        "description": "Win a game of Build Battle Halloween Hyper Mode"
-      },
-      "NECROTHERAPY": {
-        "points": 5,
-        "name": "Necrotherapy",
-        "description": "Get a kill in SkyClash using the Necromancer kit"
-      }
-    },
-    "tiered": {
-      "PUMPKINATOR": {
-        "name": "Pumpkinator Collector",
-        "description": "Collect %s pumpkins in Bedwars",
-        "tiers": [
-          {
-            "tier": 1,
-            "points": 5,
-            "amount": 5
-          },
-          {
-            "tier": 2,
-            "points": 10,
-            "amount": 25
-          },
-          {
-            "tier": 3,
-            "points": 15,
-            "amount": 100
-          },
-          {
-            "tier": 4,
-            "points": 20,
-            "amount": 250
-          },
-          {
-            "tier": 5,
-            "points": 25,
-            "amount": 1000
-          }
-        ]
-      },
-      "PUMPKIN_SMASHER": {
-        "name": "Pumpkin Smasher",
-        "description": "Smash %s pumpkins in Pumpkin Smash",
-        "tiers": [
-          {
-            "tier": 1,
-            "points": 5,
-            "amount": 250
-          },
-          {
-            "tier": 2,
-            "points": 10,
-            "amount": 500
-          },
-          {
-            "tier": 3,
-            "points": 15,
-            "amount": 750
-          },
-          {
-            "tier": 4,
-            "points": 20,
-            "amount": 1000
-          },
-          {
-            "tier": 5,
-            "points": 25,
-            "amount": 3333
-          }
-        ]
-      }
-    },
-    "total_points": 400,
-    "total_one_time": 35,
-    "total_tiered": 10,
-    "total": 45,
-    "total_points_one_time": 250,
-    "total_points_tiered": 150
-  },
-  "housing": {
+  "Housing": {
     "one_time": {
       "JOIN_FRIEND": {
         "points": 5,
@@ -4084,7 +4084,7 @@
     "total_points_one_time": 55,
     "total_points_tiered": 0
   },
-  "murdermystery": {
+  "MurderMystery": {
     "one_time": {
       "BLESSING_AND_CURSE": {
         "points": 5,
@@ -4491,7 +4491,7 @@
     "total_points_one_time": 505,
     "total_points_tiered": 300
   },
-  "paintball": {
+  "Paintball": {
     "one_time": {
       "ACTIVATE_KILLSTREAKS": {
         "points": 10,
@@ -4854,7 +4854,7 @@
     "total_points_one_time": 290,
     "total_points_tiered": 405
   },
-  "quake": {
+  "Quake": {
     "one_time": {
       "SHOW_ME_THE_MONEY": {
         "points": 15,
@@ -5368,7 +5368,7 @@
     "total_points_one_time": 415,
     "total_points_tiered": 525
   },
-  "skyclash": {
+  "SkyClash": {
     "one_time": {
       "WHATS_NEXT": {
         "points": 10,
@@ -5756,7 +5756,7 @@
     "total_points_one_time": 310,
     "total_points_tiered": 405
   },
-  "skywars": {
+  "SkyWars": {
     "one_time": {
       "PEACEMAKER": {
         "points": 10,
@@ -6299,7 +6299,7 @@
     "total_points_one_time": 370,
     "total_points_tiered": 730
   },
-  "speeduhc": {
+  "SpeedUHC": {
     "one_time": {
       "POTION_BREWER": {
         "points": 5,
@@ -6530,7 +6530,7 @@
     "total_points_one_time": 135,
     "total_points_tiered": 300
   },
-  "supersmash": {
+  "Smash": {
     "one_time": {
       "GENCLUCK_CHALLENGE": {
         "points": 5,
@@ -6791,7 +6791,7 @@
     "total_points_one_time": 175,
     "total_points_tiered": 255
   },
-  "tntgames": {
+  "TNT": {
     "one_time": {
       "TNT_TAG_DIFFERENTTAGS": {
         "points": 10,
@@ -7494,7 +7494,7 @@
     "total_points_one_time": 645,
     "total_points_tiered": 825
   },
-  "truecombat": {
+  "CrazyWalls": {
     "one_time": {
       "GOLD_FORAGER": {
         "points": 15,
@@ -7909,7 +7909,7 @@
     "total_points_one_time": 275,
     "total_points_tiered": 510
   },
-  "uhc": {
+  "UHC": {
     "one_time": {
       "CRAFTING_REVOLUTION": {
         "points": 5,
@@ -8215,7 +8215,7 @@
     "total_points_one_time": 295,
     "total_points_tiered": 300
   },
-  "vampirez": {
+  "VampireZ": {
     "one_time": {
       "PURCHASE_BLOOD": {
         "points": 5,
@@ -8527,7 +8527,7 @@
     "total_points_one_time": 235,
     "total_points_tiered": 375
   },
-  "walls": {
+  "Walls": {
     "one_time": {
       "FIRST_KIT": {
         "points": 5,
@@ -8722,7 +8722,7 @@
     "total_points_one_time": 140,
     "total_points_tiered": 225
   },
-  "walls3": {
+  "MegaWalls": {
     "one_time": {
       "WHATS_THE_BIG_IDEA": {
         "points": 10,
@@ -9702,7 +9702,7 @@
     "total_points_one_time": 1550,
     "total_points_tiered": 600
   },
-  "warlords": {
+  "Warlords": {
     "one_time": {
       "MEDIUM_RARE": {
         "points": 5,

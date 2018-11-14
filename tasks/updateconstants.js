@@ -1,6 +1,7 @@
 const request = require('request');
 const async = require('async');
 const fs = require('fs');
+const game_types = require('../build/game_types');
 
 const sources = [
   {
@@ -11,7 +12,7 @@ const sources = [
     key: "achievements_extended",
     url: "https://github.com/HypixelDev/PublicAPI/raw/master/Documentation/misc/Achievements.json",
     transform: respObj => {
-      const {achievements} = respObj;
+      const { achievements } = respObj;
       Object.keys(achievements).forEach((game) => {
         // Total amount of achievements
         const one_time = Object.keys(achievements[game].one_time);
@@ -33,7 +34,12 @@ const sources = [
           achievements[game].tiered[ach].tiers.forEach((tier) => {
             achievements[game].total_points_tiered += tier.points;
           })
-        })
+        });
+        // Change minigame names to standard format
+        const standardName = getAchievementGame(game);
+        if (standardName !== game) {
+          delete Object.assign(achievements, {[standardName]: achievements[game] })[game];
+        }
       });
       return achievements;
     }
@@ -47,6 +53,28 @@ const sources = [
     url: "https://github.com/HypixelDev/PublicAPI/raw/master/Documentation/misc/Challenges.json"
   }
 ];
+
+/**
+ * Converts minigames database name to standard name e.g. GingerBread => TKR
+ */
+function DBToStandardName(name = '') {
+  const result = game_types.find(game => game.database_name.toLowerCase() === name);
+  return result === undefined ? name : result.standard_name;
+}
+
+function getAchievementGame(name = '') {
+  // Inconsistent naming so we have to do this
+  switch (name) {
+    case 'blitz':
+      return 'Blitz';
+    case 'copsandcrims':
+      return 'CvC';
+    case 'warlords':
+      return 'Warlords';
+    default:
+      return DBToStandardName(name);
+  }
+}
 
 async.each(sources, function (s, cb) {
     const url = s.url;
