@@ -5,11 +5,11 @@ const fs = require('fs');
 const sources = [
   {
     key: "achievements",
-    url: "https://github.com/HypixelDev/PublicAPI/master/Documentation/misc/Achievements.json"
+    url: "https://github.com/HypixelDev/PublicAPI/raw/master/Documentation/misc/Achievements.json"
   },
   {
     key: "achievements_extended",
-    url: "https://github.com/HypixelDev/PublicAPI/master/Documentation/misc/Achievements.json",
+    url: "https://github.com/HypixelDev/PublicAPI/raw/master/Documentation/misc/Achievements.json",
     transform: respObj => {
       const {achievements} = respObj;
       Object.keys(achievements).forEach((game) => {
