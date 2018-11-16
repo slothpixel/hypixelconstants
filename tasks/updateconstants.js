@@ -51,6 +51,13 @@ const sources = [
   {
     key: "challenges",
     url: "https://github.com/HypixelDev/PublicAPI/raw/master/Documentation/misc/Challenges.json"
+  },
+  {
+    key: "modes",
+    url: "https://api.connorlinfoot.com/v2/games/hypixel/",
+    transform: respObj => {
+      return removeIcons(respObj);
+    }
   }
 ];
 
@@ -74,6 +81,16 @@ function getAchievementGame(name = '') {
     default:
       return DBToStandardName(name);
   }
+}
+
+function removeIcons(array) {
+  return array.map(obj => {
+    if (Object.hasOwnProperty.call(obj, 'modes')) {
+      removeIcons(obj.modes)
+    }
+    delete obj.icon;
+    return obj;
+  });
 }
 
 async.each(sources, function (s, cb) {

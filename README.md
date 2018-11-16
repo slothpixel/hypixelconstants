@@ -17,6 +17,7 @@ List of Content
 | challenges | Challange data mirrored from the Hypixel Documentation |
 | game_types | Data useful for conversion between different game type names |
 | languages | Data of languages Hypixel is currently translated to |
+| modes | Hypixel minigame modes |
 | pet_xp | Array containing the required xp to pet leveling |
 | quests | Quest data mirrored from the Hypixel API Documentation |
 
