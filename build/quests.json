@@ -1151,7 +1151,7 @@
           {
             "id": "arena_daily_kills",
             "type": "IntegerObjective",
-            "integer": 10
+            "integer": 5
           }
         ],
         "requirements": [
@@ -1211,7 +1211,7 @@
           {
             "id": "arena_weekly_play",
             "type": "IntegerObjective",
-            "integer": 50
+            "integer": 35
           }
         ],
         "requirements": [
@@ -2199,50 +2199,6 @@
             "type": "WeeklyResetQuestRequirement"
           }
         ]
-      },
-      {
-        "id": "skywars_halloween_harvest",
-        "name": "Special Quest: Harvest Season",
-        "rewards": [
-          {
-            "type": "GameLootChestReward",
-            "amount": 1
-          },
-          {
-            "type": "SkyWarsTokenReward",
-            "amount": 80000
-          },
-          {
-            "type": "MultipliedCoinReward",
-            "amount": 20000
-          },
-          {
-            "type": "PackageReward",
-            "package": "cage_ender"
-          }
-        ],
-        "objectives": [
-          {
-            "id": "skywars_halloween_kills",
-            "type": "IntegerObjective",
-            "integer": 333
-          },
-          {
-            "id": "skywars_halloween_corrupted_wins",
-            "type": "IntegerObjective",
-            "integer": 3
-          },
-          {
-            "id": "skywars_halloween_mega_wins",
-            "type": "IntegerObjective",
-            "integer": 3
-          }
-        ],
-        "requirements": [
-          {
-            "type": "OneTimeQuestRequirement"
-          }
-        ]
       }
     ],
     "truecombat": [
@@ -2838,71 +2794,6 @@
             "type": "WeeklyResetQuestRequirement"
           }
         ]
-      },
-      {
-        "id": "bedwars_daily_nightmares",
-        "name": "Special Daily: Nightmares",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 2000
-          },
-          {
-            "type": "BedwarsExpReward",
-            "amount": 1000
-          },
-          {
-            "type": "MultipliedCoinReward",
-            "amount": 500
-          }
-        ],
-        "objectives": [
-          {
-            "id": "bedwars_daily_nightmare_beds",
-            "type": "IntegerObjective",
-            "integer": 4
-          },
-          {
-            "id": "bedwars_daily_nightmare_wins",
-            "type": "IntegerObjective",
-            "integer": 2
-          }
-        ],
-        "requirements": [
-          {
-            "type": "DailyResetQuestRequirement"
-          }
-        ]
-      },
-      {
-        "id": "bedwars_weekly_pumpkinator",
-        "name": "Special Weekly: Pumpkinator",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 666
-          },
-          {
-            "type": "BedwarsExpReward",
-            "amount": 6666
-          },
-          {
-            "type": "PackageReward",
-            "package": "islandtopper_pumpkin"
-          }
-        ],
-        "objectives": [
-          {
-            "id": "bedwars_special_weekly_pumpkinator",
-            "type": "IntegerObjective",
-            "integer": 99
-          }
-        ],
-        "requirements": [
-          {
-            "type": "WeeklyResetQuestRequirement"
-          }
-        ]
       }
     ],
     "murdermystery": [
@@ -3121,32 +3012,6 @@
         "requirements": [
           {
             "type": "WeeklyResetQuestRequirement"
-          }
-        ]
-      },
-      {
-        "id": "build_battle_halloween",
-        "name": "Special Daily: Hyper",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 3000
-          },
-          {
-            "type": "MultipliedCoinReward",
-            "amount": 5000
-          }
-        ],
-        "objectives": [
-          {
-            "id": "play",
-            "type": "IntegerObjective",
-            "integer": 2
-          }
-        ],
-        "requirements": [
-          {
-            "type": "DailyResetQuestRequirement"
           }
         ]
       }
