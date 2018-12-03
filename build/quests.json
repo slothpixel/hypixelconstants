@@ -155,7 +155,7 @@
           {
             "id": "walls_daily_kill",
             "type": "IntegerObjective",
-            "integer": 10
+            "integer": 5
           }
         ],
         "requirements": [
@@ -207,12 +207,12 @@
           {
             "id": "walls_weekly_play",
             "type": "IntegerObjective",
-            "integer": 12
+            "integer": 7
           },
           {
             "id": "walls_weekly_kills",
             "type": "IntegerObjective",
-            "integer": 50
+            "integer": 25
           }
         ],
         "requirements": [
@@ -417,6 +417,32 @@
         "requirements": [
           {
             "type": "WeeklyResetQuestRequirement"
+          }
+        ]
+      },
+      {
+        "id": "blitz_special_daily_north_pole",
+        "name": "Special Daily: Blitz North Pole",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 2500
+          },
+          {
+            "type": "MultipliedCoinReward",
+            "amount": 2500
+          }
+        ],
+        "objectives": [
+          {
+            "id": "blitz_special_gifts",
+            "type": "IntegerObjective",
+            "integer": 5
+          }
+        ],
+        "requirements": [
+          {
+            "type": "DailyResetQuestRequirement"
           }
         ]
       }
@@ -1335,6 +1361,32 @@
             "type": "WeeklyResetQuestRequirement"
           }
         ]
+      },
+      {
+        "id": "uhc_weekly_special_cookie",
+        "name": "Special Weekly: Hungry Stomp",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 15000
+          },
+          {
+            "type": "MultipliedCoinReward",
+            "amount": 20000
+          }
+        ],
+        "objectives": [
+          {
+            "id": "uhc_kills_after_cookie",
+            "type": "IntegerObjective",
+            "integer": 7
+          }
+        ],
+        "requirements": [
+          {
+            "type": "WeeklyResetQuestRequirement"
+          }
+        ]
       }
     ],
     "mcgo": [
@@ -2153,6 +2205,36 @@
         ]
       },
       {
+        "id": "skywars_special_north_pole",
+        "name": "Special Daily: Skywars North Pole",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3000
+          },
+          {
+            "type": "MultipliedCoinReward",
+            "amount": 2000
+          },
+          {
+            "type": "SkyWarsSoulReward",
+            "amount": 5
+          }
+        ],
+        "objectives": [
+          {
+            "id": "skywars_special_gifts",
+            "type": "IntegerObjective",
+            "integer": 5
+          }
+        ],
+        "requirements": [
+          {
+            "type": "DailyResetQuestRequirement"
+          }
+        ]
+      },
+      {
         "id": "skywars_daily_tokens",
         "name": "Daily Quest: Tokens!",
         "rewards": [
@@ -2794,6 +2876,32 @@
             "type": "WeeklyResetQuestRequirement"
           }
         ]
+      },
+      {
+        "id": "bedwars_daily_gifts",
+        "name": "Special Daily: Gifting Spirit",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 5000
+          },
+          {
+            "type": "BedwarsExpReward",
+            "amount": 700
+          }
+        ],
+        "objectives": [
+          {
+            "id": "bedwars_daily_special_christmas_gifts",
+            "type": "IntegerObjective",
+            "integer": 5
+          }
+        ],
+        "requirements": [
+          {
+            "type": "DailyResetQuestRequirement"
+          }
+        ]
       }
     ],
     "murdermystery": [
@@ -2927,6 +3035,36 @@
             "id": "mm_weekly_win",
             "type": "IntegerObjective",
             "integer": 15
+          }
+        ],
+        "requirements": [
+          {
+            "type": "WeeklyResetQuestRequirement"
+          }
+        ]
+      },
+      {
+        "id": "mm_special_weekly_santa",
+        "name": "Special Weekly Quest: Big Time Santa",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 1500
+          },
+          {
+            "type": "MultipliedCoinReward",
+            "amount": 10000
+          },
+          {
+            "type": "GameLootChestReward",
+            "amount": 1
+          }
+        ],
+        "objectives": [
+          {
+            "id": "mm_special_weekly_santa",
+            "type": "IntegerObjective",
+            "integer": 30
           }
         ],
         "requirements": [

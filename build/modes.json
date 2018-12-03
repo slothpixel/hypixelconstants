@@ -8,6 +8,13 @@
     "name": "Main Lobby"
   },
   {
+    "key": "TOURNAMENT_LOBBY",
+    "name": "Tournament Hall",
+    "matcher": {
+      "startsWith": "tourney"
+    }
+  },
+  {
     "key": "SKYWARS",
     "name": "SkyWars",
     "modes": [
@@ -143,6 +150,18 @@
           "SANTA_SAYS"
         ],
         "name": "Hypixel Says"
+      },
+      {
+        "key": "SIMON_SAYS",
+        "name": "Hypixel Says"
+      },
+      {
+        "key": "SANTA_SAYS",
+        "name": "Santa Says"
+      },
+      {
+        "key": "GRINCH",
+        "name": "Grinch Simulator"
       },
       {
         "key": "MINI_WALLS",
@@ -457,14 +476,14 @@
               "KOTH",
               "KOTH_TWO_TEAM"
             ],
-            "name": "Two Team"
+            "name": "KOTH Two Team"
           },
           {
             "key": "FOUR_TEAM",
             "keys": [
               "KOTH_FOUR_TEAM"
             ],
-            "name": "Four Team"
+            "name": "KOTH Four Team"
           },
           {
             "key": "CHALLENGE",
