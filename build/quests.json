@@ -772,7 +772,7 @@
           },
           {
             "type": "MultipliedCoinReward",
-            "amount": 2000
+            "amount": 1000
           }
         ],
         "objectives": [
@@ -798,7 +798,7 @@
           },
           {
             "type": "MultipliedCoinReward",
-            "amount": 2250
+            "amount": 1500
           }
         ],
         "objectives": [
@@ -855,7 +855,7 @@
           },
           {
             "type": "MultipliedCoinReward",
-            "amount": 8000
+            "amount": 5000
           }
         ],
         "objectives": [
@@ -881,7 +881,7 @@
           },
           {
             "type": "MultipliedCoinReward",
-            "amount": 8000
+            "amount": 5000
           }
         ],
         "objectives": [
@@ -2145,6 +2145,36 @@
         ]
       },
       {
+        "id": "skywars_corrupt_win",
+        "name": "Daily Quest: Skywars Corrupted Win",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3000
+          },
+          {
+            "type": "MultipliedCoinReward",
+            "amount": 750
+          },
+          {
+            "type": "SkyWarsSoulReward",
+            "amount": 3
+          }
+        ],
+        "objectives": [
+          {
+            "id": "skywars_corrupt_win",
+            "type": "IntegerObjective",
+            "integer": 1
+          }
+        ],
+        "requirements": [
+          {
+            "type": "DailyResetQuestRequirement"
+          }
+        ]
+      },
+      {
         "id": "skywars_weekly_kills",
         "name": "Weekly Quest: Skywars Weekly Kills",
         "rewards": [
@@ -3150,6 +3180,32 @@
         "requirements": [
           {
             "type": "WeeklyResetQuestRequirement"
+          }
+        ]
+      },
+      {
+        "id": "build_battle_christmas",
+        "name": "Special Daily: Holiday",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3000
+          },
+          {
+            "type": "MultipliedCoinReward",
+            "amount": 5000
+          }
+        ],
+        "objectives": [
+          {
+            "id": "play",
+            "type": "IntegerObjective",
+            "integer": 2
+          }
+        ],
+        "requirements": [
+          {
+            "type": "DailyResetQuestRequirement"
           }
         ]
       }
