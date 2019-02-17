@@ -466,6 +466,20 @@
         "name": "Capture The Wool"
       },
       {
+        "key": "TOWERWARS",
+        "name": "TowerWars",
+        "modes": [
+          {
+            "key": "TOWERWARS_SOLO",
+            "name": "Solo"
+          },
+          {
+            "key": "TOWERWARS_TEAM_OF_TWO",
+            "name": "Team of Two"
+          }
+        ]
+      },
+      {
         "key": "KOTH",
         "name": "King of the Hill",
         "modes": [
@@ -555,6 +569,14 @@
           {
             "key": "BEDWARS_CASTLE",
             "name": "Castle"
+          },
+          {
+            "key": "BEDWARS_EIGHT_TWO_LUCKY",
+            "name": "Lucky Block Doubles"
+          },
+          {
+            "key": "BEDWARS_FOUR_FOUR_LUCKY",
+            "name": "Lucky Block 4v4v4v4"
           }
         ]
       }
