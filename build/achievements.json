@@ -8162,6 +8162,11 @@
           "name": "Crafting revolution",
           "description": "Use a custom recipe in game"
         },
+        "BLOODTHIRSTY": {
+          "points": 15,
+          "name": "Bloodthirsty",
+          "description": "Win a solo game with 15 or more kills"
+        },
         "FEARED_HUNTERS": {
           "points": 10,
           "name": "Feared Hunters",
@@ -8171,6 +8176,11 @@
           "points": 5,
           "name": "Oh Daddy pleaaase, I want a puppy!!",
           "description": "Tame a wolf"
+        },
+        "POWERHOUSE": {
+          "points": 15,
+          "name": "Powerhouse!",
+          "description": "Wear Exodus, Dragon Armor, Hide of Leviathan and Seven League Boots at the same time"
         },
         "RIDE_A_HORSE": {
           "points": 5,
@@ -8186,6 +8196,16 @@
           "points": 5,
           "name": "Bomberman",
           "description": "Kill an Enemy with TNT"
+        },
+        "OBLITERATE": {
+          "points": 20,
+          "name": "OBLITERATE!",
+          "description": "Wear all 4 pieces of the Fusion Armor"
+        },
+        "ELITE_PRESTIGE": {
+          "points": 5,
+          "name": "Elite Prestige",
+          "description": "Unlock the Prestige 1 and Prestige 2 upgrade for a profession"
         },
         "ELDORADO": {
           "points": 10,
@@ -8207,10 +8227,20 @@
           "name": "Nothing can stop us!",
           "description": "Kill an enderdragon with your team"
         },
+        "PARKOUR_MASTER": {
+          "points": 5,
+          "name": "Parkour Master",
+          "description": "Complete both parkours in the pregame lobby"
+        },
         "ENDERKIND": {
           "points": 10,
           "name": "Encounter of the Enderkind",
           "description": "Kill an Enderman"
+        },
+        "CALLING_UPON_THOR": {
+          "points": 10,
+          "name": "Calling upon Thor",
+          "description": "Have Axe of Perun and Excalibur in your inventory at the same time"
         },
         "DEATHS_SCYTHE": {
           "points": 10,
@@ -8221,6 +8251,11 @@
           "points": 10,
           "name": "Deux Ex Machina",
           "description": "Craft the Deus Ex Machina"
+        },
+        "CRAZY_HARDCORE": {
+          "points": 5,
+          "name": "Crazy Hardcore",
+          "description": "Win an Event Mode UHC"
         },
         "EXODUS": {
           "points": 10,
@@ -8246,6 +8281,11 @@
           "points": 10,
           "name": "Ultimately Wealthy",
           "description": "Unlock 10 Extra Ultimates"
+        },
+        "WRONG_MODE": {
+          "points": 10,
+          "name": "Wrong Mode?",
+          "description": "Win a team game while having 100% of the team kills"
         },
         "AXE_OF_PERUN": {
           "points": 5,
@@ -8307,6 +8347,11 @@
           "name": "Total domination",
           "description": "Be the player with the most kills at the end of the game"
         },
+        "DONG": {
+          "points": 10,
+          "name": "Ding Ding Ding!",
+          "description": "Hit an enemy from 30+ blocks away three times in a row"
+        },
         "RAMPAGE": {
           "points": 10,
           "name": "Rampage",
@@ -8322,10 +8367,20 @@
           "name": "Dice of God",
           "description": "Craft the Dice of God"
         },
+        "EXTRA_POWERFUL": {
+          "points": 10,
+          "name": "Extra Powerful",
+          "description": "Craft 3 Extra Ultimates in a single game"
+        },
         "ADRENALINE": {
           "points": 5,
           "name": "Adrenaline",
           "description": "Eat a player head"
+        },
+        "WARMING_UP": {
+          "points": 5,
+          "name": "Warming Up",
+          "description": "Get 5 kills in the pregame fighting arena"
         }
       },
       "tiered": {
@@ -8422,6 +8477,37 @@
             }
           ]
         },
+        "CONSUMER": {
+          "name": "Head Hunter",
+          "description": "Eat %s heads in UHC",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 10
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 50
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 250
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 500
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 1000
+            }
+          ]
+        },
         "BOUNTY": {
           "name": "Bounty",
           "description": "Earn %s coins",
@@ -8454,7 +8540,7 @@
           ]
         }
       },
-      "total_points": 595
+      "total_points": 780
     },
     "vampirez": {
       "one_time": {
