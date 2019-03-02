@@ -318,7 +318,7 @@
           },
           {
             "type": "MultipliedCoinReward",
-            "amount": 1750
+            "amount": 2500
           }
         ],
         "objectives": [
@@ -335,7 +335,7 @@
       },
       {
         "id": "blitz_win",
-        "name": "Daily Quest: Win",
+        "name": "Daily Quest: Win Normal",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -343,12 +343,37 @@
           },
           {
             "type": "MultipliedCoinReward",
-            "amount": 1750
+            "amount": 2500
           }
         ],
         "objectives": [
           {
             "id": "winblitz",
+            "type": "BooleanObjective"
+          }
+        ],
+        "requirements": [
+          {
+            "type": "DailyResetQuestRequirement"
+          }
+        ]
+      },
+      {
+        "id": "blitz_win_chaos",
+        "name": "Daily Quest: Win Chaos",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3250
+          },
+          {
+            "type": "MultipliedCoinReward",
+            "amount": 2500
+          }
+        ],
+        "objectives": [
+          {
+            "id": "winblitzchaos",
             "type": "BooleanObjective"
           }
         ],
@@ -368,7 +393,7 @@
           },
           {
             "type": "MultipliedCoinReward",
-            "amount": 1750
+            "amount": 2500
           }
         ],
         "objectives": [
@@ -390,28 +415,28 @@
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
-            "amount": 21000
+            "amount": 20000
           },
           {
             "type": "MultipliedCoinReward",
-            "amount": 4500
+            "amount": 5000
           }
         ],
         "objectives": [
           {
             "id": "blitz_games_played",
             "type": "IntegerObjective",
-            "integer": 30
+            "integer": 15
           },
           {
             "id": "winblitz",
             "type": "IntegerObjective",
-            "integer": 10
+            "integer": 5
           },
           {
             "id": "killblitz10",
             "type": "IntegerObjective",
-            "integer": 50
+            "integer": 30
           }
         ],
         "requirements": [
@@ -421,28 +446,38 @@
         ]
       },
       {
-        "id": "blitz_special_daily_north_pole",
-        "name": "Special Daily: Blitz North Pole",
+        "id": "blitz_weekly_chaos_master",
+        "name": "Weekly Quest: Chaos Master",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
-            "amount": 2500
+            "amount": 20000
           },
           {
             "type": "MultipliedCoinReward",
-            "amount": 2500
+            "amount": 5000
           }
         ],
         "objectives": [
           {
-            "id": "blitz_special_gifts",
+            "id": "blitz_chaos_games_played",
+            "type": "IntegerObjective",
+            "integer": 15
+          },
+          {
+            "id": "winblitzchaos",
             "type": "IntegerObjective",
             "integer": 5
+          },
+          {
+            "id": "usestarblitzchaos",
+            "type": "IntegerObjective",
+            "integer": 30
           }
         ],
         "requirements": [
           {
-            "type": "DailyResetQuestRequirement"
+            "type": "WeeklyResetQuestRequirement"
           }
         ]
       }
@@ -820,6 +855,32 @@
         ]
       },
       {
+        "id": "vampirez_daily_human_kill",
+        "name": "Daily Quest: Human Killer",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3000
+          },
+          {
+            "type": "MultipliedCoinReward",
+            "amount": 2000
+          }
+        ],
+        "objectives": [
+          {
+            "id": "vampirez_daily_kill_human",
+            "type": "IntegerObjective",
+            "integer": 10
+          }
+        ],
+        "requirements": [
+          {
+            "type": "DailyResetQuestRequirement"
+          }
+        ]
+      },
+      {
         "id": "vampirez_daily_win",
         "name": "Daily Quest: VampireZ Daily Win",
         "rewards": [
@@ -877,7 +938,7 @@
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
-            "amount": 9000
+            "amount": 11000
           },
           {
             "type": "MultipliedCoinReward",
@@ -894,6 +955,32 @@
             "id": "vampirez_weekly_kill_vampire",
             "type": "IntegerObjective",
             "integer": 25
+          }
+        ],
+        "requirements": [
+          {
+            "type": "WeeklyResetQuestRequirement"
+          }
+        ]
+      },
+      {
+        "id": "vampirez_weekly_human_kill",
+        "name": "Weekly Quest: Human Slayer",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 11000
+          },
+          {
+            "type": "MultipliedCoinReward",
+            "amount": 5000
+          }
+        ],
+        "objectives": [
+          {
+            "id": "vampirez_weekly_kill_survivor",
+            "type": "IntegerObjective",
+            "integer": 100
           }
         ],
         "requirements": [

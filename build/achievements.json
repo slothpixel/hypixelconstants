@@ -940,7 +940,7 @@
         "YOU_CANT_DO_THAT": {
           "points": 5,
           "name": "You Can't Do That!",
-          "description": "Attempt to break your team’s bed"
+          "description": "Attempt to break your team?s bed"
         },
         "ALREADY_OVER": {
           "points": 10,
@@ -1305,25 +1305,15 @@
     },
     "blitz": {
       "one_time": {
-        "FIRST_BLOOD": {
+        "DONKEYTAMER_MASTER": {
           "points": 10,
-          "name": "First Blood",
-          "description": "Get the first kill in a game"
+          "name": "Donkeytamer Master",
+          "description": "Max out the Donkeytamer Kit"
         },
         "FIND_BLITZ": {
           "points": 10,
           "name": "So powerful...",
           "description": "Find a Blitz Star"
-        },
-        "USE_WOLF_TAMER": {
-          "points": 5,
-          "name": "Raised by Wolves",
-          "description": "Use the WolfTamer kit"
-        },
-        "EXPERIMENTATION": {
-          "points": 10,
-          "name": "Experimentation",
-          "description": "Activate every single kill effect at least once"
         },
         "TITANIUM": {
           "points": 15,
@@ -1331,7 +1321,7 @@
           "description": "Wear a full set of Diamond Armor"
         },
         "RAMPAGE": {
-          "points": 10,
+          "points": 15,
           "name": "Rampage",
           "description": "Get 10 kills in one game"
         },
@@ -1345,35 +1335,175 @@
           "name": "Immortal",
           "description": "Win before the deathmatch"
         },
-        "FIRST_GAME": {
-          "points": 5,
-          "name": "It all begins here",
-          "description": "Play Blitz for the first time"
-        },
         "LUCKY_MINIONS": {
-          "points": 5,
+          "points": 10,
           "name": "Lucky minions",
           "description": "Spawn 13 mobs in a game"
-        },
-        "RABBITS_FOOT": {
-          "points": 5,
-          "name": "Rabbit's Foot",
-          "description": "Survive a fall of at least 50 blocks"
         },
         "FULL_INVENTORY": {
           "points": 5,
           "name": "Hoarder",
           "description": "Fill up your inventory"
         },
-        "KILL_WITHOUT_KIT": {
-          "points": 10,
-          "name": "Speed Kills",
-          "description": "Kill two people before you get your kit"
-        },
         "FINALLY": {
           "points": 15,
           "name": "Finally",
           "description": "Get a kit to level X"
+        },
+        "BLITZ_MANIAC": {
+          "points": 5,
+          "name": "Blitz Maniac",
+          "description": "Purchase 10 Blitz Stars"
+        },
+        "ULTIMATE_PRESTIGER": {
+          "points": 15,
+          "name": "Ultimate Prestiger",
+          "description": "Prestige an Ultimate kit"
+        },
+        "SO_SHINY": {
+          "points": 20,
+          "name": "So Shiny",
+          "description": "Unlock a prestige kit"
+        },
+        "ENCHANT_SWORD": {
+          "points": 10,
+          "name": "Ooh...Magic!",
+          "description": "Enchant a sword"
+        },
+        "ENCHANTED_ARMOR": {
+          "points": 10,
+          "name": "Shieldwall",
+          "description": "Wear a fully enchanted armor set"
+        },
+        "SPAWN_HORSE": {
+          "points": 10,
+          "name": "HORSEEEYYY",
+          "description": "Spawn a horse"
+        },
+        "CHAMPION": {
+          "points": 5,
+          "name": "Champion",
+          "description": "Kill a player that is using a level X Kit"
+        },
+        "INVINCIBLE": {
+          "points": 15,
+          "name": "Invincible",
+          "description": "Win a game without taking any damage"
+        },
+        "CHAOTIC_MADNESS": {
+          "points": 5,
+          "name": "Chaotic Madness",
+          "description": "Use 5 Blitz Stars in a single Blitz Chaos game"
+        },
+        "FIND_HEAD": {
+          "points": 10,
+          "name": "Is it Christmas already?",
+          "description": "Find the Delivery Man's head"
+        },
+        "SEVEN_KITS": {
+          "points": 5,
+          "name": "Can't Decide!",
+          "description": "Purchase one level of at least 7 kits"
+        },
+        "PHOENIX_MASTER": {
+          "points": 10,
+          "name": "Phoenix Master",
+          "description": "Max out the Phoenix Kit"
+        },
+        "FISH_KILL": {
+          "points": 10,
+          "name": "Pounded",
+          "description": "Kill someone with the 1 Pound Fish"
+        },
+        "FINAL_DESTINATION": {
+          "points": 15,
+          "name": "Final Destination",
+          "description": "Win a game where Ragnarok, Lockdown, Apocalypse, Acid Rain and Infection were activated."
+        },
+        "NO_REGRETS": {
+          "points": 5,
+          "name": "No regrets",
+          "description": "Craft a Diamond Hoe"
+        },
+        "ULTIMATE_COMBATANT": {
+          "points": 5,
+          "name": "Ultimate Combatant",
+          "description": "Kill someone while using an Ultimate kit"
+        },
+        "ULTIMATE_COMPLETIST": {
+          "points": 15,
+          "name": "Ultimate Completist",
+          "description": "Max out an Ultimate kit"
+        },
+        "COOKING_EXPERT": {
+          "points": 10,
+          "name": "Cooking Expert",
+          "description": "Craft a Golden Apple"
+        },
+        "FIRST_RANGER": {
+          "points": 10,
+          "name": "First Ranger",
+          "description": "Max out the Ranger Kit"
+        },
+        "PIGRIDER": {
+          "points": 10,
+          "name": "#pigrider77",
+          "description": "Ride a pig during deathmatch"
+        },
+        "RAMBO": {
+          "points": 10,
+          "name": "Rambo",
+          "description": "Kill a player using the Rambo kit"
+        },
+        "COLLECTOR": {
+          "points": 20,
+          "name": "Collector",
+          "description": "Unlock 3 level X kits"
+        },
+        "CRAFT_BREAD": {
+          "points": 5,
+          "name": "Peeta Mellark",
+          "description": "Craft bread"
+        },
+        "FIRST_BLOOD": {
+          "points": 5,
+          "name": "First Blood",
+          "description": "Get the first kill in a game"
+        },
+        "CLOSE_CALL": {
+          "points": 5,
+          "name": "Close Call",
+          "description": "Kill a player whilst being on 0.5 hp"
+        },
+        "USE_WOLF_TAMER": {
+          "points": 5,
+          "name": "Raised by Wolves",
+          "description": "Use the WolfTamer kit"
+        },
+        "EXPERIMENTATION": {
+          "points": 10,
+          "name": "Experimentation",
+          "description": "Activate every single kill effect at least once"
+        },
+        "SAFETY_FIRST": {
+          "points": 10,
+          "name": "Safety First",
+          "description": "Survive until deathmatch without taking any damage"
+        },
+        "FIRST_GAME": {
+          "points": 5,
+          "name": "It all begins here",
+          "description": "Play Blitz for the first time"
+        },
+        "RABBITS_FOOT": {
+          "points": 10,
+          "name": "Rabbit's Foot",
+          "description": "Survive a fall of at least 50 blocks"
+        },
+        "KILL_WITHOUT_KIT": {
+          "points": 10,
+          "name": "Speed Kills",
+          "description": "Kill two people before you get your kit"
         },
         "APOCALYPSE": {
           "points": 10,
@@ -1386,72 +1516,37 @@
           "description": "Throw a player into the void"
         },
         "UNFORTUNATE": {
-          "points": 5,
+          "points": 10,
           "name": "Unfortunate",
           "description": "Get killed by your own roulette"
         },
-        "BLITZ_MANIAC": {
-          "points": 5,
-          "name": "Blitz Maniac",
-          "description": "Purchase 10 Blitz Stars"
-        },
-        "YOUTUBER": {
+        "BRUTAL_WARRIOR": {
           "points": 10,
-          "name": "Play with the YouTuber",
-          "description": "Play a game with a YouTuber"
-        },
-        "SO_SHINY": {
-          "points": 15,
-          "name": "So Shiny",
-          "description": "Unlock a prestige kit"
+          "name": "Brutal Warrior",
+          "description": "Max out the Warrior Kit"
         },
         "TOO_BASIC": {
           "points": 10,
           "name": "Too Basic",
           "description": "Use every single basic kit at least once"
         },
-        "ENCHANT_SWORD": {
-          "points": 10,
-          "name": "Ooh...Magic!",
-          "description": "Enchant a sword"
-        },
         "SAIL_AWAY": {
           "points": 10,
           "name": "Sail Away",
           "description": "Travel 500 blocks by boat in a single game while using the Viking kit"
-        },
-        "ENCHANTED_ARMOR": {
-          "points": 10,
-          "name": "Shieldwall",
-          "description": "Wear a fully enchanted armor set"
         },
         "GET_DIAMOND_SWORD": {
           "points": 10,
           "name": "My Precious",
           "description": "Obtain a Diamond Sword"
         },
-        "SPAWN_HORSE": {
-          "points": 10,
-          "name": "HORSEEEYYY",
-          "description": "Spawn a horse"
-        },
-        "CHAMPION": {
-          "points": 5,
-          "name": "Champion",
-          "description": "Kill a player that is using a level X Kit"
-        },
         "UNSTOPPABLE": {
           "points": 10,
           "name": "Unstoppable",
-          "description": "Kill 5 players within 15 seconds"
-        },
-        "INVINCIBLE": {
-          "points": 15,
-          "name": "Invincible",
-          "description": "Win a game without taking any damage"
+          "description": "Kill 4 players within 12 seconds"
         },
         "NO_PROBLEM": {
-          "points": 5,
+          "points": 10,
           "name": "No Problem",
           "description": "Win a game without killing anyone"
         },
@@ -1460,43 +1555,23 @@
           "name": "Afterburner",
           "description": "Kill a player with Fire"
         },
-        "FIND_HEAD": {
-          "points": 10,
-          "name": "Is it Christmas already?",
-          "description": "Find the Delivery Man's head"
-        },
-        "SEVEN_KITS": {
-          "points": 15,
-          "name": "Can't Decide!",
-          "description": "Purchase one level of at least 7 kits"
-        },
         "MAX_BLITZ": {
           "points": 5,
           "name": "Max Blitz",
           "description": "Wear an Iron Helmet, Iron Chestplate, Chain Leggings and Iron Boots"
         },
-        "FISH_KILL": {
-          "points": 10,
-          "name": "Pounded",
-          "description": "Kill someone with the 1 Pound Fish"
-        },
-        "NO_REGRETS": {
-          "points": 5,
-          "name": "No regrets",
-          "description": "Craft a Diamond Hoe"
+        "EVEN_SHINIER": {
+          "points": 15,
+          "name": "Even Shinier",
+          "description": "Unlock a Prestige II kit"
         },
         "COIN_FESTIVAL": {
           "points": 5,
           "name": "Coin Festival",
           "description": "Find a Coin Chest"
         },
-        "COOKING_EXPERT": {
-          "points": 5,
-          "name": "Cooking Expert",
-          "description": "Craft a Golden Apple"
-        },
         "BOMBERMAN": {
-          "points": 5,
+          "points": 10,
           "name": "Bomberman",
           "description": "Kill a player with TNT"
         },
@@ -1510,30 +1585,10 @@
           "name": "IMPOSSIBRU",
           "description": "Win without looting any chests"
         },
-        "PIGRIDER": {
-          "points": 5,
-          "name": "#pigrider77",
-          "description": "Ride a pig during deathmatch"
-        },
-        "RAMBO": {
-          "points": 10,
-          "name": "Rambo",
-          "description": "Kill a player using the Rambo kit"
-        },
         "LEVEL_SEVEN": {
           "points": 10,
           "name": "Lucky #7",
           "description": "Get a kit to level 7"
-        },
-        "COLLECTOR": {
-          "points": 20,
-          "name": "Collector",
-          "description": "Unlock 3 level X kits"
-        },
-        "CRAFT_BREAD": {
-          "points": 5,
-          "name": "Peeta Mellark",
-          "description": "Craft bread"
         },
         "UNDER_THE_SEA": {
           "points": 5,
@@ -1542,96 +1597,34 @@
         }
       },
       "tiered": {
-        "KILLS": {
-          "name": "Blitz Slayer",
-          "description": "Kill %s players",
+        "KIT_COLLECTOR": {
+          "name": "Kit Collector",
+          "description": "Unlock %s Advanced or Ultimate kits",
           "tiers": [
             {
               "tier": 1,
               "points": 5,
+              "amount": 1
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 5
+            },
+            {
+              "tier": 3,
+              "points": 15,
               "amount": 10
             },
             {
-              "tier": 2,
-              "points": 10,
-              "amount": 100
-            },
-            {
-              "tier": 3,
-              "points": 15,
-              "amount": 1000
-            },
-            {
               "tier": 4,
               "points": 20,
-              "amount": 5000
+              "amount": 15
             },
             {
               "tier": 5,
               "points": 25,
-              "amount": 12000
-            }
-          ]
-        },
-        "COINS": {
-          "name": "Blitz Banker",
-          "description": "Earn %s coins in Blitz",
-          "tiers": [
-            {
-              "tier": 1,
-              "points": 5,
-              "amount": 5000
-            },
-            {
-              "tier": 2,
-              "points": 10,
-              "amount": 10000
-            },
-            {
-              "tier": 3,
-              "points": 15,
-              "amount": 35000
-            },
-            {
-              "tier": 4,
-              "points": 20,
-              "amount": 55000
-            },
-            {
-              "tier": 5,
-              "points": 25,
-              "amount": 75000
-            }
-          ]
-        },
-        "LOOTER": {
-          "name": "Looter",
-          "description": "Open a total of %s Chests",
-          "tiers": [
-            {
-              "tier": 1,
-              "points": 5,
-              "amount": 25
-            },
-            {
-              "tier": 2,
-              "points": 10,
-              "amount": 250
-            },
-            {
-              "tier": 3,
-              "points": 15,
-              "amount": 1500
-            },
-            {
-              "tier": 4,
-              "points": 20,
-              "amount": 5000
-            },
-            {
-              "tier": 5,
-              "points": 25,
-              "amount": 15000
+              "amount": 20
             }
           ]
         },
@@ -1728,40 +1721,9 @@
             }
           ]
         },
-        "TREASURE_SEEKER": {
-          "name": "Treasure Seeker",
-          "description": "Find the Blitz Star %s times",
-          "tiers": [
-            {
-              "tier": 1,
-              "points": 5,
-              "amount": 1
-            },
-            {
-              "tier": 2,
-              "points": 10,
-              "amount": 5
-            },
-            {
-              "tier": 3,
-              "points": 15,
-              "amount": 10
-            },
-            {
-              "tier": 4,
-              "points": 20,
-              "amount": 25
-            },
-            {
-              "tier": 5,
-              "points": 25,
-              "amount": 100
-            }
-          ]
-        },
-        "WINS": {
-          "name": "One Man Army",
-          "description": "Win %s solo games",
+        "CHAOS_WINNER": {
+          "name": "Blitz Chaos Winner",
+          "description": "Win %s games of Blitz Chaos",
           "tiers": [
             {
               "tier": 1,
@@ -1821,6 +1783,285 @@
             }
           ]
         },
+        "KILLS": {
+          "name": "Blitz Slayer",
+          "description": "Kill %s players",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 10
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 100
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 1000
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 5000
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 12000
+            }
+          ]
+        },
+        "RANGED_COMBAT": {
+          "name": "Ranged Combat",
+          "description": "Kill %s players using a bow and arrow",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 10
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 100
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 250
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 500
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 1000
+            }
+          ]
+        },
+        "COINS": {
+          "name": "Blitz Banker",
+          "description": "Earn %s coins in Blitz",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 5000
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 10000
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 35000
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 55000
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 75000
+            }
+          ]
+        },
+        "LOOTER": {
+          "name": "Looter",
+          "description": "Open a total of %s Chests",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 100
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 1000
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 2500
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 5000
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 10000
+            }
+          ]
+        },
+        "FIGHTING_EXPERT": {
+          "name": "Fighting Expert",
+          "description": "Kill %s players using a sword or axe",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 10
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 100
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 250
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 500
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 1000
+            }
+          ]
+        },
+        "TREASURE_SEEKER": {
+          "name": "Treasure Seeker",
+          "description": "Find the Blitz Star %s times",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 1
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 5
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 10
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 25
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 100
+            }
+          ]
+        },
+        "KIT_EXPERIENCE_COLLECTOR": {
+          "name": "Kit Experience Collector",
+          "description": "Collect %s Ultimate Kit Experience",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 5000
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 10000
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 15000
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 20000
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 25000
+            }
+          ]
+        },
+        "MOB_MASTER": {
+          "name": "Mob Master",
+          "description": "Spawn %s mobs",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 10
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 100
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 250
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 500
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 1000
+            }
+          ]
+        },
+        "WINS": {
+          "name": "One Man Army",
+          "description": "Win %s solo games",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 10
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 100
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 250
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 500
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 1200
+            }
+          ]
+        },
         "WINS_TEAMS": {
           "name": "Two Man Army",
           "description": "Win %s team games",
@@ -1853,7 +2094,7 @@
           ]
         }
       },
-      "total_points": 1150
+      "total_points": 1745
     },
     "buildbattle": {
       "one_time": {
@@ -2261,7 +2502,7 @@
         },
         "LET_IT_SNOW": {
           "points": 5,
-          "name": "Let it snow ♫",
+          "name": "Let it snow ?",
           "description": "Use the Let It Snow gadget in a lobby"
         },
         "MERRY_CHRISTMAS": {
