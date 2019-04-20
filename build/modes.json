@@ -601,6 +601,10 @@
       {
         "key": "MURDER_SHOWDOWN",
         "name": "Showdown"
+      },
+      {
+        "key": "MURDER_DOUBLE_UP",
+        "name": "Double Up"
       }
     ]
   },
@@ -735,5 +739,9 @@
         "name": "Bridge Tournament"
       }
     ]
+  },
+  {
+    "name": "The Pit",
+    "key": "PIT"
   }
 ]
