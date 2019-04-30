@@ -359,8 +359,8 @@
         ]
       },
       {
-        "id": "blitz_win_chaos",
-        "name": "Daily Quest: Win Chaos",
+        "id": "blitz_loot_chest_daily",
+        "name": "Daily Quest: Chest Looter",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -373,8 +373,9 @@
         ],
         "objectives": [
           {
-            "id": "winblitzchaos",
-            "type": "BooleanObjective"
+            "id": "lootchestblitz",
+            "type": "IntegerObjective",
+            "integer": 25
           }
         ],
         "requirements": [
@@ -446,8 +447,8 @@
         ]
       },
       {
-        "id": "blitz_weekly_chaos_master",
-        "name": "Weekly Quest: Chaos Master",
+        "id": "blitz_loot_chest_weekly",
+        "name": "Weekly Quest: Blitz Expert",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -460,19 +461,14 @@
         ],
         "objectives": [
           {
-            "id": "blitz_chaos_games_played",
+            "id": "lootchestblitz",
             "type": "IntegerObjective",
-            "integer": 15
+            "integer": 100
           },
           {
-            "id": "winblitzchaos",
+            "id": "dealdamageblitz",
             "type": "IntegerObjective",
-            "integer": 5
-          },
-          {
-            "id": "usestarblitzchaos",
-            "type": "IntegerObjective",
-            "integer": 30
+            "integer": 250
           }
         ],
         "requirements": [
