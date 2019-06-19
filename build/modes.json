@@ -743,5 +743,9 @@
   {
     "name": "The Pit",
     "key": "PIT"
+  },
+  {
+    "name": "SkyBlock",
+    "key": "SKYBLOCK"
   }
 ]

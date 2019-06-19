@@ -80,7 +80,8 @@
         "PTB_RIDE_BAT": {
           "points": 5,
           "name": "Party Games: Batman",
-          "description": "Ride a bat in Punch the Bat"
+          "description": "Ride a bat in Punch the Bat",
+          "legacy": true
         },
         "HOEHOEHOE_SCORE": {
           "points": 10,
@@ -667,7 +668,8 @@
           ]
         }
       },
-      "total_points": 1345
+      "total_points": 1340,
+      "total_legacy_points": 5
     },
     "arena": {
       "one_time": {
@@ -1030,7 +1032,8 @@
           ]
         }
       },
-      "total_points": 710
+      "total_points": 710,
+      "total_legacy_points": 0
     },
     "bedwars": {
       "one_time": {
@@ -1077,7 +1080,7 @@
         "YOU_CANT_DO_THAT": {
           "points": 5,
           "name": "You Can't Do That!",
-          "description": "Attempt to break your team?s bed"
+          "description": "Attempt to break your team’s bed"
         },
         "ALREADY_OVER": {
           "points": 10,
@@ -1438,7 +1441,8 @@
           ]
         }
       },
-      "total_points": 795
+      "total_points": 795,
+      "total_legacy_points": 0
     },
     "blitz": {
       "one_time": {
@@ -2190,7 +2194,8 @@
           ]
         }
       },
-      "total_points": 1650
+      "total_points": 1650,
+      "total_legacy_points": 0
     },
     "buildbattle": {
       "one_time": {
@@ -2467,7 +2472,8 @@
           ]
         }
       },
-      "total_points": 560
+      "total_points": 560,
+      "total_legacy_points": 0
     },
     "christmas2017": {
       "one_time": {
@@ -2475,11 +2481,6 @@
           "points": 15,
           "name": "Greed Incarnate",
           "description": "Steal 42 presents in a single game of Grinch Simulator"
-        },
-        "SHARING_IS_CARING": {
-          "points": 5,
-          "name": "Sharing is Caring",
-          "description": "Give one of your wrapped presents to another player in Bed Wars"
         },
         "RESPECT_YOUR_ELDER": {
           "points": 5,
@@ -2531,11 +2532,6 @@
           "name": "Close enough",
           "description": "Win a Farm Hunt game as a Chicken... Turkey?"
         },
-        "HUNT_BEGINS": {
-          "points": 5,
-          "name": "The Hunt Begins (2017)",
-          "description": "Find 2 lobby presents"
-        },
         "WINTER_RUNNER": {
           "points": 5,
           "name": "Winter Runner",
@@ -2550,11 +2546,6 @@
           "points": 5,
           "name": "EAT THIS",
           "description": "Shoot a snowball at another Grinch in Grinch Simulator"
-        },
-        "REAL_SANTA": {
-          "points": 15,
-          "name": "Real Santa (2017)",
-          "description": "Find all 88 presents in every lobby"
         },
         "CHRISTMAS_TOPPER": {
           "points": 5,
@@ -2591,14 +2582,9 @@
           "name": "Worth it",
           "description": "When tasked to kill a chicken in Santa Says, kill a cow instead"
         },
-        "REAL_SANTA_2018": {
-          "points": 15,
-          "name": "Real Santa (2018)",
-          "description": "Find all 88 presents in every lobby"
-        },
         "LET_IT_SNOW": {
           "points": 5,
-          "name": "Let it snow ?",
+          "name": "Let it snow ♫",
           "description": "Use the Let It Snow gadget in a lobby"
         },
         "MERRY_CHRISTMAS": {
@@ -2610,11 +2596,6 @@
           "points": 5,
           "name": "Swegmas",
           "description": "Teleport at least 7 players using the Sweg Move Blitz Star in Blitz Survival Games"
-        },
-        "SANTA_HELPER": {
-          "points": 5,
-          "name": "Santa Helper",
-          "description": "Bring the right items back to every special character in a single Bed Wars game"
         },
         "FESTIVITIES": {
           "points": 5,
@@ -2631,15 +2612,46 @@
           "name": "True Grinch",
           "description": "Steal 70 presents in a game of Grinch Simulator"
         },
-        "HUNT_BEGINS_2018": {
-          "points": 5,
-          "name": "The Hunt Begins (2018)",
-          "description": "Find 2 lobby presents"
-        },
         "NOM_NOM": {
           "points": 5,
           "name": "Nom nom",
           "description": "Craft a Santa Cookie in UHC"
+        },
+        "SHARING_IS_CARING": {
+          "points": 5,
+          "name": "Sharing is Caring",
+          "description": "Give one of your wrapped presents to another player in Bed Wars",
+          "legacy": true
+        },
+        "REAL_SANTA": {
+          "points": 15,
+          "name": "Real Santa (2017)",
+          "description": "Find all 88 presents in every lobby",
+          "legacy": true
+        },
+        "HUNT_BEGINS": {
+          "points": 5,
+          "name": "The Hunt Begins (2017)",
+          "description": "Find 2 lobby presents",
+          "legacy": true
+        },
+        "SANTA_HELPER": {
+          "points": 5,
+          "name": "Santa Helper",
+          "description": "Bring the right items back to every special character in a single Bed Wars game",
+          "legacy": true
+        },
+        "REAL_SANTA_2018": {
+          "points": 15,
+          "name": "Real Santa (2018)",
+          "description": "Find all 88 presents in every lobby",
+          "legacy": true
+        },
+        "HUNT_BEGINS_2018": {
+          "points": 5,
+          "name": "The Hunt Begins (2018)",
+          "description": "Find 2 lobby presents",
+          "legacy": true
         }
       },
       "tiered": {
@@ -2674,9 +2686,41 @@
             }
           ]
         },
+        "NO_CHRISTMAS": {
+          "name": "No Christmas For You",
+          "description": "Pickup %s presents in Grinch Simulator",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 5
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 25
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 60
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 150
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 300
+            }
+          ]
+        },
         "ADVENT": {
           "name": "Advent Calendar (2017)",
           "description": "Claim %s days in the Advent Calendar",
+          "legacy": true,
           "tiers": [
             {
               "tier": 1,
@@ -2708,6 +2752,7 @@
         "ADVENT_2018": {
           "name": "Advent Calendar (2018)",
           "description": "Claim %s days in the Advent Calendar",
+          "legacy": true,
           "tiers": [
             {
               "tier": 1,
@@ -2735,40 +2780,10 @@
               "amount": 21
             }
           ]
-        },
-        "NO_CHRISTMAS": {
-          "name": "No Christmas For You",
-          "description": "Pickup %s presents in Grinch Simulator",
-          "tiers": [
-            {
-              "tier": 1,
-              "points": 5,
-              "amount": 5
-            },
-            {
-              "tier": 2,
-              "points": 10,
-              "amount": 25
-            },
-            {
-              "tier": 3,
-              "points": 15,
-              "amount": 60
-            },
-            {
-              "tier": 4,
-              "points": 20,
-              "amount": 150
-            },
-            {
-              "tier": 5,
-              "points": 25,
-              "amount": 300
-            }
-          ]
         }
       },
-      "total_points": 535
+      "total_points": 335,
+      "total_legacy_points": 200
     },
     "copsandcrims": {
       "one_time": {
@@ -3156,7 +3171,8 @@
           ]
         }
       },
-      "total_points": 780
+      "total_points": 780,
+      "total_legacy_points": 0
     },
     "duels": {
       "one_time": {
@@ -3786,10 +3802,29 @@
           ]
         }
       },
-      "total_points": 1310
+      "total_points": 1310,
+      "total_legacy_points": 0
     },
     "easter": {
       "one_time": {
+        "ALL_EGGS_2019": {
+          "points": 30,
+          "name": "Egghunter (2019)",
+          "description": "Find all easter eggs in the Main Lobby",
+          "legacy": true
+        },
+        "HAPPY_EASTER_2019": {
+          "points": 5,
+          "name": "Happy Easter (2019)",
+          "description": "Login on Easter Sunday",
+          "legacy": true
+        },
+        "FIRST_EGG_2019": {
+          "points": 5,
+          "name": "The Chase Begins (2019)",
+          "description": "Find an easter egg in the Main Lobby",
+          "legacy": true
+        },
         "SW_EGG_VOID": {
           "points": 10,
           "name": "Fill the void",
@@ -3799,11 +3834,6 @@
           "points": 5,
           "name": "Cluckindoshin",
           "description": "Kill 3 different players in a game of Smash Heroes using General Cluck"
-        },
-        "FIRST_EGG_2019": {
-          "points": 5,
-          "name": "The Chase Begins (2019)",
-          "description": "Find an easter egg in the Main Lobby"
         },
         "PIT_DRAGON_EGG": {
           "points": 5,
@@ -3824,16 +3854,6 @@
           "points": 10,
           "name": "The crowd goes boom",
           "description": "Kill 2 players using grenades in a Defusal game of CVC"
-        },
-        "ALL_EGGS_2019": {
-          "points": 30,
-          "name": "Egghunter (2019)",
-          "description": "Find all easter eggs in the Main Lobby"
-        },
-        "HAPPY_EASTER_2019": {
-          "points": 5,
-          "name": "Happy Easter (2019)",
-          "description": "Login on Easter Sunday"
         },
         "ARCADE_CHICKEN_RACE": {
           "points": 5,
@@ -3909,7 +3929,8 @@
           ]
         }
       },
-      "total_points": 225
+      "total_points": 185,
+      "total_legacy_points": 40
     },
     "general": {
       "one_time": {
@@ -3957,7 +3978,7 @@
         "FIRST_FRIEND": {
           "points": 5,
           "name": "Not forever alone...",
-          "description": "Make a friend using the friend\nsystem"
+          "description": "Make a friend using the friend system"
         },
         "ACHIEVEMENT_NPC": {
           "points": 5,
@@ -3972,7 +3993,7 @@
         "CREEPERBOOK": {
           "points": 5,
           "name": "Creeperbook",
-          "description": "Link your Minecraft account with\nyour forum account"
+          "description": "Link your Minecraft account with your forum account"
         },
         "GIFTING": {
           "points": 15,
@@ -4116,7 +4137,8 @@
           ]
         }
       },
-      "total_points": 410
+      "total_points": 410,
+      "total_legacy_points": 0
     },
     "gingerbread": {
       "one_time": {
@@ -4432,15 +4454,11 @@
           ]
         }
       },
-      "total_points": 600
+      "total_points": 600,
+      "total_legacy_points": 0
     },
     "halloween2017": {
       "one_time": {
-        "ALL_GHOSTS_2018": {
-          "points": 15,
-          "name": "All Ghosts (2018)",
-          "description": "Find all Ghosts in the Main Lobby"
-        },
         "FIRE_FROM_HELL": {
           "points": 5,
           "name": "Fire from Hell",
@@ -4450,11 +4468,6 @@
           "points": 10,
           "name": "Kraken Assault Great Time",
           "description": "Complete Kraken Assault in under 01:25"
-        },
-        "SECOND_GHOST": {
-          "points": 5,
-          "name": "Second Ghost (2017)",
-          "description": "Find two Ghosts in the Main Lobby"
         },
         "PUMPKIN_DEATH": {
           "points": 10,
@@ -4495,11 +4508,6 @@
           "points": 5,
           "name": "Full Moon",
           "description": "Get a Final Kill as Werewolf in Mega Walls"
-        },
-        "SECOND_GHOST_2018": {
-          "points": 5,
-          "name": "Second Ghost (2018)",
-          "description": "Find two Ghosts in the Main Lobby"
         },
         "PUMPKIN_DANCER": {
           "points": 10,
@@ -4571,11 +4579,6 @@
           "name": "Kraken Assault Completion",
           "description": "Complete Kraken Assault in Turbo Bat Racers"
         },
-        "ALL_GHOSTS": {
-          "points": 15,
-          "name": "All Ghosts (2017)",
-          "description": "Find all Ghosts in the Main Lobby"
-        },
         "TBR_OBSERVATORY_SPIN_1_10": {
           "points": 10,
           "name": "Observatory Spin Great Time",
@@ -4606,10 +4609,35 @@
           "name": "Not so Scary",
           "description": "Win a game of Build Battle Halloween Hyper Mode"
         },
+        "ALL_GHOSTS_2018": {
+          "points": 15,
+          "name": "All Ghosts (2018)",
+          "description": "Find all Ghosts in the Main Lobby",
+          "legacy": true
+        },
+        "SECOND_GHOST": {
+          "points": 5,
+          "name": "Second Ghost (2017)",
+          "description": "Find two Ghosts in the Main Lobby",
+          "legacy": true
+        },
+        "SECOND_GHOST_2018": {
+          "points": 5,
+          "name": "Second Ghost (2018)",
+          "description": "Find two Ghosts in the Main Lobby",
+          "legacy": true
+        },
         "NECROTHERAPY": {
           "points": 5,
           "name": "Necrotherapy",
-          "description": "Get a kill in SkyClash using the Necromancer kit"
+          "description": "Get a kill in SkyClash using the Necromancer kit",
+          "legacy": true
+        },
+        "ALL_GHOSTS": {
+          "points": 15,
+          "name": "All Ghosts (2017)",
+          "description": "Find all Ghosts in the Main Lobby",
+          "legacy": true
         }
       },
       "tiered": {
@@ -4676,7 +4704,8 @@
           ]
         }
       },
-      "total_points": 400
+      "total_points": 355,
+      "total_legacy_points": 45
     },
     "housing": {
       "one_time": {
@@ -4737,7 +4766,8 @@
         }
       },
       "tiered": {},
-      "total_points": 55
+      "total_points": 55,
+      "total_legacy_points": 0
     },
     "murdermystery": {
       "one_time": {
@@ -5139,7 +5169,8 @@
           ]
         }
       },
-      "total_points": 805
+      "total_points": 805,
+      "total_legacy_points": 0
     },
     "paintball": {
       "one_time": {
@@ -5492,7 +5523,8 @@
           ]
         }
       },
-      "total_points": 685
+      "total_points": 685,
+      "total_legacy_points": 0
     },
     "quake": {
       "one_time": {
@@ -5903,7 +5935,7 @@
             {
               "tier": 5,
               "points": 25,
-              "amount": 20
+              "amount": 19
             }
           ]
         },
@@ -6001,215 +6033,257 @@
           ]
         }
       },
-      "total_points": 940
+      "total_points": 940,
+      "total_legacy_points": 0
     },
     "skyclash": {
       "one_time": {
         "WHATS_NEXT": {
           "points": 10,
           "name": "What's next?",
-          "description": "Max out a Card"
+          "description": "Max out a Card",
+          "legacy": true
         },
         "BAD_KARMA": {
           "points": 5,
           "name": "Bad Karma",
-          "description": "Get a kill after you died"
+          "description": "Get a kill after you died",
+          "legacy": true
         },
         "ADDICTED": {
           "points": 5,
           "name": "Addicted",
-          "description": "Purchase your first Card Pack"
+          "description": "Purchase your first Card Pack",
+          "legacy": true
         },
         "HALF_HEALTH_CHALLENGE": {
           "points": 10,
           "name": "Half Health Challenge",
-          "description": "Win a Solo game using the Half Health Challenge Card"
+          "description": "Win a Solo game using the Half Health Challenge Card",
+          "legacy": true
         },
         "POWERSPIKE": {
           "points": 5,
           "name": "Powerspike!",
-          "description": "Open an Enderchest"
+          "description": "Open an Enderchest",
+          "legacy": true
         },
         "ANVIL_KILL": {
           "points": 10,
           "name": "An Kill",
-          "description": "Kill an enemy with a falling Anvil"
+          "description": "Kill an enemy with a falling Anvil",
+          "legacy": true
         },
         "MAX_POWER": {
           "points": 15,
           "name": "Maximum Power",
-          "description": "Create a Class with fully maxed Cards and Kit"
+          "description": "Create a Class with fully maxed Cards and Kit",
+          "legacy": true
         },
         "HAPPY_LITTLE_ACHIEVEMENT": {
           "points": 5,
           "name": "Happy little achievement",
-          "description": "Kill a player using a Painting or a Happy Little Tree"
+          "description": "Kill a player using a Painting or a Happy Little Tree",
+          "legacy": true
         },
         "ARE_YOU_CRAZY": {
           "points": 5,
           "name": "Are you crazy?",
-          "description": "Knock off 5 or more players in a single game"
+          "description": "Knock off 5 or more players in a single game",
+          "legacy": true
         },
         "VOID_KILLER": {
           "points": 10,
           "name": "I made some people mad",
-          "description": "Throw 1000 players in the void"
+          "description": "Throw 1000 players in the void",
+          "legacy": true
         },
         "GOLDEN_ONE": {
           "points": 10,
           "name": "The Golden One",
-          "description": "Find the entire El Dorado set while playing with the Treasure Hunter kit"
+          "description": "Find the entire El Dorado set while playing with the Treasure Hunter kit",
+          "legacy": true
         },
         "NO_CHEST": {
           "points": 10,
           "name": "No Chest Challenge",
-          "description": "Win a Solo game using the No Chest Challenge Card"
+          "description": "Win a Solo game using the No Chest Challenge Card",
+          "legacy": true
         },
         "FLYING": {
           "points": 5,
           "name": "Flying!",
-          "description": "Knock someone into the void using the One Punch Bow"
+          "description": "Knock someone into the void using the One Punch Bow",
+          "legacy": true
         },
         "NEW_PASSIVE": {
           "points": 15,
           "name": "New Passive!",
-          "description": "Master a Kit"
+          "description": "Master a Kit",
+          "legacy": true
         },
         "SHARP_JUSTICE": {
           "points": 5,
           "name": "Sharpened Justice",
-          "description": "Find a Sword of Justice in a chest"
+          "description": "Find a Sword of Justice in a chest",
+          "legacy": true
         },
         "SKYCLASH_EXPERT": {
           "points": 5,
           "name": "SkyClash Expert",
-          "description": "Get 100 kills with 5 different kits"
+          "description": "Get 100 kills with 5 different kits",
+          "legacy": true
         },
         "UHC_CHALLENGE": {
           "points": 10,
           "name": "UHC Challenge",
-          "description": "Win a Solo game using the UHC Challenge Card"
+          "description": "Win a Solo game using the UHC Challenge Card",
+          "legacy": true
         },
         "HEROIC_CHARGE": {
           "points": 10,
           "name": "Heroic Charge",
-          "description": "Kill a whole team by yourself in Team War"
+          "description": "Kill a whole team by yourself in Team War",
+          "legacy": true
         },
         "NO_ALCHEMY": {
           "points": 10,
           "name": "Disallowed alchemy",
-          "description": "Win a game without using any kind of potion"
+          "description": "Win a game without using any kind of potion",
+          "legacy": true
         },
         "BOO": {
           "points": 5,
           "name": "Boo!",
-          "description": "Get a kill within 3 seconds of using an Ender Pearl"
+          "description": "Get a kill within 3 seconds of using an Ender Pearl",
+          "legacy": true
         },
         "ASSASSINATION": {
           "points": 5,
           "name": "Assassination",
-          "description": "Kill someone while you're invisible"
+          "description": "Kill someone while you're invisible",
+          "legacy": true
         },
         "ULTIMATE_WARRIOR_CHALLENGE": {
           "points": 10,
           "name": "Ultimate Warrior Challenge",
-          "description": "Win a Solo game using the Ultimate Warrior Challenge Card"
+          "description": "Win a Solo game using the Ultimate Warrior Challenge Card",
+          "legacy": true
         },
         "MY_PLAYSTYLE": {
           "points": 5,
           "name": "This is my playstyle!",
-          "description": "Use the Class Editor for the first time"
+          "description": "Use the Class Editor for the first time",
+          "legacy": true
         },
         "BOMBER_CHALLENGE": {
           "points": 10,
           "name": "Bomber Challenge",
-          "description": "Win a Solo game using the Bomber Challenge Card"
+          "description": "Win a Solo game using the Bomber Challenge Card",
+          "legacy": true
         },
         "ARCHER_CHALLENGE": {
           "points": 10,
           "name": "Archer Challenge",
-          "description": "Win a Solo game using the Archer Challenge Card"
+          "description": "Win a Solo game using the Archer Challenge Card",
+          "legacy": true
         },
         "STAY": {
           "points": 5,
           "name": "Stay where you are!",
-          "description": "Kill a player while they are on their starting island"
+          "description": "Kill a player while they are on their starting island",
+          "legacy": true
         },
         "KAWAII_PANTS": {
           "points": 10,
           "name": "K-k-k-kawaii!!",
-          "description": "Find the Cute Pants 10 times"
+          "description": "Find the Cute Pants 10 times",
+          "legacy": true
         },
         "MISSING_APPLE": {
           "points": 5,
           "name": "Where did you find that? ",
-          "description": "Eat an Enchanted Golden Apple"
+          "description": "Eat an Enchanted Golden Apple",
+          "legacy": true
         },
         "DREAM_TEAM": {
           "points": 5,
           "name": "Dream Team",
-          "description": "Win a Team War game with all teammates alive"
+          "description": "Win a Team War game with all teammates alive",
+          "legacy": true
         },
         "KILL_SECURED": {
           "points": 5,
           "name": "Kill Secured",
-          "description": "Get a killing blow on a player over 50 blocks away"
+          "description": "Get a killing blow on a player over 50 blocks away",
+          "legacy": true
         },
         "RUSHER": {
           "points": 5,
           "name": "Rusher",
-          "description": "Be the first person to open an Ender Chest in a game"
+          "description": "Be the first person to open an Ender Chest in a game",
+          "legacy": true
         },
         "GREATMAN": {
           "points": 10,
           "name": "I am Greatman!",
-          "description": "Wear a full set of Greatman's armor"
+          "description": "Wear a full set of Greatman's armor",
+          "legacy": true
         },
         "IM_A_BETTER_WIZARD": {
           "points": 10,
           "name": "I'm an even better Wizard!",
-          "description": "Kill a player with a Fireball"
+          "description": "Kill a player with a Fireball",
+          "legacy": true
         },
         "GOD_OF_MONSTERS": {
           "points": 10,
           "name": "God of monsters",
-          "description": "Spawn a total of 1,000 mobs"
+          "description": "Spawn a total of 1,000 mobs",
+          "legacy": true
         },
         "TRAINED_WELL": {
           "points": 10,
           "name": "I trained it well!",
-          "description": "Kill someone with your own Ender Dragon"
+          "description": "Kill someone with your own Ender Dragon",
+          "legacy": true
         },
         "SKYMON_GO": {
           "points": 5,
           "name": "Is this Skymon Go?",
-          "description": "Win a game with 3 different Monster Cards in your Class"
+          "description": "Win a game with 3 different Monster Cards in your Class",
+          "legacy": true
         },
         "REST_IN_PEPPERONI": {
           "points": 5,
           "name": "Rest in Pepperoni",
-          "description": "Kill 3 players in the same game with The Spoon"
+          "description": "Kill 3 players in the same game with The Spoon",
+          "legacy": true
         },
         "ENDLESS_QUIVER": {
           "points": 10,
           "name": "Endless Quiver",
-          "description": "Shoot a total of 10,000 arrows"
+          "description": "Shoot a total of 10,000 arrows",
+          "legacy": true
         },
         "LIGHTWEIGHT": {
           "points": 5,
           "name": "Lightweight feather",
-          "description": "Win a game with the Winged Boots equipped"
+          "description": "Win a game with the Winged Boots equipped",
+          "legacy": true
         },
         "IM_A_WIZARD": {
           "points": 5,
           "name": "I'm a Wizard!",
-          "description": "Find a Fireball and use it"
+          "description": "Find a Fireball and use it",
+          "legacy": true
         }
       },
       "tiered": {
         "CARDS_UNLOCKED": {
           "name": "Collector!",
           "description": "Unlock %s different Cards",
+          "legacy": true,
           "tiers": [
             {
               "tier": 1,
@@ -6231,6 +6305,7 @@
         "PACKS_OPENED": {
           "name": "Hoarder!",
           "description": "Open %s Card Packs",
+          "legacy": true,
           "tiers": [
             {
               "tier": 1,
@@ -6262,6 +6337,7 @@
         "WINS": {
           "name": "Clashing",
           "description": "Win %s games",
+          "legacy": true,
           "tiers": [
             {
               "tier": 1,
@@ -6293,6 +6369,7 @@
         "KILLS": {
           "name": "SkyClash Killer",
           "description": "Kill %s players",
+          "legacy": true,
           "tiers": [
             {
               "tier": 1,
@@ -6324,6 +6401,7 @@
         "TREASURE_HUNTER": {
           "name": "Treasure Hunter",
           "description": "Open a total of %s Ender Chests",
+          "legacy": true,
           "tiers": [
             {
               "tier": 1,
@@ -6355,6 +6433,7 @@
         "MOB_BEHEADING": {
           "name": "Mob Beheading",
           "description": "Kill a total of %s mobs",
+          "legacy": true,
           "tiers": [
             {
               "tier": 1,
@@ -6384,7 +6463,8 @@
           ]
         }
       },
-      "total_points": 715
+      "total_points": 0,
+      "total_legacy_points": 715
     },
     "skywars": {
       "one_time": {
@@ -7023,7 +7103,8 @@
           ]
         }
       },
-      "total_points": 1265
+      "total_points": 1265,
+      "total_legacy_points": 0
     },
     "speeduhc": {
       "one_time": {
@@ -7249,7 +7330,8 @@
           ]
         }
       },
-      "total_points": 435
+      "total_points": 435,
+      "total_legacy_points": 0
     },
     "supersmash": {
       "one_time": {
@@ -7505,7 +7587,8 @@
           ]
         }
       },
-      "total_points": 430
+      "total_points": 430,
+      "total_legacy_points": 0
     },
     "tntgames": {
       "one_time": {
@@ -8203,7 +8286,8 @@
           ]
         }
       },
-      "total_points": 1470
+      "total_points": 1470,
+      "total_legacy_points": 0
     },
     "truecombat": {
       "one_time": {
@@ -8613,7 +8697,8 @@
           ]
         }
       },
-      "total_points": 785
+      "total_points": 785,
+      "total_legacy_points": 0
     },
     "uhc": {
       "one_time": {
@@ -9000,7 +9085,8 @@
           ]
         }
       },
-      "total_points": 780
+      "total_points": 780,
+      "total_legacy_points": 0
     },
     "vampirez": {
       "one_time": {
@@ -9307,7 +9393,8 @@
           ]
         }
       },
-      "total_points": 610
+      "total_points": 610,
+      "total_legacy_points": 0
     },
     "walls": {
       "one_time": {
@@ -9578,7 +9665,8 @@
           ]
         }
       },
-      "total_points": 525
+      "total_points": 525,
+      "total_legacy_points": 0
     },
     "walls3": {
       "one_time": {
@@ -10553,7 +10641,8 @@
           ]
         }
       },
-      "total_points": 2150
+      "total_points": 2150,
+      "total_legacy_points": 0
     },
     "warlords": {
       "one_time": {
@@ -11188,7 +11277,8 @@
           ]
         }
       },
-      "total_points": 1380
+      "total_points": 1380,
+      "total_legacy_points": 0
     }
   }
 }
