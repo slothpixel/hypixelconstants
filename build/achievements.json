@@ -1080,7 +1080,7 @@
         "YOU_CANT_DO_THAT": {
           "points": 5,
           "name": "You Can't Do That!",
-          "description": "Attempt to break your team’s bed"
+          "description": "Attempt to break your team?s bed"
         },
         "ALREADY_OVER": {
           "points": 10,
@@ -2584,7 +2584,7 @@
         },
         "LET_IT_SNOW": {
           "points": 5,
-          "name": "Let it snow ♫",
+          "name": "Let it snow ?",
           "description": "Use the Let It Snow gadget in a lobby"
         },
         "MERRY_CHRISTMAS": {
@@ -7108,6 +7108,18 @@
     },
     "speeduhc": {
       "one_time": {
+        "MASTERY_UNLOCK": {
+          "points": 10,
+          "name": "New Strategies",
+          "description": "Find a Mastery in the Tear Exchange",
+          "legacy": true
+        },
+        "ENCHANTED_BOOK": {
+          "points": 5,
+          "name": "Knowledge!",
+          "description": "Obtain an Enchanted Book from killing a player in Insane Mode",
+          "legacy": true
+        },
         "POTION_BREWER": {
           "points": 5,
           "name": "This Better Work",
@@ -7117,6 +7129,11 @@
           "points": 5,
           "name": "Oink",
           "description": "Ride a Pig"
+        },
+        "MASTER_OF_MASTERS": {
+          "points": 15,
+          "name": "Master of Masters",
+          "description": "Prestige your first Mastery"
         },
         "USE_ENDERPEARL": {
           "points": 5,
@@ -7128,20 +7145,30 @@
           "name": "Newton's Laws",
           "description": "Find a Golden Apple from a tree"
         },
+        "HOT_HOG": {
+          "points": 5,
+          "name": "Hot Hog",
+          "description": "Ride a Pig in the Nether"
+        },
         "NATURAL_TALENT": {
           "points": 15,
           "name": "Natural Talent",
           "description": "Obtain 100 kills with 7 different Masteries"
         },
-        "MASTERY_UNLOCK": {
+        "YEEHAW": {
           "points": 10,
-          "name": "New Strategies",
-          "description": "Find a Mastery in the Tear Exchange"
+          "name": "Yeehaw!",
+          "description": "Ride a Horse"
         },
         "ENCHANTED_ARMOR": {
           "points": 5,
           "name": "Ready for the Fashion Week",
           "description": "Wear a fully enchanted set of Armor"
+        },
+        "BRAVE_NEW_WORLD": {
+          "points": 5,
+          "name": "Brave New World",
+          "description": "Enter the Nether"
         },
         "SKELETON_BOW": {
           "points": 5,
@@ -7161,12 +7188,17 @@
         "KIT_UNLOCK": {
           "points": 5,
           "name": "Feels Good Man",
-          "description": "Unlock a Kit using Salt"
+          "description": "Unlock a Kit"
         },
         "KILL_TNT": {
           "points": 10,
           "name": "I Do Things My Way",
           "description": "Kill a player using TNT"
+        },
+        "DIAMONDS": {
+          "points": 10,
+          "name": "Diamooonds",
+          "description": "Mine 30 Diamond ore in One game"
         },
         "MELON_SMASHER": {
           "points": 5,
@@ -7178,25 +7210,30 @@
           "name": "Stay Golden",
           "description": "Eat a God Apple"
         },
+        "TEARS_OF_LONELINESS": {
+          "points": 15,
+          "name": "Tears of Loneliness",
+          "description": "Win a game after your teammate dies"
+        },
         "PAPER_CUT": {
           "points": 10,
           "name": "Paper Cut",
           "description": "Kill a player with a Map"
         },
-        "ENCHANTED_BOOK": {
-          "points": 5,
-          "name": "Knowledge!",
-          "description": "Obtain an Enchanted Book from killing a player in Insane Mode"
-        },
         "RUSHER": {
           "points": 5,
           "name": "One Happy Rusher",
-          "description": "Get a kill within 30 seconds of the game starting"
+          "description": "Get a kill within 15 seconds after Grace Period Finish"
         },
         "DOMINATION": {
           "points": 5,
           "name": "Domination Achieved",
           "description": "Win a Team game with your team having at least 10 kills"
+        },
+        "MY_WAY": {
+          "points": 5,
+          "name": "My Way",
+          "description": "Choose a preference in the Drop manager"
         },
         "KILL_GHAST": {
           "points": 5,
@@ -7208,6 +7245,7 @@
         "SALTY": {
           "name": "Salty",
           "description": "Collect %s Salt",
+          "legacy": true,
           "tiers": [
             {
               "tier": 1,
@@ -7269,7 +7307,7 @@
         },
         "COLLECTOR": {
           "name": "Collector",
-          "description": "Unlock %s Perks from the Tear Exchange",
+          "description": "Unlock %s Perks",
           "tiers": [
             {
               "tier": 1,
@@ -7295,6 +7333,37 @@
               "tier": 5,
               "points": 25,
               "amount": 25
+            }
+          ]
+        },
+        "PROMOTION": {
+          "name": "Promotion",
+          "description": "Reach %s Score",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 50
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 300
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 2550
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 5550
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 15550
             }
           ]
         },
@@ -7330,8 +7399,8 @@
           ]
         }
       },
-      "total_points": 435,
-      "total_legacy_points": 0
+      "total_points": 485,
+      "total_legacy_points": 90
     },
     "supersmash": {
       "one_time": {
@@ -8723,7 +8792,7 @@
           "description": "Tame a wolf"
         },
         "POWERHOUSE": {
-          "points": 15,
+          "points": 20,
           "name": "Powerhouse!",
           "description": "Wear Exodus, Dragon Armor, Hide of Leviathan and Seven League Boots at the same time"
         },
@@ -8743,9 +8812,9 @@
           "description": "Kill an Enemy with TNT"
         },
         "OBLITERATE": {
-          "points": 20,
+          "points": 15,
           "name": "OBLITERATE!",
-          "description": "Wear all 4 pieces of the Fusion Armor"
+          "description": "Wear 2 pieces of Fusion Armor"
         },
         "ELITE_PRESTIGE": {
           "points": 5,
@@ -9083,9 +9152,40 @@
               "amount": 500000
             }
           ]
+        },
+        "ULTIMATUM": {
+          "name": "Ultimatum",
+          "description": "Craft %s Ultimates after Grace Period",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 50
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 150
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 500
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 1000
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 2500
+            }
+          ]
         }
       },
-      "total_points": 780,
+      "total_points": 855,
       "total_legacy_points": 0
     },
     "vampirez": {
