@@ -54,5 +54,12 @@
       "native": "日本語"
     },
     "code": "ja-JP"
+  },
+  "POLISH": {
+    "name": {
+      "common": "Polish",
+      "native": "Polska"
+    },
+    "code": "pl-PL"
   }
 }
