@@ -746,6 +746,48 @@
   },
   {
     "name": "SkyBlock",
-    "key": "SKYBLOCK"
+    "key": "SKYBLOCK",
+    "modes": [
+      {
+        "key": "dynamic",
+        "name": "Private Island"
+      },
+      {
+        "key": "hub",
+        "name": "Hub"
+      },
+      {
+        "key": "farming_1",
+        "name": "The Barn"
+      },
+      {
+        "key": "farming_2",
+        "name": "Mushroom Desert"
+      },
+      {
+        "key": "mining_1",
+        "name": "Gold Mine"
+      },
+      {
+        "key": "mining_2",
+        "name": "Deep Caverns"
+      },
+      {
+        "key": "combat_1",
+        "name": "Spider's Den"
+      },
+      {
+        "key": "combat_2",
+        "name": "Blazing Fortress"
+      },
+      {
+        "key": "foraging_1",
+        "name": "Floating Islands"
+      },
+      {
+        "key": "dark_auction",
+        "name": "Dark Auction"
+      }
+    ]
   }
 ]
