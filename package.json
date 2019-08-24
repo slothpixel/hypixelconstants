@@ -1,6 +1,6 @@
 {
   "name": "hypixelconstants",
-  "version": "3.0.10",
+  "version": "3.0.11",
   "description": "Constant data for Hypixel applications",
   "main": "index.js",
   "scripts": {
