@@ -577,6 +577,22 @@
           {
             "key": "BEDWARS_FOUR_FOUR_LUCKY",
             "name": "Lucky Block 4v4v4v4"
+          },
+          {
+            "key": "BEDWARS_EIGHT_TWO_VOIDLESS",
+            "name": "Voidless Doubles"
+          },
+          {
+            "key": "BEDWARS_FOUR_FOUR_VOIDLESS",
+            "name": "Voidless 4v4v4v4"
+          },
+          {
+            "key": "BEDWARS_EIGHT_TWO_ARMED",
+            "name": "Armed Doubles"
+          },
+          {
+            "key": "BEDWARS_FOUR_FOUR_ARMED",
+            "name": "Armed 4v4v4v4"
           }
         ]
       }
@@ -779,6 +795,10 @@
       {
         "key": "combat_2",
         "name": "Blazing Fortress"
+      },
+      {
+        "key": "combat_3",
+        "name": "The End"
       },
       {
         "key": "foraging_1",

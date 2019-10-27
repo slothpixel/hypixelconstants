@@ -198,5 +198,21 @@
     "lobby_name": "duels",
     "clean_name": "Duels",
     "standard_name": "Duels"
+  },
+  {
+    "id": 63,
+    "type_name": "SKYBLOCK",
+    "database_name": "SkyBlock",
+    "lobby_name": "",
+    "clean_name": "SkyBlock",
+    "standard_name": "SkyBlock"
+  },
+  {
+    "id": 64,
+    "type_name": "PIT",
+    "database_name": "Pit",
+    "lobby_name": "",
+    "clean_name": "Pit",
+    "standard_name": "Pit"
   }
 ]
