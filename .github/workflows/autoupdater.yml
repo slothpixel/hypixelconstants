@@ -22,5 +22,5 @@ jobs:
           commit-message: update build
           title: Automated File Updates
           body: This is an auto-generated PR with file updates.
-          branch: master
+          branch: autobuild
           branch-suffix: none
