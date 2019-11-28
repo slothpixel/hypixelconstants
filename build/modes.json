@@ -647,6 +647,18 @@
       {
         "key": "BUILD_BATTLE_HALLOWEEN",
         "name": "Halloween Hyper Mode"
+      },
+      {
+        "key": "BUILD_BATTLE_CHRISTMAS_NEW_SOLO",
+        "name": "Christmas Solo"
+      },
+      {
+        "key": "BUILD_BATTLE_CHRISTMAS_NEW_TEAMS",
+        "name": "Christmas Teams"
+      },
+      {
+        "key": "BUILD_BATTLE_SOLO_NORMAL_LATEST",
+        "name": "Solo (1.14)"
       }
     ]
   },
