@@ -1,4 +1,6 @@
 {
+  "success": true,
+  "lastUpdated": 1578333003929,
   "quests": {
     "quake": [
       {
@@ -25,7 +27,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Play 3 games of Quakecraft"
       },
       {
         "id": "quake_daily_kill",
@@ -51,7 +54,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Kill 50 players in Quakecraft"
       },
       {
         "id": "quake_daily_win",
@@ -77,7 +81,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Win 1 game of Quakecraft"
       },
       {
         "id": "quake_weekly_play",
@@ -108,7 +113,8 @@
           {
             "type": "WeeklyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Play 20 games of Quakecraft\nGet 10 Killstreaks"
       }
     ],
     "walls": [
@@ -136,7 +142,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Play a game of Walls"
       },
       {
         "id": "walls_daily_kill",
@@ -162,7 +169,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Kill a total of 5 players"
       },
       {
         "id": "walls_daily_win",
@@ -188,7 +196,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Win a game of Walls"
       },
       {
         "id": "walls_weekly",
@@ -219,7 +228,8 @@
           {
             "type": "WeeklyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Play 7 games of Walls\nKill a total of 25 players"
       }
     ],
     "paintball": [
@@ -247,7 +257,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Win a game of Paintball"
       },
       {
         "id": "paintball_killer",
@@ -273,7 +284,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Kill 100 players in Paintball"
       },
       {
         "id": "paintball_expert",
@@ -304,7 +316,8 @@
           {
             "type": "WeeklyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Kill 750 players in Paintball\nPlay 30 games of Paintball"
       }
     ],
     "hungergames": [
@@ -331,7 +344,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Play a game of Blitz"
       },
       {
         "id": "blitz_win",
@@ -356,7 +370,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Win a game of Blitz Normal"
       },
       {
         "id": "blitz_loot_chest_daily",
@@ -382,7 +397,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Loot 25 Chests"
       },
       {
         "id": "blitz_kills",
@@ -408,7 +424,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Kill 5 players in Blitz"
       },
       {
         "id": "blitz_weekly_master",
@@ -444,7 +461,8 @@
           {
             "type": "WeeklyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Play 15 games of Blitz\nWin 5 games of Blitz\nKill 30 players in Blitz"
       },
       {
         "id": "blitz_loot_chest_weekly",
@@ -475,7 +493,35 @@
           {
             "type": "WeeklyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Loot 100 Chests\nDeal 250 Damage to Players"
+      },
+      {
+        "id": "blitz_special_daily_north_pole",
+        "name": "Special Daily: Blitz North Pole",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 2500
+          },
+          {
+            "type": "MultipliedCoinReward",
+            "amount": 2500
+          }
+        ],
+        "objectives": [
+          {
+            "id": "blitz_special_gifts",
+            "type": "IntegerObjective",
+            "integer": 5
+          }
+        ],
+        "requirements": [
+          {
+            "type": "DailyResetQuestRequirement"
+          }
+        ],
+        "description": "Find 5 gifts of any type in chests"
       }
     ],
     "tntgames": [
@@ -503,7 +549,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Win a game of TNT Games"
       },
       {
         "id": "tnt_weekly_play",
@@ -529,7 +576,39 @@
           {
             "type": "WeeklyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Play 20 games of TNT Games"
+      },
+      {
+        "id": "tnt_weekly_special",
+        "name": "Special Weekly: Candy Cane Quest",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 30000
+          },
+          {
+            "type": "MultipliedCoinReward",
+            "amount": 22000
+          },
+          {
+            "type": "PackageReward",
+            "package": "candy_cane"
+          }
+        ],
+        "objectives": [
+          {
+            "id": "tnt_weekly_candy_canes",
+            "type": "IntegerObjective",
+            "integer": 40
+          }
+        ],
+        "requirements": [
+          {
+            "type": "WeeklyResetQuestRequirement"
+          }
+        ],
+        "description": "Collect 40 Candy Cane blocks! Find them in any mode!"
       },
       {
         "id": "tnt_tntrun_daily",
@@ -555,7 +634,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Walk over 500 blocks"
       },
       {
         "id": "tnt_tntrun_weekly",
@@ -581,7 +661,8 @@
           {
             "type": "WeeklyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Walk over 2,000 blocks"
       },
       {
         "id": "tnt_pvprun_daily",
@@ -607,7 +688,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Kill 3 players in PVP Run"
       },
       {
         "id": "tnt_pvprun_weekly",
@@ -633,7 +715,8 @@
           {
             "type": "WeeklyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Get 25 kills in PVP Run"
       },
       {
         "id": "tnt_bowspleef_daily",
@@ -659,7 +742,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Survive longer than a total of 40 players"
       },
       {
         "id": "tnt_bowspleef_weekly",
@@ -685,7 +769,8 @@
           {
             "type": "WeeklyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Survive longer than a total of 200 players"
       },
       {
         "id": "tnt_tnttag_daily",
@@ -711,7 +796,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Survive 7 rounds in total"
       },
       {
         "id": "tnt_tnttag_weekly",
@@ -737,7 +823,8 @@
           {
             "type": "WeeklyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Survive 50 rounds in total"
       },
       {
         "id": "tnt_wizards_daily",
@@ -763,7 +850,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Get 10 kills in TNT Wizards"
       },
       {
         "id": "tnt_wizards_weekly",
@@ -789,7 +877,8 @@
           {
             "type": "WeeklyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Kill 150 players in TNT Wizards"
       }
     ],
     "vampirez": [
@@ -817,7 +906,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Play a game of VampireZ"
       },
       {
         "id": "vampirez_daily_kill",
@@ -848,7 +938,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Kill 10 vampires in VampireZ\nKill 20 zombies in VampireZ"
       },
       {
         "id": "vampirez_daily_human_kill",
@@ -874,7 +965,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Kill 10 Survivors in VampireZ"
       },
       {
         "id": "vampirez_daily_win",
@@ -900,7 +992,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "As a Survivor Win a game of VampireZ"
       },
       {
         "id": "vampirez_weekly_win",
@@ -926,7 +1019,8 @@
           {
             "type": "WeeklyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Win 12 games as a Human"
       },
       {
         "id": "vampirez_weekly_kill",
@@ -957,7 +1051,8 @@
           {
             "type": "WeeklyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Kill 130 Zombies\nKill 25 Vampires"
       },
       {
         "id": "vampirez_weekly_human_kill",
@@ -983,7 +1078,8 @@
           {
             "type": "WeeklyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Kill 100 Survivors"
       }
     ],
     "walls3": [
@@ -1011,7 +1107,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Play a game of Mega Walls"
       },
       {
         "id": "mega_walls_win",
@@ -1037,7 +1134,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Win a game of Mega Walls with at least 1 kill"
       },
       {
         "id": "mega_walls_kill",
@@ -1063,7 +1161,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Kill 15 players in Mega Walls"
       },
       {
         "id": "mega_walls_weekly",
@@ -1094,7 +1193,8 @@
           {
             "type": "WeeklyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Play 15 games of Mega Walls\nKill 25 players in Mega Walls"
       },
       {
         "id": "mega_walls_faithful",
@@ -1125,7 +1225,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Play 3 games of standard Mega Walls\nWin a game of standard Mega Walls"
       }
     ],
     "arcade": [
@@ -1153,7 +1254,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Play 3 Arcade Games"
       },
       {
         "id": "arcade_winner",
@@ -1179,7 +1281,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Win a game of Arcade"
       },
       {
         "id": "arcade_specialist",
@@ -1205,7 +1308,8 @@
           {
             "type": "WeeklyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Play 20 Arcade games"
       }
     ],
     "arena": [
@@ -1237,7 +1341,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Play 5 games"
       },
       {
         "id": "arena_daily_kills",
@@ -1267,7 +1372,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Kill 5 players"
       },
       {
         "id": "arena_daily_wins",
@@ -1297,7 +1403,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Win 2 games"
       },
       {
         "id": "arena_weekly_play",
@@ -1327,7 +1434,8 @@
           {
             "type": "WeeklyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Play 35 games"
       }
     ],
     "uhc": [
@@ -1346,11 +1454,6 @@
         ],
         "objectives": [
           {
-            "id": "uhc_games",
-            "type": "IntegerObjective",
-            "integer": 1
-          },
-          {
             "id": "uhc_kills",
             "type": "IntegerObjective",
             "integer": 1
@@ -1360,7 +1463,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Kill 1 player in Team UHC Champions"
       },
       {
         "id": "uhc_solo",
@@ -1377,11 +1481,6 @@
         ],
         "objectives": [
           {
-            "id": "uhc_games",
-            "type": "IntegerObjective",
-            "integer": 1
-          },
-          {
             "id": "uhc_kills",
             "type": "IntegerObjective",
             "integer": 1
@@ -1391,7 +1490,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Kill 1 player in Solo UHC Champions"
       },
       {
         "id": "uhc_dm",
@@ -1417,7 +1517,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Kill 2 players during a UHC Champions Deathmatch"
       },
       {
         "id": "uhc_weekly",
@@ -1443,7 +1544,8 @@
           {
             "type": "WeeklyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Kill 20 players in UHC Champions"
       },
       {
         "id": "uhc_weekly_special_cookie",
@@ -1469,7 +1571,87 @@
           {
             "type": "WeeklyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Kill a player within 30s of eating a Santa Cookie, 7 times."
+      },
+      {
+        "id": "solo_brawler",
+        "name": "Daily Quest: Solo Speed Brawler",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3000
+          },
+          {
+            "type": "CoinReward",
+            "amount": 1250
+          }
+        ],
+        "objectives": [
+          {
+            "id": "win",
+            "type": "BooleanObjective"
+          }
+        ],
+        "requirements": [
+          {
+            "type": "DailyResetQuestRequirement"
+          }
+        ],
+        "description": "Win a game of Solo Speed UHC"
+      },
+      {
+        "id": "team_brawler",
+        "name": "Daily Quest: Team Speed Brawler",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3000
+          },
+          {
+            "type": "CoinReward",
+            "amount": 1250
+          }
+        ],
+        "objectives": [
+          {
+            "id": "win",
+            "type": "BooleanObjective"
+          }
+        ],
+        "requirements": [
+          {
+            "type": "DailyResetQuestRequirement"
+          }
+        ],
+        "description": "Win a game of Team Speed UHC"
+      },
+      {
+        "id": "uhc_madness",
+        "name": "Weekly Quest: SpeedUHC Madness",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 19500
+          },
+          {
+            "type": "CoinReward",
+            "amount": 4000
+          }
+        ],
+        "objectives": [
+          {
+            "id": "kill",
+            "type": "IntegerObjective",
+            "integer": 100
+          }
+        ],
+        "requirements": [
+          {
+            "type": "WeeklyResetQuestRequirement"
+          }
+        ],
+        "description": "Kill 100 players in Speed UHC"
       }
     ],
     "mcgo": [
@@ -1497,7 +1679,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Win a game of Defusal Cops and Crims"
       },
       {
         "id": "cvc_kill_daily_normal",
@@ -1523,7 +1706,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Get 15 kills in Defusal Mode"
       },
       {
         "id": "cvc_kill",
@@ -1549,7 +1733,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Get 300 points in Team Deathmatch"
       },
       {
         "id": "cvc_win_daily_deathmatch",
@@ -1575,7 +1760,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Win a game of Deathmatch"
       },
       {
         "id": "cvc_kill_weekly",
@@ -1606,7 +1792,8 @@
           {
             "type": "WeeklyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Kill 100 players in Defusal\nGet 1,500 points in Deathmatch"
       }
     ],
     "battleground": [
@@ -1637,7 +1824,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Complete 1 match with at least 10 kills\nor assists in Capture the Flag."
       },
       {
         "id": "warlords_tdm",
@@ -1666,7 +1854,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Complete 1 match with at least 10 kills\nor assists in Team Deathmatch."
       },
       {
         "id": "warlords_domination",
@@ -1695,7 +1884,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Complete 1 match with at least 15 kills\nor assists in Domination."
       },
       {
         "id": "warlords_victorious",
@@ -1724,7 +1914,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Win 1 match of Warlords."
       },
       {
         "id": "warlords_objectives",
@@ -1754,7 +1945,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "30 points for kills/assists on the enemy flag carrier\n15 points for kills/assists near allied flag carrier\n100 points for capturing a flag\n30 points for capturing a domination point\n5 points for TDM kills/assists"
       },
       {
         "id": "warlords_dedication",
@@ -1792,7 +1984,8 @@
           {
             "type": "WeeklyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Complete 30 matches with at\nleast 10 kills or assists\nin any game mode. "
       },
       {
         "id": "warlords_all_star",
@@ -1835,7 +2028,8 @@
           {
             "type": "WeeklyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Deal 1,500,000 total damage\nHeal 1,500,000 total health"
       }
     ],
     "supersmash": [
@@ -1863,7 +2057,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Win a game in Solo Mode"
       },
       {
         "id": "supersmash_solo_kills",
@@ -1889,7 +2084,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Kill 15 enemy heroes in Solo Mode"
       },
       {
         "id": "supersmash_team_win",
@@ -1915,7 +2111,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Win a game in Team Mode"
       },
       {
         "id": "supersmash_team_kills",
@@ -1941,7 +2138,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Kill 15 enemy heroes in Team Mode"
       },
       {
         "id": "supersmash_weekly_kills",
@@ -1967,7 +2165,8 @@
           {
             "type": "WeeklyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Kill a total of 150 enemy heroes in any mode"
       }
     ],
     "gingerbread": [
@@ -1995,7 +2194,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Grab 50 coin pickups"
       },
       {
         "id": "gingerbread_maps",
@@ -2021,7 +2221,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Complete 5 races"
       },
       {
         "id": "gingerbread_racer",
@@ -2047,7 +2248,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Complete 5 laps"
       },
       {
         "id": "gingerbread_mastery",
@@ -2073,7 +2275,8 @@
           {
             "type": "WeeklyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Complete 35 races"
       }
     ],
     "skywars": [
@@ -2105,7 +2308,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Win a game in Solo Mode"
       },
       {
         "id": "skywars_solo_kills",
@@ -2135,7 +2339,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Kill 15 players in Solo Mode"
       },
       {
         "id": "skywars_team_win",
@@ -2165,7 +2370,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Win a game in Doubles Mode"
       },
       {
         "id": "skywars_team_kills",
@@ -2195,7 +2401,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Kill 15 players in Doubles Mode"
       },
       {
         "id": "skywars_arcade_win",
@@ -2225,7 +2432,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Win a game in the Skywars Laboratory"
       },
       {
         "id": "skywars_corrupt_win",
@@ -2255,7 +2463,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Win a corrupted game"
       },
       {
         "id": "skywars_weekly_kills",
@@ -2285,7 +2494,8 @@
           {
             "type": "WeeklyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Kill a total of 150 players in any mode"
       },
       {
         "id": "skywars_weekly_arcade_win_all",
@@ -2315,7 +2525,8 @@
           {
             "type": "WeeklyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Win 10 games in any lab mode"
       },
       {
         "id": "skywars_special_north_pole",
@@ -2345,7 +2556,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Find 5 gifts of any type in mid chests"
       },
       {
         "id": "skywars_daily_tokens",
@@ -2367,7 +2579,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Kill 10 players in Solo or Team Mode"
       },
       {
         "id": "skywars_weekly_free_loot_chest",
@@ -2393,7 +2606,8 @@
           {
             "type": "WeeklyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Win 3 games in Solo or Team Mode"
       }
     ],
     "truecombat": [
@@ -2425,7 +2639,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Play 2 games of Crazy Walls with at least 1 kill"
       },
       {
         "id": "crazy_walls_daily_kill",
@@ -2455,7 +2670,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Kill a total of 10 players"
       },
       {
         "id": "crazy_walls_daily_win",
@@ -2485,7 +2701,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Win a game of Crazy Walls"
       },
       {
         "id": "crazy_walls_weekly",
@@ -2515,139 +2732,11 @@
           {
             "type": "WeeklyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Play 30 games of Crazy Walls"
       }
     ],
-    "speeduhc": [
-      {
-        "id": "normal_brawler",
-        "name": "Daily Quest: Normal Brawler",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 3000
-          },
-          {
-            "type": "CoinReward",
-            "amount": 1250
-          }
-        ],
-        "objectives": [
-          {
-            "id": "win",
-            "type": "BooleanObjective"
-          }
-        ],
-        "requirements": [
-          {
-            "type": "DailyResetQuestRequirement"
-          }
-        ]
-      },
-      {
-        "id": "insane_brawler",
-        "name": "Daily Quest: Insane Brawler",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 3000
-          },
-          {
-            "type": "CoinReward",
-            "amount": 1250
-          }
-        ],
-        "objectives": [
-          {
-            "id": "win",
-            "type": "BooleanObjective"
-          }
-        ],
-        "requirements": [
-          {
-            "type": "DailyResetQuestRequirement"
-          }
-        ]
-      },
-      {
-        "id": "hunting_season",
-        "name": "Daily Quest: Hunting Season",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 3000
-          },
-          {
-            "type": "CoinReward",
-            "amount": 1250
-          }
-        ],
-        "objectives": [
-          {
-            "id": "kill",
-            "type": "IntegerObjective",
-            "integer": 10
-          }
-        ],
-        "requirements": [
-          {
-            "type": "DailyResetQuestRequirement"
-          }
-        ]
-      },
-      {
-        "id": "uhc_addict",
-        "name": "Daily Quest: UHC Addict",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 3000
-          },
-          {
-            "type": "CoinReward",
-            "amount": 1250
-          }
-        ],
-        "objectives": [
-          {
-            "id": "play",
-            "type": "IntegerObjective",
-            "integer": 2
-          }
-        ],
-        "requirements": [
-          {
-            "type": "DailyResetQuestRequirement"
-          }
-        ]
-      },
-      {
-        "id": "uhc_madness",
-        "name": "Weekly Quest: UHC Madness",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 19500
-          },
-          {
-            "type": "CoinReward",
-            "amount": 4000
-          }
-        ],
-        "objectives": [
-          {
-            "id": "kill",
-            "type": "IntegerObjective",
-            "integer": 100
-          }
-        ],
-        "requirements": [
-          {
-            "type": "WeeklyResetQuestRequirement"
-          }
-        ]
-      }
-    ],
+    "speeduhc": [],
     "skyclash": [
       {
         "id": "skyclash_play_games",
@@ -2677,7 +2766,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Play 5 games of SkyClash"
       },
       {
         "id": "skyclash_kills",
@@ -2703,7 +2793,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Kill 15 players in SkyClash"
       },
       {
         "id": "skyclash_play_points",
@@ -2733,7 +2824,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Obtain 24 Play Points in SkyClash"
       },
       {
         "id": "skyclash_void",
@@ -2764,7 +2856,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Kill 5 players in the Void\nOpen 3 Enderchests"
       },
       {
         "id": "skyclash_weekly_kills",
@@ -2794,7 +2887,8 @@
           {
             "type": "WeeklyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Kill 150 players in any SkyClash mode"
       }
     ],
     "prototype": [
@@ -2807,7 +2901,7 @@
             "amount": 2000
           },
           {
-            "type": "",
+            "type": "PitGold",
             "amount": 1000
           }
         ],
@@ -2822,7 +2916,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Kill 25 Players"
       },
       {
         "id": "prototype_pit_daily_contract",
@@ -2833,7 +2928,7 @@
             "amount": 3000
           },
           {
-            "type": "",
+            "type": "PitGold",
             "amount": 1000
           }
         ],
@@ -2848,7 +2943,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Complete a Contract"
       },
       {
         "id": "prototype_pit_weekly_gold",
@@ -2859,7 +2955,7 @@
             "amount": 7000
           },
           {
-            "type": "",
+            "type": "PitGold",
             "amount": 10000
           }
         ],
@@ -2874,7 +2970,8 @@
           {
             "type": "WeeklyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Collect 10,000 Gold"
       }
     ],
     "bedwars": [
@@ -2902,7 +2999,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Win a game of Bed Wars"
       },
       {
         "id": "bedwars_daily_one_more",
@@ -2928,7 +3026,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Play 2 games of Bed Wars"
       },
       {
         "id": "bedwars_weekly_bed_elims",
@@ -2958,7 +3057,8 @@
           {
             "type": "WeeklyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Break 25 Beds in Bed Wars"
       },
       {
         "id": "bedwars_weekly_dream_win",
@@ -2988,7 +3088,8 @@
           {
             "type": "WeeklyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Win 10 dream games in Bed Wars"
       },
       {
         "id": "bedwars_daily_gifts",
@@ -3014,7 +3115,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Claim 5 gifts! Gifts regularly spawn at diamond and emerald generators."
       }
     ],
     "murdermystery": [
@@ -3042,7 +3144,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Win a game in any mode"
       },
       {
         "id": "mm_daily_power_play",
@@ -3068,7 +3171,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Kill the murderer or win as murderer in Classic mode"
       },
       {
         "id": "mm_daily_target_kill",
@@ -3094,7 +3198,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Kill 2 targets in Assassins mode"
       },
       {
         "id": "mm_weekly_murderer_kills",
@@ -3124,7 +3229,8 @@
           {
             "type": "WeeklyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Kill 25 players as murderer in Classic mode"
       },
       {
         "id": "mm_weekly_wins",
@@ -3154,7 +3260,8 @@
           {
             "type": "WeeklyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Win 15 games in any mode"
       },
       {
         "id": "mm_special_weekly_santa",
@@ -3162,7 +3269,7 @@
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
-            "amount": 1500
+            "amount": 20000
           },
           {
             "type": "MultipliedCoinReward",
@@ -3171,6 +3278,10 @@
           {
             "type": "GameLootChestReward",
             "amount": 1
+          },
+          {
+            "type": "PackageReward",
+            "package": "rudolphs_nose"
           }
         ],
         "objectives": [
@@ -3184,7 +3295,8 @@
           {
             "type": "WeeklyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Find 30 gifts scattered throughout the maps"
       }
     ],
     "buildbattle": [
@@ -3212,7 +3324,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Play 3 games of Build Battle"
       },
       {
         "id": "build_battle_winner",
@@ -3238,7 +3351,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Win a game of Build Battle"
       },
       {
         "id": "build_battle_weekly",
@@ -3264,7 +3378,8 @@
           {
             "type": "WeeklyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Play 30 games of Build Battle"
       },
       {
         "id": "build_battle_christmas",
@@ -3290,7 +3405,39 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Play 2 Holiday Mode games"
+      },
+      {
+        "id": "build_battle_christmas_weekly",
+        "name": "Special Weekly: Holiday Madness",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 42000
+          },
+          {
+            "type": "MultipliedCoinReward",
+            "amount": 100000
+          },
+          {
+            "type": "PackageReward",
+            "package": "santa"
+          }
+        ],
+        "objectives": [
+          {
+            "id": "win",
+            "type": "IntegerObjective",
+            "integer": 3
+          }
+        ],
+        "requirements": [
+          {
+            "type": "WeeklyResetQuestRequirement"
+          }
+        ],
+        "description": "Win 3 Holiday Mode games"
       }
     ],
     "duels": [
@@ -3318,7 +3465,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Play 5 games of Duels"
       },
       {
         "id": "duels_killer",
@@ -3344,7 +3492,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Kill 5 players in Duels"
       },
       {
         "id": "duels_winner",
@@ -3370,7 +3519,8 @@
           {
             "type": "DailyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Win a game of Duels"
       },
       {
         "id": "duels_weekly_kills",
@@ -3400,7 +3550,8 @@
           {
             "type": "WeeklyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Kill 100 players in Duels"
       },
       {
         "id": "duels_weekly_wins",
@@ -3430,7 +3581,8 @@
           {
             "type": "WeeklyResetQuestRequirement"
           }
-        ]
+        ],
+        "description": "Win 50 games of Duels"
       }
     ]
   }

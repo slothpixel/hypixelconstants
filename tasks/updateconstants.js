@@ -46,11 +46,11 @@ const sources = [
   },
   {
     key: "quests",
-    url: "https://github.com/HypixelDev/PublicAPI/raw/master/Documentation/misc/Quests.json"
+    url: "https://api.hypixel.net/resources/quests"
   },
   {
     key: "challenges",
-    url: "https://github.com/HypixelDev/PublicAPI/raw/master/Documentation/misc/Challenges.json"
+    url: "https://api.hypixel.net/resources/challenges"
   },
   {
     key: "modes",
