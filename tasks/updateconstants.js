@@ -6,11 +6,11 @@ const game_types = require('../build/game_types');
 const sources = [
   {
     key: "achievements",
-    url: "https://github.com/HypixelDev/PublicAPI/raw/master/Documentation/misc/Achievements.json"
+    url: "https://api.hypixel.net/resources/achievements"
   },
   {
     key: "achievements_extended",
-    url: "https://github.com/HypixelDev/PublicAPI/raw/master/Documentation/misc/Achievements.json",
+    url: "https://api.hypixel.net/resources/achievements",
     transform: respObj => {
       const { achievements } = respObj;
       Object.keys(achievements).forEach((game) => {
@@ -45,12 +45,16 @@ const sources = [
     }
   },
   {
+    key: "guild_achievements",
+    url: "https://api.hypixel.net/resources/guilds/achievements"
+  },
+  {
     key: "quests",
-    url: "https://github.com/HypixelDev/PublicAPI/raw/master/Documentation/misc/Quests.json"
+    url: "https://api.hypixel.net/resources/quests"
   },
   {
     key: "challenges",
-    url: "https://github.com/HypixelDev/PublicAPI/raw/master/Documentation/misc/Challenges.json"
+    url: "https://api.hypixel.net/resources/challenges"
   },
   {
     key: "modes",
@@ -58,6 +62,14 @@ const sources = [
     transform: respObj => {
       return removeIcons(respObj);
     }
+  },
+  {
+    key: "skyblock_collections",
+    url: "https://api.hypixel.net/resources/skyblock/collections"
+  },
+  {
+    key: "skyblock_skills",
+    url: "https://api.hypixel.net/resources/skyblock/skills"
   }
 ];
 

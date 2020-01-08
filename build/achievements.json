@@ -1,4 +1,6 @@
 {
+  "success": true,
+  "lastUpdated": 1578333003925,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -2487,6 +2489,11 @@
           "name": "Respect your Elder",
           "description": "Bring a flower to Grandma in Santa Says"
         },
+        "EXPLOSIVE_CANDY": {
+          "points": 10,
+          "name": "Explosive Candy",
+          "description": "Complete the Candy Cane Special Weekly Quest in TNT Games"
+        },
         "CHRISTMAS_IS_SAVED": {
           "points": 5,
           "name": "Christmas is Saved",
@@ -2497,10 +2504,36 @@
           "name": "Snow Wars",
           "description": "Win a SkyWars game using the Snowman Kit"
         },
+        "TO_WAR": {
+          "points": 5,
+          "name": "To War!",
+          "description": "Join the Snowball Fight in the Main Lobby"
+        },
+        "SPREADING_LOVE": {
+          "points": 10,
+          "name": "Spreading the Love",
+          "description": "Get a kill with the Merry Projectile Trail in SkyWars"
+        },
         "BIG_BAG_O_GIFTS": {
           "points": 5,
           "name": "Big Bag o' Gifts",
           "description": "Claim 6 gifts at the same time in Bed Wars"
+        },
+        "RUSH": {
+          "points": 10,
+          "name": "Rush Rush Rush",
+          "description": "Complete the Holiday Madness Special Weekly Quest in Build Battle"
+        },
+        "SECRETEST_SANTA": {
+          "points": 15,
+          "name": "Secretest Santa",
+          "description": "Win a game of Santa Simulator without being spotted by a single resident"
+        },
+        "NEW_YEARS_CELEBRATIONS": {
+          "points": 5,
+          "name": "New Years Celebrations",
+          "description": "Watch the fireworks go off in a lobby",
+          "secret": true
         },
         "HOLIDAY_MIRACLE": {
           "points": 10,
@@ -2516,6 +2549,11 @@
           "points": 5,
           "name": "Bouncy Castle",
           "description": "Jump on the Bouncy Castle in the Main Lobby"
+        },
+        "REAL_SANTA_2019": {
+          "points": 15,
+          "name": "Real Santa (2019)",
+          "description": "Find all 88 presents in every lobby"
         },
         "NOT_MY_MOM": {
           "points": 5,
@@ -2542,15 +2580,31 @@
           "name": "LEGENDARY!",
           "description": "Find a Legendary Gift in Bed Wars, SkyWars, Blitz or Murder Mystery"
         },
+        "ICE_BREAKER": {
+          "points": 5,
+          "name": "Ice Breaker",
+          "description": "Punch a Frozen Zombie Pet in a lobby"
+        },
         "EAT_THIS": {
           "points": 5,
           "name": "EAT THIS",
           "description": "Shoot a snowball at another Grinch in Grinch Simulator"
         },
+        "GROOPO_RETURNS": {
+          "points": 5,
+          "name": "Groopo Returns",
+          "description": "Find Groopo's hideout",
+          "secret": true
+        },
         "CHRISTMAS_TOPPER": {
           "points": 5,
           "name": "Marvelous Hat",
           "description": "Win a Bed Wars Game with a Holiday island topper active"
+        },
+        "FRIENDLY_FIRE": {
+          "points": 5,
+          "name": "Friendly Fire",
+          "description": "Get hit by your own Snowman in Murder Mystery"
         },
         "CHRISTMAS_QUEST": {
           "points": 10,
@@ -2587,15 +2641,30 @@
           "name": "Let it snow ?",
           "description": "Use the Let It Snow gadget in a lobby"
         },
+        "HUNT_BEGINS_2019": {
+          "points": 5,
+          "name": "The Hunt Begins (2019)",
+          "description": "Find 2 lobby presents"
+        },
         "MERRY_CHRISTMAS": {
           "points": 5,
           "name": "Happy Holidays",
           "description": "Speak to the Holidays Guide in the Main Lobby"
         },
+        "TODAYS_THE_DAY": {
+          "points": 5,
+          "name": "Today's the Day",
+          "description": "Claim the 25th day of an Advent Calendar"
+        },
         "SWEGMAS": {
           "points": 5,
           "name": "Swegmas",
           "description": "Teleport at least 7 players using the Sweg Move Blitz Star in Blitz Survival Games"
+        },
+        "ICE_SPREADER": {
+          "points": 5,
+          "name": "Ice Helper",
+          "description": "Punch a Frozen Skeleton Pet in a lobby"
         },
         "FESTIVITIES": {
           "points": 5,
@@ -2655,6 +2724,68 @@
         }
       },
       "tiered": {
+        "SECRET_SANTA": {
+          "name": "Secret Santa",
+          "description": "Fill %s stockings in Santa Simulator",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 5
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 25
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 60
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 150
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 300
+            }
+          ]
+        },
+        "PRESENT_COLLECTOR": {
+          "name": "Present Collector",
+          "description": "Give in %s presents in Bed Wars",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 5
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 50
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 250
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 500
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 1000
+            }
+          ]
+        },
         "SANTA_SAYS_ROUNDS": {
           "name": "Santa Says Winner",
           "description": "Complete %s tasks in Santa Says",
@@ -2683,6 +2814,37 @@
               "tier": 5,
               "points": 25,
               "amount": 150
+            }
+          ]
+        },
+        "ADVENT_2019": {
+          "name": "Advent Calendar (2019)",
+          "description": "Claim %s days in the Advent Calendar",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 1
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 3
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 7
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 14
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 21
             }
           ]
         },
@@ -2782,7 +2944,7 @@
           ]
         }
       },
-      "total_points": 335,
+      "total_points": 660,
       "total_legacy_points": 200
     },
     "copsandcrims": {
@@ -3180,11 +3342,6 @@
           "points": 5,
           "name": "Gone Fishing",
           "description": "Catch a fish"
-        },
-        "MORE_DAMAGE": {
-          "points": 5,
-          "name": "More Damage",
-          "description": "Win a round of a Duels Tournament after the timer runs out by dealing the most damage"
         },
         "ON_FIRE": {
           "points": 5,
@@ -3677,37 +3834,6 @@
             }
           ]
         },
-        "DUELS_TROPHIES": {
-          "name": "Duels Trophies",
-          "description": "Obtain %s Trophies by winning Duels Tournaments",
-          "tiers": [
-            {
-              "tier": 1,
-              "points": 5,
-              "amount": 1
-            },
-            {
-              "tier": 2,
-              "points": 10,
-              "amount": 10
-            },
-            {
-              "tier": 3,
-              "points": 15,
-              "amount": 25
-            },
-            {
-              "tier": 4,
-              "points": 20,
-              "amount": 50
-            },
-            {
-              "tier": 5,
-              "points": 25,
-              "amount": 100
-            }
-          ]
-        },
         "BRIDGE_WIN_STREAK": {
           "name": "The Bridge Streak",
           "description": "Get a win streak of %s in The Bridge",
@@ -3802,7 +3928,7 @@
           ]
         }
       },
-      "total_points": 1310,
+      "total_points": 1230,
       "total_legacy_points": 0
     },
     "easter": {
@@ -4464,11 +4590,6 @@
           "name": "Fire from Hell",
           "description": "Win a game of Smash Heroes using Skullfire"
         },
-        "TBR_KRAKEN_ASSAULT_1_25": {
-          "points": 10,
-          "name": "Kraken Assault Great Time",
-          "description": "Complete Kraken Assault in under 01:25"
-        },
         "PUMPKIN_DEATH": {
           "points": 10,
           "name": "Pumpkinator Rampage",
@@ -4479,20 +4600,35 @@
           "name": "Pumpkin Vision",
           "description": "Kill a player in UHC while wearing a Pumpkin on your head"
         },
-        "TBR_SHARKNADO_JAUNT_FAST": {
-          "points": 10,
-          "name": "Sharknado Jaunt Great Time",
-          "description": "Complete Sharknado Jaunt in under 1:15"
+        "ALL_BASKETS": {
+          "points": 15,
+          "name": "All Baskets (2019)",
+          "description": "Find all Candy Baskets in the Main Lobby"
         },
-        "TBR_MIDTOWN_TRIP": {
+        "TBR_SEASIDE_DRIVE": {
           "points": 5,
-          "name": "Midtown Trip Completion",
-          "description": "Complete Midtown Trip in Turbo Bat Racers"
+          "name": "Seaside Drive Completion",
+          "description": "Complete Seaside Drive in Turbo Bat Racers"
+        },
+        "SPOOKY_LOOKS": {
+          "points": 5,
+          "name": "Spooky Looks",
+          "description": "Open a Halloween Mystery Box during the Halloween Event"
         },
         "CORPSE_STILL_RUNS": {
           "points": 5,
           "name": "Corpse Still Runs",
           "description": "Win a game of Warlords Domination while having the Corpse Mare mount equipped"
+        },
+        "TBR_CLOCK_TOWER_TRIP_FAST": {
+          "points": 10,
+          "name": "Clock Tower Trip Great Time",
+          "description": "Complete Clock Tower Trip in under 0:42"
+        },
+        "FIVE_BASKETS": {
+          "points": 5,
+          "name": "Five Baskets (2019)",
+          "description": "Find five Candy Baskets in the Main Lobby"
         },
         "BLAME_YOUR_TEAM": {
           "points": 15,
@@ -4508,6 +4644,21 @@
           "points": 5,
           "name": "Full Moon",
           "description": "Get a Final Kill as Werewolf in Mega Walls"
+        },
+        "TBR_PUMPKIN_JUMP_FAST": {
+          "points": 10,
+          "name": "Pumpkin Jump Great Time",
+          "description": "Complete Pumpkin Jump in under 1:05"
+        },
+        "BE_FREE": {
+          "points": 5,
+          "name": "Be Free!",
+          "description": "Punch a Bouncy Spider Pet in a lobby"
+        },
+        "SEE_THROUGH": {
+          "points": 5,
+          "name": "See Through",
+          "description": "Activate the ability of the Ghost Hat in Paintball"
         },
         "PUMPKIN_DANCER": {
           "points": 10,
@@ -4529,11 +4680,6 @@
           "name": "Undead Target Practice",
           "description": "Reach a score of 333 before the 1 minute mark in the Main Lobby Shooting Range"
         },
-        "TBR_OBSERVATORY_SPIN": {
-          "points": 5,
-          "name": "Observatory Spin Completion",
-          "description": "Complete Observatory Spin in Turbo Bat Racers"
-        },
         "THE_CRAWLING_DEAD": {
           "points": 5,
           "name": "The Crawling Dead",
@@ -4543,11 +4689,6 @@
           "points": 5,
           "name": "Vamps r cool",
           "description": "Kill 5 survivors in a single game of VampireZ"
-        },
-        "TBR_SHARKNADO_JAUNT": {
-          "points": 5,
-          "name": "Sharknado Jaunt Completion",
-          "description": "Complete Sharknado Jaunt in Turbo Bat Racers"
         },
         "THAT_WAS_EASY": {
           "points": 5,
@@ -4569,35 +4710,55 @@
           "name": "My Halloween Costume",
           "description": "Use a Morph in a lobby"
         },
+        "DEVILS_RIDE": {
+          "points": 10,
+          "name": "Devil's Ride",
+          "description": "Place in the Top 3 in Turbo Kart Racers while using the Diablo Turbobrine Kart Skin"
+        },
         "GOOD_TRY": {
           "points": 5,
           "name": "Good Try",
           "description": "Die against the first bomb in Pumpkin Smash"
         },
-        "TBR_KRAKEN_ASSAULT": {
-          "points": 5,
-          "name": "Kraken Assault Completion",
-          "description": "Complete Kraken Assault in Turbo Bat Racers"
-        },
-        "TBR_OBSERVATORY_SPIN_1_10": {
+        "TBR_SEASIDE_DRIVE_FAST": {
           "points": 10,
-          "name": "Observatory Spin Great Time",
-          "description": "Complete Observatory Spin in under 01:15"
+          "name": "Seaside Drive Great Time",
+          "description": "Complete Seaside Drive in under 1:15"
+        },
+        "HAUNTED_MAPS": {
+          "points": 5,
+          "name": "Haunted Maps",
+          "description": "Finish games on 5 Halloween exclusive maps"
+        },
+        "KILLER_LOOT": {
+          "points": 5,
+          "name": "Killer Loot",
+          "description": "Open a Murder Mystery Spooky Chest"
         },
         "OCTOBER_BETRAYAL": {
           "points": 10,
           "name": "October Betrayal",
           "description": "Win a Murder Mystery classic game as Murderer"
         },
+        "PUMPKINS_WILL_RISE": {
+          "points": 5,
+          "name": "Pumpkins Will Rise",
+          "description": "Win a game of Murder Mystery while wearing the Pumpkin Animated Hat"
+        },
         "HI_THERE": {
           "points": 5,
           "name": "Boo!",
           "description": "Speak to the Halloween Guide in the Main Lobby"
         },
-        "TBR_MIDTOWN_TRIP_1_20": {
+        "TBR_CLOCK_TOWER_TRIP": {
+          "points": 5,
+          "name": "Clock Tower Trip Completion",
+          "description": "Complete Clock Tower Trip in Turbo Bat Racers"
+        },
+        "TIS_THE_SEASON": {
           "points": 10,
-          "name": "Midtown Trip Great Time",
-          "description": "Complete Midtown Trip in under 01:30"
+          "name": "'Tis The Season",
+          "description": "Complete the Harvest Season Special One-Time Quest in Skywars"
         },
         "EL_SPOODER": {
           "points": 5,
@@ -4608,6 +4769,22 @@
           "points": 5,
           "name": "Not so Scary",
           "description": "Win a game of Build Battle Halloween Hyper Mode"
+        },
+        "TBR_PUMPKIN_JUMP": {
+          "points": 5,
+          "name": "Pumpkin Jump Completion",
+          "description": "Complete Pumpkin Jump in Turbo Bat Racers"
+        },
+        "THAT_TIME_OF_YEAR": {
+          "points": 5,
+          "name": "That Time of Year",
+          "description": "Find the dancing Spooky Scary Skeleton in the Main Lobby",
+          "secret": true
+        },
+        "FEAR_THE_PUMPKINATOR": {
+          "points": 10,
+          "name": "Fear The Pumpkinator",
+          "description": "Complete the Pumpkinator Special Weekly Quest in Bed Wars"
         },
         "ALL_GHOSTS_2018": {
           "points": 15,
@@ -4621,22 +4798,70 @@
           "description": "Find two Ghosts in the Main Lobby",
           "legacy": true
         },
-        "SECOND_GHOST_2018": {
-          "points": 5,
-          "name": "Second Ghost (2018)",
-          "description": "Find two Ghosts in the Main Lobby",
+        "TBR_KRAKEN_ASSAULT_1_25": {
+          "points": 10,
+          "name": "Kraken Assault Great Time",
+          "description": "Complete Kraken Assault in under 01:25",
           "legacy": true
         },
-        "NECROTHERAPY": {
+        "TBR_OBSERVATORY_SPIN": {
           "points": 5,
-          "name": "Necrotherapy",
-          "description": "Get a kill in SkyClash using the Necromancer kit",
+          "name": "Observatory Spin Completion",
+          "description": "Complete Observatory Spin in Turbo Bat Racers",
+          "legacy": true
+        },
+        "TBR_SHARKNADO_JAUNT": {
+          "points": 5,
+          "name": "Sharknado Jaunt Completion",
+          "description": "Complete Sharknado Jaunt in Turbo Bat Racers",
+          "legacy": true
+        },
+        "TBR_SHARKNADO_JAUNT_FAST": {
+          "points": 10,
+          "name": "Sharknado Jaunt Great Time",
+          "description": "Complete Sharknado Jaunt in under 1:15",
           "legacy": true
         },
         "ALL_GHOSTS": {
           "points": 15,
           "name": "All Ghosts (2017)",
           "description": "Find all Ghosts in the Main Lobby",
+          "legacy": true
+        },
+        "TBR_KRAKEN_ASSAULT": {
+          "points": 5,
+          "name": "Kraken Assault Completion",
+          "description": "Complete Kraken Assault in Turbo Bat Racers",
+          "legacy": true
+        },
+        "TBR_MIDTOWN_TRIP": {
+          "points": 5,
+          "name": "Midtown Trip Completion",
+          "description": "Complete Midtown Trip in Turbo Bat Racers",
+          "legacy": true
+        },
+        "TBR_OBSERVATORY_SPIN_1_10": {
+          "points": 10,
+          "name": "Observatory Spin Great Time",
+          "description": "Complete Observatory Spin in under 01:15",
+          "legacy": true
+        },
+        "SECOND_GHOST_2018": {
+          "points": 5,
+          "name": "Second Ghost (2018)",
+          "description": "Find two Ghosts in the Main Lobby",
+          "legacy": true
+        },
+        "TBR_MIDTOWN_TRIP_1_20": {
+          "points": 10,
+          "name": "Midtown Trip Great Time",
+          "description": "Complete Midtown Trip in under 01:30",
+          "legacy": true
+        },
+        "NECROTHERAPY": {
+          "points": 5,
+          "name": "Necrotherapy",
+          "description": "Get a kill in SkyClash using the Necromancer kit",
           "legacy": true
         }
       },
@@ -4704,8 +4929,8 @@
           ]
         }
       },
-      "total_points": 355,
-      "total_legacy_points": 45
+      "total_points": 425,
+      "total_legacy_points": 105
     },
     "housing": {
       "one_time": {
@@ -5541,7 +5766,7 @@
         "THANKS_GRANDMA": {
           "points": 5,
           "name": "Thanks, Grandma!",
-          "description": "Win a game with the Cookie Cannon"
+          "description": "Win a game using the Cookie Cannon"
         },
         "BAKING_A_DOZEN": {
           "points": 10,
@@ -5611,7 +5836,7 @@
         "I_LIEK_TURTLES": {
           "points": 5,
           "name": "I liek turtles",
-          "description": "Win a game with the Turtle"
+          "description": "Win a game using the Turtle"
         },
         "TEAM_PLAYER": {
           "points": 5,
@@ -5806,7 +6031,7 @@
         "SQUISH": {
           "points": 10,
           "name": "Squish",
-          "description": "Win a game with the Worm"
+          "description": "Win a game using the Worm"
         },
         "IN_MY_WAY": {
           "points": 5,
@@ -6038,6 +6263,11 @@
     },
     "skyblock": {
       "one_time": {
+        "EXPLOSIVE_ENDING": {
+          "points": 5,
+          "name": "Explosive Ending",
+          "description": "Survive the Blast from the Unstable Dragon"
+        },
         "THE_ONE_BOTTLE": {
           "points": 5,
           "name": "The One Bottle",
@@ -6053,10 +6283,21 @@
           "name": "Promise Fulfilled",
           "description": "Max out a promising tool"
         },
+        "I_AM_SUPERIOR": {
+          "points": 5,
+          "name": "I am Superior",
+          "description": "Get Top Damage against the Superior Dragon",
+          "secret": true
+        },
         "LOST_SOUL": {
           "points": 5,
           "name": "Lost Soul",
           "description": "Find a fairy soul"
+        },
+        "BAT_PINATA": {
+          "points": 5,
+          "name": "WHAM! POW!",
+          "description": "Kill a Bat Pi?ata"
         },
         "BAITED": {
           "points": 5,
@@ -6073,10 +6314,31 @@
           "name": "Water Blade",
           "description": "Kill a squid using the Prismarine Blade"
         },
+        "EMPTY_FLOWER_POT": {
+          "points": 5,
+          "name": "Empty Flower Pot?",
+          "description": "Why is it there? Why are we all here?",
+          "secret": true
+        },
+        "STUBBORN_GIVER": {
+          "points": 10,
+          "name": "Stubborn Gifter",
+          "description": "Give 1000 total gifts"
+        },
         "PRECIOUS_MINERALS": {
           "points": 5,
           "name": "Precious Minerals",
           "description": "Wear a full set of Emerald Armor"
+        },
+        "SAFETY_FIRST": {
+          "points": 5,
+          "name": "Safety First",
+          "description": "Obtain Stonk"
+        },
+        "END_RACE": {
+          "points": 10,
+          "name": "The End Race",
+          "description": "Complete the End Race in under 42 Seconds"
         },
         "INTO_THE_DEEP": {
           "points": 5,
@@ -6112,6 +6374,11 @@
           "points": 5,
           "name": "Spiky",
           "description": "Craft a Thorns 3 book"
+        },
+        "SPEED_OF_LIGHT": {
+          "points": 5,
+          "name": "At the speed of light",
+          "description": "[Coop or you] Use Crystal Fuel"
         },
         "HIGHER_ENCHANTS": {
           "points": 10,
@@ -6154,6 +6421,12 @@
           "name": "Flamin Hot",
           "description": "Consume 200 Magma Creams using the Magma Bow"
         },
+        "SHRIMP": {
+          "points": 5,
+          "name": "Shrimp!?!",
+          "description": "Obtain Shrimp the Traveler Fish",
+          "secret": true
+        },
         "WELCOME_TO_MY_FACTORY": {
           "points": 5,
           "name": "Welcome to my Factory",
@@ -6177,7 +6450,7 @@
         "ACCESSORIES_GALORE": {
           "points": 5,
           "name": "Accessories Galore",
-          "description": "[Coop or you] Unlock the final Talisman Bag upgrade"
+          "description": "[Coop or you] Unlock the Greater Talisman Bag upgrade"
         },
         "ANIMAL_FISHING": {
           "points": 5,
@@ -6189,10 +6462,20 @@
           "name": "Treasure Fishing",
           "description": "Fish up a Large Treasure"
         },
+        "FRIAR_LAWRENCE": {
+          "points": 25,
+          "name": "Friar Lawrence",
+          "description": "Complete the Romero & Juliette questline."
+        },
         "EXPENSIVE_BREW": {
           "points": 10,
           "name": "Expensive Brew",
           "description": "Brew a Tier VIII Potion"
+        },
+        "SWEET_TOOTH": {
+          "points": 5,
+          "name": "Sweet Tooth",
+          "description": "Find a Purple Candy"
         },
         "OVERKILL": {
           "points": 5,
@@ -6203,6 +6486,11 @@
           "points": 5,
           "name": "Agile",
           "description": "Drink an Agility potion"
+        },
+        "HEART_OF_THE_END": {
+          "points": 5,
+          "name": "Heart of the End",
+          "description": "Reach the Dragon's Nest in the End"
         },
         "BIG_GAME_FISHER": {
           "points": 15,
@@ -6270,6 +6558,11 @@
           "name": "Deep Storage",
           "description": "[Coop or you] Unlock the level 3 Enderchest Upgrade"
         },
+        "WATCH_ME_SHINE": {
+          "points": 15,
+          "name": "Watch Me Shine",
+          "description": "Wear the Crystal Armor Set"
+        },
         "NO_ENCHANTS_NEEDED": {
           "points": 5,
           "name": "No Enchants Needed",
@@ -6284,6 +6577,22 @@
           "points": 5,
           "name": "King of the chickens",
           "description": "Obtain the Feather Artifact"
+        },
+        "DRAGON_SLAYER": {
+          "points": 5,
+          "name": "Dragon Slayer",
+          "description": "Take down a dragon",
+          "secret": true
+        },
+        "OH_SHINY": {
+          "points": 5,
+          "name": "Oh Shiny",
+          "description": "Mine a Glowing Block on the End Island"
+        },
+        "DULLAHAN": {
+          "points": 5,
+          "name": "Dullahan",
+          "description": "Kill a Headless Horseman"
         },
         "MASS_PRODUCTION": {
           "points": 15,
@@ -6543,6 +6852,37 @@
             }
           ]
         },
+        "UNIQUE_GIFTS": {
+          "name": "Festive Altruist",
+          "description": "Give gifts to %s different players",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 5
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 10
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 25
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 50
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 100
+            }
+          ]
+        },
         "COMBAT": {
           "name": "Combat!",
           "description": "Achieve combat level %s",
@@ -6637,7 +6977,7 @@
           ]
         }
       },
-      "total_points": 845,
+      "total_points": 1040,
       "total_legacy_points": 0
     },
     "skyclash": {
@@ -8270,6 +8610,11 @@
           "name": "One for you and for you and for you ...",
           "description": "Tag 5 different people in a game of TNT Tag"
         },
+        "PRO_SURFER": {
+          "points": 5,
+          "name": "Pro Surfer",
+          "description": "Use Hydro wizards? defense wand while standing in water"
+        },
         "WIZARDS_NOGOOD": {
           "points": 5,
           "name": "This is no good",
@@ -8300,6 +8645,11 @@
           "name": "It's raining arrows",
           "description": "Shoot 30 arrows at other players in a game of Bow Spleef"
         },
+        "NO_YOU": {
+          "points": 5,
+          "name": "No You",
+          "description": "Tag a player 15 times in one round of TNT Tag and have them die"
+        },
         "SPLEEF_NOPERKS": {
           "points": 10,
           "name": "I don't need any of that",
@@ -8310,10 +8660,20 @@
           "name": "Gotcha",
           "description": "Hit 3 enemies with 1 Wither Skull in TNT Wizards"
         },
+        "WIN_STREAK": {
+          "points": 15,
+          "name": "Win Streak",
+          "description": "Win 10 games in a row"
+        },
         "SPOOKY": {
           "points": 10,
           "name": "Spooky...",
           "description": "Win a game wearing the Halloween hat"
+        },
+        "FREEZE": {
+          "points": 5,
+          "name": "Freeze",
+          "description": "Freeze water with the Ice kit in TNT Wizards"
         },
         "JACK_OF_ALL": {
           "points": 15,
@@ -8370,6 +8730,11 @@
           "name": "Triumph",
           "description": "Win a game of TNT Run without using any double jumps"
         },
+        "EXTRME_SPEED": {
+          "points": 10,
+          "name": "Extreme Speed",
+          "description": "Kill 5 players in the first minute of TNT Wizards"
+        },
         "PVP_RUN_NODJS": {
           "points": 10,
           "name": "I did it",
@@ -8385,6 +8750,11 @@
           "name": "Stay away from me",
           "description": "Hit 'IT' with a snowball in TNT Tag"
         },
+        "TIME_WIZARDS": {
+          "points": 10,
+          "name": "Time Wizards",
+          "description": "Play a TNT Wizards game for over 15 minutes"
+        },
         "TNT_TAG_TRAVELLER": {
           "points": 5,
           "name": "Traveller",
@@ -8399,6 +8769,11 @@
           "points": 10,
           "name": "Legolas",
           "description": "Upgrade Bow Spleef TripleShot\nto level VI"
+        },
+        "PATIENCE": {
+          "points": 10,
+          "name": "Patience is Key",
+          "description": "Win a game of TNT Run that takes longer than 8 minutes"
         },
         "WIZARDS_JUMPER": {
           "points": 10,
@@ -8440,6 +8815,11 @@
           "name": "That was close",
           "description": "Double jump back on to the map after falling below it in Bow Spleef"
         },
+        "LUCKY": {
+          "points": 5,
+          "name": "Lucky!",
+          "description": "Start without TNT in all the rounds before deathmatch in TNT Tag"
+        },
         "WIZARDS_ASSISTANT": {
           "points": 10,
           "name": "Assistant",
@@ -8449,6 +8829,11 @@
           "points": 10,
           "name": "Bye Bye!",
           "description": "Tag someone and make him fall over 20 blocks in TNT Tag"
+        },
+        "POTION_SHOWER": {
+          "points": 10,
+          "name": "Potion Shower",
+          "description": "Get hit with 6 potions from other players in 1 game of TNT Run"
         },
         "SPLEEF_NOSHOTS": {
           "points": 10,
@@ -8485,6 +8870,11 @@
           "name": "There is not enough room for all of us!",
           "description": "Kill 10 Players in a game of PVP Run"
         },
+        "HEALER": {
+          "points": 10,
+          "name": "I'm Actually A Healer",
+          "description": "Heal over a 100 hearts in 1 game of TNT Wizards with the Kinetic kit"
+        },
         "TNT_PRESTIGE": {
           "points": 15,
           "name": "2fancy4me",
@@ -8510,10 +8900,20 @@
           "name": "Look at me!",
           "description": "Get on the Top 3 leaderboards in a TNT Wizards game"
         },
+        "FLYING_MADMAN": {
+          "points": 10,
+          "name": "Flying Madman",
+          "description": "Don?t touch the ground for 5 minutes and kill 5 players in the same game of TNT Wizards"
+        },
         "TNT_TAG_FIRST_WIN": {
           "points": 5,
           "name": "Boom boom",
           "description": "Win a game of TNT Tag"
+        },
+        "MAGNETIC_BOOTS": {
+          "points": 15,
+          "name": "Magnetic Boots",
+          "description": "Win a game of Bow Spleef without jumping"
         },
         "TNT_PARKOUR": {
           "points": 10,
@@ -8529,6 +8929,11 @@
           "points": 15,
           "name": "Overpowered archery",
           "description": "Get Bow Spleef Double Jump, Repulsor, and Triple Shot to level 6"
+        },
+        "COMBO": {
+          "points": 5,
+          "name": "Learn To Combo",
+          "description": "Kill a player with a repulsor shortly after you double jump in Bow Spleef"
         },
         "PVP_RUN_NOHIT": {
           "points": 10,
@@ -8553,7 +8958,7 @@
         "WIZARDS_AWIZARD": {
           "points": 15,
           "name": "You're a Wizard",
-          "description": "Get 5 Kills with every Wizard Class in a game of TNT Wizards"
+          "description": "Get 3 Kills with every Wizard Class in a game of TNT Wizards"
         },
         "GRAND_MASTER": {
           "points": 20,
@@ -8575,6 +8980,11 @@
           "name": "My wings are working",
           "description": "Be in the air for 10 seconds before dying in a TNT Run game"
         },
+        "MEGA_TANK": {
+          "points": 10,
+          "name": "Mega Tank",
+          "description": "Take over 150 hearts of damage with the Toxic kit in one game of TNT Wizards"
+        },
         "WIZARDS_LEAD": {
           "points": 10,
           "name": "What a victory!",
@@ -8590,10 +9000,20 @@
           "name": "Youngling",
           "description": "Get your first Bow Spleef\nDouble Jump upgrade"
         },
+        "TIMER": {
+          "points": 5,
+          "name": "Timer",
+          "description": "Tag a player in the last second of a round in TNT Tag and survive"
+        },
         "WIZARDS_FIRST_WIN": {
           "points": 5,
           "name": "DiamondZ",
           "description": "Win a game of TNT Wizards"
+        },
+        "SNIPER": {
+          "points": 5,
+          "name": "Sniper",
+          "description": "Get a kill from over 75 blocks away in TNT Wizards"
         },
         "TNT_TAG_DM": {
           "points": 5,
@@ -8865,6 +9285,37 @@
             }
           ]
         },
+        "BLOCK_RUNNER": {
+          "name": "Block Runner",
+          "description": "Walk over %s blocks in TNT Run",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 25000
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 125000
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 250000
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 500000
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 750000
+            }
+          ]
+        },
         "TNT_TAG_WINS": {
           "name": "Tag! Tag! Tag!",
           "description": "Win %s games of TNT Tag",
@@ -8959,7 +9410,7 @@
           ]
         }
       },
-      "total_points": 1470,
+      "total_points": 1680,
       "total_legacy_points": 0
     },
     "truecombat": {
@@ -10227,11 +10678,6 @@
           "name": "Not Today!",
           "description": "Kill a player who currently has the Strength effect"
         },
-        "CANADIAN_KIT": {
-          "points": 5,
-          "name": "Oh Canada!",
-          "description": "Get the Canadian Starter Kit"
-        },
         "STARTER_KITS": {
           "points": 10,
           "name": "MOAR!!",
@@ -10369,7 +10815,7 @@
           ]
         }
       },
-      "total_points": 525,
+      "total_points": 520,
       "total_legacy_points": 0
     },
     "walls3": {

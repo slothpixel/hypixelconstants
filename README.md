@@ -14,8 +14,11 @@ List of Content
 |-----------|----------------------|
 | achievements | Achievement data mirrored from the Hypixel Documentation |
 | achievements_extended | Extended achievement data that includes things such as total achievements and points per game |
+| guild_achievements | Guild achievements |
 | challenges | Challange data mirrored from the Hypixel Documentation |
 | game_types | Data useful for conversion between different game type names |
+| skyblock_collections | SkyBlock collections |
+| skyblock_skills | SkyBlock skills
 | languages | Data of languages Hypixel is currently translated to |
 | modes | Hypixel minigame modes |
 | pet_xp | Array containing the required xp to pet leveling |
