@@ -6,11 +6,11 @@ const game_types = require('../build/game_types');
 const sources = [
   {
     key: "achievements",
-    url: "https://github.com/HypixelDev/PublicAPI/raw/master/Documentation/misc/Achievements.json"
+    url: "https://api.hypixel.net/resources/achievements"
   },
   {
     key: "achievements_extended",
-    url: "https://github.com/HypixelDev/PublicAPI/raw/master/Documentation/misc/Achievements.json",
+    url: "https://api.hypixel.net/resources/achievements",
     transform: respObj => {
       const { achievements } = respObj;
       Object.keys(achievements).forEach((game) => {
