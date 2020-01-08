@@ -45,6 +45,10 @@ const sources = [
     }
   },
   {
+    key: "guild_achievements",
+    url: "https://api.hypixel.net/resources/guilds/achievements"
+  },
+  {
     key: "quests",
     url: "https://api.hypixel.net/resources/quests"
   },
@@ -58,6 +62,14 @@ const sources = [
     transform: respObj => {
       return removeIcons(respObj);
     }
+  },
+  {
+    key: "skyblock_collections",
+    url: "https://api.hypixel.net/resources/skyblock/collections"
+  },
+  {
+    key: "skyblock_skills",
+    url: "https://api.hypixel.net/resources/skyblock/skills"
   }
 ];
 
