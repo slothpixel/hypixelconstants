@@ -10,5 +10,6 @@ modes: require(__dirname + '/build/modes.json'),
 pet_xp: require(__dirname + '/build/pet_xp.json'),
 quests: require(__dirname + '/build/quests.json'),
 skyblock_collections: require(__dirname + '/build/skyblock_collections.json'),
+skyblock_items: require(__dirname + '/build/skyblock_items.json'),
 skyblock_skills: require(__dirname + '/build/skyblock_skills.json')
 };
