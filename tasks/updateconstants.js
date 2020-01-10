@@ -70,6 +70,10 @@ const sources = [
   {
     key: "skyblock_skills",
     url: "https://api.hypixel.net/resources/skyblock/skills"
+  },
+  {
+    key: "skyblock_items",
+    url: "https://api.slothpixel.me/api/skyblock/items"
   }
 ];
 

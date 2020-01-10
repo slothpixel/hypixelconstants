@@ -18,7 +18,8 @@ List of Content
 | challenges | Challange data mirrored from the Hypixel Documentation |
 | game_types | Data useful for conversion between different game type names |
 | skyblock_collections | SkyBlock collections |
-| skyblock_skills | SkyBlock skills
+| skyblock_skills | SkyBlock skills |
+| skyblock_items | SkyBlock item ID conversion table |
 | languages | Data of languages Hypixel is currently translated to |
 | modes | Hypixel minigame modes |
 | pet_xp | Array containing the required xp to pet leveling |
