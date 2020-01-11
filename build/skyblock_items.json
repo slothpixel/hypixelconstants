@@ -8594,5 +8594,12 @@
     "category": "blocks",
     "item_id": 44,
     "texture": null
+  },
+  "PERFECT_HELMET_5": {
+    "name": "Godly Perfect Helmet - Tier V",
+    "tier": "EPIC",
+    "category": "armor",
+    "item_id": 310,
+    "texture": null
   }
 }
