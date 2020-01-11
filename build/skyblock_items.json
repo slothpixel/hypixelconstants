@@ -8566,5 +8566,12 @@
     "category": "blocks",
     "item_id": 44,
     "texture": null
+  },
+  "PERFECT_BOOTS_6": {
+    "name": "Godly Perfect Boots - Tier VI",
+    "tier": "EPIC",
+    "category": "armor",
+    "item_id": 313,
+    "texture": null
   }
 }
