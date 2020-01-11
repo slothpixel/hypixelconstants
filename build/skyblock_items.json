@@ -8601,5 +8601,19 @@
     "category": "armor",
     "item_id": 310,
     "texture": null
+  },
+  "MAP:31": {
+    "name": "null",
+    "tier": "COMMON",
+    "category": "consumables",
+    "item_id": 358,
+    "texture": null
+  },
+  "STAINED_GLASS:5": {
+    "name": "Lime Stained Glass",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 95,
+    "texture": null
   }
 }
