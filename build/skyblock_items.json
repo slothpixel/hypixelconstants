@@ -8426,5 +8426,12 @@
     "category": "blocks",
     "item_id": 35,
     "texture": null
+  },
+  "STAINED_GLASS:4": {
+    "name": "Yellow Stained Glass",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 95,
+    "texture": null
   }
 }
