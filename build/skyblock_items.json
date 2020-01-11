@@ -8580,5 +8580,19 @@
     "category": "blocks",
     "item_id": 5,
     "texture": null
+  },
+  "SMOOTH_BRICK:2": {
+    "name": "Cracked Stone Bricks",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 98,
+    "texture": null
+  },
+  "STEP:1": {
+    "name": "Sandstone Slab",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 44,
+    "texture": null
   }
 }
