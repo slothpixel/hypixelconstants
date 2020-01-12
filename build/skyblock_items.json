@@ -8475,5 +8475,12 @@
     "category": "armor",
     "item_id": 301,
     "texture": null
+  },
+  "PERFECT_LEGGINGS_4": {
+    "name": "Perfect Leggings - Tier IV",
+    "tier": "EPIC",
+    "category": "armor",
+    "item_id": 312,
+    "texture": null
   }
 }
