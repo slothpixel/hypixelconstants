@@ -8440,5 +8440,12 @@
     "category": "misc",
     "item_id": 346,
     "texture": null
+  },
+  "JUNGLE_FENCE_GATE": {
+    "name": "Jungle Fence Gate",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 185,
+    "texture": null
   }
 }
