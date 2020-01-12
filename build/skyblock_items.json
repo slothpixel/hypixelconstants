@@ -8461,5 +8461,19 @@
     "category": "accessories",
     "item_id": 397,
     "texture": "c3fb4e5db97f479c66a42bbd8a7d781daf201a8ddaf77afcf4aef87779aa8b4"
+  },
+  "CARPET:7": {
+    "name": "Gray Carpet",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 171,
+    "texture": null
+  },
+  "LEATHER_BOOTS:43": {
+    "name": "null",
+    "tier": "COMMON",
+    "category": "armor",
+    "item_id": 301,
+    "texture": null
   }
 }
