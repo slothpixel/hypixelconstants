@@ -8482,5 +8482,12 @@
     "category": "armor",
     "item_id": 312,
     "texture": null
+  },
+  "MAP:25": {
+    "name": "null",
+    "tier": "COMMON",
+    "category": "consumables",
+    "item_id": 358,
+    "texture": null
   }
 }
