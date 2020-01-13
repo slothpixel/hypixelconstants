@@ -8503,5 +8503,12 @@
     "category": "armor",
     "item_id": 298,
     "texture": null
+  },
+  "SANDSTONE:1": {
+    "name": "Chiseled Sandstone",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 24,
+    "texture": null
   }
 }
