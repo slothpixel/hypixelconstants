@@ -8496,5 +8496,12 @@
     "category": "misc",
     "item_id": 407,
     "texture": null
+  },
+  "HELMET_OF_THE_PACK": {
+    "name": "Helmet of the Pack",
+    "tier": "EPIC",
+    "category": "armor",
+    "item_id": 298,
+    "texture": null
   }
 }
