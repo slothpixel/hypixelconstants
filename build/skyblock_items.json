@@ -8559,5 +8559,12 @@
     "category": "blocks",
     "item_id": 159,
     "texture": null
+  },
+  "PERFECT_BOOTS_5": {
+    "name": "Perfect Boots - Tier V",
+    "tier": "EPIC",
+    "category": "armor",
+    "item_id": 313,
+    "texture": null
   }
 }
