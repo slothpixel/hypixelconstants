@@ -8566,5 +8566,12 @@
     "category": "armor",
     "item_id": 313,
     "texture": null
+  },
+  "STAINED_CLAY:11": {
+    "name": "Blue Hardened Clay",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 159,
+    "texture": null
   }
 }
