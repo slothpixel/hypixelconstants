@@ -8510,5 +8510,12 @@
     "category": "blocks",
     "item_id": 24,
     "texture": null
+  },
+  "PERFECT_HELMET_8": {
+    "name": "Perfect Helmet - Tier VIII",
+    "tier": "LEGENDARY",
+    "category": "armor",
+    "item_id": 310,
+    "texture": null
   }
 }
