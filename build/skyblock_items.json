@@ -8545,5 +8545,12 @@
     "category": "armor",
     "item_id": 310,
     "texture": null
+  },
+  "SMOOTH_BRICK:3": {
+    "name": "Chiseled Stone Bricks",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 98,
+    "texture": null
   }
 }
