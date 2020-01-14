@@ -8552,5 +8552,12 @@
     "category": "blocks",
     "item_id": 98,
     "texture": null
+  },
+  "STAINED_CLAY:5": {
+    "name": "Lime Hardened Clay",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 159,
+    "texture": null
   }
 }
