@@ -8517,5 +8517,12 @@
     "category": "armor",
     "item_id": 310,
     "texture": null
+  },
+  "STAINED_GLASS:2": {
+    "name": "Magenta Stained Glass",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 95,
+    "texture": null
   }
 }
