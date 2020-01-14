@@ -8524,5 +8524,12 @@
     "category": "blocks",
     "item_id": 95,
     "texture": null
+  },
+  "LEATHER_BOOTS:40": {
+    "name": "null",
+    "tier": "COMMON",
+    "category": "armor",
+    "item_id": 301,
+    "texture": null
   }
 }
