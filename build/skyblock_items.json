@@ -8531,5 +8531,12 @@
     "category": "armor",
     "item_id": 301,
     "texture": null
+  },
+  "ACACIA_STAIRS": {
+    "name": "Acacia Wood Stairs",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 163,
+    "texture": null
   }
 }
