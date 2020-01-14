@@ -8573,5 +8573,12 @@
     "category": "blocks",
     "item_id": 159,
     "texture": null
+  },
+  "FISHING_ROD:57": {
+    "name": "null",
+    "tier": "COMMON",
+    "category": "misc",
+    "item_id": 346,
+    "texture": null
   }
 }
