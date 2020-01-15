@@ -8580,5 +8580,12 @@
     "category": "misc",
     "item_id": 346,
     "texture": null
+  },
+  "CARPET:3": {
+    "name": "Light Blue Carpet",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 171,
+    "texture": null
   }
 }
