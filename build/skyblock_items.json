@@ -8594,5 +8594,12 @@
     "category": "blocks",
     "item_id": 159,
     "texture": null
+  },
+  "SAND:9": {
+    "name": "null",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 12,
+    "texture": null
   }
 }
