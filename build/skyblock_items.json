@@ -8587,5 +8587,12 @@
     "category": "blocks",
     "item_id": 171,
     "texture": null
+  },
+  "STAINED_CLAY:7": {
+    "name": "Gray Hardened Clay",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 159,
+    "texture": null
   }
 }
