@@ -8006,5 +8006,12 @@
     "category": "weapon",
     "item_id": 267,
     "texture": null
+  },
+  "COOKED_FISH": {
+    "name": "Cooked Fish",
+    "tier": "COMMON",
+    "category": "consumables",
+    "item_id": 350,
+    "texture": null
   }
 }
