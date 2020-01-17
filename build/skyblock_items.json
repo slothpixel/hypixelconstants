@@ -8027,5 +8027,12 @@
     "category": "blocks",
     "item_id": 35,
     "texture": null
+  },
+  "WOOL:12": {
+    "name": "Brown Wool",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 35,
+    "texture": null
   }
 }
