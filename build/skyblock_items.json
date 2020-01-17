@@ -8013,5 +8013,19 @@
     "category": "accessories",
     "item_id": 397,
     "texture": null
+  },
+  "ZOMBIE_LEGGINGS": {
+    "name": "Zombie Leggings",
+    "tier": "EPIC",
+    "category": "armor",
+    "item_id": 312,
+    "texture": null
+  },
+  "WOOL:5": {
+    "name": "Lime Wool",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 35,
+    "texture": null
   }
 }
