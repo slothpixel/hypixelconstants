@@ -8034,5 +8034,26 @@
     "category": "blocks",
     "item_id": 35,
     "texture": null
+  },
+  "ELEGANT_TUXEDO_BOOTS": {
+    "name": "Elegant Tuxedo Oxfords",
+    "tier": "LEGENDARY",
+    "category": "armor",
+    "item_id": 301,
+    "texture": null
+  },
+  "ELEGANT_TUXEDO_LEGGINGS": {
+    "name": "Elegant Tuxedo Pants",
+    "tier": "LEGENDARY",
+    "category": "armor",
+    "item_id": 300,
+    "texture": null
+  },
+  "ELEGANT_TUXEDO_CHESTPLATE": {
+    "name": "Elegant Tuxedo Jacket",
+    "tier": "LEGENDARY",
+    "category": "armor",
+    "item_id": 299,
+    "texture": null
   }
 }
