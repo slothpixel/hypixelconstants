@@ -8055,5 +8055,12 @@
     "category": "misc",
     "item_id": 257,
     "texture": null
+  },
+  "WOOL:15": {
+    "name": "Black Wool",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 35,
+    "texture": null
   }
 }
