@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1579109536254,
+  "lastUpdated": 1579690707234,
   "quests": {
     "quake": [
       {
@@ -821,6 +821,46 @@
           }
         ],
         "description": "Kill 150 players in TNT Wizards"
+      },
+      {
+        "id": "tnt_lunar_quest",
+        "name": "Special Quest: Lunar New Year",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 15000
+          },
+          {
+            "type": "MultipliedCoinReward",
+            "amount": 5000
+          },
+          {
+            "type": "PackageReward",
+            "package": "cheese"
+          },
+          {
+            "type": "PackageReward",
+            "package": "trail_cheese"
+          }
+        ],
+        "objectives": [
+          {
+            "id": "tnt_special_arrows",
+            "type": "IntegerObjective",
+            "integer": 500
+          },
+          {
+            "id": "tnt_special_fire_wizard",
+            "type": "IntegerObjective",
+            "integer": 25
+          }
+        ],
+        "requirements": [
+          {
+            "type": "YearlyQuestRequirement"
+          }
+        ],
+        "description": "Shoot 500 arrows across multiple games in Bow Spleef\nGet 25 kills or assists with Fire Wizard in Wizards"
       }
     ],
     "vampirez": [
@@ -1169,6 +1209,46 @@
           }
         ],
         "description": "Play 3 games of standard Mega Walls\nWin a game of standard Mega Walls"
+      },
+      {
+        "id": "mega_walls_lunar_quest",
+        "name": "Special Quest: Lunar New Year",
+        "rewards": [
+          {
+            "type": "PackageReward",
+            "package": "rat"
+          },
+          {
+            "type": "PackageReward",
+            "package": "killmessage_squeak"
+          },
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 20000
+          },
+          {
+            "type": "MegawallsMythicFavorReward",
+            "amount": 5
+          }
+        ],
+        "objectives": [
+          {
+            "id": "mega_walls_special_food",
+            "type": "IntegerObjective",
+            "integer": 500
+          },
+          {
+            "id": "mega_walls_special_ka",
+            "type": "IntegerObjective",
+            "integer": 100
+          }
+        ],
+        "requirements": [
+          {
+            "type": "YearlyQuestRequirement"
+          }
+        ],
+        "description": "Eat 500 food items in Mega Walls\nGet 100 kills or assists in Mega Walls"
       }
     ],
     "arcade": [
@@ -2492,6 +2572,41 @@
           }
         ],
         "description": "Win 3 games in Solo or Team Mode"
+      },
+      {
+        "id": "skywars_lunar_quest",
+        "name": "Special Quest: Lunar New Year",
+        "rewards": [
+          {
+            "type": "PackageReward",
+            "package": "balloon_lantern"
+          },
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 15000
+          },
+          {
+            "type": "SkyWarsTokenReward",
+            "amount": 2000
+          },
+          {
+            "type": "GameLootChestReward",
+            "amount": 1
+          }
+        ],
+        "objectives": [
+          {
+            "id": "skywars_special_fireworks",
+            "type": "IntegerObjective",
+            "integer": 50
+          }
+        ],
+        "requirements": [
+          {
+            "type": "YearlyQuestRequirement"
+          }
+        ],
+        "description": "Launch 50 fireworks from mid chests in SkyWars"
       }
     ],
     "truecombat": [
@@ -2974,6 +3089,46 @@
           }
         ],
         "description": "Win 10 dream games in Bed Wars"
+      },
+      {
+        "id": "bedwars_lunar_quest",
+        "name": "Special Quest: Lunar New Year",
+        "rewards": [
+          {
+            "type": "PackageReward",
+            "package": "npcskin_rat"
+          },
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 10000
+          },
+          {
+            "type": "BedwarsExpReward",
+            "amount": 5000
+          },
+          {
+            "type": "GameLootChestReward",
+            "amount": 1
+          }
+        ],
+        "objectives": [
+          {
+            "id": "bedwars_special_fireballs",
+            "type": "IntegerObjective",
+            "integer": 25
+          },
+          {
+            "id": "bedwars_special_emeralds",
+            "type": "IntegerObjective",
+            "integer": 25
+          }
+        ],
+        "requirements": [
+          {
+            "type": "YearlyQuestRequirement"
+          }
+        ],
+        "description": "Shoot 25 fireballs in Bed Wars\nCollect 25 emeralds from generators in Bed Wars"
       }
     ],
     "murdermystery": [
@@ -3119,6 +3274,46 @@
           }
         ],
         "description": "Win 15 games in any mode"
+      },
+      {
+        "id": "mm_lunar_quest",
+        "name": "Special Quest: Lunar New Year",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 20000
+          },
+          {
+            "type": "MultipliedCoinReward",
+            "amount": 10000
+          },
+          {
+            "type": "PackageReward",
+            "package": "knife_skin_cheese"
+          },
+          {
+            "type": "GameLootChestReward",
+            "amount": 1
+          }
+        ],
+        "objectives": [
+          {
+            "id": "mm_special_mice",
+            "type": "IntegerObjective",
+            "integer": 15
+          },
+          {
+            "id": "mm_special_cheese",
+            "type": "IntegerObjective",
+            "integer": 15
+          }
+        ],
+        "requirements": [
+          {
+            "type": "YearlyQuestRequirement"
+          }
+        ],
+        "description": "Find 15 mice hiding throughout the maps\nFind 15 cheese laying around the maps"
       }
     ],
     "buildbattle": [
