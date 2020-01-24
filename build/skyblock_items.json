@@ -8160,5 +8160,12 @@
     "category": "blocks",
     "item_id": 160,
     "texture": null
+  },
+  "STAINED_GLASS:7": {
+    "name": "Gray Stained Glass",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 95,
+    "texture": null
   }
 }
