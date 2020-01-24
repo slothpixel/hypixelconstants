@@ -8167,5 +8167,12 @@
     "category": "blocks",
     "item_id": 95,
     "texture": null
+  },
+  "BOOTS_OF_THE_PACK": {
+    "name": "Boots of the Pack",
+    "tier": "EPIC",
+    "category": "armor",
+    "item_id": 309,
+    "texture": null
   }
 }
