@@ -8188,5 +8188,12 @@
     "category": "armor",
     "item_id": 310,
     "texture": null
+  },
+  "WOOL:10": {
+    "name": "Purple Wool",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 35,
+    "texture": null
   }
 }
