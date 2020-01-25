@@ -8174,5 +8174,19 @@
     "category": "armor",
     "item_id": 309,
     "texture": null
+  },
+  "BRICK_STAIRS": {
+    "name": "Brick Stairs",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 108,
+    "texture": null
+  },
+  "PERFECT_HELMET_11": {
+    "name": "Perfect Helmet - Tier XI",
+    "tier": "LEGENDARY",
+    "category": "armor",
+    "item_id": 310,
+    "texture": null
   }
 }
