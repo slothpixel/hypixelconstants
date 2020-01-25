@@ -8195,5 +8195,12 @@
     "category": "blocks",
     "item_id": 35,
     "texture": null
+  },
+  "REDSTONE_LAMP_OFF": {
+    "name": "Redstone Lamp",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 123,
+    "texture": null
   }
 }
