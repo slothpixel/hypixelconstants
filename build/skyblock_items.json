@@ -8202,5 +8202,12 @@
     "category": "blocks",
     "item_id": 123,
     "texture": null
+  },
+  "WOOL:8": {
+    "name": "Light Gray Wool",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 35,
+    "texture": null
   }
 }
