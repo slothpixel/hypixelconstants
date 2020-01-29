@@ -8223,5 +8223,12 @@
     "category": "blocks",
     "item_id": 159,
     "texture": null
+  },
+  "SPONGE_LEGGINGS": {
+    "name": "Sponge Leggings",
+    "tier": "EPIC",
+    "category": "armor",
+    "item_id": 300,
+    "texture": null
   }
 }
