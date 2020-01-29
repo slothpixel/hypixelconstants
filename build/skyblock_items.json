@@ -8230,5 +8230,12 @@
     "category": "armor",
     "item_id": 300,
     "texture": null
+  },
+  "HUNTER_TALISMAN": {
+    "name": "Hunter Talisman",
+    "tier": "UNCOMMON",
+    "category": "accessories",
+    "item_id": 397,
+    "texture": "5c577e7d31e5e04c2ce71e13e3962192d80bd54b55efaacaaea12966fe27bf9"
   }
 }
