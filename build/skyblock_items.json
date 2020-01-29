@@ -8216,5 +8216,12 @@
     "category": "blocks",
     "item_id": 171,
     "texture": null
+  },
+  "STAINED_CLAY": {
+    "name": "White Hardened Clay",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 159,
+    "texture": null
   }
 }
