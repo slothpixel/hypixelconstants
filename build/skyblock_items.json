@@ -8251,5 +8251,12 @@
     "category": "blocks",
     "item_id": 159,
     "texture": null
+  },
+  "GRANDFATHER_CLOCK": {
+    "name": "Grandfather Clock",
+    "tier": "EPIC",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "54779d4338d1032018deeff9f17347098c77e2321e29cffcca542eca0bbe4526"
   }
 }
