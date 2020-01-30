@@ -8244,5 +8244,12 @@
     "category": "weapon",
     "item_id": 280,
     "texture": null
+  },
+  "STAINED_CLAY:15": {
+    "name": "Black Hardened Clay",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 159,
+    "texture": null
   }
 }
