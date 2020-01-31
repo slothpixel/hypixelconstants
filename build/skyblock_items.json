@@ -8258,5 +8258,12 @@
     "category": "misc",
     "item_id": 397,
     "texture": "54779d4338d1032018deeff9f17347098c77e2321e29cffcca542eca0bbe4526"
+  },
+  "FLYCATCHER_UPGRADE": {
+    "name": "Flycatcher",
+    "tier": "EPIC",
+    "category": "blocks",
+    "item_id": 30,
+    "texture": null
   }
 }
