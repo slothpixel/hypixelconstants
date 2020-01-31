@@ -5,7 +5,14 @@
   },
   {
     "key": "MAIN_LOBBY",
-    "name": "Main Lobby"
+    "name": "Main Lobby",
+    "matcher": {
+      "startsWith": "lobby"
+    }
+  },
+  {
+    "key": "REPLAY",
+    "name": "Replay Viewer"
   },
   {
     "key": "TOURNAMENT_LOBBY",
