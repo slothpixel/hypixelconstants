@@ -8272,5 +8272,12 @@
     "category": "blocks",
     "item_id": 139,
     "texture": null
+  },
+  "HOPPER_MINECART": {
+    "name": "Minecart with Hopper",
+    "tier": "COMMON",
+    "category": "misc",
+    "item_id": 408,
+    "texture": null
   }
 }
