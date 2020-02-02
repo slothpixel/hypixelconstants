@@ -8279,5 +8279,12 @@
     "category": "misc",
     "item_id": 408,
     "texture": null
+  },
+  "LEGGINGS_OF_THE_PACK": {
+    "name": "Leggings of the Pack",
+    "tier": "EPIC",
+    "category": "armor",
+    "item_id": 308,
+    "texture": null
   }
 }
