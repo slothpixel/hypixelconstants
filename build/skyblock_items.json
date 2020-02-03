@@ -8293,5 +8293,12 @@
     "category": "weapon",
     "item_id": 261,
     "texture": null
+  },
+  "STAINED_CLAY:8": {
+    "name": "Light Gray Hardened Clay",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 159,
+    "texture": null
   }
 }
