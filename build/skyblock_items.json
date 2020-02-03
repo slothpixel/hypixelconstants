@@ -8307,5 +8307,19 @@
     "category": "blocks",
     "item_id": 159,
     "texture": null
+  },
+  "DEAD_BUSH_OF_LOVE": {
+    "name": "Dead Bush of Love",
+    "tier": "SPECIAL",
+    "category": "blocks",
+    "item_id": 32,
+    "texture": null
+  },
+  "CREATIVE_MIND": {
+    "name": "Creative Mind",
+    "tier": "SPECIAL",
+    "category": "misc",
+    "item_id": 321,
+    "texture": null
   }
 }
