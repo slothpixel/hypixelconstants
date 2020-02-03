@@ -8300,5 +8300,12 @@
     "category": "blocks",
     "item_id": 159,
     "texture": null
+  },
+  "STAINED_CLAY:12": {
+    "name": "Brown Hardened Clay",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 159,
+    "texture": null
   }
 }
