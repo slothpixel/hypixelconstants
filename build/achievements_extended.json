@@ -1223,7 +1223,7 @@
       "SHOOTING_RANGE_EXPLOSIVE_ARROW": {
         "points": 10,
         "name": "Party Games: Explosive Archer",
-        "description": "Kill 5 or more targets with\none Explosive Arrow"
+        "description": "Kill 5 or more targets with one Explosive Arrow"
       },
       "HYPIXEL_SAYS_MASTER": {
         "points": 10,
@@ -1314,7 +1314,7 @@
       "BOUNTY_HUNTER_TARGET_KILLER": {
         "points": 5,
         "name": "Bounty Hunter: Fight Like a Man",
-        "description": "Kill your target in Bounty Hunter\nwith your sword"
+        "description": "Kill your target in Bounty Hunter with your sword"
       },
       "WOOPS_DIDNT_MEAN_TO": {
         "points": 5,
@@ -1354,7 +1354,7 @@
       "RPG_16_ROCKET_PIG": {
         "points": 10,
         "name": "Party Games: Oink.",
-        "description": "Kill 3 or more players with\none rocket pig"
+        "description": "Kill 3 or more players with one rocket pig"
       },
       "ZOMBIES_HEROBRINE": {
         "points": 10,
@@ -1364,7 +1364,7 @@
       "FARM_HUNT_DISGUISE": {
         "points": 5,
         "name": "Farm Hunt: Farm Animal",
-        "description": "Survive a game of Farm Hunt\ndisguised as an animal"
+        "description": "Survive a game of Farm Hunt disguised as an animal"
       },
       "ZOMBIES_PERK_HOARDER": {
         "points": 5,
@@ -1394,7 +1394,7 @@
       "THROW_OUT_POWERUP_KILL": {
         "points": 5,
         "name": "Throw Out: Superman",
-        "description": "Knock a player out using the Megapunch\npowerup in Throw Out"
+        "description": "Knock a player out using the Megapunch powerup in Throw Out"
       },
       "ZOMBIES_ELECTRICIAN": {
         "points": 5,
@@ -1424,7 +1424,7 @@
       "PARTY_GAMES_STARS": {
         "points": 10,
         "name": "Party Games: Partier",
-        "description": "Finish with 20 or more stars\nin Party Games"
+        "description": "Finish with 20 or more stars in Party Games"
       },
       "TRAMPOLINIO_RED_WOOL": {
         "points": 5,
@@ -1459,12 +1459,12 @@
       "DRAGON_KILLER": {
         "points": 10,
         "name": "Dragon Wars: Khaleesi",
-        "description": "Kill a player while riding a\ndragon in Dragon Wars"
+        "description": "Kill a player while riding a dragon in Dragon Wars"
       },
       "CREEPER_ATTACK_UPGRADES": {
         "points": 10,
         "name": "Creeper Attack: Getting an Upgrade",
-        "description": "Fully upgrade your sword, bow,\nand armor in Creeper Attack"
+        "description": "Fully upgrade your sword, bow, and armor in Creeper Attack"
       },
       "ZOMBIES_SURVIVOR": {
         "points": 10,
