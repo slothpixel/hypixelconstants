@@ -8342,5 +8342,12 @@
     "category": "blocks",
     "item_id": 157,
     "texture": null
+  },
+  "PERFECT_CHESTPLATE_7": {
+    "name": "Perfect Chestplate - Tier VII",
+    "tier": "EPIC",
+    "category": "armor",
+    "item_id": 311,
+    "texture": null
   }
 }
