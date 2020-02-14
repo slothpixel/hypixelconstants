@@ -8349,5 +8349,12 @@
     "category": "armor",
     "item_id": 311,
     "texture": null
+  },
+  "PERFECT_CHESTPLATE_5": {
+    "name": "Perfect Chestplate - Tier V",
+    "tier": "EPIC",
+    "category": "armor",
+    "item_id": 311,
+    "texture": null
   }
 }
