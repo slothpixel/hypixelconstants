@@ -8363,5 +8363,12 @@
     "category": "armor",
     "item_id": 311,
     "texture": null
+  },
+  "STAINED_CLAY:1": {
+    "name": "Orange Hardened Clay",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 159,
+    "texture": null
   }
 }
