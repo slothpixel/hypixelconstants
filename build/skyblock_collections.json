@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1582118632096,
-  "version": "0.7.244",
+  "lastUpdated": 1582325639321,
+  "version": "0.7.245",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -478,7 +478,7 @@
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "Bat Pet Egg (COMING SOON)"
+                "Mystery Bat Pet Recipe"
               ]
             }
           ]
@@ -831,7 +831,7 @@
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "Horse Mount Egg (COMING SOON)"
+                "Mystery Horse Pet Recipe"
               ]
             },
             {
@@ -900,7 +900,7 @@
               "tier": 8,
               "amountRequired": 25000,
               "unlocks": [
-                "Pigmen Pet Egg (COMING SOON)"
+                "Mystery Pigman Pet Recipe"
               ]
             },
             {
@@ -948,14 +948,14 @@
               "tier": 5,
               "amountRequired": 2500,
               "unlocks": [
-                "Chicken Pet Egg (COMING SOON)"
+                "Enchanted Egg Recipe"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "Enchanted Egg Recipe"
+                "Mystery Chicken Pet Recipe"
               ]
             },
             {
@@ -976,7 +976,7 @@
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "Random Egg (COMING SOON)"
+                "Super Enchanted Egg Recipe"
               ]
             }
           ]
@@ -1031,7 +1031,7 @@
               "tier": 7,
               "amountRequired": 10000,
               "unlocks": [
-                "Sheep Pet Egg (COMING SOON)"
+                "Mystery Sheep Pet Recipe"
               ]
             },
             {
@@ -1065,7 +1065,8 @@
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Rabbit Pet Egg (COMING SOON)"
+                "Mystery Rabbit Pet Recipe",
+                "Mystery Rabbit Pet Recipe"
               ]
             },
             {
@@ -1236,7 +1237,7 @@
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "Silverfish Pet Egg (COMING SOON)"
+                "Mystery Silverfish Pet Recipe"
               ]
             },
             {
@@ -1329,7 +1330,7 @@
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "Wither Skeleton Pet Egg (COMING SOON)"
+                "Mystery Wither Skeleton Pet Recipe"
               ]
             }
           ]
@@ -1694,7 +1695,7 @@
         },
         "REDSTONE": {
           "name": "Redstone",
-          "maxTiers": 11,
+          "maxTiers": 13,
           "tiers": [
             {
               "tier": 1,
@@ -1771,6 +1772,20 @@
               "amountRequired": 400000,
               "unlocks": [
                 "Giant Accessory Bag Upgrade"
+              ]
+            },
+            {
+              "tier": 12,
+              "amountRequired": 600000,
+              "unlocks": [
+                "Massive Accessory Bag Upgrade"
+              ]
+            },
+            {
+              "tier": 13,
+              "amountRequired": 800000,
+              "unlocks": [
+                "Humongous Accessory Bag Upgrade"
               ]
             }
           ]
@@ -2907,7 +2922,7 @@
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "Blaze Pet Egg (COMING SOON)"
+                "Mystery Blaze Pet Recipe"
               ]
             }
           ]
@@ -3118,7 +3133,7 @@
               "tier": 8,
               "amountRequired": 25000,
               "unlocks": [
-                "Wolf Pet Egg (COMING SOON)"
+                "Mystery Wolf Pet Recipe"
               ]
             },
             {
@@ -3397,7 +3412,7 @@
               "tier": 8,
               "amountRequired": 25000,
               "unlocks": [
-                "Ocelot Pet Egg (COMING SOON)"
+                "Mystery Ocelot Pet Recipe"
               ]
             },
             {
