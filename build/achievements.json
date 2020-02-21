@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1582224907257,
+  "lastUpdated": 1582316364640,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -6452,6 +6452,11 @@
           "name": "Accessories Galore",
           "description": "[Coop or you] Unlock the Greater Talisman Bag upgrade"
         },
+        "THE_REAL_ZOO_SHADY": {
+          "points": 20,
+          "name": "The Real Zoo Shady",
+          "description": "Have 20 different pets in your pet menu"
+        },
         "ANIMAL_FISHING": {
           "points": 5,
           "name": "Animal Fishing",
@@ -6461,6 +6466,11 @@
           "points": 10,
           "name": "Treasure Fishing",
           "description": "Fish up a Large Treasure"
+        },
+        "FRIEND_FOR_LIFE": {
+          "points": 20,
+          "name": "Friend for Life",
+          "description": "Level up a pet to 100"
         },
         "FRIAR_LAWRENCE": {
           "points": 25,
@@ -6648,6 +6658,11 @@
           "points": 5,
           "name": "Legendary Rod",
           "description": "Fish using the Rod of Legends"
+        },
+        "CARETAKER": {
+          "points": 10,
+          "name": "Caretaker",
+          "description": "Level up a pet to 80"
         },
         "HIGHER_THAN_A_RABBIT": {
           "points": 5,
@@ -6977,7 +6992,7 @@
           ]
         }
       },
-      "total_points": 1040,
+      "total_points": 1090,
       "total_legacy_points": 0
     },
     "skyclash": {
