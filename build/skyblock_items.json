@@ -8384,5 +8384,12 @@
     "category": "misc",
     "item_id": 344,
     "texture": null
+  },
+  "STAINED_CLAY:13": {
+    "name": "Green Hardened Clay",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 159,
+    "texture": null
   }
 }
