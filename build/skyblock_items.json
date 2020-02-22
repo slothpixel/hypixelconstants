@@ -8370,5 +8370,12 @@
     "category": "blocks",
     "item_id": 159,
     "texture": null
+  },
+  "PET": {
+    "name": "[Lvl 1] Skeleton Horse",
+    "tier": "COMMON",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "47effce35132c86ff72bcae77dfbb1d22587e94df3cbc2570ed17cf8973a"
   }
 }
