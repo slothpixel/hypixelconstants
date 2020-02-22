@@ -8377,5 +8377,12 @@
     "category": "misc",
     "item_id": 397,
     "texture": "47effce35132c86ff72bcae77dfbb1d22587e94df3cbc2570ed17cf8973a"
+  },
+  "SUPER_EGG": {
+    "name": "Super Enchanted Egg",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 344,
+    "texture": null
   }
 }
