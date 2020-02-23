@@ -11050,7 +11050,7 @@
       "I_FEEL_SICK": {
         "points": 10,
         "name": "I feel sick",
-        "description": "Gather from your mining ability and consume 8 absorption potions in one game as Squid"
+        "description": "Activate your gathering talent 8 times and consume 8 absorption potions in one game as Squid"
       },
       "FIRST_SKILL_UPGRADE": {
         "points": 5,
@@ -11305,7 +11305,7 @@
       "INVENTORY_MANAGEMENT": {
         "points": 10,
         "name": "Inventory Management",
-        "description": "Hold 12 looted potions in your inventory as Renegade"
+        "description": "Hold 8 looted potions in your inventory as Renegade"
       },
       "SPEED_RUN": {
         "points": 10,
