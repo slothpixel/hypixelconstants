@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1582581903392,
-  "version": "0.7.267",
+  "lastUpdated": 1582586403395,
+  "version": "0.7.269",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -2009,7 +2009,7 @@
           "level": 17,
           "totalExpRequired": 147425,
           "unlocks": [
-            "Guardian Defender Sea Creature",
+            "??? Sea Creature",
             "Treasure Hunter XVII   Increases the chance to find treasure when fishing by 3.2?3.4%.",
             "+3 HP ? Health",
             "+1,500 Coins"
@@ -2019,7 +2019,7 @@
           "level": 18,
           "totalExpRequired": 222425,
           "unlocks": [
-            "Deep Sea Protector Sea Creature",
+            "??? Sea Creature",
             "Treasure Hunter XVIII   Increases the chance to find treasure when fishing by 3.4?3.6%.",
             "+3 HP ? Health",
             "+1,600 Coins"
@@ -2029,7 +2029,7 @@
           "level": 19,
           "totalExpRequired": 322425,
           "unlocks": [
-            "Water Hydra Sea Creature",
+            "??? Sea Creature",
             "Treasure Hunter XIX   Increases the chance to find treasure when fishing by 3.6?3.8%.",
             "+3 HP ? Health",
             "+1,800 Coins"
