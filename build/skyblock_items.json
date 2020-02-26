@@ -8405,5 +8405,12 @@
     "category": "armor",
     "item_id": 312,
     "texture": null
+  },
+  "PERFECT_LEGGINGS_10": {
+    "name": "Perfect Leggings - Tier X",
+    "tier": "LEGENDARY",
+    "category": "armor",
+    "item_id": 312,
+    "texture": null
   }
 }
