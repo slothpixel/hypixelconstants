@@ -8419,5 +8419,12 @@
     "category": "armor",
     "item_id": 313,
     "texture": null
+  },
+  "PLUMBER_SPONGE": {
+    "name": "Plumber's Sponge",
+    "tier": "UNCOMMON",
+    "category": "blocks",
+    "item_id": 19,
+    "texture": null
   }
 }
