@@ -8426,5 +8426,12 @@
     "category": "blocks",
     "item_id": 19,
     "texture": null
+  },
+  "CARROT_STICK": {
+    "name": "Carrot on a Stick",
+    "tier": "COMMON",
+    "category": "misc",
+    "item_id": 398,
+    "texture": null
   }
 }
