@@ -8440,5 +8440,12 @@
     "category": "blocks",
     "item_id": 17,
     "texture": null
+  },
+  "PERFECT_HELMET_5": {
+    "name": "Perfect Helmet - Tier V",
+    "tier": "EPIC",
+    "category": "armor",
+    "item_id": 310,
+    "texture": null
   }
 }
