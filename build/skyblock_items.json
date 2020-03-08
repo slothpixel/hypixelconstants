@@ -8433,5 +8433,12 @@
     "category": "misc",
     "item_id": 398,
     "texture": null
+  },
+  "LOG:0": {
+    "name": "Oak Wood",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 17,
+    "texture": null
   }
 }
