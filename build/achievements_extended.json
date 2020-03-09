@@ -160,7 +160,7 @@
       },
       "LET_IT_SNOW": {
         "points": 5,
-        "name": "Let it snow ?",
+        "name": "Let it snow ♫",
         "description": "Use the Let It Snow gadget in a lobby"
       },
       "HUNT_BEGINS_2019": {
@@ -6415,7 +6415,7 @@
       "BAT_PINATA": {
         "points": 5,
         "name": "WHAM! POW!",
-        "description": "Kill a Bat Pi?ata"
+        "description": "Kill a Bat Piñata"
       },
       "BAITED": {
         "points": 5,
@@ -8771,7 +8771,7 @@
       "PRO_SURFER": {
         "points": 5,
         "name": "Pro Surfer",
-        "description": "Use Hydro wizards? defense wand while standing in water"
+        "description": "Use Hydro wizards’ defense wand while standing in water"
       },
       "WIZARDS_NOGOOD": {
         "points": 5,
@@ -9061,7 +9061,7 @@
       "FLYING_MADMAN": {
         "points": 10,
         "name": "Flying Madman",
-        "description": "Don?t touch the ground for 5 minutes and kill 5 players in the same game of TNT Wizards"
+        "description": "Don’t touch the ground for 5 minutes and kill 5 players in the same game of TNT Wizards"
       },
       "TNT_TAG_FIRST_WIN": {
         "points": 5,
