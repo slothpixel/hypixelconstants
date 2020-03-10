@@ -8447,5 +8447,12 @@
     "category": "armor",
     "item_id": 310,
     "texture": null
+  },
+  "STOCK_OF_STONKS": {
+    "name": "Stock of Stonks",
+    "tier": "EPIC",
+    "category": "misc",
+    "item_id": 339,
+    "texture": null
   }
 }
