@@ -8020,5 +8020,12 @@
     "category": "weapon",
     "item_id": 267,
     "texture": null
+  },
+  "CARPET:14": {
+    "name": "Red Carpet",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 171,
+    "texture": null
   }
 }
