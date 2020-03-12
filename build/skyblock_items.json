@@ -8027,5 +8027,12 @@
     "category": "blocks",
     "item_id": 171,
     "texture": null
+  },
+  "STAINED_CLAY:3": {
+    "name": "Light Blue Hardened Clay",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 159,
+    "texture": null
   }
 }
