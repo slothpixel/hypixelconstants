@@ -8041,5 +8041,12 @@
     "category": "armor",
     "item_id": 310,
     "texture": null
+  },
+  "FOOD_TROUGH": {
+    "name": "Food Trough",
+    "tier": "COMMON",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "780186b7e1142e5fc640611d6788428b66a2eb0ee94d820268a132ad2cb769a9"
   }
 }
