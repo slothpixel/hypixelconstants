@@ -8048,5 +8048,12 @@
     "category": "misc",
     "item_id": 397,
     "texture": "780186b7e1142e5fc640611d6788428b66a2eb0ee94d820268a132ad2cb769a9"
+  },
+  "BIRCH_DOOR_ITEM": {
+    "name": "Birch Door",
+    "tier": "COMMON",
+    "category": "misc",
+    "item_id": 428,
+    "texture": null
   }
 }
