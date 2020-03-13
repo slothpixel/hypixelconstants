@@ -8055,5 +8055,33 @@
     "category": "misc",
     "item_id": 428,
     "texture": null
+  },
+  "POWERED_MINECART": {
+    "name": "Minecart with Furnace",
+    "tier": "COMMON",
+    "category": "misc",
+    "item_id": 343,
+    "texture": null
+  },
+  "SPONGE_HELMET": {
+    "name": "Sponge Helmet",
+    "tier": "EPIC",
+    "category": "armor",
+    "item_id": 19,
+    "texture": null
+  },
+  "STORAGE_MINECART": {
+    "name": "Minecart with Chest",
+    "tier": "COMMON",
+    "category": "misc",
+    "item_id": 342,
+    "texture": null
+  },
+  "SPONGE_CHESTPLATE": {
+    "name": "Sponge Chestplate",
+    "tier": "EPIC",
+    "category": "armor",
+    "item_id": 299,
+    "texture": null
   }
 }
