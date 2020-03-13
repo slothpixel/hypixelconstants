@@ -8104,5 +8104,12 @@
     "category": "armor",
     "item_id": 313,
     "texture": null
+  },
+  "CARPET:11": {
+    "name": "Blue Carpet",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 171,
+    "texture": null
   }
 }
