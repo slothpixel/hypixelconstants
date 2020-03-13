@@ -8090,5 +8090,19 @@
     "category": "armor",
     "item_id": 300,
     "texture": null
+  },
+  "CARPET:2": {
+    "name": "Magenta Carpet",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 171,
+    "texture": null
+  },
+  "PERFECT_BOOTS_6": {
+    "name": "Perfect Boots - Tier VI",
+    "tier": "EPIC",
+    "category": "armor",
+    "item_id": 313,
+    "texture": null
   }
 }
