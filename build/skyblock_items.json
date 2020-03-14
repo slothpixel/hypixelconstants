@@ -8132,5 +8132,12 @@
     "category": "blocks",
     "item_id": 95,
     "texture": null
+  },
+  "CROOKED_ARTIFACT": {
+    "name": "Crooked Artifact",
+    "tier": "RARE",
+    "category": "accessories",
+    "item_id": 397,
+    "texture": "5b7ff88d154d04a8a26995c99f64e53b574c7b82ec21a12a9e448bca1e70f461"
   }
 }
