@@ -8139,5 +8139,12 @@
     "category": "accessories",
     "item_id": 397,
     "texture": "5b7ff88d154d04a8a26995c99f64e53b574c7b82ec21a12a9e448bca1e70f461"
+  },
+  "HUNTER_TALISMAN": {
+    "name": "Hunter Talisman",
+    "tier": "UNCOMMON",
+    "category": "accessories",
+    "item_id": 397,
+    "texture": "5c577e7d31e5e04c2ce71e13e3962192d80bd54b55efaacaaea12966fe27bf9"
   }
 }
