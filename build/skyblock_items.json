@@ -8111,5 +8111,19 @@
     "category": "blocks",
     "item_id": 171,
     "texture": null
+  },
+  "PERFECT_LEGGINGS_5": {
+    "name": "Perfect Leggings - Tier V",
+    "tier": "EPIC",
+    "category": "armor",
+    "item_id": 312,
+    "texture": null
+  },
+  "PERFECT_CHESTPLATE_11": {
+    "name": "Perfect Chestplate - Tier XI",
+    "tier": "LEGENDARY",
+    "category": "armor",
+    "item_id": 311,
+    "texture": null
   }
 }
