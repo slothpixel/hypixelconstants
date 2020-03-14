@@ -8125,5 +8125,12 @@
     "category": "armor",
     "item_id": 311,
     "texture": null
+  },
+  "STAINED_GLASS:15": {
+    "name": "Black Stained Glass",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 95,
+    "texture": null
   }
 }
