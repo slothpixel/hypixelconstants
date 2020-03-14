@@ -8146,5 +8146,12 @@
     "category": "accessories",
     "item_id": 397,
     "texture": "5c577e7d31e5e04c2ce71e13e3962192d80bd54b55efaacaaea12966fe27bf9"
+  },
+  "CARPET:1": {
+    "name": "Orange Carpet",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 171,
+    "texture": null
   }
 }
