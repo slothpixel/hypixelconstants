@@ -8174,5 +8174,12 @@
     "category": "misc",
     "item_id": 351,
     "texture": null
+  },
+  "PERFECT_BOOTS_11": {
+    "name": "Perfect Boots - Tier XI",
+    "tier": "LEGENDARY",
+    "category": "armor",
+    "item_id": 313,
+    "texture": null
   }
 }
