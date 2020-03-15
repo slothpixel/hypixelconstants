@@ -8167,5 +8167,12 @@
     "category": "armor",
     "item_id": 312,
     "texture": null
+  },
+  "INK_SACK:10": {
+    "name": "Lime Dye",
+    "tier": "COMMON",
+    "category": "misc",
+    "item_id": 351,
+    "texture": null
   }
 }
