@@ -33,7 +33,7 @@ The following code snippet prints quest data to the console.
 
 ```js
 const constants = require('hypixelconstants');
-const { quests } = constants.quests;
+const { quests } = constants;
 
 console.log(quests);
 ```

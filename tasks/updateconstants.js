@@ -6,7 +6,8 @@ const game_types = require('../build/game_types');
 const sources = [
   {
     key: "achievements",
-    url: "https://api.hypixel.net/resources/achievements"
+    url: "https://api.hypixel.net/resources/achievements",
+    transform: respObj => respObj.achievements
   },
   {
     key: "achievements_extended",
@@ -50,11 +51,13 @@ const sources = [
   },
   {
     key: "quests",
-    url: "https://api.hypixel.net/resources/quests"
+    url: "https://api.hypixel.net/resources/quests",
+    transform: respObj => respObj.quests
   },
   {
     key: "challenges",
-    url: "https://api.hypixel.net/resources/challenges"
+    url: "https://api.hypixel.net/resources/challenges",
+    transform: respObj => respObj.challenges
   },
   {
     key: "modes",
@@ -65,11 +68,13 @@ const sources = [
   },
   {
     key: "skyblock_collections",
-    url: "https://api.hypixel.net/resources/skyblock/collections"
+    url: "https://api.hypixel.net/resources/skyblock/collections",
+    transform: respObj => respObj.collections
   },
   {
     key: "skyblock_skills",
-    url: "https://api.hypixel.net/resources/skyblock/skills"
+    url: "https://api.hypixel.net/resources/skyblock/skills",
+    transform: respObj => respObj.collections
   },
   {
     key: "skyblock_items",
