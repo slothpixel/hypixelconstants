@@ -8188,5 +8188,12 @@
     "category": "blocks",
     "item_id": 95,
     "texture": null
+  },
+  "TREECAPITATOR_AXE": {
+    "name": "Treecapitator",
+    "tier": "EPIC",
+    "category": "weapon",
+    "item_id": 286,
+    "texture": null
   }
 }
