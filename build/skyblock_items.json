@@ -8209,5 +8209,12 @@
     "category": "armor",
     "item_id": 311,
     "texture": null
+  },
+  "COBBLE_WALL:1": {
+    "name": "Mossy Cobblestone Wall",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 139,
+    "texture": null
   }
 }
