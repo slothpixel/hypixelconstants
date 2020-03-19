@@ -8230,5 +8230,12 @@
     "category": "weapon",
     "item_id": 261,
     "texture": null
+  },
+  "STAINED_GLASS:2": {
+    "name": "Magenta Stained Glass",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 95,
+    "texture": null
   }
 }
