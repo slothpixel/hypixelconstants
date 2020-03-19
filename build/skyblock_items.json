@@ -8223,5 +8223,12 @@
     "category": "blocks",
     "item_id": 44,
     "texture": null
+  },
+  "MOSQUITO_BOW": {
+    "name": "Mosquito Bow",
+    "tier": "LEGENDARY",
+    "category": "weapon",
+    "item_id": 261,
+    "texture": null
   }
 }
