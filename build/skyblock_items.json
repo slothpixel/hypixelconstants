@@ -8216,5 +8216,12 @@
     "category": "blocks",
     "item_id": 139,
     "texture": null
+  },
+  "STEP:2": {
+    "name": "Wooden Slab",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 44,
+    "texture": null
   }
 }
