@@ -8237,5 +8237,12 @@
     "category": "blocks",
     "item_id": 95,
     "texture": null
+  },
+  "PERFECT_CHESTPLATE_10": {
+    "name": "Perfect Chestplate - Tier X",
+    "tier": "LEGENDARY",
+    "category": "armor",
+    "item_id": 311,
+    "texture": null
   }
 }
