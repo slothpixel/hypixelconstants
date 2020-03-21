@@ -8244,5 +8244,19 @@
     "category": "armor",
     "item_id": 311,
     "texture": null
+  },
+  "STAINED_GLASS:13": {
+    "name": "Green Stained Glass",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 95,
+    "texture": null
+  },
+  "STAINED_GLASS:1": {
+    "name": "Orange Stained Glass",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 95,
+    "texture": null
   }
 }
