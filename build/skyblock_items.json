@@ -8258,5 +8258,12 @@
     "category": "blocks",
     "item_id": 95,
     "texture": null
+  },
+  "PERFECT_HELMET_3": {
+    "name": "Perfect Helmet - Tier III",
+    "tier": "RARE",
+    "category": "armor",
+    "item_id": 310,
+    "texture": null
   }
 }
