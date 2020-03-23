@@ -8265,5 +8265,19 @@
     "category": "armor",
     "item_id": 310,
     "texture": null
+  },
+  "PERFECT_HELMET_6": {
+    "name": "Perfect Helmet - Tier VI",
+    "tier": "EPIC",
+    "category": "armor",
+    "item_id": 310,
+    "texture": null
+  },
+  "SANDSTONE_STAIRS": {
+    "name": "Sandstone Stairs",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 128,
+    "texture": null
   }
 }
