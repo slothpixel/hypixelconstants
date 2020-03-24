@@ -8279,5 +8279,12 @@
     "category": "blocks",
     "item_id": 128,
     "texture": null
+  },
+  "STEP:1": {
+    "name": "Sandstone Slab",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 44,
+    "texture": null
   }
 }
