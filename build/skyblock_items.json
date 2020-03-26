@@ -8300,5 +8300,12 @@
     "category": "misc",
     "item_id": 383,
     "texture": null
+  },
+  "ACACIA_FENCE": {
+    "name": "Acacia Fence",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 192,
+    "texture": null
   }
 }
