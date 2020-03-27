@@ -8307,5 +8307,12 @@
     "category": "blocks",
     "item_id": 192,
     "texture": null
+  },
+  "WATER_TROUGH": {
+    "name": "Water Trough",
+    "tier": "COMMON",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "71465300d5d6f79c52ca93c08d54b85aa830d4373a246681abe6d76692b5d0d4"
   }
 }
