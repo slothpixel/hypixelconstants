@@ -8321,5 +8321,19 @@
     "category": "blocks",
     "item_id": 123,
     "texture": null
+  },
+  "STAINED_GLASS_PANE:13": {
+    "name": "Green Stained Glass Pane",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 160,
+    "texture": null
+  },
+  "STAINED_GLASS_PANE:1": {
+    "name": "Orange Stained Glass Pane",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 160,
+    "texture": null
   }
 }
