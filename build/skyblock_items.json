@@ -8335,5 +8335,12 @@
     "category": "blocks",
     "item_id": 160,
     "texture": null
+  },
+  "STAINED_GLASS_PANE:11": {
+    "name": "Blue Stained Glass Pane",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 160,
+    "texture": null
   }
 }
