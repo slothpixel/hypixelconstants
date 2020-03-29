@@ -7589,5 +7589,11 @@
     "tier": "COMMON",
     "category": "accessories",
     "item_id": 397
+  },
+  "MAP:-121": {
+    "name": "Map",
+    "tier": "COMMON",
+    "category": "consumables",
+    "item_id": 358
   }
 }
