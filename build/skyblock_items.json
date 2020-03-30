@@ -7595,5 +7595,17 @@
     "tier": "COMMON",
     "category": "consumables",
     "item_id": 358
+  },
+  "ACACIA_STAIRS": {
+    "name": "Acacia Wood Stairs",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 163
+  },
+  "ACTIVATOR_RAIL": {
+    "name": "Activator Rail",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 157
   }
 }
