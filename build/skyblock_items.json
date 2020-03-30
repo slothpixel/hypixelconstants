@@ -7613,5 +7613,12 @@
     "tier": "COMMON",
     "category": "blocks",
     "item_id": 171
+  },
+  "SPRUCE_FENCE_GATE": {
+    "name": "Spruce Fence Gate",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 183,
+    "texture": null
   }
 }
