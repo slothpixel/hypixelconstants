@@ -7620,5 +7620,11 @@
     "category": "blocks",
     "item_id": 183,
     "texture": null
+  },
+  "STAINED_GLASS_PANE:6": {
+    "name": "Pink Stained Glass Pane",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 160
   }
 }
