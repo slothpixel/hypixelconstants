@@ -7625,5 +7625,11 @@
     "tier": "RARE",
     "category": "weapon",
     "item_id": 267
+  },
+  "WRITTEN_BOOK": {
+    "name": "Written Book",
+    "tier": "COMMON",
+    "category": "consumables",
+    "item_id": 387
   }
 }
