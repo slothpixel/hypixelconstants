@@ -7631,5 +7631,11 @@
     "tier": "COMMON",
     "category": "consumables",
     "item_id": 387
+  },
+  "LOG_2:0": {
+    "name": "Acacia Wood",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 162
   }
 }
