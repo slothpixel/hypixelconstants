@@ -361,7 +361,8 @@
     "name": "Enchanted Brown Mushroom",
     "tier": "COMMON",
     "category": "blocks",
-    "item_id": 39
+    "item_id": 39,
+    "bazaar": true
   },
   "ENCHANTED_CARROT_STICK": {
     "name": "Enchanted Carrot on a Stick",
@@ -415,7 +416,8 @@
     "name": "Enchanted Hay Bale",
     "tier": "UNCOMMON",
     "category": "blocks",
-    "item_id": 170
+    "item_id": 170,
+    "bazaar": true
   },
   "ENCHANTED_INK_SACK": {
     "name": "Enchanted Ink Sack",
@@ -477,7 +479,8 @@
     "name": "Enchanted Sand",
     "tier": "UNCOMMON",
     "category": "blocks",
-    "item_id": 12
+    "item_id": 12,
+    "bazaar": true
   },
   "ENCHANTED_SPIDER_EYE": {
     "name": "Enchanted Spider Eye",
@@ -1802,7 +1805,8 @@
     "name": "Enchanted Seeds",
     "tier": "COMMON",
     "category": "misc",
-    "item_id": 295
+    "item_id": 295,
+    "bazaar": true
   },
   "ENCHANTED_SPONGE": {
     "name": "Enchanted Sponge",
@@ -1916,7 +1920,8 @@
     "name": "Foul Flesh",
     "tier": "RARE",
     "category": "misc",
-    "item_id": 263
+    "item_id": 263,
+    "bazaar": true
   },
   "FROZEN_BLAZE_LEGGINGS": {
     "name": "Frozen Blaze Leggings",
@@ -2001,7 +2006,8 @@
     "name": "Hamster Wheel",
     "tier": "RARE",
     "category": "blocks",
-    "item_id": 96
+    "item_id": 96,
+    "bazaar": true
   },
   "HARD_CLAY": {
     "name": "Hardened Clay",
@@ -2245,7 +2251,8 @@
     "tier": "EPIC",
     "category": "misc",
     "item_id": 397,
-    "texture": "7aa09ad177fbccc53fa316cc04bdd2c9366baed889df76c5a29defea8170def5"
+    "texture": "7aa09ad177fbccc53fa316cc04bdd2c9366baed889df76c5a29defea8170def5",
+    "bazaar": true
   },
   "PAINTING": {
     "name": "Painting",
@@ -3260,7 +3267,8 @@
     "name": "Enchanted Lava Bucket",
     "tier": "EPIC",
     "category": "misc",
-    "item_id": 327
+    "item_id": 327,
+    "bazaar": true
   },
   "ENCHANTED_MUTTON": {
     "name": "Enchanted Mutton",
@@ -3301,7 +3309,8 @@
     "name": "Enchanted Redstone Lamp",
     "tier": "RARE",
     "category": "blocks",
-    "item_id": 123
+    "item_id": 123,
+    "bazaar": true
   },
   "ENCHANTED_SLIME_BALL": {
     "name": "Enchanted Slimeball",
@@ -3321,7 +3330,8 @@
     "name": "Enchanted Wet Sponge",
     "tier": "RARE",
     "category": "blocks",
-    "item_id": 19
+    "item_id": 19,
+    "bazaar": true
   },
   "ENDER_ARTIFACT": {
     "name": "Ender Artifact",
@@ -3527,7 +3537,8 @@
     "name": "Hay Bale",
     "tier": "COMMON",
     "category": "blocks",
-    "item_id": 170
+    "item_id": 170,
+    "bazaar": true
   },
   "HOPPER": {
     "name": "Hopper",
@@ -3877,7 +3888,8 @@
     "tier": "EPIC",
     "category": "misc",
     "item_id": 397,
-    "texture": "48de339af63a229c9238d027e47f53eeb56141a419f51b35c31ea1494b435dd3"
+    "texture": "48de339af63a229c9238d027e47f53eeb56141a419f51b35c31ea1494b435dd3",
+    "bazaar": true
   },
   "PUMPKIN_CHESTPLATE": {
     "name": "Pumpkin Chestplate",
@@ -3910,7 +3922,8 @@
     "name": "Clownfish",
     "tier": "COMMON",
     "category": "consumables",
-    "item_id": 349
+    "item_id": 349,
+    "bazaar": true
   },
   "RECLUSE_FANG": {
     "name": "Recluse Fang",
@@ -4235,7 +4248,8 @@
     "tier": "EPIC",
     "category": "misc",
     "item_id": 397,
-    "texture": "6ee32fbd4c7b03b869078aa1f493a390e6e13b461d613707eafb326dbcd2b4b5"
+    "texture": "6ee32fbd4c7b03b869078aa1f493a390e6e13b461d613707eafb326dbcd2b4b5",
+    "bazaar": true
   },
   "SUN_PERSONALITY": {
     "name": "Sun Minion Skin",
@@ -4728,7 +4742,8 @@
     "name": "Enchanted Clownfish",
     "tier": "UNCOMMON",
     "category": "consumables",
-    "item_id": 349
+    "item_id": 349,
+    "bazaar": true
   },
   "ENCHANTED_COOKED_FISH": {
     "name": "Enchanted Cooked Fish",
@@ -4831,7 +4846,8 @@
     "name": "Enchanted Red Mushroom",
     "tier": "COMMON",
     "category": "blocks",
-    "item_id": 40
+    "item_id": 40,
+    "bazaar": true
   },
   "ENCHANTED_SLIME_BLOCK": {
     "name": "Enchanted Slime Block",
@@ -5769,7 +5785,8 @@
     "tier": "EPIC",
     "category": "misc",
     "item_id": 397,
-    "texture": "6f89b150be9c4c5249f355f68ea0c4391300a9be1f260d750fc35a1817ad796e"
+    "texture": "6f89b150be9c4c5249f355f68ea0c4391300a9be1f260d750fc35a1817ad796e",
+    "bazaar": true
   },
   "TACTICIAN_SWORD": {
     "name": "Tactician's Sword",
@@ -6291,7 +6308,8 @@
     "name": "Enchanted Firework Rocket",
     "tier": "RARE",
     "category": "misc",
-    "item_id": 401
+    "item_id": 401,
+    "bazaar": true
   },
   "ENCHANTED_GLOWSTONE_DUST": {
     "name": "Enchanted Glowstone Dust",
@@ -7512,7 +7530,8 @@
     "tier": "EPIC",
     "category": "misc",
     "item_id": 397,
-    "texture": "98228c234c3903c512a5a0aa45260e7b567e0e20eefc7d561ccec97b295871af"
+    "texture": "98228c234c3903c512a5a0aa45260e7b567e0e20eefc7d561ccec97b295871af",
+    "bazaar": true
   },
   "VINE": {
     "name": "Vines",
@@ -7550,7 +7569,8 @@
     "tier": "EPIC",
     "category": "misc",
     "item_id": 397,
-    "texture": "1d7620b2e4934963bb12508310d05494c067dc33e008cecf2cd7b4549654fab3"
+    "texture": "1d7620b2e4934963bb12508310d05494c067dc33e008cecf2cd7b4549654fab3",
+    "bazaar": true
   },
   "WOLF_TALISMAN": {
     "name": "Wolf Talisman",
@@ -7612,7 +7632,8 @@
     "tier": "EPIC",
     "category": "misc",
     "item_id": 397,
-    "texture": "4b5bd6b64e8bd6c58f5cd1e79a5502d4448bafc006d2fe0568f6a0d6b86d449e"
+    "texture": "4b5bd6b64e8bd6c58f5cd1e79a5502d4448bafc006d2fe0568f6a0d6b86d449e",
+    "bazaar": true
   },
   "ZOMBIE_HAT": {
     "name": "Zombie Hat",
