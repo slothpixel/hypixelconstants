@@ -7670,5 +7670,11 @@
     "tier": "COMMON",
     "category": "blocks",
     "item_id": 19
+  },
+  "STAINED_GLASS:6": {
+    "name": "Pink Stained Glass",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 95
   }
 }
