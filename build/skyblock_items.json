@@ -7643,5 +7643,11 @@
     "tier": "LEGENDARY",
     "category": "armor",
     "item_id": 310
+  },
+  "SPONGE:1": {
+    "name": "Wet Sponge",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 19
   }
 }
