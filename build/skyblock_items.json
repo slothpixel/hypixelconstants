@@ -7682,5 +7682,11 @@
     "tier": "EPIC",
     "category": "armor",
     "item_id": 310
+  },
+  "CARPET:6": {
+    "name": "Pink Carpet",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 171
   }
 }
