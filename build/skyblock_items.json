@@ -7676,5 +7676,11 @@
     "tier": "COMMON",
     "category": "blocks",
     "item_id": 95
+  },
+  "PERFECT_HELMET_7": {
+    "name": "Perfect Helmet - Tier VII",
+    "tier": "EPIC",
+    "category": "armor",
+    "item_id": 310
   }
 }
