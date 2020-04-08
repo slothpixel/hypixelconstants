@@ -205,6 +205,10 @@
             "name": "Prop Hunt"
           }
         ]
+      },
+      {
+        "key": "EASTER_SIMULATOR",
+        "name": "Easter Simulator"
       }
     ]
   },
