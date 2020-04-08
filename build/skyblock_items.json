@@ -7688,5 +7688,47 @@
     "tier": "COMMON",
     "category": "blocks",
     "item_id": 171
+  },
+  "CHICK_NEST": {
+    "name": "Chick Nest",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "a332e1bc7fcd86b8ef624d8e2e90f8ea6c98d6beff1f7231e8c14fdc8d7f0"
+  },
+  "BUNNY_JERRY": {
+    "name": "Bunny Jerry",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "822d8e751c8f2fd4c8942c44bdb2f5ca4d8ae8e575ed3eb34c18a86e93b"
+  },
+  "BUNNY": {
+    "name": "Bunny",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "cec242e667aee44492413ef461b810cac356b74d8718e5cec1f892a6b43e5e1"
+  },
+  "EGG_PILE": {
+    "name": "Egg Pile",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "eeb335182db5f3be80fccf6eabe599f4107d4ff0e9f44f34174cefa6e2b5768"
+  },
+  "EASTER_BASKET": {
+    "name": "Easter Basket",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "83c25a7a188196b18717264ffe837ca348cf719e827179edc4b78cbcb8c7dd8"
+  },
+  "LADY_BUG_PERSONALITY": {
+    "name": "Lady Bug Minion Skin",
+    "tier": "COMMON",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "5b78c5dd4e856989c3c946cb861d73b327660f07a98eec67588ce7d754cb08ba"
   }
 }
