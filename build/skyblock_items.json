@@ -7730,5 +7730,19 @@
     "category": "misc",
     "item_id": 397,
     "texture": "5b78c5dd4e856989c3c946cb861d73b327660f07a98eec67588ce7d754cb08ba"
+  },
+  "BEE_PERSONALITY": {
+    "name": "Bee Minion Skin",
+    "tier": "COMMON",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "17bb4c5db2c46abf8a5dd837e43686da25110449d3a396dffc0980cba7f3e1a1"
+  },
+  "BUNNY_PERSONALITY": {
+    "name": "Bunny Minion Skin",
+    "tier": "COMMON",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "520a37b5d079eb79d87ed5eda2cf95a5ae761062eb09499ef33078410883ca72"
   }
 }
