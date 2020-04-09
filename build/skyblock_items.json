@@ -7744,5 +7744,23 @@
     "category": "misc",
     "item_id": 397,
     "texture": "520a37b5d079eb79d87ed5eda2cf95a5ae761062eb09499ef33078410883ca72"
+  },
+  "CARPET:10": {
+    "name": "Purple Carpet",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 171
+  },
+  "CARPET:13": {
+    "name": "Green Carpet",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 171
+  },
+  "CARPET:4": {
+    "name": "Yellow Carpet",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 171
   }
 }
