@@ -7762,5 +7762,11 @@
     "tier": "COMMON",
     "category": "blocks",
     "item_id": 171
+  },
+  "PERFECT_LEGGINGS_8": {
+    "name": "Perfect Leggings - Tier VIII",
+    "tier": "LEGENDARY",
+    "category": "armor",
+    "item_id": 312
   }
 }
