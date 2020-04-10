@@ -7768,5 +7768,11 @@
     "tier": "LEGENDARY",
     "category": "armor",
     "item_id": 312
+  },
+  "PERFECT_LEGGINGS_7": {
+    "name": "Perfect Leggings - Tier VII",
+    "tier": "EPIC",
+    "category": "armor",
+    "item_id": 312
   }
 }
