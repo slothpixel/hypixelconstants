@@ -7774,5 +7774,11 @@
     "tier": "EPIC",
     "category": "armor",
     "item_id": 312
+  },
+  "PERFECT_BOOTS_9": {
+    "name": "Perfect Boots - Tier IX",
+    "tier": "LEGENDARY",
+    "category": "armor",
+    "item_id": 313
   }
 }
