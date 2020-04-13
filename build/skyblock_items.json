@@ -7780,5 +7780,11 @@
     "tier": "LEGENDARY",
     "category": "armor",
     "item_id": 313
+  },
+  "RED_SANDSTONE_STAIRS": {
+    "name": "Red Sandstone Stairs",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 180
   }
 }
