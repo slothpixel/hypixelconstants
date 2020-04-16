@@ -7792,5 +7792,12 @@
     "tier": "LEGENDARY",
     "category": "armor",
     "item_id": 310
+  },
+  "WHEAT_ISLAND_CRYSTAL": {
+    "name": "Wheat Crystal",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "9265f96f54b78885c46e7d2f86b1c1dbfe643c6060fc7fcc9834c3e3fd595135"
   }
 }
