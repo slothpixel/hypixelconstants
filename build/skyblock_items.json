@@ -7799,5 +7799,11 @@
     "category": "misc",
     "item_id": 397,
     "texture": "9265f96f54b78885c46e7d2f86b1c1dbfe643c6060fc7fcc9834c3e3fd595135"
+  },
+  "PERFECT_LEGGINGS_9": {
+    "name": "Perfect Leggings - Tier IX",
+    "tier": "LEGENDARY",
+    "category": "armor",
+    "item_id": 312
   }
 }
