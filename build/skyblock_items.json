@@ -7805,5 +7805,11 @@
     "tier": "LEGENDARY",
     "category": "armor",
     "item_id": 312
+  },
+  "STAINED_GLASS_PANE:12": {
+    "name": "Brown Stained Glass Pane",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 160
   }
 }
