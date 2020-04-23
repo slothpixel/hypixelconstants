@@ -7883,5 +7883,11 @@
     "category": "accessories",
     "item_id": 397,
     "texture": "55d996cb5a8e5a71a274275f46944b944eeeacd2e1cadef918b05b879a03336f"
+  },
+  "PERFECT_HELMET_9": {
+    "name": "Perfect Helmet - Tier IX",
+    "tier": "LEGENDARY",
+    "category": "armor",
+    "item_id": 310
   }
 }
