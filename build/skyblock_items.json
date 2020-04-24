@@ -7889,5 +7889,11 @@
     "tier": "LEGENDARY",
     "category": "armor",
     "item_id": 310
+  },
+  "DETECTOR_RAIL": {
+    "name": "Detector Rail",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 28
   }
 }
