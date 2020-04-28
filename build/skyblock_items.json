@@ -7895,5 +7895,19 @@
     "tier": "COMMON",
     "category": "blocks",
     "item_id": 28
+  },
+  "STAINED_CLAY:6": {
+    "name": "Pink Hardened Clay",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 159,
+    "damage": 6
+  },
+  "STAINED_CLAY:8": {
+    "name": "Light Gray Hardened Clay",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 159,
+    "damage": 8
   }
 }
