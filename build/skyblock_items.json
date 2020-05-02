@@ -7909,5 +7909,11 @@
     "category": "blocks",
     "item_id": 159,
     "damage": 8
+  },
+  "PERFECT_BOOTS_8": {
+    "name": "Perfect Boots - Tier VIII",
+    "tier": "LEGENDARY",
+    "category": "armor",
+    "item_id": 313
   }
 }
