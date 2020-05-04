@@ -7915,5 +7915,12 @@
     "tier": "LEGENDARY",
     "category": "armor",
     "item_id": 313
+  },
+  "STAINED_GLASS:10": {
+    "name": "Purple Stained Glass",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 95,
+    "damage": 10
   }
 }
