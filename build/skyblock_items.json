@@ -1327,7 +1327,8 @@
     "name": "Enchanted Carrot on a Stick",
     "tier": "UNCOMMON",
     "category": "misc",
-    "item_id": 398
+    "item_id": 398,
+    "bazaar": true
   },
   "DIAMOND_BOOTS": {
     "name": "Diamond Boots",
