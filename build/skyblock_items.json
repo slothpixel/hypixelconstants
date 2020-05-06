@@ -8010,5 +8010,85 @@
     "category": "accessories",
     "item_id": 397,
     "texture": "8624bacb5f1986e6477abce4ae7dca1820a5260b6233b55ba1d9ba936c84b"
+  },
+  "GREAT_CARROT_CANDY": {
+    "name": "Great Carrot Candy",
+    "tier": "RARE",
+    "category": "blocks",
+    "item_id": 141
+  },
+  "PET_ITEM_COMBAT_SKILL_BOOST_EPIC": {
+    "name": "Combat Exp Boost",
+    "tier": "EPIC",
+    "category": "weapon",
+    "item_id": 267
+  },
+  "PET_ITEM_COMBAT_SKILL_BOOST_RARE": {
+    "name": "Combat Exp Boost",
+    "tier": "RARE",
+    "category": "weapon",
+    "item_id": 267
+  },
+  "PET_ITEM_COMBAT_SKILL_BOOST_UNCOMMON": {
+    "name": "Combat Exp Boost",
+    "tier": "UNCOMMON",
+    "category": "weapon",
+    "item_id": 267
+  },
+  "PET_ITEM_EXP_SHARE_DROP": {
+    "name": "Exp Share Core",
+    "tier": "EPIC",
+    "category": "misc",
+    "item_id": 351,
+    "damage": 11
+  },
+  "PET_ITEM_FARMING_SKILL_BOOST_RARE": {
+    "name": "Farming Exp Boost",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 292
+  },
+  "PET_ITEM_HARDENED_SCALES_UNCOMMON": {
+    "name": "Hardened Scales",
+    "tier": "UNCOMMON",
+    "category": "misc",
+    "item_id": 410
+  },
+  "PET_ITEM_LUCKY_CLOVER_DROP": {
+    "name": "Lucky Clover Core",
+    "tier": "EPIC",
+    "category": "misc",
+    "item_id": 351,
+    "damage": 10
+  },
+  "PET_ITEM_MINING_SKILL_BOOST_RARE": {
+    "name": "Mining Exp Boost",
+    "tier": "RARE",
+    "category": "weapon",
+    "item_id": 257
+  },
+  "SIMPLE_CARROT_CANDY": {
+    "name": "Simple Carrot Candy",
+    "tier": "UNCOMMON",
+    "category": "blocks",
+    "item_id": 141
+  },
+  "SUPERB_CARROT_CANDY": {
+    "name": "Superb Carrot Candy",
+    "tier": "EPIC",
+    "category": "consumables",
+    "item_id": 396
+  },
+  "PET_ITEM_EXP_SHARE": {
+    "name": "Exp Share",
+    "tier": "EPIC",
+    "category": "blocks",
+    "item_id": 37
+  },
+  "PET_ITEM_FISHING_SKILL_BOOST_UNCOMMON": {
+    "name": "Fishing Exp Boost",
+    "tier": "UNCOMMON",
+    "category": "consumables",
+    "item_id": 349
   }
 }
