@@ -8090,5 +8090,23 @@
     "tier": "UNCOMMON",
     "category": "consumables",
     "item_id": 349
+  },
+  "PET_ITEM_FISHING_SKILL_BOOST_EPIC": {
+    "name": "Fishing Exp Boost",
+    "tier": "EPIC",
+    "category": "consumables",
+    "item_id": 349
+  },
+  "PET_ITEM_FISHING_SKILL_BOOST_RARE": {
+    "name": "Fishing Exp Boost",
+    "tier": "RARE",
+    "category": "consumables",
+    "item_id": 349
+  },
+  "PET_ITEM_FORAGING_SKILL_BOOST_EPIC": {
+    "name": "Foraging Exp Boost",
+    "tier": "EPIC",
+    "category": "weapon",
+    "item_id": 258
   }
 }
