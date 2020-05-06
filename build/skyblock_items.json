@@ -8114,5 +8114,11 @@
     "tier": "EPIC",
     "category": "blocks",
     "item_id": 111
+  },
+  "PET_ITEM_TIER_BOOST": {
+    "name": "Tier Boost",
+    "tier": "LEGENDARY",
+    "category": "blocks",
+    "item_id": 154
   }
 }
