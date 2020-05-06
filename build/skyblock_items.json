@@ -8120,5 +8120,12 @@
     "tier": "LEGENDARY",
     "category": "blocks",
     "item_id": 154
+  },
+  "PET_ITEM_TIER_BOOST_DROP": {
+    "name": "Tier Boost Core",
+    "tier": "LEGENDARY",
+    "category": "misc",
+    "item_id": 351,
+    "damage": 1
   }
 }
