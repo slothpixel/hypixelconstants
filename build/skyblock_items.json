@@ -7923,5 +7923,92 @@
     "category": "blocks",
     "item_id": 95,
     "damage": 10
+  },
+  "PET_ITEM_ALL_SKILLS_BOOST_COMMON": {
+    "name": "All Skills Exp Boost",
+    "tier": "COMMON",
+    "category": "misc",
+    "item_id": 264
+  },
+  "PET_ITEM_BIG_TEETH_COMMON": {
+    "name": "Big Teeth",
+    "tier": "COMMON",
+    "category": "misc",
+    "item_id": 370
+  },
+  "PET_ITEM_BUBBLEGUM": {
+    "name": "Bubblegum",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "c68d716a20f1718c4478a9e9d423a4860143c2773be59c9c9d6984e8431155"
+  },
+  "PET_ITEM_COMBAT_SKILL_BOOST_COMMON": {
+    "name": "Combat Exp Boost",
+    "tier": "COMMON",
+    "category": "weapon",
+    "item_id": 267
+  },
+  "PET_ITEM_FARMING_SKILL_BOOST_COMMON": {
+    "name": "Farming Exp Boost",
+    "tier": "COMMON",
+    "category": "misc",
+    "item_id": 292
+  },
+  "PET_ITEM_FISHING_SKILL_BOOST_COMMON": {
+    "name": "Fishing Exp Boost",
+    "tier": "COMMON",
+    "category": "consumables",
+    "item_id": 349
+  },
+  "PET_ITEM_FORAGING_SKILL_BOOST_COMMON": {
+    "name": "Foraging Exp Boost",
+    "tier": "COMMON",
+    "category": "weapon",
+    "item_id": 258
+  },
+  "PET_ITEM_IRON_CLAWS_COMMON": {
+    "name": "Iron Claws",
+    "tier": "COMMON",
+    "category": "misc",
+    "item_id": 265
+  },
+  "PET_ITEM_MINING_SKILL_BOOST_COMMON": {
+    "name": "Mining Exp Boost",
+    "tier": "COMMON",
+    "category": "weapon",
+    "item_id": 257
+  },
+  "PET_ITEM_SADDLE": {
+    "name": "Saddle",
+    "tier": "UNCOMMON",
+    "category": "misc",
+    "item_id": 329
+  },
+  "PET_ITEM_SHARPENED_CLAWS_UNCOMMON": {
+    "name": "Sharpened Claws",
+    "tier": "UNCOMMON",
+    "category": "misc",
+    "item_id": 409
+  },
+  "PET_ITEM_TEXTBOOK": {
+    "name": "Textbook",
+    "tier": "LEGENDARY",
+    "category": "consumables",
+    "item_id": 340
+  },
+  "SPEED_ARTIFACT": {
+    "name": "Speed Artifact",
+    "tier": "RARE",
+    "category": "accessories",
+    "item_id": 397,
+    "texture": "8624bacb5f1986e6477abce4ae7dca1820a5260b6233b55ba1d9ba936c84b"
+  },
+  "SPEED_RING": {
+    "name": "Speed Ring",
+    "tier": "UNCOMMON",
+    "category": "accessories",
+    "item_id": 397,
+    "texture": "8624bacb5f1986e6477abce4ae7dca1820a5260b6233b55ba1d9ba936c84b"
   }
 }
