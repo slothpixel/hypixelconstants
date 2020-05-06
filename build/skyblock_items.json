@@ -8108,5 +8108,11 @@
     "tier": "EPIC",
     "category": "weapon",
     "item_id": 258
+  },
+  "PET_ITEM_LUCKY_CLOVER": {
+    "name": "Lucky Clover",
+    "tier": "EPIC",
+    "category": "blocks",
+    "item_id": 111
   }
 }
