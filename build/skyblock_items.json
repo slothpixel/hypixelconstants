@@ -8127,5 +8127,11 @@
     "category": "misc",
     "item_id": 351,
     "damage": 1
+  },
+  "CREATIVE_MIND": {
+    "name": "Creative Mind",
+    "tier": "SPECIAL",
+    "category": "misc",
+    "item_id": 321
   }
 }
