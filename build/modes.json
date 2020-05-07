@@ -18,7 +18,7 @@
     "key": "TOURNAMENT_LOBBY",
     "name": "Tournament Hall",
     "matcher": {
-      "startsWith": "tourney"
+      "startsWith": "TOURNAMENT"
     }
   },
   {
