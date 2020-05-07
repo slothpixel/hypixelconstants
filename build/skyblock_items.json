@@ -8133,5 +8133,12 @@
     "tier": "SPECIAL",
     "category": "misc",
     "item_id": 321
+  },
+  "STAINED_CLAY:15": {
+    "name": "Black Hardened Clay",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 159,
+    "damage": 15
   }
 }
