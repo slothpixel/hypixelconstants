@@ -8140,5 +8140,12 @@
     "category": "blocks",
     "item_id": 159,
     "damage": 15
+  },
+  "STAINED_GLASS:12": {
+    "name": "Brown Stained Glass",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 95,
+    "damage": 12
   }
 }
