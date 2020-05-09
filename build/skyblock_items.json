@@ -8147,5 +8147,12 @@
     "category": "blocks",
     "item_id": 95,
     "damage": 12
+  },
+  "STAINED_GLASS:5": {
+    "name": "Lime Stained Glass",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 95,
+    "damage": 5
   }
 }
