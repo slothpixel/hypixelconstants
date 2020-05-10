@@ -8154,5 +8154,11 @@
     "category": "blocks",
     "item_id": 95,
     "damage": 5
+  },
+  "YETI_SWORD": {
+    "name": "Yeti Sword",
+    "tier": "LEGENDARY",
+    "category": "weapon",
+    "item_id": 267
   }
 }
