@@ -4,7 +4,7 @@
     "name": "Limbo"
   },
   {
-    "key": "MAIN_LOBBY",
+    "key": "MAIN",
     "name": "Main Lobby",
     "matcher": {
       "startsWith": "lobby"
@@ -15,10 +15,10 @@
     "name": "Replay Viewer"
   },
   {
-    "key": "TOURNAMENT_LOBBY",
+    "key": "TOURNAMENT",
     "name": "Tournament Hall",
     "matcher": {
-      "startsWith": "TOURNAMENT"
+      "startsWith": "tourney"
     }
   },
   {
@@ -830,6 +830,10 @@
       {
         "key": "dark_auction",
         "name": "Dark Auction"
+      },
+      {
+        "key": "dungeon",
+        "name": "Dungeons"
       }
     ]
   }
