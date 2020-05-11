@@ -8050,5 +8050,11 @@
     "category": "accessories",
     "item_id": 397,
     "texture": "219ad5215ba6c7e4e4d0668f02d3a9c937ac536acc75ac49e7bd7b1c8ccf80"
+  },
+  "PERFECT_BOOTS_10": {
+    "name": "Perfect Boots - Tier X",
+    "tier": "LEGENDARY",
+    "category": "armor",
+    "item_id": 313
   }
 }
