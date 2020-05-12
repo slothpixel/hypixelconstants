@@ -8056,5 +8056,11 @@
     "tier": "LEGENDARY",
     "category": "armor",
     "item_id": 313
+  },
+  "SPRUCE_FENCE_GATE": {
+    "name": "Spruce Fence Gate",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 183
   }
 }
