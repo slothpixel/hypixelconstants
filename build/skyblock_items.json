@@ -8062,5 +8062,11 @@
     "tier": "COMMON",
     "category": "blocks",
     "item_id": 183
+  },
+  "PERFECT_LEGGINGS_9": {
+    "name": "Perfect Leggings - Tier IX",
+    "tier": "LEGENDARY",
+    "category": "armor",
+    "item_id": 312
   }
 }
