@@ -8068,5 +8068,19 @@
     "tier": "LEGENDARY",
     "category": "armor",
     "item_id": 312
+  },
+  "STAINED_GLASS:6": {
+    "name": "Pink Stained Glass",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 95,
+    "damage": 6
+  },
+  "STAINED_GLASS_PANE:6": {
+    "name": "Pink Stained Glass Pane",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 160,
+    "damage": 6
   }
 }
