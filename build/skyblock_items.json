@@ -8082,5 +8082,77 @@
     "category": "blocks",
     "item_id": 160,
     "damage": 6
+  },
+  "DANGER_2_TRAVEL_SCROLL": {
+    "name": "Travel Scroll to Blazing Fortress",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 395
+  },
+  "DANGER_1_TRAVEL_SCROLL": {
+    "name": "Travel Scroll to Spider's Den",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 395
+  },
+  "DANGER_3_TRAVEL_SCROLL": {
+    "name": "Travel Scroll to the End",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 395
+  },
+  "FARMING_1_TRAVEL_SCROLL": {
+    "name": "Travel Scroll to the Barn",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 395
+  },
+  "FARMING_2_TRAVEL_SCROLL": {
+    "name": "Travel Scroll to Mushroom Island",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 395
+  },
+  "FORAGING_1_TRAVEL_SCROLL": {
+    "name": "Travel Scroll to The Park",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 395
+  },
+  "HUB_CASTLE_TRAVEL_SCROLL": {
+    "name": "Travel Scroll to Hub Castle",
+    "tier": "EPIC",
+    "category": "misc",
+    "item_id": 395
+  },
+  "MINING_1_TRAVEL_SCROLL": {
+    "name": "Travel Scroll to the Gold Mine",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 395
+  },
+  "MINING_2_TRAVEL_SCROLL": {
+    "name": "Travel Scroll to Deep Caverns",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 395
+  },
+  "PARK_CAVE_TRAVEL_SCROLL": {
+    "name": "Travel Scroll to Howling Cave",
+    "tier": "EPIC",
+    "category": "misc",
+    "item_id": 395
+  },
+  "PARK_JUNGLE_TRAVEL_SCROLL": {
+    "name": "Travel Scroll to Jungle Island",
+    "tier": "EPIC",
+    "category": "misc",
+    "item_id": 395
+  },
+  "SPIDERS_DEN_TOP_TRAVEL_SCROLL": {
+    "name": "Travel Scroll to Spider's Den Top of Nest",
+    "tier": "EPIC",
+    "category": "misc",
+    "item_id": 395
   }
 }
