@@ -8185,5 +8185,12 @@
     "tier": "EPIC",
     "category": "misc",
     "item_id": 395
+  },
+  "STAINED_GLASS_PANE:5": {
+    "name": "Lime Stained Glass Pane",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 160,
+    "damage": 5
   }
 }
