@@ -8179,5 +8179,11 @@
     "category": "blocks",
     "item_id": 171,
     "damage": 10
+  },
+  "HUB_DA_TRAVEL_SCROLL": {
+    "name": "Travel Scroll to Dark Auction",
+    "tier": "EPIC",
+    "category": "misc",
+    "item_id": 395
   }
 }
