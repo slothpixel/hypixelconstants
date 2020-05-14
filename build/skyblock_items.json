@@ -8154,5 +8154,23 @@
     "tier": "EPIC",
     "category": "misc",
     "item_id": 395
+  },
+  "DRAGON_NEST_TRAVEL_SCROLL": {
+    "name": "Travel Scroll to Dragon's Nest",
+    "tier": "EPIC",
+    "category": "misc",
+    "item_id": 395
+  },
+  "HUB_CRYPTS_TRAVEL_SCROLL": {
+    "name": "Travel Scroll to Hub Crypts",
+    "tier": "EPIC",
+    "category": "misc",
+    "item_id": 395
+  },
+  "NETHER_FORTRESS_BOSS_TRAVEL_SCROLL": {
+    "name": "Travel Scroll to Magma Fields",
+    "tier": "EPIC",
+    "category": "misc",
+    "item_id": 395
   }
 }
