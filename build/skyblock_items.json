@@ -8172,5 +8172,12 @@
     "tier": "EPIC",
     "category": "misc",
     "item_id": 395
+  },
+  "CARPET:10": {
+    "name": "Purple Carpet",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 171,
+    "damage": 10
   }
 }
