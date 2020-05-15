@@ -8205,5 +8205,11 @@
     "category": "misc",
     "item_id": 397,
     "texture": "28ca3610bf1ed2dcce5ca7f7f2914a1c25fbfabd74dce51b3f5126ba44ba1a20"
+  },
+  "PERFECT_CHESTPLATE_9": {
+    "name": "Perfect Chestplate - Tier IX",
+    "tier": "LEGENDARY",
+    "category": "armor",
+    "item_id": 311
   }
 }
