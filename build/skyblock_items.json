@@ -8192,5 +8192,11 @@
     "category": "blocks",
     "item_id": 160,
     "damage": 5
+  },
+  "PERFECT_HELMET_11": {
+    "name": "Perfect Helmet - Tier XI",
+    "tier": "LEGENDARY",
+    "category": "armor",
+    "item_id": 310
   }
 }
