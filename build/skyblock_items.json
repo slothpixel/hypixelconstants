@@ -8198,5 +8198,12 @@
     "tier": "LEGENDARY",
     "category": "armor",
     "item_id": 310
+  },
+  "REPELLING_CANDLE": {
+    "name": "Repelling Candle",
+    "tier": "UNCOMMON",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "28ca3610bf1ed2dcce5ca7f7f2914a1c25fbfabd74dce51b3f5126ba44ba1a20"
   }
 }
