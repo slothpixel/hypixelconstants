@@ -8224,5 +8224,12 @@
     "category": "misc",
     "item_id": 351,
     "damage": 6
+  },
+  "STAINED_GLASS:7": {
+    "name": "Gray Stained Glass",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 95,
+    "damage": 7
   }
 }
