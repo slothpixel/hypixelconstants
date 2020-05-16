@@ -8217,5 +8217,12 @@
     "tier": "COMMON",
     "category": "blocks",
     "item_id": 135
+  },
+  "INK_SACK:6": {
+    "name": "Cyan Dye",
+    "tier": "COMMON",
+    "category": "misc",
+    "item_id": 351,
+    "damage": 6
   }
 }
