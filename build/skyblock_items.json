@@ -8238,5 +8238,12 @@
     "category": "blocks",
     "item_id": 159,
     "damage": 5
+  },
+  "FRENCH_BREAD": {
+    "name": "French Bread",
+    "tier": "SPECIAL",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "908fc34531f652f5be7f27e4b27429986256ac422a8fb59f6d405b5c85c76f7"
   }
 }
