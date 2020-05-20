@@ -8245,5 +8245,12 @@
     "category": "misc",
     "item_id": 397,
     "texture": "908fc34531f652f5be7f27e4b27429986256ac422a8fb59f6d405b5c85c76f7"
+  },
+  "CARPET:12": {
+    "name": "Brown Carpet",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 171,
+    "damage": 12
   }
 }
