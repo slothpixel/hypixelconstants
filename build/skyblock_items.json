@@ -8252,5 +8252,11 @@
     "category": "blocks",
     "item_id": 171,
     "damage": 12
+  },
+  "PERFECT_BOOTS_11": {
+    "name": "Perfect Boots - Tier XI",
+    "tier": "LEGENDARY",
+    "category": "armor",
+    "item_id": 313
   }
 }
