@@ -8258,5 +8258,11 @@
     "tier": "LEGENDARY",
     "category": "armor",
     "item_id": 313
+  },
+  "ENDSTONE_ROSE": {
+    "name": "Endstone Rose",
+    "tier": "RARE",
+    "category": "blocks",
+    "item_id": 38
   }
 }
