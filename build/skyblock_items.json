@@ -8264,5 +8264,11 @@
     "tier": "RARE",
     "category": "blocks",
     "item_id": 38
+  },
+  "DEAD_BUSH_OF_LOVE": {
+    "name": "Dead Bush of Love",
+    "tier": "SPECIAL",
+    "category": "blocks",
+    "item_id": 32
   }
 }
