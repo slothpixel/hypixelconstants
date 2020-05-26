@@ -8270,5 +8270,11 @@
     "tier": "SPECIAL",
     "category": "blocks",
     "item_id": 32
+  },
+  "ACACIA_STAIRS": {
+    "name": "Acacia Wood Stairs",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 163
   }
 }
