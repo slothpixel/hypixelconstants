@@ -8276,5 +8276,11 @@
     "tier": "COMMON",
     "category": "blocks",
     "item_id": 163
+  },
+  "EXPLOSIVE_MINECART": {
+    "name": "Minecart with TNT",
+    "tier": "COMMON",
+    "category": "misc",
+    "item_id": 407
   }
 }
