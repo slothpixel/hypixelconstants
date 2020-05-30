@@ -8289,5 +8289,12 @@
     "category": "blocks",
     "item_id": 159,
     "damage": 7
+  },
+  "CARPET:3": {
+    "name": "Light Blue Carpet",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 171,
+    "damage": 3
   }
 }
