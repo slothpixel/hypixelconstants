@@ -8303,5 +8303,11 @@
     "category": "blocks",
     "item_id": 159,
     "damage": 11
+  },
+  "PERFECT_LEGGINGS_11": {
+    "name": "Perfect Leggings - Tier XI",
+    "tier": "LEGENDARY",
+    "category": "armor",
+    "item_id": 312
   }
 }
