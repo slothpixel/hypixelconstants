@@ -354,7 +354,8 @@
     "tier": "UNCOMMON",
     "category": "misc",
     "item_id": 397,
-    "texture": "b060a46497cee7611346c9dd8eb8f5de4483de259147211353848356de15d19"
+    "texture": "b060a46497cee7611346c9dd8eb8f5de4483de259147211353848356de15d19",
+    "bazaar": true
   },
   "BLOBFISH_HAT": {
     "name": "Blobfish Hat",
@@ -681,7 +682,8 @@
     "tier": "COMMON",
     "category": "misc",
     "item_id": 397,
-    "texture": "4d3a6bd98ac1833c664c4909ff8d2dc62ce887bdcf3cc5b3848651ae5af6b"
+    "texture": "4d3a6bd98ac1833c664c4909ff8d2dc62ce887bdcf3cc5b3848651ae5af6b",
+    "bazaar": true
   },
   "CARROT_STICK": {
     "name": "Carrot on a Stick",
@@ -1050,7 +1052,8 @@
     "tier": "COMMON",
     "category": "misc",
     "item_id": 397,
-    "texture": "c33c516f3f380916d41a9355a319f85943aacc8a9c1b4a138017484b61114f68"
+    "texture": "c33c516f3f380916d41a9355a319f85943aacc8a9c1b4a138017484b61114f68",
+    "bazaar": true
   },
   "DARK_OAK_DOOR_ITEM": {
     "name": "Dark Oak Door",
@@ -2688,7 +2691,8 @@
     "tier": "COMMON",
     "category": "misc",
     "item_id": 397,
-    "texture": "f9bb18e1cfe6edf03535e5fdc6482e09a7fdf95125c8611269b9de9d54715b9d"
+    "texture": "f9bb18e1cfe6edf03535e5fdc6482e09a7fdf95125c8611269b9de9d54715b9d",
+    "bazaar": true
   },
   "FLINT_AND_STEEL": {
     "name": "Flint and Steel",
@@ -3426,7 +3430,8 @@
     "tier": "UNCOMMON",
     "category": "misc",
     "item_id": 397,
-    "texture": "11136616d8c4a87a54ce78a97b551610c2b2c8f6d410bc38b858f974b113b208"
+    "texture": "11136616d8c4a87a54ce78a97b551610c2b2c8f6d410bc38b858f974b113b208",
+    "bazaar": true
   },
   "ICE_CREAM_PERSONALITY": {
     "name": "Ice Cream Minion Skin",
@@ -4020,7 +4025,8 @@
     "tier": "COMMON",
     "category": "misc",
     "item_id": 397,
-    "texture": "336a9add25645bfcc377c25ef0c2e9901d19493c3e981ebc6ba7a1a1b6466ce4"
+    "texture": "336a9add25645bfcc377c25ef0c2e9901d19493c3e981ebc6ba7a1a1b6466ce4",
+    "bazaar": true
   },
   "LOG:0": {
     "name": "Oak Wood",
@@ -4292,7 +4298,8 @@
     "tier": "COMMON",
     "category": "misc",
     "item_id": 397,
-    "texture": "5f91a14867ef9867872dcdc8c54e3d4cfb5e525dccfb7f99a7314a45faeb301e"
+    "texture": "5f91a14867ef9867872dcdc8c54e3d4cfb5e525dccfb7f99a7314a45faeb301e",
+    "bazaar": true
   },
   "MOSSY_COBBLESTONE": {
     "name": "Moss Stone",
@@ -6414,7 +6421,8 @@
     "tier": "COMMON",
     "category": "misc",
     "item_id": 397,
-    "texture": "a12bc5ef26f367bdbd7116e80fde4af1823c0e9360afab02a9d3a4cb6d5fcd82"
+    "texture": "a12bc5ef26f367bdbd7116e80fde4af1823c0e9360afab02a9d3a4cb6d5fcd82",
+    "bazaar": true
   },
   "SPIDER_SWORD": {
     "name": "Spider Sword",
@@ -6458,7 +6466,8 @@
     "tier": "COMMON",
     "category": "misc",
     "item_id": 397,
-    "texture": "51074ba79616c7d8cf8e33849039f67410a2f7c9ce793d447e21f5aa24d50108"
+    "texture": "51074ba79616c7d8cf8e33849039f67410a2f7c9ce793d447e21f5aa24d50108",
+    "bazaar": true
   },
   "SPOOKY_DISC": {
     "name": "Spooky Disc",
@@ -7519,7 +7528,8 @@
     "tier": "RARE",
     "category": "misc",
     "item_id": 397,
-    "texture": "33aa71676e81fb53a040dfdca3e5b47d53e6efd665e69fb439778e8c4efb1cc"
+    "texture": "33aa71676e81fb53a040dfdca3e5b47d53e6efd665e69fb439778e8c4efb1cc",
+    "bazaar": true
   },
   "WATER_HYDRA_HEAD": {
     "name": "Water Hydra Head",
