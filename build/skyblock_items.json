@@ -8325,5 +8325,11 @@
     "tier": "COMMON",
     "category": "consumables",
     "item_id": 358
+  },
+  "MAP:-14": {
+    "name": "Map",
+    "tier": "COMMON",
+    "category": "consumables",
+    "item_id": 358
   }
 }
