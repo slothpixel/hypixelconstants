@@ -8319,5 +8319,11 @@
     "tier": "LEGENDARY",
     "category": "armor",
     "item_id": 312
+  },
+  "MAP:-74": {
+    "name": "Map",
+    "tier": "COMMON",
+    "category": "consumables",
+    "item_id": 358
   }
 }
