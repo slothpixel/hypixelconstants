@@ -8332,5 +8332,11 @@
     "category": "blocks",
     "item_id": 158,
     "bazaar": true
+  },
+  "MAP:-37": {
+    "name": "Map",
+    "tier": "COMMON",
+    "category": "consumables",
+    "item_id": 358
   }
 }
