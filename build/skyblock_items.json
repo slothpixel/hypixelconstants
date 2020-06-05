@@ -8351,5 +8351,12 @@
     "tier": "RARE",
     "category": "consumables",
     "item_id": 282
+  },
+  "STAINED_GLASS_PANE:9": {
+    "name": "Cyan Stained Glass Pane",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 160,
+    "damage": 9
   }
 }
