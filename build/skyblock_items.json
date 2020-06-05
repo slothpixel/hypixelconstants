@@ -8338,5 +8338,12 @@
     "tier": "COMMON",
     "category": "consumables",
     "item_id": 358
+  },
+  "SKULL_ITEM:4": {
+    "name": "Creeper Skull",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 397,
+    "damage": 4
   }
 }
