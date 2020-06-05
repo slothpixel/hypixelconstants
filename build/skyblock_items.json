@@ -8345,5 +8345,11 @@
     "category": "misc",
     "item_id": 397,
     "damage": 4
+  },
+  "SUPER_MAGIC_MUSHROOM_SOUP": {
+    "name": "Super Magical Mushroom Soup",
+    "tier": "RARE",
+    "category": "consumables",
+    "item_id": 282
   }
 }
