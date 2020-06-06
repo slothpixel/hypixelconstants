@@ -8358,5 +8358,12 @@
     "category": "blocks",
     "item_id": 160,
     "damage": 9
+  },
+  "CARPET:1": {
+    "name": "Orange Carpet",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 171,
+    "damage": 1
   }
 }
