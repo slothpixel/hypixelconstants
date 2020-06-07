@@ -8372,5 +8372,29 @@
     "category": "misc",
     "item_id": 397,
     "damage": 1
+  },
+  "PERSONAL_COMPACTOR_5000": {
+    "name": "Personal Compactor 5000",
+    "tier": "RARE",
+    "category": "accessories",
+    "item_id": 158
+  },
+  "PERSONAL_COMPACTOR_6000": {
+    "name": "Personal Compactor 6000",
+    "tier": "EPIC",
+    "category": "accessories",
+    "item_id": 158
+  },
+  "PERSONAL_COMPACTOR_4000": {
+    "name": "Personal Compactor 4000",
+    "tier": "UNCOMMON",
+    "category": "accessories",
+    "item_id": 158
+  },
+  "WOOL:0": {
+    "name": "Wool",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 35
   }
 }
