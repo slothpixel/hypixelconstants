@@ -8365,5 +8365,12 @@
     "category": "blocks",
     "item_id": 171,
     "damage": 1
+  },
+  "SKULL_ITEM:1": {
+    "name": "Wither Skeleton Skull",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 397,
+    "damage": 1
   }
 }
