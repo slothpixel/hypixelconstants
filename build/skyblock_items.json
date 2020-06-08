@@ -8396,5 +8396,11 @@
     "tier": "COMMON",
     "category": "blocks",
     "item_id": 35
+  },
+  "PERFECT_LEGGINGS_6": {
+    "name": "Perfect Leggings - Tier VI",
+    "tier": "EPIC",
+    "category": "armor",
+    "item_id": 312
   }
 }
