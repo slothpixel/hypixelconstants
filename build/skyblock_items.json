@@ -8402,5 +8402,12 @@
     "tier": "EPIC",
     "category": "armor",
     "item_id": 312
+  },
+  "STEP:4": {
+    "name": "Brick Slab",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 44,
+    "damage": 4
   }
 }
