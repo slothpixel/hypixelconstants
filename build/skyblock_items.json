@@ -8409,5 +8409,12 @@
     "category": "blocks",
     "item_id": 44,
     "damage": 4
+  },
+  "PARTY_HAT_CRAB": {
+    "name": "Lime Crab Hat of Celebration",
+    "tier": "COMMON",
+    "category": "accessories",
+    "item_id": 397,
+    "texture": "993c60fd0dd130695e378eef010a7d3c5dfde77f6b82b20b8124cfb830017ff"
   }
 }
