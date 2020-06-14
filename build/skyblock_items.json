@@ -8416,5 +8416,11 @@
     "category": "accessories",
     "item_id": 397,
     "texture": "993c60fd0dd130695e378eef010a7d3c5dfde77f6b82b20b8124cfb830017ff"
+  },
+  "SANDSTONE_STAIRS": {
+    "name": "Sandstone Stairs",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 128
   }
 }
