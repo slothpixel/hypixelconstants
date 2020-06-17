@@ -1446,7 +1446,7 @@
       },
       "SHOPAHOLIC": {
         "name": "Shopaholic!",
-        "description": "Buy %s amount of Items in Bed Wars",
+        "description": "Buy %s items in Bed Wars",
         "tiers": [
           {
             "tier": 1,
