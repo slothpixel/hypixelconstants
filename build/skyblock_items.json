@@ -8422,5 +8422,161 @@
     "tier": "COMMON",
     "category": "blocks",
     "item_id": 128
+  },
+  "CLOWNFISH_PERSONALITY": {
+    "name": "Clownfish Minion Skin",
+    "tier": "COMMON",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "119812cc57b78c3366d076778745f7d81e936769a8d28cac68d4836ffe958121"
+  },
+  "BBQ": {
+    "name": "BBQ Grill",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "318e35ec4b4b4c1591c5177386de18797454298b7455982e3ae83bacced0f1a2"
+  },
+  "DINGY": {
+    "name": "Dingy",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "170509a64c496cddba4135e6712bb05d9aad42052a18feeeed7d44da2c3bd0cc"
+  },
+  "DARK_GOGGLES": {
+    "name": "Dark Goggles",
+    "tier": "RARE",
+    "category": "armor",
+    "item_id": 397,
+    "texture": "29319525825f1f30727eb940d3a06426bc4cec07fbd80af5cd146e3eb3879f68"
+  },
+  "DRAGON_HORN": {
+    "name": "Dragon Horn",
+    "tier": "EPIC",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "8744c81099c1aebf20f677faed24cace520a294cf46bdeb6a257f436a323a1d8"
+  },
+  "DRAGON_CLAW": {
+    "name": "Dragon Claw",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "2b7f9f48726e525b0d9a0868178c3233474ee4ed3da3f7619857449d41a0c63a"
+  },
+  "DRAGON_SCALE": {
+    "name": "Dragon Scale",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "cadde5c31fbc3cbec9ff66360c4efb6e86584617179632ff38fea1e556649b19"
+  },
+  "ENDSTONE_GEODE": {
+    "name": "End Stone Geode",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "7d255fee5f7cf9081f2c0d5a0442ac3f3fd1fc24cb956e3f1d331863d11de176"
+  },
+  "LAPIS_CRYSTAL": {
+    "name": "Lapis Crystal",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "db9ffd85bf0283a588706e3d27afb9d4917e06f2ba717c1aea68dc79393b91f4"
+  },
+  "HERMIT_CRAB_PERSONALITY": {
+    "name": "Hermit Crab Minion Skin",
+    "tier": "COMMON",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "529dd69dc6d5c9f10361d35fea50165b0abcfab0230d588eb9d6e2a68d8c30d3"
+  },
+  "HYPER_FURNACE": {
+    "name": "Hyper Furnace",
+    "tier": "UNCOMMON",
+    "category": "blocks",
+    "item_id": 61
+  },
+  "LUXURIOUS_SPOOL": {
+    "name": "Luxurious Spool",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "94af5f3b50e2dea2687d292cc3a5e42c028b8626e638842fb4f78671debe276c"
+  },
+  "LIFE_PRESERVER": {
+    "name": "Life Preserver",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "3d4028c011d63633d2ec04a941672948bf011d1d7a4f145f8ce69c7172d3"
+  },
+  "MENDER_HELMET": {
+    "name": "Mender Helmet",
+    "tier": "RARE",
+    "category": "armor",
+    "item_id": 397,
+    "texture": "8793eef4849078df4ccd498054c74e2171c771f2730944164a8ee7b2d563832"
+  },
+  "MOLTEN_CUBE": {
+    "name": "Molten Cube",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "4664f9c5ed331d7ff4555ff80b088a9e5e111b549bffe32bed6ff29d3a9b4f7f"
+  },
+  "ONYX": {
+    "name": "Onyx",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "e4eccc280793510a6c10ba088c0e9b8708790e81c60907fd6eb73f33312777a4"
+  },
+  "POTATO_BASKET": {
+    "name": "Basket of Hope from the Great Potato War",
+    "tier": "EPIC",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "68e60ebd80b6063a96e9aaf84f038257058e762f1bec3bf5c0f6251e65d5c5ee"
+  },
+  "RARE_DIAMOND": {
+    "name": "Rare Diamond",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "3a0e8989070f0515b35d6a6372d9c4efde15961968d31ff0225c594269ef7437"
+  },
+  "POTATO_TALISMAN": {
+    "name": "Potato Talisman",
+    "tier": "COMMON",
+    "category": "accessories",
+    "item_id": 397,
+    "texture": "318476e3cf0d5fc8ab1761065cf0e372b11004ed4c97156396e17c869b4aa389"
+  },
+  "REFORGE_ANVIL": {
+    "name": "Reforge Anvil",
+    "tier": "EPIC",
+    "category": "blocks",
+    "item_id": 145
+  },
+  "SUPER_CLEAVER": {
+    "name": "Super Cleaver",
+    "tier": "RARE",
+    "category": "weapon",
+    "item_id": 283
+  },
+  "STONE_CHESTPLATE": {
+    "name": "Stone Chestplate",
+    "tier": "RARE",
+    "category": "armor",
+    "item_id": 299
+  },
+  "UNDEAD_BOW": {
+    "name": "Undead Bow",
+    "tier": "RARE",
+    "category": "weapon",
+    "item_id": 261
   }
 }
