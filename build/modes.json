@@ -4,11 +4,18 @@
     "name": "Limbo"
   },
   {
-    "key": "MAIN_LOBBY",
-    "name": "Main Lobby"
+    "key": "MAIN",
+    "name": "Main Lobby",
+    "matcher": {
+      "startsWith": "lobby"
+    }
   },
   {
-    "key": "TOURNAMENT_LOBBY",
+    "key": "REPLAY",
+    "name": "Replay Viewer"
+  },
+  {
+    "key": "TOURNAMENT",
     "name": "Tournament Hall",
     "matcher": {
       "startsWith": "tourney"
@@ -198,6 +205,10 @@
             "name": "Prop Hunt"
           }
         ]
+      },
+      {
+        "key": "EASTER_SIMULATOR",
+        "name": "Easter Simulator"
       }
     ]
   },
@@ -230,24 +241,6 @@
   {
     "key": "HOUSING",
     "name": "Housing"
-  },
-  {
-    "key": "SKYCLASH",
-    "name": "SkyClash",
-    "modes": [
-      {
-        "key": "dobules",
-        "name": "Doubles"
-      },
-      {
-        "key": "team_war",
-        "name": "Team War"
-      },
-      {
-        "key": "solo",
-        "name": "Solo"
-      }
-    ]
   },
   {
     "key": "WALLS3",
@@ -332,28 +325,6 @@
             "name": "Team Deathmatch (Challenge)"
           }
         ]
-      }
-    ]
-  },
-  {
-    "name": "Crazy Walls",
-    "key": "TRUE_COMBAT",
-    "modes": [
-      {
-        "key": "solo",
-        "name": "Solo Normal"
-      },
-      {
-        "key": "solo_chaos",
-        "name": "Solo Lucky Mode"
-      },
-      {
-        "key": "team",
-        "name": "Team Normal"
-      },
-      {
-        "key": "team_chaos",
-        "name": "Team Lucky Mode"
       }
     ]
   },
@@ -458,10 +429,6 @@
     "name": "Prototype",
     "modes": [
       {
-        "key": "PIT",
-        "name": "The Pit"
-      },
-      {
         "key": "PVP_CTW",
         "name": "Capture The Wool"
       },
@@ -476,39 +443,6 @@
           {
             "key": "TOWERWARS_TEAM_OF_TWO",
             "name": "Team of Two"
-          }
-        ]
-      },
-      {
-        "key": "KOTH",
-        "name": "King of the Hill",
-        "modes": [
-          {
-            "key": "KOTH",
-            "apiKey": "KOTH_TWO_TEAM",
-            "keys": [
-              "KOTH",
-              "KOTH_TWO_TEAM"
-            ],
-            "name": "KOTH Two Team"
-          },
-          {
-            "key": "FOUR_TEAM",
-            "keys": [
-              "KOTH_FOUR_TEAM"
-            ],
-            "name": "KOTH Four Team"
-          },
-          {
-            "key": "CHALLENGE",
-            "name": "Challenge",
-            "keys": [
-              "KOTH_TWO_TEAM_PARTY_OF_2",
-              "KOTH_TWO_TEAM_PARTY_OF_3",
-              "KOTH_TWO_TEAM_PARTY_OF_4",
-              "KOTH_TWO_TEAM_PARTY_OF_5",
-              "KOTH_TWO_TEAM_PARTY_OF_6"
-            ]
           }
         ]
       }
@@ -533,10 +467,6 @@
       {
         "key": "BEDWARS_FOUR_FOUR",
         "name": "4v4v4v4"
-      },
-      {
-        "key": "BEDWARS_CAPTURE",
-        "name": "Capture Beta"
       },
       {
         "key": "DREAMS",
@@ -819,6 +749,10 @@
       {
         "key": "dark_auction",
         "name": "Dark Auction"
+      },
+      {
+        "key": "dungeon",
+        "name": "Dungeons"
       }
     ]
   }

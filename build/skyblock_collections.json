@@ -1,14 +1,14 @@
 {
   "success": true,
-  "lastUpdated": 1579266136127,
-  "version": "0.7.211",
+  "lastUpdated": 1594898243191,
+  "version": "0.8.16",
   "collections": {
     "FARMING": {
       "name": "Farming",
       "items": {
         "WHEAT": {
           "name": "Wheat",
-          "maxTiers": 9,
+          "maxTiers": 10,
           "tiers": [
             {
               "tier": 1,
@@ -59,14 +59,15 @@
               "tier": 7,
               "amountRequired": 10000,
               "unlocks": [
-                "Enchanted Hay Bale Recipe"
+                "Enchanted Hay Bale Recipe",
+                "Small Agronomy Sack Recipe"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 15000,
               "unlocks": [
-                "Harvesting Upgrade (COMING SOON)"
+                "Medium Agronomy Sack Recipe"
               ]
             },
             {
@@ -77,6 +78,13 @@
                 "Farm Armor Chestplate Recipe",
                 "Farm Armor Leggings Recipe",
                 "Farm Armor Boots Recipe"
+              ]
+            },
+            {
+              "tier": 10,
+              "amountRequired": 50000,
+              "unlocks": [
+                "Large Agronomy Sack Recipe"
               ]
             }
           ]
@@ -96,7 +104,7 @@
               "tier": 2,
               "amountRequired": 250,
               "unlocks": [
-                "Pet Food (COMING SOON)"
+                "Simple Carrot Candy Recipe"
               ]
             },
             {
@@ -124,6 +132,7 @@
               "tier": 6,
               "amountRequired": 10000,
               "unlocks": [
+                "Great Carrot Candy Recipe",
                 "Super Catching Egg (COMING SOON)"
               ]
             },
@@ -138,7 +147,7 @@
               "tier": 8,
               "amountRequired": 50000,
               "unlocks": [
-                "Carrot Candy (COMING SOON)"
+                "Superb Carrot Candy Recipe"
               ]
             },
             {
@@ -193,7 +202,7 @@
               "tier": 6,
               "amountRequired": 10000,
               "unlocks": [
-                "+1,000 Farming Experience"
+                "Travel Scroll to the Barn Recipe"
               ]
             },
             {
@@ -463,7 +472,8 @@
               "tier": 7,
               "amountRequired": 10000,
               "unlocks": [
-                "Night Vision Charm Recipe"
+                "Night Vision Charm Recipe",
+                "Mystical Mushroom Soup Recipe"
               ]
             },
             {
@@ -478,7 +488,7 @@
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "Bat Pet Egg (COMING SOON)"
+                "Mystery Bat Pet Recipe"
               ]
             }
           ]
@@ -519,7 +529,7 @@
               "tier": 5,
               "amountRequired": 5000,
               "unlocks": [
-                "+500 Farming Experience"
+                "Travel Scroll to Mushroom Island Recipe"
               ]
             },
             {
@@ -540,7 +550,7 @@
               "tier": 8,
               "amountRequired": 50000,
               "unlocks": [
-                "+5,000 Farming Experience"
+                "Enchanted Book (Replenish I) Recipe"
               ]
             },
             {
@@ -661,7 +671,7 @@
               "amountRequired": 2000,
               "unlocks": [
                 "Enchanted Paper Recipe",
-                "Speed Talisman ? Speed Ring Upgrade"
+                "Speed Ring Recipe"
               ]
             },
             {
@@ -683,7 +693,7 @@
               "amountRequired": 20000,
               "unlocks": [
                 "Enchanted Sugar Cane Recipe",
-                "Speed Ring ? Speed Artifact Upgrade"
+                "Speed Artifact Recipe"
               ]
             },
             {
@@ -831,7 +841,7 @@
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "Horse Mount Egg (COMING SOON)"
+                "Mystery Horse Pet Recipe"
               ]
             },
             {
@@ -865,7 +875,7 @@
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Pig Pet Egg (COMING SOON)"
+                "Mystery Pig Pet Recipe"
               ]
             },
             {
@@ -900,7 +910,7 @@
               "tier": 8,
               "amountRequired": 25000,
               "unlocks": [
-                "Pigmen Pet Egg (COMING SOON)"
+                "Mystery Pigman Pet Recipe"
               ]
             },
             {
@@ -948,14 +958,14 @@
               "tier": 5,
               "amountRequired": 2500,
               "unlocks": [
-                "Chicken Pet Egg (COMING SOON)"
+                "Enchanted Egg Recipe"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "Enchanted Egg Recipe"
+                "Mystery Chicken Pet Recipe"
               ]
             },
             {
@@ -976,7 +986,7 @@
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "Random Egg (COMING SOON)"
+                "Super Enchanted Egg Recipe"
               ]
             }
           ]
@@ -1017,7 +1027,8 @@
               "tier": 5,
               "amountRequired": 2500,
               "unlocks": [
-                "Enchanted Mutton Recipe"
+                "Enchanted Mutton Recipe",
+                "Small Husbandry Sack Recipe"
               ]
             },
             {
@@ -1031,7 +1042,8 @@
               "tier": 7,
               "amountRequired": 10000,
               "unlocks": [
-                "Sheep Pet Egg (COMING SOON)"
+                "Mystery Sheep Pet Recipe",
+                "Medium Husbandry Sack Recipe"
               ]
             },
             {
@@ -1045,7 +1057,8 @@
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "Polymorph Wand (COMING SOON)"
+                "Polymorph Wand (COMING SOON)",
+                "Large Husbandry Sack Recipe"
               ]
             }
           ]
@@ -1065,7 +1078,8 @@
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Rabbit Pet Egg (COMING SOON)"
+                "Mystery Rabbit Pet Recipe",
+                "Mystery Rabbit Pet Recipe"
               ]
             },
             {
@@ -1107,7 +1121,7 @@
               "tier": 8,
               "amountRequired": 25000,
               "unlocks": [
-                "Luck Talisman (COMING SOON)"
+                "Pet Luck Potion Recipe"
               ]
             },
             {
@@ -1121,7 +1135,7 @@
         },
         "NETHER_STALK": {
           "name": "Nether Wart",
-          "maxTiers": 9,
+          "maxTiers": 11,
           "tiers": [
             {
               "tier": 1,
@@ -1185,6 +1199,20 @@
               "unlocks": [
                 "Potion Affinity Artifact Recipe"
               ]
+            },
+            {
+              "tier": 10,
+              "amountRequired": 75000,
+              "unlocks": [
+                "Giant Potion Bag Upgrade"
+              ]
+            },
+            {
+              "tier": 11,
+              "amountRequired": 100000,
+              "unlocks": [
+                "Massive Potion Bag Upgrade"
+              ]
             }
           ]
         }
@@ -1195,7 +1223,7 @@
       "items": {
         "COBBLESTONE": {
           "name": "Cobblestone",
-          "maxTiers": 9,
+          "maxTiers": 10,
           "tiers": [
             {
               "tier": 1,
@@ -1236,7 +1264,7 @@
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "Silverfish Pet Egg (COMING SOON)"
+                "Mystery Silverfish Pet Recipe"
               ]
             },
             {
@@ -1251,13 +1279,20 @@
             },
             {
               "tier": 8,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Hyper Furnace Recipe"
+              ]
+            },
+            {
+              "tier": 9,
               "amountRequired": 40000,
               "unlocks": [
                 "Haste Ring Recipe"
               ]
             },
             {
-              "tier": 9,
+              "tier": 10,
               "amountRequired": 70000,
               "unlocks": [
                 "Super Compactor 3000 Recipe"
@@ -1301,21 +1336,23 @@
               "tier": 5,
               "amountRequired": 2500,
               "unlocks": [
-                "Enchanted Charcoal Recipe"
+                "Enchanted Charcoal Recipe",
+                "Small Mining Sack Recipe"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "Diamond Refinery (COMING SOON)"
+                "Travel Scroll to the Gold Mine Recipe"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 10000,
               "unlocks": [
-                "Enchanted Block of Coal Recipe"
+                "Enchanted Block of Coal Recipe",
+                "Medium Mining Sack Recipe"
               ]
             },
             {
@@ -1329,7 +1366,8 @@
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "Wither Skeleton Pet Egg (COMING SOON)"
+                "Mystery Wither Skeleton Pet Recipe",
+                "Large Mining Sack Recipe"
               ]
             }
           ]
@@ -1552,7 +1590,7 @@
         },
         "INK_SACK:4": {
           "name": "Lapis Lazuli",
-          "maxTiers": 9,
+          "maxTiers": 10,
           "tiers": [
             {
               "tier": 1,
@@ -1615,6 +1653,13 @@
               "amountRequired": 150000,
               "unlocks": [
                 "Experience Artifact Recipe"
+              ]
+            },
+            {
+              "tier": 10,
+              "amountRequired": 250000,
+              "unlocks": [
+                "Textbook Recipe"
               ]
             }
           ]
@@ -1694,7 +1739,7 @@
         },
         "REDSTONE": {
           "name": "Redstone",
-          "maxTiers": 11,
+          "maxTiers": 14,
           "tiers": [
             {
               "tier": 1,
@@ -1728,21 +1773,21 @@
               "tier": 5,
               "amountRequired": 3000,
               "unlocks": [
-                "Compass Talisman (COMING SOON)"
+                "Weather Stick Recipe"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "Weather Stick Recipe"
+                "Medium Accessory Bag Upgrade"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 10000,
               "unlocks": [
-                "Medium Accessory Bag Upgrade"
+                "Travel Scroll to Deep Caverns Recipe"
               ]
             },
             {
@@ -1756,7 +1801,8 @@
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "Large Accessory Bag Upgrade"
+                "Large Accessory Bag Upgrade",
+                "Personal Compactor 4000 Recipe"
               ]
             },
             {
@@ -1770,7 +1816,30 @@
               "tier": 11,
               "amountRequired": 400000,
               "unlocks": [
-                "Giant Accessory Bag Upgrade"
+                "Giant Accessory Bag Upgrade",
+                "Personal Compactor 5000 Recipe"
+              ]
+            },
+            {
+              "tier": 12,
+              "amountRequired": 600000,
+              "unlocks": [
+                "Massive Accessory Bag Upgrade"
+              ]
+            },
+            {
+              "tier": 13,
+              "amountRequired": 800000,
+              "unlocks": [
+                "Humongous Accessory Bag Upgrade",
+                "Personal Compactor 6000 Recipe"
+              ]
+            },
+            {
+              "tier": 14,
+              "amountRequired": 1000000,
+              "unlocks": [
+                "Colossal Accessory Bag Upgrade"
               ]
             }
           ]
@@ -1846,7 +1915,7 @@
         },
         "OBSIDIAN": {
           "name": "Obsidian",
-          "maxTiers": 9,
+          "maxTiers": 10,
           "tiers": [
             {
               "tier": 1,
@@ -1901,7 +1970,7 @@
               "tier": 8,
               "amountRequired": 25000,
               "unlocks": [
-                "Reforge Anvil (COMING SOON)"
+                "Treecapitator Recipe"
               ]
             },
             {
@@ -1909,6 +1978,13 @@
               "amountRequired": 50000,
               "unlocks": [
                 "Enderchest Lv3 Upgrade"
+              ]
+            },
+            {
+              "tier": 10,
+              "amountRequired": 100000,
+              "unlocks": [
+                "Reforge Anvil Recipe"
               ]
             }
           ]
@@ -1949,7 +2025,7 @@
               "tier": 5,
               "amountRequired": 2500,
               "unlocks": [
-                "+750 Mining Experience"
+                "Travel Scroll to Blazing Fortress Recipe"
               ]
             },
             {
@@ -2037,9 +2113,9 @@
             },
             {
               "tier": 8,
-              "amountRequired": 25000,
+              "amountRequired": 15000,
               "unlocks": [
-                "+2,500 Mining Experience"
+                "Travel Scroll to Spider's Den Recipe"
               ]
             },
             {
@@ -2214,7 +2290,7 @@
         },
         "ENDER_STONE": {
           "name": "End Stone",
-          "maxTiers": 9,
+          "maxTiers": 10,
           "tiers": [
             {
               "tier": 1,
@@ -2262,18 +2338,25 @@
               "tier": 7,
               "amountRequired": 10000,
               "unlocks": [
-                "Endermite Pet Egg (COMING SOON)"
+                "Mystery Endermite Pet Recipe"
               ]
             },
             {
               "tier": 8,
+              "amountRequired": 15000,
+              "unlocks": [
+                "Travel Scroll to the End Recipe"
+              ]
+            },
+            {
+              "tier": 9,
               "amountRequired": 25000,
               "unlocks": [
                 "Catalyst Recipe"
               ]
             },
             {
-              "tier": 9,
+              "tier": 10,
               "amountRequired": 50000,
               "unlocks": [
                 "End Stone Sword Recipe"
@@ -2322,7 +2405,8 @@
               "tier": 5,
               "amountRequired": 2500,
               "unlocks": [
-                "Zombie Hat Recipe"
+                "Zombie Hat Recipe",
+                "Small Combat Sack Recipe"
               ]
             },
             {
@@ -2336,7 +2420,8 @@
               "tier": 7,
               "amountRequired": 10000,
               "unlocks": [
-                "Zombie Sword Recipe"
+                "Zombie Sword Recipe",
+                "Medium Combat Sack Recipe"
               ]
             },
             {
@@ -2352,7 +2437,8 @@
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "Zombie Pet Egg (COMING SOON)"
+                "Mystery Zombie Pet Recipe",
+                "Large Combat Sack Recipe"
               ]
             }
           ]
@@ -2400,7 +2486,7 @@
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "Skeleton Pet Egg (COMING SOON)"
+                "Mystery Skeleton Pet Recipe"
               ]
             },
             {
@@ -2469,7 +2555,8 @@
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "Enchanted Book (Infinite Quiver IV) Recipe"
+                "Enchanted Book (Infinite Quiver IV) Recipe",
+                "Large Quiver Upgrade"
               ]
             },
             {
@@ -2490,7 +2577,8 @@
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "Spider Pet Egg (COMING SOON)"
+                "Mystery Spider Pet Recipe",
+                "Giant Quiver Upgrade"
               ]
             }
           ]
@@ -2552,7 +2640,7 @@
               "tier": 8,
               "amountRequired": 25000,
               "unlocks": [
-                "Cave Spider Pet Egg (COMING SOON)"
+                "+25,000 Combat Experience"
               ]
             },
             {
@@ -2907,7 +2995,7 @@
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "Blaze Pet Egg (COMING SOON)"
+                "Mystery Blaze Pet Recipe"
               ]
             }
           ]
@@ -3118,7 +3206,7 @@
               "tier": 8,
               "amountRequired": 25000,
               "unlocks": [
-                "Wolf Pet Egg (COMING SOON)"
+                "Mystery Wolf Pet Recipe"
               ]
             },
             {
@@ -3171,30 +3259,32 @@
             },
             {
               "tier": 6,
-              "amountRequired": 1500,
-              "unlocks": [
-                "+150 Foraging Experience"
-              ]
-            },
-            {
-              "tier": 7,
               "amountRequired": 2000,
               "unlocks": [
+                "Small Foraging Sack Recipe",
                 "Enchanted Birch Wood Recipe"
               ]
             },
             {
-              "tier": 8,
+              "tier": 7,
               "amountRequired": 5000,
               "unlocks": [
+                "Medium Foraging Sack Recipe",
                 "Woodcutting Crystal Recipe"
               ]
             },
             {
-              "tier": 9,
+              "tier": 8,
               "amountRequired": 10000,
               "unlocks": [
-                "+1,000 Foraging Experience"
+                "Travel Scroll to The Park Recipe"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Large Foraging Sack Recipe"
               ]
             }
           ]
@@ -3254,19 +3344,19 @@
             },
             {
               "tier": 8,
+              "amountRequired": 15000,
+              "unlocks": [
+                "+2,500 Foraging Experience"
+              ]
+            },
+            {
+              "tier": 9,
               "amountRequired": 25000,
               "unlocks": [
                 "Helmet of Growth Recipe",
                 "Chestplate of Growth Recipe",
                 "Leggings of Growth Recipe",
                 "Boots of Growth Recipe"
-              ]
-            },
-            {
-              "tier": 9,
-              "amountRequired": 50000,
-              "unlocks": [
-                "+5,000 Foraging Experience"
               ]
             }
           ]
@@ -3300,7 +3390,7 @@
               "tier": 4,
               "amountRequired": 500,
               "unlocks": [
-                "Super Torch (COMING SOON)"
+                "+50 Foraging Experience"
               ]
             },
             {
@@ -3335,7 +3425,7 @@
               "tier": 9,
               "amountRequired": 25000,
               "unlocks": [
-                "+2,500 Foraging Experience"
+                "Repelling Candle Recipe"
               ]
             }
           ]
@@ -3395,16 +3485,16 @@
             },
             {
               "tier": 8,
-              "amountRequired": 25000,
+              "amountRequired": 10000,
               "unlocks": [
-                "Ocelot Pet Egg (COMING SOON)"
+                "+1,000 Foraging Experience"
               ]
             },
             {
               "tier": 9,
-              "amountRequired": 50000,
+              "amountRequired": 25000,
               "unlocks": [
-                "+5,000 Foraging Experience"
+                "Mystery Ocelot Pet Recipe"
               ]
             }
           ]
@@ -3416,7 +3506,7 @@
       "items": {
         "RAW_FISH": {
           "name": "Raw Fish",
-          "maxTiers": 9,
+          "maxTiers": 11,
           "tiers": [
             {
               "tier": 1,
@@ -3482,6 +3572,20 @@
               "amountRequired": 30000,
               "unlocks": [
                 "Large Fishing Bag Upgrade"
+              ]
+            },
+            {
+              "tier": 10,
+              "amountRequired": 45000,
+              "unlocks": [
+                "Giant Fishing Bag Upgrade"
+              ]
+            },
+            {
+              "tier": 11,
+              "amountRequired": 60000,
+              "unlocks": [
+                "Massive Fishing Bag Upgrade"
               ]
             }
           ]
@@ -3557,7 +3661,7 @@
         },
         "RAW_FISH:2": {
           "name": "Clownfish",
-          "maxTiers": 3,
+          "maxTiers": 7,
           "tiers": [
             {
               "tier": 1,
@@ -3579,12 +3683,40 @@
               "unlocks": [
                 "Enchanted Book (Magnet IV) Recipe"
               ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 100,
+              "unlocks": [
+                "Small Sack of Sacks Upgrade"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 200,
+              "unlocks": [
+                "Medium Sack of Sacks Upgrade"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 400,
+              "unlocks": [
+                "Large Sack of Sacks Upgrade"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 800,
+              "unlocks": [
+                "Greater Sack of Sacks Upgrade"
+              ]
             }
           ]
         },
         "RAW_FISH:3": {
           "name": "Pufferfish",
-          "maxTiers": 6,
+          "maxTiers": 9,
           "tiers": [
             {
               "tier": 1,
@@ -3618,7 +3750,8 @@
               "tier": 5,
               "amountRequired": 400,
               "unlocks": [
-                "Spiked Bait Recipe"
+                "Spiked Bait Recipe",
+                "Small Fishing Sack Recipe"
               ]
             },
             {
@@ -3626,6 +3759,27 @@
               "amountRequired": 800,
               "unlocks": [
                 "Enchanted Book (Spiked Hook IV) Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 2400,
+              "unlocks": [
+                "Medium Fishing Sack Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 4800,
+              "unlocks": [
+                "Puffer Boat (COMING SOON)"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 9000,
+              "unlocks": [
+                "Large Fishing Sack Recipe"
               ]
             }
           ]
