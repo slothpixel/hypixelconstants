@@ -8726,7 +8726,8 @@
     "tier": "EPIC",
     "category": "misc",
     "item_id": 397,
-    "texture": "83d9a82e3071c81ad42ab482a7c8073bec6b87e6204353a4e7ce20036222753c"
+    "texture": "83d9a82e3071c81ad42ab482a7c8073bec6b87e6204353a4e7ce20036222753c",
+    "bazaar": true
   },
   "NECROMANCER_BROOCH": {
     "name": "Necromancer's Brooch",
