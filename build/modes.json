@@ -558,35 +558,35 @@
     "key": "BUILD_BATTLE",
     "modes": [
       {
-        "key": "BUILD_BATTLE_SOLO_NORMAL",
+        "key": "SOLO_NORMAL",
         "name": "Solo"
       },
       {
-        "key": "BUILD_BATTLE_TEAMS_NORMAL",
+        "key": "TEAMS_NORMAL",
         "name": "Teams"
       },
       {
-        "key": "BUILD_BATTLE_SOLO_PRO",
+        "key": "SOLO_PRO",
         "name": "Pro"
       },
       {
-        "key": "BUILD_BATTLE_GUESS_THE_BUILD",
+        "key": "GUESS_THE_BUILD",
         "name": "Guess the Build"
       },
       {
-        "key": "BUILD_BATTLE_HALLOWEEN",
+        "key": "HALLOWEEN",
         "name": "Halloween Hyper Mode"
       },
       {
-        "key": "BUILD_BATTLE_CHRISTMAS_NEW_SOLO",
+        "key": "CHRISTMAS_NEW_SOLO",
         "name": "Christmas Solo"
       },
       {
-        "key": "BUILD_BATTLE_CHRISTMAS_NEW_TEAMS",
+        "key": "CHRISTMAS_NEW_TEAMS",
         "name": "Christmas Teams"
       },
       {
-        "key": "BUILD_BATTLE_SOLO_NORMAL_LATEST",
+        "key": "SOLO_NORMAL_LATEST",
         "name": "Solo (1.14)"
       }
     ]
