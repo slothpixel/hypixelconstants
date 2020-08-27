@@ -138,12 +138,7 @@
         "name": "Creeper Attack"
       },
       {
-        "key": "party_games",
-        "keys": [
-          "PARTY",
-          "PARTY_2",
-          "PARTY_3"
-        ],
+        "key": "PARTY",
         "name": "Party Games"
       },
       {
@@ -209,6 +204,10 @@
       {
         "key": "EASTER_SIMULATOR",
         "name": "Easter Simulator"
+      },
+      {
+        "key": "SCUBA_SIMULATOR",
+        "name": "Scuba Simulator"
       }
     ]
   },
@@ -453,19 +452,19 @@
     "name": "Bed Wars",
     "modes": [
       {
-        "key": "BEDWARS_EIGHT_ONE",
+        "key": "EIGHT_ONE",
         "name": "Solo"
       },
       {
-        "key": "BEDWARS_EIGHT_TWO",
+        "key": "EIGHT_TWO",
         "name": "Doubles"
       },
       {
-        "key": "BEDWARS_FOUR_THREE",
+        "key": "FOUR_THREE",
         "name": "3v3v3v3"
       },
       {
-        "key": "BEDWARS_FOUR_FOUR",
+        "key": "FOUR_FOUR",
         "name": "4v4v4v4"
       },
       {
@@ -473,55 +472,55 @@
         "name": "Dreams",
         "modes": [
           {
-            "key": "BEDWARS_EIGHT_ONE_RUSH",
+            "key": "EIGHT_ONE_RUSH",
             "name": "Rush Solo"
           },
           {
-            "key": "BEDWARS_EIGHT_TWO_RUSH",
+            "key": "EIGHT_TWO_RUSH",
             "name": "Rush Doubles"
           },
           {
-            "key": "BEDWARS_FOUR_FOUR_RUSH",
+            "key": "FOUR_FOUR_RUSH",
             "name": "Rush 4v4v4v4"
           },
           {
-            "key": "BEDWARS_EIGHT_ONE_ULTIMATE",
+            "key": "EIGHT_ONE_ULTIMATE",
             "name": "Ultimate Meme"
           },
           {
-            "key": "BEDWARS_EIGHT_TWO_ULTIMATE",
+            "key": "EIGHT_TWO_ULTIMATE",
             "name": "Ultimate Doubles"
           },
           {
-            "key": "BEDWARS_FOUR_FOUR_ULTIMATE",
+            "key": "FOUR_FOUR_ULTIMATE",
             "name": "Ultimate 4v4v4v4"
           },
           {
-            "key": "BEDWARS_CASTLE",
+            "key": "CASTLE",
             "name": "Castle"
           },
           {
-            "key": "BEDWARS_EIGHT_TWO_LUCKY",
+            "key": "EIGHT_TWO_LUCKY",
             "name": "Lucky Block Doubles"
           },
           {
-            "key": "BEDWARS_FOUR_FOUR_LUCKY",
+            "key": "FOUR_FOUR_LUCKY",
             "name": "Lucky Block 4v4v4v4"
           },
           {
-            "key": "BEDWARS_EIGHT_TWO_VOIDLESS",
+            "key": "EIGHT_TWO_VOIDLESS",
             "name": "Voidless Doubles"
           },
           {
-            "key": "BEDWARS_FOUR_FOUR_VOIDLESS",
+            "key": "FOUR_FOUR_VOIDLESS",
             "name": "Voidless 4v4v4v4"
           },
           {
-            "key": "BEDWARS_EIGHT_TWO_ARMED",
+            "key": "EIGHT_TWO_ARMED",
             "name": "Armed Doubles"
           },
           {
-            "key": "BEDWARS_FOUR_FOUR_ARMED",
+            "key": "FOUR_FOUR_ARMED",
             "name": "Armed 4v4v4v4"
           }
         ]
@@ -559,35 +558,35 @@
     "key": "BUILD_BATTLE",
     "modes": [
       {
-        "key": "BUILD_BATTLE_SOLO_NORMAL",
+        "key": "SOLO_NORMAL",
         "name": "Solo"
       },
       {
-        "key": "BUILD_BATTLE_TEAMS_NORMAL",
+        "key": "TEAMS_NORMAL",
         "name": "Teams"
       },
       {
-        "key": "BUILD_BATTLE_SOLO_PRO",
+        "key": "SOLO_PRO",
         "name": "Pro"
       },
       {
-        "key": "BUILD_BATTLE_GUESS_THE_BUILD",
+        "key": "GUESS_THE_BUILD",
         "name": "Guess the Build"
       },
       {
-        "key": "BUILD_BATTLE_HALLOWEEN",
+        "key": "HALLOWEEN",
         "name": "Halloween Hyper Mode"
       },
       {
-        "key": "BUILD_BATTLE_CHRISTMAS_NEW_SOLO",
+        "key": "CHRISTMAS_NEW_SOLO",
         "name": "Christmas Solo"
       },
       {
-        "key": "BUILD_BATTLE_CHRISTMAS_NEW_TEAMS",
+        "key": "CHRISTMAS_NEW_TEAMS",
         "name": "Christmas Teams"
       },
       {
-        "key": "BUILD_BATTLE_SOLO_NORMAL_LATEST",
+        "key": "SOLO_NORMAL_LATEST",
         "name": "Solo (1.14)"
       }
     ]
