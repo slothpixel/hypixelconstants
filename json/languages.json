@@ -75,5 +75,96 @@
       "native": "Português (Brasil)"
     },
     "code": "pt-BR"
+  },
+  "ITALIAN": {
+    "name": {
+      "common": "Italian",
+      "native": "Italiano"
+    },
+    "code": "it-IT"
+  },
+  "NORWEGIAN": {
+    "name": {
+      "common": "Norwegian",
+      "native": "Norsk"
+    },
+    "code": "no-NO"
+  },
+  "PORTUGUESE": {
+    "name": {
+      "common": "Portuguese",
+      "native": "Português"
+    },
+    "code": "pt-PT"
+  },
+  "TURKISH": {
+    "name": {
+      "common": "Turkish",
+      "native": "Türkçe"
+    },
+    "code": "tr-TR"
+  },
+  "KOREAN": {
+    "name": {
+      "common": "Korean",
+      "native": "한국어"
+    },
+    "code": "ko-KO"
+  },
+  "SWEDISH": {
+    "name": {
+      "common": "Swedish",
+      "native": "Svenskan"
+    },
+    "code": "sv-SV"
+  },
+  "DANISH": {
+    "name": {
+      "common": "Danish",
+      "native": "Dansk"
+    },
+    "code": "da-DA"
+  },
+  "FINNISH": {
+    "name": {
+      "common": "Finnish",
+      "native": "Suomen"
+    },
+    "code": "fi-FI"
+  },
+  "CZECH": {
+    "name": {
+      "common": "Czech",
+      "native": "Čeština"
+    },
+    "code": "cs-CS"
+  },
+  "GREEK": {
+    "name": {
+      "common": "Greek",
+      "native": "Ελληνική"
+    },
+    "code": "el-EL"
+  },
+  "BULGARIAN": {
+    "name": {
+      "common": "Bulgarian",
+      "native": "Български"
+    },
+    "code": "bg-BG"
+  },
+  "THAI": {
+    "name": {
+      "common": "Thai",
+      "native": "ไทย"
+    },
+    "code": "th-TH"
+  },
+  "UKRAINIAN": {
+    "name": {
+      "common": "Ukrainian",
+      "native": "Український"
+    },
+    "code": "uk-UK"
   }
 }
