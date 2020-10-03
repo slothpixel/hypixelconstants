@@ -752,6 +752,10 @@
       {
         "key": "dungeon",
         "name": "Dungeons"
+      },
+      {
+        "key": "dungeon_hub",
+        "name": "Dungeon Hub"
       }
     ]
   }
