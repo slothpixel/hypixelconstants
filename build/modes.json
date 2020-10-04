@@ -596,103 +596,103 @@
     "key": "DUELS",
     "modes": [
       {
-        "key": "DUELS_BOW_DUEL",
+        "key": "BOW_DUEL",
         "name": "Bow Duel"
       },
       {
-        "key": "DUELS_MW_DUEL",
+        "key": "MW_DUEL",
         "name": "Mega Walls Duel"
       },
       {
-        "key": "DUELS_UHC_FOUR",
+        "key": "UHC_FOUR",
         "name": "UHC Four"
       },
       {
-        "key": "DUELS_SW_DOUBLES",
+        "key": "SW_DOUBLES",
         "name": "SkyWars Doubles"
       },
       {
-        "key": "DUELS_UHC_DOUBLES",
+        "key": "UHC_DOUBLES",
         "name": "UHC Doubles"
       },
       {
-        "key": "DUELS_UHC_DUEL",
+        "key": "UHC_DUEL",
         "name": "UHC Duel"
       },
       {
-        "key": "DUELS_OP_DOUBLES",
+        "key": "OP_DOUBLES",
         "name": "OP Doubles"
       },
       {
-        "key": "DUELS_OP_DUEL",
+        "key": "OP_DUEL",
         "name": "OP Duel"
       },
       {
-        "key": "DUELS_MW_DOUBLES",
+        "key": "MW_DOUBLES",
         "name": "Mega Walls Doubles"
       },
       {
-        "key": "DUELS_CLASSIC_DUEL",
+        "key": "CLASSIC_DUEL",
         "name": "Classic Duel"
       },
       {
-        "key": "DUELS_POTION_DUEL",
+        "key": "POTION_DUEL",
         "name": "Potion Duel"
       },
       {
-        "key": "DUELS_COMBO_DUEL",
+        "key": "COMBO_DUEL",
         "name": "Combo Duel"
       },
       {
-        "key": "DUELS_SW_DUEL",
+        "key": "SW_DUEL",
         "name": "SkyWars Duel"
       },
       {
-        "key": "DUELS_BLITZ_DUEL",
+        "key": "BLITZ_DUEL",
         "name": "Blitz Duel"
       },
       {
-        "key": "DUELS_BOWSPLEEF_DUEL",
+        "key": "BOWSPLEEF_DUEL",
         "name": "Bowspleef Duel"
       },
       {
-        "key": "DUELS_SUMO_DUEL",
+        "key": "SUMO_DUEL",
         "name": "Sumo Duel"
       },
       {
-        "key": "DUELS_SW_TOURNAMENT",
+        "key": "SW_TOURNAMENT",
         "name": "SkyWars Tournament"
       },
       {
-        "key": "DUELS_UHC_TOURNAMENT",
+        "key": "UHC_TOURNAMENT",
         "name": "UHC Tournament"
       },
       {
-        "key": "DUELS_SUMO_TOURNAMENT",
+        "key": "SUMO_TOURNAMENT",
         "name": "Sumo Tournament"
       },
       {
-        "key": "DUELS_BRIDGE_DUEL",
+        "key": "BRIDGE_DUEL",
         "name": "Bridge Duel"
       },
       {
-        "key": "DUELS_BRIDGE_DOUBLES",
+        "key": "BRIDGE_DOUBLES",
         "name": "Bridge Doubles"
       },
       {
-        "key": "DUELS_BRIDGE_FOUR",
+        "key": "BRIDGE_FOUR",
         "name": "Bridge 4v4"
       },
       {
-        "key": "DUELS_BRIDGE_2V2V2V2",
+        "key": "BRIDGE_2V2V2V2",
         "name": "Bridge 2v2v2v2"
       },
       {
-        "key": "DUELS_BRIDGE_3V3V3V3",
+        "key": "BRIDGE_3V3V3V3",
         "name": "Bridge 3v3v3v3"
       },
       {
-        "key": "DUELS_BRIDGE_TOURNAMENT",
+        "key": "BRIDGE_TOURNAMENT",
         "name": "Bridge Tournament"
       }
     ]
@@ -752,6 +752,10 @@
       {
         "key": "dungeon",
         "name": "Dungeons"
+      },
+      {
+        "key": "dungeon_hub",
+        "name": "Dungeon Hub"
       }
     ]
   }
