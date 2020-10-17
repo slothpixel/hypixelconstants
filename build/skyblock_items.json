@@ -9287,5 +9287,630 @@
     "tier": "RARE",
     "category": "blocks",
     "item_id": 145
+  },
+  "AOTE_STONE": {
+    "name": "Warped Stone",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "5cb7c21cc43dc17678ee6f16591ffaab1f637c37f4f6bbd8cea497451d76db6d"
+  },
+  "BUILDER_BUSH": {
+    "name": "Bush",
+    "tier": "COMMON",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "85ce40eef869be2cf88889da9268cfde6d9319b3778589ad47e9d35aaa8f1d"
+  },
+  "BUILDER_BERRY_BUSH": {
+    "name": "Berry Bush",
+    "tier": "COMMON",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "b4ec3fcd557269a1a0b9bfa8a02dae1a39fa0ee8ff40e0cb8a96479be04b6609"
+  },
+  "BUILDER_CACTUS": {
+    "name": "Cactus",
+    "tier": "COMMON",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "297138ff5a74fb7379ccca7972669871b209b91bf6c7b07e76929285c8fb3"
+  },
+  "BONZO_FRAGMENT": {
+    "name": "Bonzo Fragment",
+    "tier": "RARE",
+    "category": "blocks",
+    "item_id": 40
+  },
+  "BUILDER_ANCIENT_FRUIT": {
+    "name": "Ancient Fruit",
+    "tier": "COMMON",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "af072bcf2be6f3c5ffb52d2875e41294f21dd57cee3f428c7986a189714ad79f"
+  },
+  "BUILDER_APPALLED_PUMPKIN": {
+    "name": "Appalled Pumpkin",
+    "tier": "COMMON",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "107da572a8e9dad5782b1665b74f911d21fb1a723a97da7c8ec494b75ec9db84"
+  },
+  "BUILDER_BANANA_BUNCH": {
+    "name": "Banana Bunch",
+    "tier": "COMMON",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "20aaa1425d2b99383697d57193f27d872442bcb995508f42d19de4af1f8612"
+  },
+  "BUILDER_KIWI": {
+    "name": "Kiwi",
+    "tier": "COMMON",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "d9317f48e257fd6887491f7ba9e2aaa41c91fcfd4461ae772a32d27839c13"
+  },
+  "BUILDER_APPLE": {
+    "name": "Apple",
+    "tier": "COMMON",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "921127d22675c5c769a0c08b572018d299c83046f8e1f943ed9d51be03b07"
+  },
+  "BUILDER_CHESTO_BERRY": {
+    "name": "Chesto Berry",
+    "tier": "COMMON",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "436f4ff183cbaa49122455614911b84942b5f92d4d82cc3b890bcc7d57c6"
+  },
+  "BUILDER_CORN": {
+    "name": "Corn",
+    "tier": "COMMON",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "d391dffbea2fc3f2ad78a623f49bf7e1121694112c3759feed4156fc2ba46c0"
+  },
+  "BUILDER_LEMON": {
+    "name": "Lemon",
+    "tier": "COMMON",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "957fd56ca15978779324df519354b6639a8d9bc1192c7c3de925a329baef6c"
+  },
+  "BUILDER_ORANGE": {
+    "name": "Orange",
+    "tier": "COMMON",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "3c2d8e8ec2737b599a48fc07ea58b806969e6021802019992dda32a653794df6"
+  },
+  "CLUCK_THE_FISH": {
+    "name": "Cluck the Fish",
+    "tier": "SPECIAL",
+    "category": "consumables",
+    "item_id": 349
+  },
+  "BUILDER_MELON": {
+    "name": "Melon",
+    "tier": "COMMON",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "d58670551f7ff13afab239318a10bad2327ee742e157837ea1785ef443d3a576"
+  },
+  "COFFIN": {
+    "name": "Coffin",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "8d44756e0b4ece8d746296a3d5e297e1415f4ba17647ffe228385383d161a9"
+  },
+  "CROCHET_TIGER_PLUSHIE": {
+    "name": "Crochet Tiger Plushie",
+    "tier": "EPIC",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "3bddf5bae3af592858df9a150109e88c1caed8ba51e793c25aa03ca1b25db"
+  },
+  "BUILDER_ONION": {
+    "name": "Onion",
+    "tier": "COMMON",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "b134ab145bd17676ac10a6f5b6554dd41256ce3b8239f87c0591b105aa9e086"
+  },
+  "CRYSTAL_BALL": {
+    "name": "Crystal Ball",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "4c77dfd21598a3974fa85919a15c0949fec734451b122189ba215d0a9d8bebf"
+  },
+  "DULL_SHARK_TOOTH_NECKLACE": {
+    "name": "Dull Shark Tooth Necklace",
+    "tier": "UNCOMMON",
+    "category": "accessories",
+    "item_id": 397,
+    "texture": "f3ab3aa1ade74915dacd298613904361c18877eebfa81d9f936309f271e1389a"
+  },
+  "FEL_PEARL": {
+    "name": "Fel Pearl",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 368
+  },
+  "DARK_ORB": {
+    "name": "Dark Orb",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "97c4036f80bf3609180c7c4a9568853fd815f154ad8438b92f3851019835b070"
+  },
+  "DIVER_PUFFER": {
+    "name": "Puffer Fish Skin",
+    "tier": "LEGENDARY",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "5c6f54fc06fc388e048d489c049586eaae760101591e3064d0506894482b6b55"
+  },
+  "DWARF_TURTLE_SHELMET": {
+    "name": "Dwarf Turtle Shelmet",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "664698fea5ec3f2fd7db7a8e3f4e989a1716035c2bd3666434ba1af58157"
+  },
+  "GIANTS_SWORD": {
+    "name": "Giant's Sword",
+    "tier": "LEGENDARY",
+    "category": "weapon",
+    "item_id": 267
+  },
+  "FLORID_ZOMBIE_SWORD": {
+    "name": "Florid Zombie Sword ✪✪✪✪✪",
+    "tier": "LEGENDARY",
+    "category": "weapon",
+    "item_id": 283
+  },
+  "FEL_SWORD": {
+    "name": "Fel Sword",
+    "tier": "EPIC",
+    "category": "weapon",
+    "item_id": 272
+  },
+  "FLOWER_OF_TRUTH": {
+    "name": "Flower of Truth ✪✪✪✪✪",
+    "tier": "LEGENDARY",
+    "category": "weapon",
+    "item_id": 38
+  },
+  "GHOST_PERSONALITY": {
+    "name": "Ghost Minion Skin",
+    "tier": "COMMON",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "ff63e81efc0310b7dab2b1f3f7861f6cdffa36c43f95af7808a3e71eba76c82c"
+  },
+  "FROZEN_BLAZE_ICICLE": {
+    "name": "Icicle Skin",
+    "tier": "LEGENDARY",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "e13c25640705136cf776784910c63a0f160f5af6a38ccacfbb3071f247b82004"
+  },
+  "GOLEM_POPPY": {
+    "name": "Ancient Rose",
+    "tier": "RARE",
+    "category": "blocks",
+    "item_id": 38
+  },
+  "GOLD_LIVID_HEAD": {
+    "name": "Golden Livid Head",
+    "tier": "SPECIAL",
+    "category": "armor",
+    "item_id": 397,
+    "texture": "62512ac6cc5d8c7ae3dddeee2c429d4a2d6a8341bde056e18e5ae21011bbe643"
+  },
+  "GIANT_TOOTH": {
+    "name": "Giant Tooth",
+    "tier": "EPIC",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "f0c84320f4b0fcd8391b8a20f53bd41612ca6a50e758309525971f77ace2d"
+  },
+  "GOLD_SADAN_HEAD": {
+    "name": "Golden Sadan Head ✪",
+    "tier": "SPECIAL",
+    "category": "armor",
+    "item_id": 397,
+    "texture": "5766a0d21d261c878763ca8264cd2dd0b17ecfac342411db07886b078e6cb013"
+  },
+  "HEALING_TISSUE": {
+    "name": "Healing Tissue",
+    "tier": "RARE",
+    "category": "consumables",
+    "item_id": 367
+  },
+  "HONED_SHARK_TOOTH_NECKLACE": {
+    "name": "Honed Shark Tooth Necklace",
+    "tier": "RARE",
+    "category": "accessories",
+    "item_id": 397,
+    "texture": "e6b120938d83bf49ddab3a78666a0bf37a3de7b46b9d97b984da3be62ce3e5e3"
+  },
+  "LAST_BREATH": {
+    "name": "Last Breath",
+    "tier": "LEGENDARY",
+    "category": "weapon",
+    "item_id": 261
+  },
+  "LIVID_DAGGER": {
+    "name": "Livid Dagger",
+    "tier": "LEGENDARY",
+    "category": "weapon",
+    "item_id": 267
+  },
+  "LIVID_FRAGMENT": {
+    "name": "Livid Fragment",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 405
+  },
+  "LESSER_ORB_OF_HEALING": {
+    "name": "Lesser Orb of Healing",
+    "tier": "EPIC",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "f83236639607036c1ba391c2b46a9c7b0efd760c8bfa2996a6055582b4da5"
+  },
+  "LONG_GRASS": {
+    "name": "Shrub",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 31
+  },
+  "MASTIFF_PUPPY": {
+    "name": "Puppy Skin",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "f22f67e5fe5badb3a0c231860d2b68682ced4afe92f8d1adf822ce9cd4b0a740"
+  },
+  "MIMIC_FRAGMENT": {
+    "name": "Mimic Fragment",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "61235cf75df6b5b9f4f74cadda5ec215f482aaa329c2612b4a2a8ea3e01beed"
+  },
+  "MINERAL_CHESTPLATE": {
+    "name": "Mineral Chestplate",
+    "tier": "EPIC",
+    "category": "armor",
+    "item_id": 299
+  },
+  "MINERAL_HELMET": {
+    "name": "Mineral Helmet",
+    "tier": "EPIC",
+    "category": "armor",
+    "item_id": 397,
+    "texture": "a25e6121971e91c5415f617e17114990a146a746dd952d4176e25764183ef"
+  },
+  "MINERAL_LEGGINGS": {
+    "name": "Mineral Leggings",
+    "tier": "EPIC",
+    "category": "armor",
+    "item_id": 300
+  },
+  "NECROMANCER_LORD_HELMET": {
+    "name": "Necromancer Lord Helmet",
+    "tier": "LEGENDARY",
+    "category": "armor",
+    "item_id": 397,
+    "texture": "852f92694ad81e6358b43072aaef25f8e0099184bb4c7fd388e4adf70acc7e0f"
+  },
+  "MUMMY_CANDLE": {
+    "name": "Mummy Candle",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "3e91e95822fe98cc5a5658e824b1b8cf14d4de92f0e1af24815372435c9eab6"
+  },
+  "MUMMY_PERSONALITY": {
+    "name": "Mummy Minion Skin",
+    "tier": "COMMON",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "ff057d25abc8082c9acf53c771bf4bff5953b9397d87faa7d0b8ab612d599efb"
+  },
+  "MINOS_RELIC": {
+    "name": "Minos Relic",
+    "tier": "EPIC",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "40b4648cbd817c7b5fc654c9c054e360d81bbfe1a00f214657a174e3e0d07d21"
+  },
+  "PET_SKIN_RABBIT": {
+    "name": "Pretty Rabbit Skin",
+    "tier": "EPIC",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "a34631d940fddb689ddef6a3b352c50220c460dba05cd18dc83192b59dc647f8"
+  },
+  "NECROMANCER_LORD_BOOTS": {
+    "name": "Necromancer Lord Boots",
+    "tier": "LEGENDARY",
+    "category": "armor",
+    "item_id": 301
+  },
+  "NECROMANCER_SWORD": {
+    "name": "Necromancer Sword",
+    "tier": "LEGENDARY",
+    "category": "weapon",
+    "item_id": 267
+  },
+  "NECROMANCER_LORD_CHESTPLATE": {
+    "name": "Necromancer Lord Chestplate",
+    "tier": "LEGENDARY",
+    "category": "armor",
+    "item_id": 299
+  },
+  "NECROMANCER_LORD_LEGGINGS": {
+    "name": "Necromancer Lord Leggings",
+    "tier": "LEGENDARY",
+    "category": "armor",
+    "item_id": 300
+  },
+  "PET_SKIN_ROCK_EMBARRASSED": {
+    "name": "Embarrassed Rock Skin",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "27ff34992e66599e8529008be3fb577cb0ab545294253e25a0cc988e416c849"
+  },
+  "PERFECT_CHESTPLATE_11": {
+    "name": "Perfect Chestplate - Tier XI",
+    "tier": "LEGENDARY",
+    "category": "armor",
+    "item_id": 311
+  },
+  "PERFECT_FORGE": {
+    "name": "Reinforced Skin",
+    "tier": "LEGENDARY",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "855b72f529f9bd33a6ec1df16f17f054dece6b553c21d286ad4e93fc658147d3"
+  },
+  "PUMPKIN_PERSONALITY": {
+    "name": "Pumpkin Minion Skin",
+    "tier": "COMMON",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "5f6dc5652012eea926c0f638b6820e0d20eb94cf0a08b16b3e109d5e549aefb9"
+  },
+  "PET_SKIN_GUARDIAN": {
+    "name": "Watcher Guardian Skin",
+    "tier": "EPIC",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "37cc76e7af29f5f3fbfd6ece794160811eff96f753459fa61d7ad176a064e3c5"
+  },
+  "REAPER_SPIRIT": {
+    "name": "Spirit Skin",
+    "tier": "MYTHIC",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "724d2072918054a95a4f4bbc931bf3929d01cb012368bc4c78d0a3acc9cdbeea"
+  },
+  "PET_SKIN_ROCK_COOL": {
+    "name": "Cool Rock Skin",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "fefcdbb7d95502acc1ae35a32a40ce4dec8f4c9f0da26c9d9fe7c2c3eb748f6"
+  },
+  "PRECURSOR_EYE": {
+    "name": "Precursor Eye",
+    "tier": "LEGENDARY",
+    "category": "armor",
+    "item_id": 397,
+    "texture": "72c0683b2019ca3d3947273e394bfca1b4d71b61b67b39474c2d6d73a9b67508"
+  },
+  "PET_SKIN_ROCK_SMILE": {
+    "name": "Smiling Rock Skin",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "713c8b2916a275db4c1762cf5f13d7b95b91d60baf5164a447d6efa7704cf11b"
+  },
+  "PET_SKIN_ROCK_DERP": {
+    "name": "Derpy Rock Skin",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "c4f89fbd12c209f7f26c1f34a1bd7f47635814759c09688dd212b205c73a8c02"
+  },
+  "PET_SKIN_ROCK_LAUGH": {
+    "name": "Laughing Rock Skin",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "8cc1ef513d5f616675242174acde7b9d6259a47c4fe8f6e4b6e20920319d7073"
+  },
+  "PET_SKIN_ROCK_THINKING": {
+    "name": "Thinking Rock Skin",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "dd2f781f03c365bbc5dd1e7186ab38dc69465e836c9fe066a9a844f34a4da92"
+  },
+  "ROD_OF_THE_SEA": {
+    "name": "Rod of the Sea",
+    "tier": "LEGENDARY",
+    "category": "misc",
+    "item_id": 346
+  },
+  "RAGGEDY_SHARK_TOOTH_NECKLACE": {
+    "name": "Raggedy Shark Tooth Necklace",
+    "tier": "COMMON",
+    "category": "accessories",
+    "item_id": 397,
+    "texture": "d77309ddebbdc278ee2772d92fa4905dd850c5f213a77ffaed5a67eecb23984a"
+  },
+  "RAZOR_SHARP_SHARK_TOOTH_NECKLACE": {
+    "name": "Razor-sharp Shark Tooth Necklace",
+    "tier": "LEGENDARY",
+    "category": "accessories",
+    "item_id": 397,
+    "texture": "7792676664ac711488641f72b25961835613da9ffd43ea3bdd163cb365343a6"
+  },
+  "SHADOW_ASSASSIN_BOOTS": {
+    "name": "Shadow Assassin Boots ✪✪✪",
+    "tier": "EPIC",
+    "category": "armor",
+    "item_id": 301
+  },
+  "SADAN_BROOCH": {
+    "name": "Sadan's Brooch",
+    "tier": "EPIC",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "cc8b47a1a8f10d2958365e17af72ea2e2e9220fefb3d80d8f36116af71eb4ae7"
+  },
+  "SHADOW_ASSASSIN_CHESTPLATE": {
+    "name": "Shadow Assassin Chestplate",
+    "tier": "EPIC",
+    "category": "armor",
+    "item_id": 299
+  },
+  "SHADOW_FURY": {
+    "name": "Shadow Fury",
+    "tier": "LEGENDARY",
+    "category": "weapon",
+    "item_id": 276
+  },
+  "SHADOW_ASSASSIN_HELMET": {
+    "name": "Shadow Assassin Helmet",
+    "tier": "EPIC",
+    "category": "armor",
+    "item_id": 397,
+    "texture": "9b8af52ef2f72c3bf5ece6e70a82f1371959ce3fcb736c500305caddc505c5e2"
+  },
+  "SHADOW_ASSASSIN_LEGGINGS": {
+    "name": "Shadow Assassin Leggings ✪",
+    "tier": "EPIC",
+    "category": "armor",
+    "item_id": 300
+  },
+  "SCARF_FRAGMENT": {
+    "name": "Scarf Fragment",
+    "tier": "RARE",
+    "category": "blocks",
+    "item_id": 38
+  },
+  "SHARK_SCALE_CHESTPLATE": {
+    "name": "Shark Scale Chestplate",
+    "tier": "LEGENDARY",
+    "category": "armor",
+    "item_id": 299
+  },
+  "SHARK_SCALE_BOOTS": {
+    "name": "Shark Scale Boots",
+    "tier": "LEGENDARY",
+    "category": "armor",
+    "item_id": 301
+  },
+  "SHARK_SCALE_HELMET": {
+    "name": "Shark Scale Helmet",
+    "tier": "LEGENDARY",
+    "category": "armor",
+    "item_id": 397,
+    "texture": "390116da514a73ddd9295491852adc588007f2acd7de269788a2128d8e4a764b"
+  },
+  "SHARK_SCALE_LEGGINGS": {
+    "name": "Shark Scale Leggings",
+    "tier": "LEGENDARY",
+    "category": "armor",
+    "item_id": 300
+  },
+  "SHARP_SHARK_TOOTH_NECKLACE": {
+    "name": "Sharp Shark Tooth Necklace",
+    "tier": "EPIC",
+    "category": "accessories",
+    "item_id": 397,
+    "texture": "228e3fb6bd9887d60434ccd279ec3e59227826c9a2f8dd9ce9899ea6683d4ee8"
+  },
+  "SKELETON_MASTER_CHESTPLATE": {
+    "name": "Skeleton Master Chestplate",
+    "tier": "EPIC",
+    "category": "armor",
+    "item_id": 299
+  },
+  "SKELETOR_BOOTS": {
+    "name": "Skeletor Boots",
+    "tier": "EPIC",
+    "category": "armor",
+    "item_id": 305
+  },
+  "STARRED_SHADOW_ASSASSIN_LEGGINGS": {
+    "name": "⚚ Shadow Assassin Leggings",
+    "tier": "MYTHIC",
+    "category": "armor",
+    "item_id": 300
+  },
+  "SNIPER_HELMET": {
+    "name": "Sniper Helmet",
+    "tier": "RARE",
+    "category": "armor",
+    "item_id": 397,
+    "texture": "b18c071f080dba50a62a6263ff724edc157ce4fb4883cceff2491d5bbde830c1"
+  },
+  "SUMMONING_RING": {
+    "name": "Summoning Ring",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "177c9c638bf3dcda348edea44e9a3db4abc1e239558661611f80c110472ad"
+  },
+  "STARRED_STONE_BLADE": {
+    "name": "⚚ Adaptive Blade",
+    "tier": "EPIC",
+    "category": "weapon",
+    "item_id": 272
+  },
+  "SUPERIOR_BABY": {
+    "name": "Baby Skin",
+    "tier": "EPIC",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "52a770459fa6d65e22aa95679d93a2870aafea70f9f1c6a0f78eb641e92890"
+  },
+  "TALISMAN_ENRICHMENT_CRITICAL_CHANCE": {
+    "name": "Critical Chance Enrichment",
+    "tier": "SPECIAL",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "9e95293acbcd4f55faf5947bfc5135038b275a7ab81087341b9ec6e453e839"
+  },
+  "TALISMAN_ENRICHMENT_WALK_SPEED": {
+    "name": "Speed Enrichment",
+    "tier": "SPECIAL",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "cbfb41f866e7e8e593659986c9d6e88cd37677b3f7bd44253e5871e66d1d424"
+  },
+  "TALISMAN_ENRICHMENT_HEALTH": {
+    "name": "Health Enrichment",
+    "tier": "SPECIAL",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "faff2eb498e5c6a04484f0c9f785b448479ab213df95ec91176a308a12add70"
+  },
+  "TALISMAN_ENRICHMENT_CRITICAL_DAMAGE": {
+    "name": "Critical Damage Enrichment",
+    "tier": "SPECIAL",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "163bcaf6d2679d8d7d9bf6a474a48a77a8e91747a1084c09256ebc86cb74811"
   }
 }
