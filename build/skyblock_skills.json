@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1602932884753,
-  "version": "0.9.82",
+  "lastUpdated": 1602992284751,
+  "version": "0.9.83",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -2262,7 +2262,7 @@
           "level": 4,
           "totalExpRequired": 675,
           "unlocks": [
-            "Frozen Steve Sea Creature",
+            "??? Sea Creature",
             "Treasure Hunter IV   Increases the chance to find treasure when fishing by 0.6➜0.8%.",
             "+2 HP ❤ Health",
             "+200 Coins"
@@ -2272,7 +2272,7 @@
           "level": 5,
           "totalExpRequired": 1175,
           "unlocks": [
-            "Sea Guardian Sea Creature",
+            "??? Sea Creature",
             "Treasure Hunter V   Increases the chance to find treasure when fishing by 0.8➜1%.",
             "+2 HP ❤ Health",
             "+300 Coins"
