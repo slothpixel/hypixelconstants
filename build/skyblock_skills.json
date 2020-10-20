@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1603143484761,
-  "version": "0.9.88",
+  "lastUpdated": 1603230959052,
+  "version": "0.9.92",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -513,6 +513,7 @@
             "+1 ❈ Defense",
             "Access to Deep Caverns",
             "Lapis Crystal Reforge",
+            "Moil Log Reforge",
             "+300 Coins"
           ]
         },
@@ -561,6 +562,7 @@
             "Spelunker X   36➜40% chance to get double ores.",
             "+1 ❈ Defense",
             "Molten Cube Reforge",
+            "Dirt Bottle Reforge",
             "+800 Coins"
           ]
         },
@@ -712,6 +714,9 @@
             "Midas Jewel Reforge",
             "Giant Tooth Reforge",
             "Sadan's Brooch Reforge",
+            "Blessed Fruit Reforge",
+            "Refined Amber Reforge",
+            "Toil Log Reforge",
             "+3,000 Coins"
           ]
         },
@@ -2349,8 +2354,8 @@
           "level": 13,
           "totalExpRequired": 32425,
           "unlocks": [
-            "Grinch Sea Creature",
-            "Catfish Sea Creature",
+            "??? Sea Creature",
+            "??? Sea Creature",
             "Treasure Hunter XIII   Increases the chance to find treasure when fishing by 2.4➜2.6%.",
             "+2 HP ❤ Health",
             "+1,100 Coins"
@@ -2369,7 +2374,7 @@
           "level": 15,
           "totalExpRequired": 67425,
           "unlocks": [
-            "Carrot King Sea Creature",
+            "??? Sea Creature",
             "Treasure Hunter XV   Increases the chance to find treasure when fishing by 2.8➜3%.",
             "+3 HP ❤ Health",
             "+1,300 Coins"
@@ -2379,7 +2384,7 @@
           "level": 16,
           "totalExpRequired": 97425,
           "unlocks": [
-            "Sea Leech Sea Creature",
+            "??? Sea Creature",
             "Treasure Hunter XVI   Increases the chance to find treasure when fishing by 3➜3.2%.",
             "+3 HP ❤ Health",
             "+1,400 Coins"
