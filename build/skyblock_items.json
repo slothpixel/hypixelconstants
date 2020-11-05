@@ -6751,7 +6751,8 @@
     "tier": "EPIC",
     "category": "misc",
     "item_id": 397,
-    "texture": "660003a714f20b9a001710884f2b3063d2ba4ecfa8f5fcc634b9211c38b8359"
+    "texture": "660003a714f20b9a001710884f2b3063d2ba4ecfa8f5fcc634b9211c38b8359",
+    "bazaar": true
   },
   "SPOOKY_HELMET": {
     "name": "Spooky Helmet",
@@ -9912,5 +9913,490 @@
     "category": "misc",
     "item_id": 397,
     "texture": "163bcaf6d2679d8d7d9bf6a474a48a77a8e91747a1084c09256ebc86cb74811"
+  },
+  "BAT_PERSON_TALISMAN": {
+    "name": "Bat Person Talisman",
+    "tier": "COMMON",
+    "category": "accessories",
+    "item_id": 397,
+    "texture": "b841a49b199a59c431bf3fc3783f6b6545ce78c38042617f66ebd87cdd548e8c"
+  },
+  "BUILDERS_WAND": {
+    "name": "Builder's Wand",
+    "tier": "LEGENDARY",
+    "category": "misc",
+    "item_id": 369
+  },
+  "BAT_PERSON_RING": {
+    "name": "Bat Person Ring",
+    "tier": "UNCOMMON",
+    "category": "accessories",
+    "item_id": 397,
+    "texture": "b4451ecf2584a36de4297031c6d852977d3e249e85a3f0add967fcd7d6bde953"
+  },
+  "BAT_PERSON_ARTIFACT": {
+    "name": "Bat Person Artifact",
+    "tier": "RARE",
+    "category": "accessories",
+    "item_id": 397,
+    "texture": "c4444c3982720b30938f504c4374232b11a4f6f56cd57c973d8abb07fd0dcff7"
+  },
+  "ACACIA_FENCE_GATE": {
+    "name": "Acacia Fence Gate",
+    "tier": "COMMON",
+    "category": "blocks",
+    "item_id": 187
+  },
+  "BLESSED_FRUIT": {
+    "name": "Blessed Fruit",
+    "tier": "EPIC",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "d01930cdb6d797da1b31e41dbdb36b34ce9728ffa3f8c1e39728a10b37196b47"
+  },
+  "BITS_TALISMAN": {
+    "name": "Bits Talisman",
+    "tier": "RARE",
+    "category": "accessories",
+    "item_id": 397,
+    "texture": "2ebadb1725aa85bb2810d0b73bf7cd74db3d9d8fc61c4cf9e543dbcc199187cc"
+  },
+  "BUILDER_BEETROOT": {
+    "name": "Beetroot",
+    "tier": "COMMON",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "18f36ea228c4fd9afed5add6d0526de71b7ac0559eabfc2f60de6c4aa733f5"
+  },
+  "BUILDER_BERRY": {
+    "name": "Berry",
+    "tier": "COMMON",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "523555b0fd7df59172e92d896e67ad3d8ed14504983de65dff835ed110416a0f"
+  },
+  "BUILDER_LILAC_FRUIT": {
+    "name": "Lilac Fruit",
+    "tier": "COMMON",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "e356f7e7df6cd9b450db4b7ba2294b93cb6f1871d15a40d60e7f14ec6899cf76"
+  },
+  "CANDY_CORN": {
+    "name": "Candy Corn",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "fd86767d4f1ca2868b675696c72178cd74c4eb6c28f3c7afc82edd090ca2ca46"
+  },
+  "BUILDER_PINK_BERRY": {
+    "name": "Pink Berry",
+    "tier": "COMMON",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "778308fe4dda1bb8a96f5b226b32542f49fd65bc55b44bbc31343eb400cf5e2"
+  },
+  "CAKE_SOUL": {
+    "name": "[YOUTUBE] TimeDeo",
+    "tier": "MYTHIC",
+    "category": "misc",
+    "item_id": 351,
+    "damage": 2
+  },
+  "CANDY_THE_FISH": {
+    "name": "Candy the Fish",
+    "tier": "SPECIAL",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "75ba393b926ee69a14d4d853b25d285a868b16c56c919d2b824413e6566d4e55"
+  },
+  "CRYPT_DREADLORD_SWORD": {
+    "name": "Dreadlord Sword",
+    "tier": "RARE",
+    "category": "weapon",
+    "item_id": 267
+  },
+  "BUILDER_LETTUCE": {
+    "name": "Lettuce",
+    "tier": "COMMON",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "9979fe7b32fb7fc9746e157471f975f31afcb58fd8b5acb8bf53ec350f4d5c2"
+  },
+  "BUILDER_BLUE_CORN": {
+    "name": "Blue Corn",
+    "tier": "COMMON",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "fd541581b0d24b1b5ab1dad4f51e383d03b9b0bcb4cf86f1345145468efd1c5a"
+  },
+  "CANDY_RELIC": {
+    "name": "Candy Relic",
+    "tier": "LEGENDARY",
+    "category": "accessories",
+    "item_id": 397,
+    "texture": "39668767f1141835e2c49ad2b415598f1b166be9173902a0257e77704f913e1f"
+  },
+  "DIRT_BOTTLE": {
+    "name": "Dirt Bottle",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "203239f70a3c25358b22a29be1bfd1b985ee95f286348b4e0f22f347409825b8"
+  },
+  "ECHOLOCATOR": {
+    "name": "Echolocator",
+    "tier": "UNCOMMON",
+    "category": "misc",
+    "item_id": 345
+  },
+  "DEEP_SEA_ORB": {
+    "name": "Deep Sea Orb",
+    "tier": "EPIC",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "5113ee610841ded215acd2b4caaeef87dfd6e3d4768e7ab4e19eb76b3d8121cf"
+  },
+  "ECTOPLASM": {
+    "name": "Ectoplasm",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 410,
+    "bazaar": true
+  },
+  "ENCHANTED_BOOK_BUNDLE_VICIOUS": {
+    "name": "Enchanted Book Bundle",
+    "tier": "UNCOMMON",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "7261bf5c7ffa254c1828448032115e5cc154436dec0998c4d7abd996ae1d927"
+  },
+  "EPOCH_CAKE_BLACK": {
+    "name": "Century Cake of the Next Dungeon Floor",
+    "tier": "UNCOMMON",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "64592746cc35672ee29bb3a153d74f7a5d0e5fe8612729a34fad252fe7904283"
+  },
+  "EPOCH_CAKE_BLUE": {
+    "name": "Sea Emperor Century Cake",
+    "tier": "UNCOMMON",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "e12a28e69da5e43ce8fdecc6a823c92fff84719e0147caac71c5c8d99da5781c"
+  },
+  "ENCHANTED_BOOK_BUNDLE_BIG_BRAIN": {
+    "name": "Enchanted Book Bundle",
+    "tier": "UNCOMMON",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "e5be22b5d4a875d77df3f7710ff4578ef27939a9684cbdb3d31d973f166849"
+  },
+  "EPOCH_CAKE_GREEN": {
+    "name": "Pet Rock Century Cake",
+    "tier": "UNCOMMON",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "ba7bfa80a85e707eedf945b88905942f5f7795ea5264d692a22e707fc577a88b"
+  },
+  "EPOCH_CAKE_ORANGE": {
+    "name": "Latest Update Century Cake",
+    "tier": "UNCOMMON",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "f58cd2750884471c0836343343ec6e188229da054ef3671013ae8d43d6b02548"
+  },
+  "EPOCH_CAKE_PINK": {
+    "name": "Crab-Colored Century Cake",
+    "tier": "UNCOMMON",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "c9c28da01e012880eacc3ab1d34d9145357d2e2d46d42aa3b59edb91b1f7bd6d"
+  },
+  "EPOCH_CAKE_AQUA": {
+    "name": "Barry Century Cake",
+    "tier": "UNCOMMON",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "7f50aa3e7229247aa598249c83aec462ab1654865e201e6925f55f5dd3643eca"
+  },
+  "EPOCH_CAKE_PURPLE": {
+    "name": "Streamer's Century Cake",
+    "tier": "EPIC",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "25d9243c61e2c3e1e0f9931843cadbd0dff4a646225ef54c557979cf39bb2057"
+  },
+  "EPOCH_CAKE_RED": {
+    "name": "aPunch Century Cake",
+    "tier": "UNCOMMON",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "a409bd9607f4c1d694f6253c8b671d092f8b16ca7f66ebfd67ef9d864024774b"
+  },
+  "EPOCH_CAKE_YELLOW": {
+    "name": "Potato-Style Century Cake",
+    "tier": "UNCOMMON",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "e25588999b674b399a1980a25d9ca323639d033e3f85040c1de7ffb428bca095"
+  },
+  "GHOUL_BUSTER": {
+    "name": "Ghoul Buster",
+    "tier": "EPIC",
+    "category": "weapon",
+    "item_id": 292
+  },
+  "ETERNAL_HOOF": {
+    "name": "Eternal Hoof",
+    "tier": "RARE",
+    "category": "accessories",
+    "item_id": 418
+  },
+  "HEGEMONY_ARTIFACT": {
+    "name": "Hegemony Artifact",
+    "tier": "LEGENDARY",
+    "category": "accessories",
+    "item_id": 397,
+    "texture": "313384a293cfbba3489b483ebc1de7584ca2726d7f5c3a620513474925e87b97"
+  },
+  "GRIFFIN_UPGRADE_STONE_LEGENDARY": {
+    "name": "Griffin Upgrade Stone",
+    "tier": "LEGENDARY",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "8e13952025a2324a666f7edf65358325ac63baa379902e390fc27201463193e7"
+  },
+  "HOLY_BABY": {
+    "name": "Baby Skin",
+    "tier": "EPIC",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "1266946f84b27796a1c7b1b6068efb77481b8ad8ba4fc1eef35cc975e06afb42"
+  },
+  "LUCKY_HOOF": {
+    "name": "Lucky Hoof",
+    "tier": "UNCOMMON",
+    "category": "accessories",
+    "item_id": 417
+  },
+  "MOIL_LOG": {
+    "name": "Moil Log",
+    "tier": "UNCOMMON",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "82d1a7efe5d9fafce47e1d8986bb6ef5ce64695f067f8ac9dfbc23b5fb572"
+  },
+  "MIDAS_STAFF": {
+    "name": "Midas Staff",
+    "tier": "LEGENDARY",
+    "category": "weapon",
+    "item_id": 284
+  },
+  "OLD_BABY": {
+    "name": "Baby Skin",
+    "tier": "EPIC",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "2eaf836b7183554269647827289c67a3855e8d0b345719328188defdbd05a64b"
+  },
+  "PHANTOM_ROD": {
+    "name": "Phantom Rod",
+    "tier": "LEGENDARY",
+    "category": "misc",
+    "item_id": 346
+  },
+  "PET_ITEM_VAMPIRE_FANG": {
+    "name": "Vampire Fang",
+    "tier": "LEGENDARY",
+    "category": "misc",
+    "item_id": 370
+  },
+  "REFINED_AMBER": {
+    "name": "Refined Amber",
+    "tier": "EPIC",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "be775ff1daa46b7c2beab563129d34644c5d5f9186bb13c516a5e05f0cd4e451"
+  },
+  "PLASMAFLUX_POWER_ORB": {
+    "name": "Plasmaflux Power Orb",
+    "tier": "LEGENDARY",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "83ed4ce23933e66e04df16070644f7599eeb55307f7eafe8d92f40fb3520863c"
+  },
+  "PLASMA_NUCLEUS": {
+    "name": "Plasma Nucleus",
+    "tier": "LEGENDARY",
+    "category": "misc",
+    "item_id": 351,
+    "damage": 5
+  },
+  "PET_ITEM_SPOOKY_CUPCAKE": {
+    "name": "Spooky Cupcake",
+    "tier": "UNCOMMON",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "497ad99d53aacce6b7a84d874e67b8c56fadedfdf6a2565c7626cefbfc30c351"
+  },
+  "PUMPKIN_BOMB": {
+    "name": "Blast o' Lantern",
+    "tier": "RARE",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "68f2ffc6fb4e9959b9a7a317f51a6775a159ddc2241dbd6c774d3ac08b6"
+  },
+  "PROTECTOR_BABY": {
+    "name": "Baby Skin",
+    "tier": "EPIC",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "979c9144496d21f3334b32437deeb63379766399d0a92bc06712ba592bc237e6"
+  },
+  "ROCK_CANDY": {
+    "name": "Rock Candy",
+    "tier": "EPIC",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "2b21617d2755bc20f8f7e388f49e48582745fec16bb14c776f7118f98c55e8"
+  },
+  "PET_SKIN_TIGER_TWILIGHT": {
+    "name": "Twilight Tiger Skin",
+    "tier": "MYTHIC",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "896211dc599368dbd9056c0116ab61063991db793be93066a858eb4e9ce56438"
+  },
+  "PUMPKIN_LAUNCHER": {
+    "name": "Pumpkin Launcher",
+    "tier": "EPIC",
+    "category": "blocks",
+    "item_id": 86
+  },
+  "SOUL_WHIP": {
+    "name": "Soul Whip",
+    "tier": "LEGENDARY",
+    "category": "weapon",
+    "item_id": 346
+  },
+  "STARRED_SHADOW_ASSASSIN_BOOTS": {
+    "name": "⚚ Shadow Assassin Boots",
+    "tier": "MYTHIC",
+    "category": "armor",
+    "item_id": 301
+  },
+  "STARRED_BONZO_MASK": {
+    "name": "⚚ Bonzo's Mask ✪✪",
+    "tier": "RARE",
+    "category": "armor",
+    "item_id": 397,
+    "texture": "12716ecbf5b8da00b05f316ec6af61e8bd02805b21eb8e440151468dc656549c"
+  },
+  "STARRED_BONZO_STAFF": {
+    "name": "⚚ Bonzo's Staff",
+    "tier": "RARE",
+    "category": "weapon",
+    "item_id": 369
+  },
+  "STARRED_SHADOW_ASSASSIN_HELMET": {
+    "name": "⚚ Shadow Assassin Helmet ✪",
+    "tier": "MYTHIC",
+    "category": "armor",
+    "item_id": 397,
+    "texture": "9b8af52ef2f72c3bf5ece6e70a82f1371959ce3fcb736c500305caddc505c5e2"
+  },
+  "STARRED_SHADOW_FURY": {
+    "name": "⚚ Shadow Fury ✪✪",
+    "tier": "MYTHIC",
+    "category": "weapon",
+    "item_id": 276
+  },
+  "STRONG_BABY": {
+    "name": "Baby Skin",
+    "tier": "EPIC",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "aec10b0dceb5bb34af2cb953733f01f20bb3aafd5f21fe0eadf1cc4ce7f4dab4"
+  },
+  "UNSTABLE_BABY": {
+    "name": "Baby Skin",
+    "tier": "EPIC",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "42a023636a7f0300a74cc50d3e4dbb81a7bc1485f0daf6e9a7c0f4d8a2e3a18f"
+  },
+  "TARANTULA_BLACK_WIDOW": {
+    "name": "Black Widow Skin",
+    "tier": "LEGENDARY",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "b2b6732eaa9788458468f5976943986464974af35feafb4fcad05a7a308c2a67"
+  },
+  "SWORD_OF_REVELATIONS": {
+    "name": "Sword of Revelations",
+    "tier": "EPIC",
+    "category": "weapon",
+    "item_id": 268
+  },
+  "TOIL_LOG": {
+    "name": "Toil Log",
+    "tier": "EPIC",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "78872537b6ce574659dc176a1d8dfe9c1e599f6f141c1822628347dd538b9e2"
+  },
+  "VAMPIRE_WITCH_MASK": {
+    "name": "Vampire Witch Mask",
+    "tier": "EPIC",
+    "category": "armor",
+    "item_id": 397,
+    "texture": "2348e5b4b3d2c1dec023fbf406216f1239658906ef4c2fbf1c53906e243e66"
+  },
+  "WEREWOLF_HELMET": {
+    "name": "Werewolf Helmet",
+    "tier": "LEGENDARY",
+    "category": "armor",
+    "item_id": 397,
+    "texture": "ce4606c6d973a999aec1687c7e075f7d37db8185e88b844507f16b3e2b3eb690"
+  },
+  "WISE_BABY": {
+    "name": "Baby Skin",
+    "tier": "EPIC",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "94c6834c8bf0b81f92cf0da4bd99ad764154d5368a38e03c85adda10e518890a"
+  },
+  "WEREWOLF_CHESTPLATE": {
+    "name": "Werewolf Chestplate",
+    "tier": "LEGENDARY",
+    "category": "armor",
+    "item_id": 299
+  },
+  "WEREWOLF_BOOTS": {
+    "name": "Werewolf Boots",
+    "tier": "LEGENDARY",
+    "category": "armor",
+    "item_id": 301
+  },
+  "WEREWOLF_LEGGINGS": {
+    "name": "Werewolf Leggings",
+    "tier": "LEGENDARY",
+    "category": "armor",
+    "item_id": 300
+  },
+  "WITCH_MASK": {
+    "name": "Witch Mask",
+    "tier": "RARE",
+    "category": "armor",
+    "item_id": 397,
+    "texture": "83bee9f9b75ff75197e07414ac2db92e216e945d6187722bdb9262879bb6"
+  },
+  "YOUNG_BABY": {
+    "name": "Baby Skin",
+    "tier": "EPIC",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "43503dcaae6a6cde027316a3ce6e203b64327b7de72441865cfd3cdb45d5ef44"
   }
 }
