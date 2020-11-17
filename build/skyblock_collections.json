@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1605579350476,
-  "version": "0.9.162",
+  "lastUpdated": 1605645950684,
+  "version": "0.9.163",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -1761,7 +1761,7 @@
         },
         "REDSTONE": {
           "name": "Redstone",
-          "maxTiers": 14,
+          "maxTiers": 15,
           "tiers": [
             {
               "tier": 1,
@@ -1862,6 +1862,13 @@
               "amountRequired": 1000000,
               "unlocks": [
                 "Colossal Accessory Bag Upgrade"
+              ]
+            },
+            {
+              "tier": 15,
+              "amountRequired": 1200000,
+              "unlocks": [
+                "Titanic Accessory Bag Upgrade"
               ]
             }
           ]
