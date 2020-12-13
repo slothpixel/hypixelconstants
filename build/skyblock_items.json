@@ -6141,5 +6141,281 @@
     "category": "reforge stone",
     "item_id": 397,
     "texture": "be775ff1daa46b7c2beab563129d34644c5d5f9186bb13c516a5e05f0cd4e451"
+  },
+  "SUPER_COMPACTOR_3000": {
+    "name": "Super Compactor 3000",
+    "tier": "rare",
+    "category": "misc",
+    "item_id": 158
+  },
+  "SHARK_BAIT": {
+    "name": "Shark Bait",
+    "tier": "uncommon",
+    "category": "bait",
+    "item_id": 397,
+    "texture": "edff904124efe486b3a54261dbb8072b0a4e11615ad8d7394d814e0e8c8ef9eb"
+  },
+  "WOOD_DOOR": {
+    "name": "Oak Door",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 324
+  },
+  "SNOW_GENERATOR_1": {
+    "name": "Snow Minion I",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "f6d180684c3521c9fc89478ba4405ae9ce497da8124fa0da5a0126431c4b78c3"
+  },
+  "ENCHANTED_BOOKSHELF": {
+    "name": "Enchanted Bookshelf",
+    "tier": "uncommon",
+    "category": "misc",
+    "item_id": 47
+  },
+  "ENDER_BOW": {
+    "name": "Ender Bow",
+    "tier": "rare",
+    "category": "bow",
+    "item_id": 261
+  },
+  "STONE:4": {
+    "name": "Polished Diorite",
+    "tier": "common",
+    "category": "misc",
+    "damage": 4,
+    "item_id": 1
+  },
+  "OBSIDIAN_GENERATOR_5": {
+    "name": "Obsidian Minion V",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "44d4ae42f0d6e82c7ebf9877303f9a84c96ce1978a8ac33681143f4b55a447ce"
+  },
+  "WEDDING_RING_4": {
+    "name": "Modest Ring of Love",
+    "tier": "rare",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "8690c18e2b8780c927fd121d5a36196a53a72c670a89d785deedee3155024b2a"
+  },
+  "GHAST_GENERATOR_4": {
+    "name": "Ghast Minion IV",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "1b0c2e0852f7369ea7d3fe04eb17eff41bb35a1a8a034834369e1e624c79c03"
+  },
+  "WHEAT_GENERATOR_4": {
+    "name": "Wheat Minion IV",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "a8751403935a5c637ff225cddb739c6a960a48256bc88e6ead0a728d70981267"
+  },
+  "SHEEP_GENERATOR_4": {
+    "name": "Sheep Minion IV",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "3bd2c5fe2fe9be577c9034d3abfdbd3e90c697deebf9cd35107786bd4dd0555b"
+  },
+  "WHEAT_GENERATOR_3": {
+    "name": "Wheat Minion III",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "e61773628ed7555e0a63add21166ad34227d10d21e34c3c7e5a0fa8532dd3f6"
+  },
+  "WOOD_STEP:1": {
+    "name": "Spruce Wood Slab",
+    "tier": "common",
+    "category": "misc",
+    "damage": 1,
+    "item_id": 126
+  },
+  "COBBLESTONE_STAIRS": {
+    "name": "Cobblestone Stairs",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 67
+  },
+  "GOLDOR_THE_FISH": {
+    "name": "Goldor the Fish",
+    "tier": "special",
+    "category": "dungeon item",
+    "item_id": 397,
+    "texture": "3e4f49535a276aacc4dc84133bfe81be5f2a4799a4c04d9a4ddb72d819ec2b2b"
+  },
+  "WISE_DRAGON_CHESTPLATE": {
+    "name": "Wise Dragon Chestplate",
+    "tier": "legendary",
+    "category": "chestplate",
+    "item_id": 299
+  },
+  "DRAGON_HORN": {
+    "name": "Dragon Horn",
+    "tier": "epic",
+    "category": "reforge stone",
+    "item_id": 397,
+    "texture": "8744c81099c1aebf20f677faed24cace520a294cf46bdeb6a257f436a323a1d8"
+  },
+  "PROTECTOR_DRAGON_BOOTS": {
+    "name": "Protector Dragon Boots",
+    "tier": "legendary",
+    "category": "boots",
+    "item_id": 301
+  },
+  "WOOL:1": {
+    "name": "Orange Wool",
+    "tier": "common",
+    "category": "misc",
+    "damage": 1,
+    "item_id": 35
+  },
+  "WOOL:4": {
+    "name": "Yellow Wool",
+    "tier": "common",
+    "category": "misc",
+    "damage": 4,
+    "item_id": 35
+  },
+  "WOOL:5": {
+    "name": "Lime Wool",
+    "tier": "common",
+    "category": "misc",
+    "damage": 5,
+    "item_id": 35
+  },
+  "WOOL:3": {
+    "name": "Light Blue Wool",
+    "tier": "common",
+    "category": "misc",
+    "damage": 3,
+    "item_id": 35
+  },
+  "WOOL:11": {
+    "name": "Blue Wool",
+    "tier": "common",
+    "category": "misc",
+    "damage": 11,
+    "item_id": 35
+  },
+  "WOOL:2": {
+    "name": "Magenta Wool",
+    "tier": "common",
+    "category": "misc",
+    "damage": 2,
+    "item_id": 35
+  },
+  "ENCHANTED_BROWN_MUSHROOM": {
+    "name": "Enchanted Brown Mushroom",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 39
+  },
+  "ENCHANTED_RED_MUSHROOM": {
+    "name": "Enchanted Red Mushroom",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 40
+  },
+  "ICE_CREAM_PERSONALITY": {
+    "name": "Ice Cream Minion Skin",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "828f490388ec7f54bc9755b4c1db0e908f40829aa5268c66cca6e6fabcbcf693"
+  },
+  "SANDCASTLE_PERSONALITY": {
+    "name": "Sandcastle Minion Skin",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "8098a4798d9a8ac5a1077c286c85dce98cbc524b86c003500cf0a04f9ddfa5"
+  },
+  "MELON_PERSONALITY": {
+    "name": "Melon Minion Skin",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "195914f510f28a9368c25a1260ade779e04d5b0d3986b8279a2d1dabfb0fb841"
+  },
+  "PICNIC_SET": {
+    "name": "Picnic Set",
+    "tier": "rare",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "a6182b4d13a20338c8231a998a7714db755c964d168ed4c8f79d8254fffa06ab"
+  },
+  "BEACH_CHAIR_PLUS": {
+    "name": "Beach Chair+",
+    "tier": "rare",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "711eea9e2530acc7794c856438f18af66e80670a188cd52c4d178fddaa33a5f6"
+  },
+  "SUN_PERSONALITY": {
+    "name": "Sun Minion Skin",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "73a37c586e85614daebbd8cd4ebc53a0c3acea6366dd04ce4823c7e7255bd475"
+  },
+  "RED_TENT": {
+    "name": "Red Tent",
+    "tier": "rare",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "5cbe4a5e727cf3f268d1517b320ff0454adc078ee87a1cf5ec4742cd0247677e"
+  },
+  "COLD_ONES": {
+    "name": "Cola Cooler",
+    "tier": "rare",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "4524ddfe598f00d643c84fbdc25a91e6a15c2e5b0cf87f32ed4840d49ebc388b"
+  },
+  "LIFE_PRESERVER": {
+    "name": "Life Preserver",
+    "tier": "rare",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "3d4028c011d63633d2ec04a941672948bf011d1d7a4f145f8ce69c7172d3"
+  },
+  "BBQ": {
+    "name": "BBQ Grill",
+    "tier": "rare",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "318e35ec4b4b4c1591c5177386de18797454298b7455982e3ae83bacced0f1a2"
+  },
+  "HERMIT_CRAB_PERSONALITY": {
+    "name": "Hermit Crab Minion Skin",
+    "tier": "common",
+    "category": "cosmetic",
+    "item_id": 397,
+    "texture": "529dd69dc6d5c9f10361d35fea50165b0abcfab0230d588eb9d6e2a68d8c30d3"
+  },
+  "ANVIL:2": {
+    "name": "Very Damaged Anvil",
+    "tier": "common",
+    "category": "misc",
+    "damage": 2,
+    "item_id": 145
+  },
+  "ENCHANTED_BLAZE_POWDER": {
+    "name": "Enchanted Blaze Powder",
+    "tier": "uncommon",
+    "category": "misc",
+    "item_id": 377
+  },
+  "NECRON_HANDLE": {
+    "name": "Necron's Handle",
+    "tier": "epic",
+    "category": "dungeon item",
+    "item_id": 280
   }
 }
