@@ -1026,8 +1026,8 @@
   },
   "CRYSTALLIZED_HEART": {
     "name": "Crystallized Heart",
-    "tier": "RARE",
-    "category": "armor",
+    "tier": "rare",
+    "category": "helmet",
     "item_id": 397,
     "texture": "87dfb7c1ee4de31f54931eac5c657c145e4fa7fa09e3f52b1788a682b65ac75"
   },
@@ -1046,8 +1046,8 @@
   },
   "CRYSTAL_CHESTPLATE": {
     "name": "Crystal Chestplate",
-    "tier": "EPIC",
-    "category": "armor",
+    "tier": "epic",
+    "category": "chestplate",
     "item_id": 299
   },
   "DANGER_1_PORTAL": {
@@ -1059,8 +1059,8 @@
   },
   "CRYSTAL_BOOTS": {
     "name": "Crystal Boots",
-    "tier": "EPIC",
-    "category": "armor",
+    "tier": "epic",
+    "category": "boots",
     "item_id": 301
   },
   "DANGER_1_TRAVEL_SCROLL": {
@@ -1104,8 +1104,8 @@
   },
   "DARK_OAK_FENCE": {
     "name": "Dark Oak Fence",
-    "tier": "COMMON",
-    "category": "blocks",
+    "tier": "common",
+    "category": "misc",
     "item_id": 191
   },
   "DARK_OAK_STAIRS": {
@@ -1122,14 +1122,14 @@
   },
   "CRYSTAL_HELMET": {
     "name": "Crystal Helmet",
-    "tier": "EPIC",
-    "category": "armor",
+    "tier": "epic",
+    "category": "helmet",
     "item_id": 298
   },
   "CRYSTAL_LEGGINGS": {
     "name": "Crystal Leggings",
-    "tier": "EPIC",
-    "category": "armor",
+    "tier": "epic",
+    "category": "leggings",
     "item_id": 300
   },
   "DEAD_BUSH_OF_LOVE": {
@@ -1475,7 +1475,7 @@
   },
   "EGG_PILE": {
     "name": "Egg Pile",
-    "tier": "RARE",
+    "tier": "rare",
     "category": "misc",
     "item_id": 397,
     "texture": "eeb335182db5f3be80fccf6eabe599f4107d4ff0e9f44f34174cefa6e2b5768"
@@ -1614,8 +1614,8 @@
   },
   "EMERALD_BLADE": {
     "name": "Emerald Blade",
-    "tier": "EPIC",
-    "category": "weapon",
+    "tier": "epic",
+    "category": "sword",
     "item_id": 388
   },
   "EMBER_CHESTPLATE": {
@@ -1639,8 +1639,8 @@
   },
   "ENCHANTED_BOOKSHELF": {
     "name": "Enchanted Bookshelf",
-    "tier": "UNCOMMON",
-    "category": "blocks",
+    "tier": "uncommon",
+    "category": "misc",
     "item_id": 47
   },
   "ENCHANTED_BROWN_MUSHROOM": {
@@ -2489,7 +2489,7 @@
   },
   "FARMING_1_PORTAL": {
     "name": "Portal to the Barn",
-    "tier": "COMMON",
+    "tier": "common",
     "category": "misc",
     "item_id": 397,
     "texture": "4d3a6bd98ac1833c664c4909ff8d2dc62ce887bdcf3cc5b3848651ae5af6b"
@@ -2502,7 +2502,7 @@
   },
   "FARMING_2_PORTAL": {
     "name": "Portal to Mushroom Island",
-    "tier": "COMMON",
+    "tier": "common",
     "category": "misc",
     "item_id": 397,
     "texture": "2116b9d8df346a25edd05f842e7a9345beaf16dca4118abf5a68c75bcaae10"
@@ -2522,7 +2522,7 @@
   "FANCY_SWORD": {
     "name": "Fancy Sword",
     "tier": "common",
-    "category": "меч",
+    "category": "sword",
     "item_id": 283
   },
   "END_HELMET": {
@@ -2584,8 +2584,8 @@
   },
   "FEATHER_ARTIFACT": {
     "name": "Feather Artifact",
-    "tier": "RARE",
-    "category": "accessories",
+    "tier": "rare",
+    "category": "accessory",
     "item_id": 397,
     "texture": "6164cc76081599a20a6896a3818322a0cdc08069ff960bbd79ff54fc45e35ee6"
   },
@@ -2757,7 +2757,7 @@
   },
   "FORAGING_3_PORTAL": {
     "name": "Portal to Jungle Island",
-    "tier": "COMMON",
+    "tier": "common",
     "category": "misc",
     "item_id": 397,
     "texture": "1cefc19380683015e47c666e5926b15ee57ab33192f6a7e429244cdffcc262"
@@ -2981,8 +2981,8 @@
   },
   "GOLD_BOOTS": {
     "name": "Golden Boots",
-    "tier": "COMMON",
-    "category": "armor",
+    "tier": "common",
+    "category": "boots",
     "item_id": 317
   },
   "GOLDEN_APPLE:1": {
@@ -3014,8 +3014,8 @@
   },
   "GOLD_HELMET": {
     "name": "Golden Helmet",
-    "tier": "COMMON",
-    "category": "armor",
+    "tier": "common",
+    "category": "helmet",
     "item_id": 314
   },
   "GOLD_HOE": {
@@ -3033,8 +3033,8 @@
   },
   "GOLD_LEGGINGS": {
     "name": "Golden Leggings",
-    "tier": "COMMON",
-    "category": "armor",
+    "tier": "common",
+    "category": "leggings",
     "item_id": 316
   },
   "GOLDEN_POWDER": {
@@ -3175,7 +3175,7 @@
   },
   "GREEN_RECORD": {
     "name": "Music Disc - Cat",
-    "tier": "UNCOMMON",
+    "tier": "uncommon",
     "category": "misc",
     "item_id": 2257
   },
@@ -3390,17 +3390,15 @@
   },
   "HUGE_MUSHROOM_1": {
     "name": "Brown Mushroom Block",
-    "tier": "COMMON",
-    "category": "blocks",
-    "item_id": 99,
-    "bazaar": true
+    "tier": "common",
+    "category": "misc",
+    "item_id": 99
   },
   "HUGE_MUSHROOM_2": {
     "name": "Red Mushroom Block",
-    "tier": "COMMON",
-    "category": "blocks",
-    "item_id": 100,
-    "bazaar": true
+    "tier": "common",
+    "category": "misc",
+    "item_id": 100
   },
   "HUB_CASTLE_TRAVEL_SCROLL": {
     "name": "Travel Scroll to Hub Castle",
@@ -3450,7 +3448,7 @@
   },
   "HUB_PORTAL": {
     "name": "Portal to the Hub",
-    "tier": "COMMON",
+    "tier": "common",
     "category": "misc",
     "item_id": 397,
     "texture": "b513543a77118f8201f49b7c8b632dcfd38037ebfc601a1bc91aedc4caba"
@@ -3553,10 +3551,10 @@
   },
   "INK_SACK:1": {
     "name": "Rose Red",
-    "tier": "COMMON",
+    "tier": "common",
     "category": "misc",
-    "item_id": 351,
-    "damage": 1
+    "damage": 1,
+    "item_id": 351
   },
   "INK_SACK:5": {
     "name": "Purple Dye",
@@ -3641,8 +3639,8 @@
   },
   "IRON_BOOTS": {
     "name": "Iron Boots",
-    "tier": "COMMON",
-    "category": "armor",
+    "tier": "common",
+    "category": "boots",
     "item_id": 309
   },
   "IRON_CHEST": {
@@ -3660,7 +3658,7 @@
   },
   "IRON_DOOR": {
     "name": "Iron Door",
-    "tier": "COMMON",
+    "tier": "common",
     "category": "misc",
     "item_id": 330
   },
@@ -3745,7 +3743,7 @@
   },
   "ITEM_FRAME": {
     "name": "Item Frame",
-    "tier": "COMMON",
+    "tier": "common",
     "category": "misc",
     "item_id": 389
   },
@@ -3865,8 +3863,8 @@
   },
   "LAPIS_ORE": {
     "name": "Lapis Lazuli Ore",
-    "tier": "UNCOMMON",
-    "category": "blocks",
+    "tier": "uncommon",
+    "category": "misc",
     "item_id": 21
   },
   "LAPIS_BLOCK": {
@@ -3922,14 +3920,14 @@
   },
   "LEAFLET_BOOTS": {
     "name": "Leaflet Sandals",
-    "tier": "COMMON",
-    "category": "armor",
+    "tier": "common",
+    "category": "boots",
     "item_id": 301
   },
   "LEAFLET_HELMET": {
     "name": "Leaflet Hat",
-    "tier": "COMMON",
-    "category": "armor",
+    "tier": "common",
+    "category": "helmet",
     "item_id": 18
   },
   "LEAFLET_CHESTPLATE": {
@@ -3946,8 +3944,8 @@
   },
   "LEAFLET_LEGGINGS": {
     "name": "Leaflet Pants",
-    "tier": "COMMON",
-    "category": "armor",
+    "tier": "common",
+    "category": "leggings",
     "item_id": 300
   },
   "LEASH": {
@@ -3970,8 +3968,8 @@
   },
   "LEATHER_CHESTPLATE": {
     "name": "Leather Chestplate",
-    "tier": "COMMON",
-    "category": "armor",
+    "tier": "common",
+    "category": "chestplate",
     "item_id": 299
   },
   "LEATHER": {
@@ -3982,10 +3980,10 @@
   },
   "LEAVES:1": {
     "name": "Spruce Leaves",
-    "tier": "COMMON",
-    "category": "blocks",
-    "item_id": 18,
-    "damage": 1
+    "tier": "common",
+    "category": "misc",
+    "damage": 1,
+    "item_id": 18
   },
   "LEATHER_LEGGINGS": {
     "name": "Leather Leggings",
@@ -4315,11 +4313,10 @@
   },
   "MINNOW_BAIT": {
     "name": "Minnow Bait",
-    "tier": "COMMON",
-    "category": "misc",
+    "tier": "common",
+    "category": "bait",
     "item_id": 397,
-    "texture": "5f91a14867ef9867872dcdc8c54e3d4cfb5e525dccfb7f99a7314a45faeb301e",
-    "bazaar": true
+    "texture": "5f91a14867ef9867872dcdc8c54e3d4cfb5e525dccfb7f99a7314a45faeb301e"
   },
   "MINE_TALISMAN": {
     "name": "Mine Affinity Talisman",
@@ -4967,8 +4964,8 @@
   },
   "PET_ITEM_EXP_SHARE": {
     "name": "Exp Share",
-    "tier": "EPIC",
-    "category": "blocks",
+    "tier": "epic",
+    "category": "pet item",
     "item_id": 37
   },
   "PET_ITEM_COMBAT_SKILL_BOOST_UNCOMMON": {
@@ -5034,8 +5031,8 @@
   },
   "PET_ITEM_IRON_CLAWS_COMMON": {
     "name": "Iron Claws",
-    "tier": "COMMON",
-    "category": "misc",
+    "tier": "common",
+    "category": "pet item",
     "item_id": 265
   },
   "PET_ITEM_SADDLE": {
@@ -5569,8 +5566,8 @@
   },
   "REDSTONE_ORE": {
     "name": "Redstone Ore",
-    "tier": "UNCOMMON",
-    "category": "blocks",
+    "tier": "uncommon",
+    "category": "misc",
     "item_id": 73
   },
   "REDSTONE_TORCH_ON": {
@@ -5773,8 +5770,8 @@
   },
   "REVIVED_HEART": {
     "name": "Revived Heart",
-    "tier": "EPIC",
-    "category": "armor",
+    "tier": "epic",
+    "category": "helmet",
     "item_id": 397,
     "texture": "4a61b4f8b070e4bc30a86b2290db6e57e2681c44e0250d1906a89adb8fc455b1"
   },
@@ -5799,8 +5796,8 @@
   },
   "ROOKIE_AXE": {
     "name": "Rookie Axe",
-    "tier": "COMMON",
-    "category": "weapon",
+    "tier": "common",
+    "category": "axe",
     "item_id": 275
   },
   "ROOKIE_HOE": {
@@ -6312,8 +6309,8 @@
   },
   "SNOW_SUIT_CHESTPLATE": {
     "name": "Snow Suit Chestplate",
-    "tier": "EPIC",
-    "category": "armor",
+    "tier": "epic",
+    "category": "chestplate",
     "item_id": 299
   },
   "SNOW_SUIT_HELMET": {
@@ -6343,8 +6340,8 @@
   },
   "SNOW_SUIT_BOOTS": {
     "name": "Snow Suit Boots",
-    "tier": "EPIC",
-    "category": "armor",
+    "tier": "epic",
+    "category": "boots",
     "item_id": 301
   },
   "SPEEDSTER_CHESTPLATE": {
@@ -6466,8 +6463,8 @@
   },
   "SPIDER_SWORD": {
     "name": "Spider Sword",
-    "tier": "COMMON",
-    "category": "weapon",
+    "tier": "common",
+    "category": "sword",
     "item_id": 267
   },
   "SPIDER_CATALYST": {
@@ -6743,15 +6740,15 @@
   },
   "STAINED_GLASS:11": {
     "name": "Blue Stained Glass",
-    "tier": "COMMON",
-    "category": "blocks",
-    "item_id": 95,
-    "damage": 11
+    "tier": "common",
+    "category": "misc",
+    "damage": 11,
+    "item_id": 95
   },
   "STAINED_GLASS": {
     "name": "White Stained Glass",
-    "tier": "COMMON",
-    "category": "blocks",
+    "tier": "common",
+    "category": "misc",
     "item_id": 95
   },
   "STAINED_GLASS:13": {
@@ -6888,10 +6885,10 @@
   },
   "STAINED_GLASS_PANE:14": {
     "name": "Red Stained Glass Pane",
-    "tier": "COMMON",
-    "category": "blocks",
-    "item_id": 160,
-    "damage": 14
+    "tier": "common",
+    "category": "misc",
+    "damage": 14,
+    "item_id": 160
   },
   "STAINED_GLASS_PANE:3": {
     "name": "Light Blue Stained Glass Pane",
@@ -7053,8 +7050,8 @@
   },
   "STONE_AXE": {
     "name": "Stone Axe",
-    "tier": "COMMON",
-    "category": "weapon",
+    "tier": "common",
+    "category": "axe",
     "item_id": 275
   },
   "STONE_BUTTON": {
@@ -7679,11 +7676,10 @@
   },
   "WISE_FRAGMENT": {
     "name": "Wise Dragon Fragment",
-    "tier": "EPIC",
+    "tier": "epic",
     "category": "misc",
     "item_id": 397,
-    "texture": "1d7620b2e4934963bb12508310d05494c067dc33e008cecf2cd7b4549654fab3",
-    "bazaar": true
+    "texture": "1d7620b2e4934963bb12508310d05494c067dc33e008cecf2cd7b4549654fab3"
   },
   "WITHER_ARTIFACT": {
     "name": "Wither Artifact",
@@ -7701,8 +7697,8 @@
   },
   "WOLF_RING": {
     "name": "Wolf Ring",
-    "tier": "RARE",
-    "category": "accessories",
+    "tier": "rare",
+    "category": "accessory",
     "item_id": 397,
     "texture": "f83a2aa9d3734b919ac24c9659e5e0f86ecafbf64d4788cfa433bbec189e8"
   },
@@ -7953,10 +7949,10 @@
   },
   "WOOL:6": {
     "name": "Pink Wool",
-    "tier": "COMMON",
-    "category": "blocks",
-    "item_id": 35,
-    "damage": 6
+    "tier": "common",
+    "category": "misc",
+    "damage": 6,
+    "item_id": 35
   },
   "WOOL:7": {
     "name": "Gray Wool",
@@ -8278,8 +8274,8 @@
   },
   "DARK_GOGGLES": {
     "name": "Dark Goggles",
-    "tier": "RARE",
-    "category": "armor",
+    "tier": "rare",
+    "category": "dungeon helmet",
     "item_id": 397,
     "texture": "29319525825f1f30727eb940d3a06426bc4cec07fbd80af5cd146e3eb3879f68"
   },
@@ -8452,8 +8448,8 @@
   },
   "ADAPTIVE_LEGGINGS": {
     "name": "Adaptive Leggings",
-    "tier": "EPIC",
-    "category": "armor",
+    "tier": "epic",
+    "category": "dungeon leggings",
     "item_id": 300
   },
   "DUNGEON_STONE": {
@@ -8473,7 +8469,7 @@
   "BONZO_STAFF": {
     "name": "Bonzo's Staff",
     "tier": "rare",
-    "category": "dungeon sword",
+    "category": "dungeon espada",
     "item_id": 369
   },
   "DUNGEON_DECOY": {
@@ -8943,8 +8939,8 @@
   },
   "MENDER_FEDORA": {
     "name": "Mender Fedora ✪✪✪✪✪",
-    "tier": "EPIC",
-    "category": "armor",
+    "tier": "epic",
+    "category": "dungeon helmet",
     "item_id": 397,
     "texture": "1e595e143486bbdd98b2b562300d4c698e6a53a5aa3fa328f74cb83909e088c4"
   },
@@ -9815,8 +9811,8 @@
   },
   "CANDY_CORN": {
     "name": "Candy Corn",
-    "tier": "RARE",
-    "category": "misc",
+    "tier": "rare",
+    "category": "reforge stone",
     "item_id": 397,
     "texture": "fd86767d4f1ca2868b675696c72178cd74c4eb6c28f3c7afc82edd090ca2ca46"
   },
@@ -9881,8 +9877,8 @@
   },
   "DEEP_SEA_ORB": {
     "name": "Deep Sea Orb",
-    "tier": "EPIC",
-    "category": "misc",
+    "tier": "epic",
+    "category": "reforge stone",
     "item_id": 397,
     "texture": "5113ee610841ded215acd2b4caaeef87dfd6e3d4768e7ab4e19eb76b3d8121cf"
   },
@@ -11320,5 +11316,93 @@
     "tier": "epic",
     "category": "dungeon item",
     "item_id": 280
+  },
+  "GOLDOR_THE_FISH": {
+    "name": "Goldor the Fish",
+    "tier": "special",
+    "category": "dungeon item",
+    "item_id": 397,
+    "texture": "3e4f49535a276aacc4dc84133bfe81be5f2a4799a4c04d9a4ddb72d819ec2b2b"
+  },
+  "EMERALD_GENERATOR_1": {
+    "name": "Emerald Minion I",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "9bf57f3401b130c6b53808f2b1e119cc7b984622dac7077bbd53454e1f65bbf0"
+  },
+  "CAMPFIRE_TALISMAN_6": {
+    "name": "Campfire Adept Badge",
+    "tier": "uncommon",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "af41cc2250d2f5cfcf4384aa0cf3e23c19767549a2a8abd7532bd52c5a1de"
+  },
+  "EGG_HUNT": {
+    "name": "Egg Hunt",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "2c70406e753942135424bb99692b744c9a0345d3f3c8193e9d8e30d5441218e3"
+  },
+  "SHADOW_WARP_SCROLL": {
+    "name": "Shadow Warp",
+    "tier": "epic",
+    "category": "dungeon item",
+    "item_id": 386
+  },
+  "FUNGI_CUTTER": {
+    "name": "Fungi Cutter",
+    "tier": "rare",
+    "category": "hoe",
+    "item_id": 294
+  },
+  "ENDERMAN_GENERATOR_7": {
+    "name": "Enderman Minion VII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "368c2e2d9827cb25bf4add695f668180bb2b52d41342f175bdfeb142f960d712"
+  },
+  "CREEPER_GENERATOR_7": {
+    "name": "Creeper Minion VII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "f6f95998dd76a3bd9ffe949e7a4fe993b4baa2e981f49bf7113417f51003b193"
+  },
+  "SMALL_AGRONOMY_SACK": {
+    "name": "Small Agronomy Sack",
+    "tier": "uncommon",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "2ab879e1e590041146bc78c018af5877d39e5475eb7db368fcaf2acda373833d"
+  },
+  "DARK_OAK_FENCE_GATE": {
+    "name": "Dark Oak Fence Gate",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 186
+  },
+  "CAMPFIRE_TALISMAN_4": {
+    "name": "Campfire Adept Badge",
+    "tier": "uncommon",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "af41cc2250d2f5cfcf4384aa0cf3e23c19767549a2a8abd7532bd52c5a1de"
+  },
+  "BLAZE_GENERATOR_7": {
+    "name": "Blaze Minion VII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "a9bdeb530d09ee73479db19b357597318eac92ee7855740e46a1b97ae682b27"
+  },
+  "BLAZE_GENERATOR_8": {
+    "name": "Blaze Minion VIII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "d7fc92fa962d0944ce46b71bc7dcb73a5f51f9d8a7e2bcccf666f2da05a0152d"
   }
 }
