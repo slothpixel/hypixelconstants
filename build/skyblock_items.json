@@ -4934,5 +4934,384 @@
     "category": "misc",
     "damage": 2,
     "item_id": 155
+  },
+  "RECORD_4": {
+    "name": "Music Disc - Chirp",
+    "tier": "uncommon",
+    "category": "misc",
+    "item_id": 2259
+  },
+  "STRONG_DRAGON_HELMET": {
+    "name": "Strong Dragon Helmet",
+    "tier": "legendary",
+    "category": "helmet",
+    "item_id": 397,
+    "texture": "78bc6551beb2148d939b69925140d2379fe0fab6e7d31f65df50b59e9f77a0e4"
+  },
+  "NECROMANCER_LORD_BOOTS": {
+    "name": "Necromancer Lord Boots",
+    "tier": "legendary",
+    "category": "dungeon boots",
+    "item_id": 301
+  },
+  "PET_ITEM_LUCKY_CLOVER_DROP": {
+    "name": "Lucky Clover Core",
+    "tier": "epic",
+    "category": "misc",
+    "damage": 10,
+    "item_id": 351
+  },
+  "SCAVENGER_TALISMAN": {
+    "name": "Scavenger Talisman",
+    "tier": "common",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "211ab3a1132c9d1ef835ea81d972ed9b5cd8ddff0a07c55a749bcfcf8df5"
+  },
+  "ENCHANTED_OAK_LOG": {
+    "name": "Enchanted Oak Wood",
+    "tier": "uncommon",
+    "category": "misc",
+    "item_id": 17
+  },
+  "PET_ITEM_COMBAT_SKILL_BOOST_RARE": {
+    "name": "Combat Exp Boost",
+    "tier": "rare",
+    "category": "pet item",
+    "item_id": 267
+  },
+  "PROTECTOR_DRAGON_CHESTPLATE": {
+    "name": "Protector Dragon Chestplate",
+    "tier": "legendary",
+    "category": "chestplate",
+    "item_id": 299
+  },
+  "UNSTABLE_DRAGON_CHESTPLATE": {
+    "name": "Unstable Dragon Chestplate",
+    "tier": "legendary",
+    "category": "chestplate",
+    "item_id": 299
+  },
+  "OLD_DRAGON_CHESTPLATE": {
+    "name": "Old Dragon Chestplate",
+    "tier": "legendary",
+    "category": "chestplate",
+    "item_id": 299
+  },
+  "SOUL_FRAGMENT": {
+    "name": "Soul Fragment",
+    "tier": "epic",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "d1c87454f1ee585b90fdb3a3e40952a5c2f80c0a49dfec62870fdff183967a84"
+  },
+  "SHAMAN_SWORD": {
+    "name": "Shaman Sword",
+    "tier": "epic",
+    "category": "sword",
+    "item_id": 267
+  },
+  "RECORD_9": {
+    "name": "Music Disc - Strad",
+    "tier": "uncommon",
+    "category": "misc",
+    "item_id": 2264
+  },
+  "THEORETICAL_HOE_WARTS_1": {
+    "name": "Newton Nether Warts Hoe",
+    "tier": "common",
+    "category": "hoe",
+    "item_id": 291
+  },
+  "IRON_HOE": {
+    "name": "Iron Hoe",
+    "tier": "common",
+    "category": "hoe",
+    "item_id": 292
+  },
+  "THEORETICAL_HOE_CARROT_2": {
+    "name": "Gauss Carrot Hoe",
+    "tier": "rare",
+    "category": "hoe",
+    "item_id": 292
+  },
+  "SMALL_FISHING_SACK": {
+    "name": "Small Fishing Sack",
+    "tier": "rare",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "c4fbc77d27dab10de5abf9d0bcc47198f923b0e6c179a3c3983e77f12f7c033e"
+  },
+  "BOSS_SPIRIT_BOW": {
+    "name": "Spirit Bow",
+    "tier": null,
+    "category": "misc",
+    "item_id": 261
+  },
+  "GOLD_CHESTPLATE": {
+    "name": "Golden Chestplate",
+    "tier": "common",
+    "category": "chestplate",
+    "item_id": 315
+  },
+  "INK_SACK:11": {
+    "name": "Dandelion Yellow",
+    "tier": "common",
+    "category": "misc",
+    "damage": 11,
+    "item_id": 351
+  },
+  "BAT_RING": {
+    "name": "Bat Ring",
+    "tier": "epic",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "93c8aa3fde295fa9f9c27f734bdbab11d33a2e43e855accd7465352377413b"
+  },
+  "BAT_PERSON_CHESTPLATE": {
+    "name": "Bat Person Chestplate",
+    "tier": "legendary",
+    "category": "chestplate",
+    "item_id": 299
+  },
+  "BAT_PERSON_HELMET": {
+    "name": "Bat Person Helmet",
+    "tier": "legendary",
+    "category": "helmet",
+    "item_id": 397,
+    "texture": "a83b3f04fc16bc2c2cb36a12044265b0b933f3dfa2b342eb45798ff7d715b0d8"
+  },
+  "BAT_PERSON_BOOTS": {
+    "name": "Bat Person Boots",
+    "tier": "legendary",
+    "category": "boots",
+    "item_id": 301
+  },
+  "IRON_AXE": {
+    "name": "Iron Axe",
+    "tier": "common",
+    "category": "axe",
+    "item_id": 258
+  },
+  "LEAVES:2": {
+    "name": "Birch Leaves",
+    "tier": "common",
+    "category": "misc",
+    "damage": 2,
+    "item_id": 18
+  },
+  "TARANTULA_GENERATOR_1": {
+    "name": "Tarantula Minion I",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "97e86007064c9ce26eb4bad8ac9aa30aac309e70a9e0b615936318dea40a721"
+  },
+  "LARGE_CANDY_SACK": {
+    "name": "Candy Sack",
+    "tier": "rare",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "12ef39437d7d43a034c5a40b974e8d2c6734a218c76485d04910f507bdc2e809"
+  },
+  "PUMPKIN_LAUNCHER": {
+    "name": "Pumpkin Launcher",
+    "tier": "epic",
+    "category": "misc",
+    "item_id": 86
+  },
+  "PUMPKIN_GUTS": {
+    "name": "Pumpkin Guts",
+    "tier": "uncommon",
+    "category": "misc",
+    "item_id": 361
+  },
+  "WISE_DRAGON_HELMET": {
+    "name": "Wise Dragon Helmet",
+    "tier": "legendary",
+    "category": "helmet",
+    "item_id": 397,
+    "texture": "5797c77ccee3c04c3deed770595ea83ea1e84c9a4629b753af5d351c0cc11a74"
+  },
+  "COBBLE_WALL": {
+    "name": "Cobblestone Wall",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 139
+  },
+  "GHOUL_BUSTER": {
+    "name": "Ghoul Buster",
+    "tier": "epic",
+    "category": "sword",
+    "item_id": 292
+  },
+  "HYPER_CATALYST_UPGRADE": {
+    "name": "Hyper Catalyst Upgrade",
+    "tier": "special",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "e9469a2f7a98593a4b0bd6383d70fcf105904a930beaa0671a999b1930b94953"
+  },
+  "SHADOW_WARP_SCROLL": {
+    "name": "Shadow Warp",
+    "tier": "epic",
+    "category": "dungeon item",
+    "item_id": 386
+  },
+  "PET_ITEM_FORAGING_SKILL_BOOST_EPIC": {
+    "name": "Foraging Exp Boost",
+    "tier": "epic",
+    "category": "pet item",
+    "item_id": 258
+  },
+  "SPRUCE_FENCE": {
+    "name": "Spruce Fence",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 188
+  },
+  "SPIRIT_DECOY": {
+    "name": "Spirit Stone",
+    "tier": "rare",
+    "category": "reforge stone",
+    "item_id": 397,
+    "texture": "b0d5ab21d67eead163317c9a5dc51d409d85df2527667a424a2aff6738b6fc97"
+  },
+  "RED_ROSE:3": {
+    "name": "Azure Bluet",
+    "tier": "common",
+    "category": "misc",
+    "damage": 3,
+    "item_id": 38
+  },
+  "SPIRIT_WING": {
+    "name": "Spirit Wing",
+    "tier": "epic",
+    "category": "dungeon item",
+    "item_id": 397,
+    "texture": "e29ad76c2459911c2bbacdcd0a7b82e0835567e3e5134b05a6f5af669dd88b83"
+  },
+  "ENCHANTED_REDSTONE": {
+    "name": "Enchanted Redstone",
+    "tier": "uncommon",
+    "category": "misc",
+    "item_id": 331
+  },
+  "CANDY_THE_FISH": {
+    "name": "Candy the Fish",
+    "tier": "special",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "75ba393b926ee69a14d4d853b25d285a868b16c56c919d2b824413e6566d4e55"
+  },
+  "BAT_PERSON_TALISMAN": {
+    "name": "Bat Person Talisman",
+    "tier": "common",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "b841a49b199a59c431bf3fc3783f6b6545ce78c38042617f66ebd87cdd548e8c"
+  },
+  "PET_ITEM_SPOOKY_CUPCAKE": {
+    "name": "Spooky Cupcake",
+    "tier": "uncommon",
+    "category": "pet item",
+    "item_id": 397,
+    "texture": "497ad99d53aacce6b7a84d874e67b8c56fadedfdf6a2565c7626cefbfc30c351"
+  },
+  "ROCK_CANDY": {
+    "name": "Rock Candy",
+    "tier": "rare",
+    "category": "reforge stone",
+    "item_id": 397,
+    "texture": "2b21617d2755bc20f8f7e388f49e48582745fec16bb14c776f7118f98c55e8"
+  },
+  "ENCHANTED_LAVA_BUCKET": {
+    "name": "Enchanted Lava Bucket",
+    "tier": "epic",
+    "category": "misc",
+    "item_id": 327
+  },
+  "NETHER_BIOME_STICK": {
+    "name": "Nether Biome Stick",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 280
+  },
+  "FEATHER_RING": {
+    "name": "Feather Ring",
+    "tier": "uncommon",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "ed7ad1b1db2b323f013b775a8f9481f1cd292bf9a58dd2905e3e1929d13bac"
+  },
+  "SKELETON_GENERATOR_9": {
+    "name": "Skeleton Minion IX",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "e0a8fae40ff866e3fb7d9131f50efb8bd870da92cdf11051af48fa394bfa19e2"
+  },
+  "END_BOOTS": {
+    "name": "Ender Boots",
+    "tier": "epic",
+    "category": "boots",
+    "item_id": 305
+  },
+  "END_LEGGINGS": {
+    "name": "Ender Leggings",
+    "tier": "epic",
+    "category": "leggings",
+    "item_id": 304
+  },
+  "SPEEDSTER_ROD": {
+    "name": "Speedster Rod",
+    "tier": "uncommon",
+    "category": "fishing rod",
+    "item_id": 346
+  },
+  "CAMPFIRE_TALISMAN_5": {
+    "name": "Campfire Adept Badge",
+    "tier": "uncommon",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "af41cc2250d2f5cfcf4384aa0cf3e23c19767549a2a8abd7532bd52c5a1de"
+  },
+  "LAVA_BUCKET": {
+    "name": "Lava Bucket",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 327
+  },
+  "MAGNETIC_TALISMAN": {
+    "name": "Magnetic Talisman",
+    "tier": "uncommon",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "6b9c49ffdf4ce4c6f5f049efc8ca0e08b9b5bbf3c6a8783dfaaccad77dfc997a"
+  },
+  "WITHER_BOW": {
+    "name": "Wither Bow",
+    "tier": "uncommon",
+    "category": "arco",
+    "item_id": 261
+  },
+  "SPOOKY_CHESTPLATE": {
+    "name": "Spooky Chestplate",
+    "tier": "epic",
+    "category": "chestplate",
+    "item_id": 299
+  },
+  "ENCHANTED_BLAZE_ROD": {
+    "name": "Enchanted Blaze Rod",
+    "tier": "uncommon",
+    "category": "misc",
+    "item_id": 369
+  },
+  "FIRE_TALISMAN": {
+    "name": "Fire Talisman",
+    "tier": "common",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "70a44d51ecc79f694cfd60228c88428848ca618e36a659a416e9246d841aec8"
   }
 }
