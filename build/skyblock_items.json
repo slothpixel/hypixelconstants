@@ -5819,5 +5819,327 @@
     "tier": "common",
     "category": "sword",
     "item_id": 268
+  },
+  "ENCHANTMENT_TABLE": {
+    "name": "Enchantment Table",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 116
+  },
+  "STOCK_OF_STONKS": {
+    "name": "Stock of Stonks",
+    "tier": "epic",
+    "category": "misc",
+    "item_id": 339
+  },
+  "TARANTULA_SILK": {
+    "name": "Tarantula Silk",
+    "tier": "rare",
+    "category": "misc",
+    "item_id": 30
+  },
+  "ENCHANTED_FLINT": {
+    "name": "Enchanted Flint",
+    "tier": "uncommon",
+    "category": "misc",
+    "item_id": 318
+  },
+  "GOLD_BONZO_HEAD": {
+    "name": "Golden Bonzo Head",
+    "tier": "special",
+    "category": "dungeon helmet",
+    "item_id": 397,
+    "texture": "15e75eae869bf0c298ee48790a62c2d6140790bd481b1de89b768d52f28c74a9"
+  },
+  "STONE_AXE": {
+    "name": "Stone Axe",
+    "tier": "common",
+    "category": "axe",
+    "item_id": 275
+  },
+  "PET_ITEM_VAMPIRE_FANG": {
+    "name": "Vampire Fang",
+    "tier": "legendary",
+    "category": "pet item",
+    "item_id": 370
+  },
+  "POTION_AFFINITY_TALISMAN": {
+    "name": "Potion Affinity Talisman",
+    "tier": "common",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "3a943baf71458596aff4eba879f8ac5d2ba267c98385e67673f48ebea5fa"
+  },
+  "DULL_SHARK_TOOTH_NECKLACE": {
+    "name": "Dull Shark Tooth Necklace",
+    "tier": "uncommon",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "f3ab3aa1ade74915dacd298613904361c18877eebfa81d9f936309f271e1389a"
+  },
+  "NEW_YEAR_CAKE_BAG": {
+    "name": "New Year Cake Bag",
+    "tier": "uncommon",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "a4573d6546ba71eff3b67e5116b0d75e29adf67135e95338dca83eec288f27"
+  },
+  "BAT_PERSON_RING": {
+    "name": "Bat Person Ring",
+    "tier": "uncommon",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "b4451ecf2584a36de4297031c6d852977d3e249e85a3f0add967fcd7d6bde953"
+  },
+  "PET_ITEM_FARMING_SKILL_BOOST_RARE": {
+    "name": "Farming Exp Boost",
+    "tier": "rare",
+    "category": "pet item",
+    "item_id": 292
+  },
+  "ICE_GENERATOR_1": {
+    "name": "Ice Minion I",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "e500064321b12972f8e5750793ec1c823da4627535e9d12feaee78394b86dabe"
+  },
+  "QUARTZ_GENERATOR_1": {
+    "name": "Quartz Minion I",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "d270093be62dfd3019f908043db570b5dfd366fd5345fccf9da340e75c701a60"
+  },
+  "ENDER_STONE_GENERATOR_1": {
+    "name": "End Stone Minion I",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "7994be3dcfbb4ed0a5a7495b7335af1a3ced0b5888b5007286a790767c3b57e6"
+  },
+  "NETHER_WARTS_GENERATOR_1": {
+    "name": "Nether Wart Minion I",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "71a4620bb3459c1c2fa74b210b1c07b4a02254351f75173e643a0e009a63f558"
+  },
+  "VAMPIRE_WITCH_MASK": {
+    "name": "Vampire Witch Mask",
+    "tier": "epic",
+    "category": "helmet",
+    "item_id": 397,
+    "texture": "2348e5b4b3d2c1dec023fbf406216f1239658906ef4c2fbf1c53906e243e66"
+  },
+  "WOOD_PLATE": {
+    "name": "Wooden Pressure Plate",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 72
+  },
+  "WEDDING_RING_0": {
+    "name": "Shiny Yellow Rock",
+    "tier": "common",
+    "category": "accessory",
+    "item_id": 371
+  },
+  "SHADOW_ASSASSIN_CHESTPLATE": {
+    "name": "Shadow Assassin Chestplate ✪✪",
+    "tier": "epic",
+    "category": "dungeon chestplate",
+    "item_id": 299
+  },
+  "BLUE_SHARK_TOOTH": {
+    "name": "Blue Shark Tooth",
+    "tier": "rare",
+    "category": "misc",
+    "item_id": 370
+  },
+  "SPIDER_HAT": {
+    "name": "Spider Hat",
+    "tier": "common",
+    "category": "helmet",
+    "item_id": 397,
+    "texture": "9d7e3b19ac4f3dee9c5677c135333b9d35a7f568b63d1ef4ada4b068b5a25"
+  },
+  "NETHER_WART_ISLAND_CRYSTAL": {
+    "name": "Nether Wart Crystal",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "9265f96f54b78885c46e7d2f86b1c1dbfe643c6060fc7fcc9834c3e3fd595135"
+  },
+  "ENCHANTED_RABBIT": {
+    "name": "Enchanted Raw Rabbit",
+    "tier": "uncommon",
+    "category": "misc",
+    "item_id": 411
+  },
+  "RABBIT_GENERATOR_3": {
+    "name": "Rabbit Minion III",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "4caf38c59c689f162a1fedba239a6e44fd6c65c103038c91c0d32e5713a0694c"
+  },
+  "RED_CLAW_ARTIFACT": {
+    "name": "Red Claw Artifact",
+    "tier": "epic",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "caf59b8aa0f83546ef0d178ccf87e7ed88cf7858caae79b3633cbd75b650525f"
+  },
+  "ENCHANTED_COOKIE": {
+    "name": "Enchanted Cookie",
+    "tier": "rare",
+    "category": "misc",
+    "item_id": 357
+  },
+  "YOUNG_DRAGON_CHESTPLATE": {
+    "name": "Young Dragon Chestplate",
+    "tier": "legendary",
+    "category": "chestplate",
+    "item_id": 299
+  },
+  "BEACON": {
+    "name": "Beacon Block",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 138
+  },
+  "WEDDING_RING_3": {
+    "name": "Rubbish Ring of Love",
+    "tier": "uncommon",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "8690c18e2b8780c927fd121d5a36196a53a72c670a89d785deedee3155024b2a"
+  },
+  "LEAPING_SWORD": {
+    "name": "Leaping Sword",
+    "tier": "epic",
+    "category": "sword",
+    "item_id": 283
+  },
+  "CLAY_GENERATOR_1": {
+    "name": "Clay Minion I",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "af9b312c8f53da289060e6452855072e07971458abbf338ddec351e16c171ff8"
+  },
+  "MAGMA_CUBE_GENERATOR_1": {
+    "name": "Magma Cube Minion I",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "18c9a7a24da7e3182e4f62fa62762e21e1680962197c7424144ae1d2c42174f7"
+  },
+  "CREEPER_GENERATOR_1": {
+    "name": "Creeper Minion I",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "54a92c2f8c1b3774e80492200d0b2218d7b019314a73c9cb5b9f04cfcacec471"
+  },
+  "BLAZE_GENERATOR_1": {
+    "name": "Blaze Minion I",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "3208fbd64e97c6e00853d36b3a201e4803cae43dcbd6936a3cece050912e1f20"
+  },
+  "EXPERIENCE_ARTIFACT": {
+    "name": "Experience Artifact",
+    "tier": "epic",
+    "category": "accessory",
+    "item_id": 403
+  },
+  "WRAPPED_GIFT_FOR_JULIETTE": {
+    "name": "Secret Gift for Juliette",
+    "tier": "epic",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "bdac9a51813abcb666ee2c2ca84cefcfb21e58b7b01ae0ea7e99d35f323a"
+  },
+  "LEGEND_ROD": {
+    "name": "Rod of Legends",
+    "tier": "epic",
+    "category": "fishing rod",
+    "item_id": 346
+  },
+  "POEM_OF_INFINITE_LOVE": {
+    "name": "Poem of True Love",
+    "tier": "epic",
+    "category": "misc",
+    "item_id": 339
+  },
+  "WEDDING_RING_6": {
+    "name": "Classy Ring of Love",
+    "tier": "rare",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "8fb265c8cc6136063b4eb15450fe1fe1ab7738b0bf54d265490e1ef49da60b7c"
+  },
+  "EPOCH_CAKE_BLACK": {
+    "name": "Century Cake of the Next Dungeon Floor",
+    "tier": "uncommon",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "64592746cc35672ee29bb3a153d74f7a5d0e5fe8612729a34fad252fe7904283"
+  },
+  "WITHER_SHIELD_SCROLL": {
+    "name": "Wither Shield",
+    "tier": "epic",
+    "category": "dungeon item",
+    "item_id": 386
+  },
+  "GRAVEL_GENERATOR_1": {
+    "name": "Gravel Minion I",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "7458507ed31cf9a38986ac8795173c609637f03da653f30483a721d3fbe602d"
+  },
+  "LARGE_HUSBANDRY_SACK": {
+    "name": "Large Husbandry Sack",
+    "tier": "epic",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "c73087f1e654b1682733584a44097587fb942e1f343aae8307bd7dac84e843ab"
+  },
+  "WEREWOLF_LEGGINGS": {
+    "name": "Werewolf Leggings",
+    "tier": "legendary",
+    "category": "leggings",
+    "item_id": 300
+  },
+  "STAINED_CLAY:7": {
+    "name": "Gray Hardened Clay",
+    "tier": "common",
+    "category": "misc",
+    "damage": 7,
+    "item_id": 159
+  },
+  "STAINED_CLAY:15": {
+    "name": "Black Hardened Clay",
+    "tier": "common",
+    "category": "misc",
+    "damage": 15,
+    "item_id": 159
+  },
+  "STAINED_CLAY:12": {
+    "name": "Brown Hardened Clay",
+    "tier": "common",
+    "category": "misc",
+    "damage": 12,
+    "item_id": 159
+  },
+  "REFINED_AMBER": {
+    "name": "Refined Amber",
+    "tier": "epic",
+    "category": "reforge stone",
+    "item_id": 397,
+    "texture": "be775ff1daa46b7c2beab563129d34644c5d5f9186bb13c516a5e05f0cd4e451"
   }
 }
