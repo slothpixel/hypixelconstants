@@ -7054,5 +7054,111 @@
     "category": "accessory",
     "item_id": 397,
     "texture": "7652bd7617e56c756514f83c28dd1d96a7e5e167bf7fb593693fc65046f799"
+  },
+  "OVERFLUX_CAPACITOR": {
+    "name": "Overflux Capacitor",
+    "tier": "epic",
+    "category": "misc",
+    "item_id": 406
+  },
+  "FISHING_GENERATOR_11": {
+    "name": "Fishing Minion XI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "46efc2d1ebb53ed1242081f22614a7e3ac983b9f6159814e6bcbc73ce7e3132a"
+  },
+  "FLYCATCHER_UPGRADE": {
+    "name": "Flycatcher",
+    "tier": "epic",
+    "category": "misc",
+    "item_id": 30
+  },
+  "GHOST_BOOK": {
+    "name": "Ghost Book",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "a79bcadfe2438c7cc3f3045e3a49270223ebd01c094fe30e536bd80e368a99bd"
+  },
+  "PEDESTAL": {
+    "name": "X PEDESTAL",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "8a82b3aa3fd77846a1ce05bff0a173553e9f3eecbff96d6bc6862210a60c7d21"
+  },
+  "PUMPKIN_PERSONALITY": {
+    "name": "Pumpkin Minion Skin",
+    "tier": "common",
+    "category": "cosmetic",
+    "item_id": 397,
+    "texture": "5f6dc5652012eea926c0f638b6820e0d20eb94cf0a08b16b3e109d5e549aefb9"
+  },
+  "CANDY_BOWL": {
+    "name": "Candy Bowl",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "526f95ad09322d5d977a5c7bc0d6e4df4e2bd532532e76850aea7f142ff0bfc6"
+  },
+  "COFFIN": {
+    "name": "Coffin",
+    "tier": "rare",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "8d44756e0b4ece8d746296a3d5e297e1415f4ba17647ffe228385383d161a9"
+  },
+  "SKULL_PERSONALITY": {
+    "name": "Skull Minion Skin",
+    "tier": "common",
+    "category": "cosmetic",
+    "item_id": 397,
+    "texture": "6f2e776757064382d28a518b88d98bd48c66a14168b57e6b6576efe30014111a"
+  },
+  "HALLOWEEN_CANDLES": {
+    "name": "Halloween Candles",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "e99fcc2f7b01a8c4baa225b5c825918cb0fc2eb44e79ffd8b48ddb3484ba5c3d"
+  },
+  "FLYING_BATS": {
+    "name": "Flying Bats",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "a85f31382591d2dab0efed4dd31ed385494ad9563409c8a2e0efd05492d60b55"
+  },
+  "ADAPTIVE_HELMET": {
+    "name": "Adaptive Helm",
+    "tier": "epic",
+    "category": "dungeon helmet",
+    "item_id": 397,
+    "texture": "16f0d34aaa714377983701c1bbe9b3f6e7b30cb38571bc0a2fd7541d7edb1637"
+  },
+  "ADAPTIVE_BOOTS": {
+    "name": "Adaptive Boots",
+    "tier": "epic",
+    "category": "dungeon boots",
+    "item_id": 301
+  },
+  "SUPERB_CARROT_CANDY": {
+    "name": "Superb Carrot Candy",
+    "tier": "epic",
+    "category": "misc",
+    "item_id": 396
+  },
+  "GOLDEN_TOOTH": {
+    "name": "Golden Tooth",
+    "tier": "rare",
+    "category": "misc",
+    "item_id": 371
+  },
+  "GOLEM_ARMOR_LEGGINGS": {
+    "name": "Golem Armor Leggings",
+    "tier": "rare",
+    "category": "leggings",
+    "item_id": 308
   }
 }
