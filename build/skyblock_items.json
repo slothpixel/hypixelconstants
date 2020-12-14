@@ -1688,7 +1688,7 @@
     "texture": "1a75e8b044c7201a4b2e856be4fc316a5aaec66576169bab5872a88534b80256"
   },
   "BAT_WAND": {
-    "name": "Spirit Sceptre ✪✪✪✪✪",
+    "name": "Spirit Sceptre",
     "tier": "legendary",
     "category": "dungeon sword",
     "damage": 2,
@@ -1982,7 +1982,7 @@
     "item_id": 416
   },
   "WITHER_BOOTS": {
-    "name": "Wither Boots ✪✪",
+    "name": "Wither Boots",
     "tier": "legendary",
     "category": "dungeon boots",
     "item_id": 301
@@ -3964,11 +3964,11 @@
     "item_id": 38
   },
   "REPELLING_CANDLE": {
-    "name": "Repelling Candle",
+    "name": "Pink Repelling Candle",
     "tier": "uncommon",
     "category": "misc",
     "item_id": 397,
-    "texture": "28ca3610bf1ed2dcce5ca7f7f2914a1c25fbfabd74dce51b3f5126ba44ba1a20"
+    "texture": "9f90ad608ab5f79bdb517ae634b4dc443df6fb6d0b176c11242bf8847b4eb8c"
   },
   "ENCHANTED_GOLD": {
     "name": "Enchanted Gold",
@@ -4137,7 +4137,7 @@
   },
   "THEORETICAL_HOE_WHEAT_2": {
     "name": "Euclid's Wheat Hoe",
-    "tier": "uncommon",
+    "tier": "rare",
     "category": "hoe",
     "item_id": 292
   },
@@ -5031,7 +5031,7 @@
   },
   "THEORETICAL_HOE_CARROT_2": {
     "name": "Gauss Carrot Hoe",
-    "tier": "rare",
+    "tier": "uncommon",
     "category": "hoe",
     "item_id": 292
   },
@@ -6876,5 +6876,97 @@
     "category": "misc",
     "item_id": 397,
     "texture": "ad3b4a30aedc8040815778f778a7395909c4ccce6fd55c6e3e47ab5da531952b"
+  },
+  "IRON_SWORD": {
+    "name": "Iron Sword",
+    "tier": "common",
+    "category": "sword",
+    "item_id": 267
+  },
+  "DR_PAPER": {
+    "name": "Dctr. Paper",
+    "tier": "uncommon",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "f695f2fedbd2c09bd9b05f6f2aeccb4b8ace10cdddd4a45bb3e545ec173d33c6"
+  },
+  "TUTTI_FRUTTI_POISON": {
+    "name": "Tutti-Frutti Flavored Poison",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "d8c8d994bcba84038e3c7e5be9243a4f2ecf789bcd4703a475c18ee2199f1e3"
+  },
+  "SLAYER_ENERGY_DRINK": {
+    "name": "Slayer© Energy Drink",
+    "tier": "rare",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "79cd077d558f7f27740df3ed45657c0a8c3ace7b1ed9b159ea42a65258b2f912"
+  },
+  "SUPERIOR_SHIMMER": {
+    "name": "Shimmer Skin",
+    "tier": "mythic",
+    "category": "cosmetic",
+    "item_id": 397,
+    "texture": "cb3deae44a93acf001ae6bef1e1f4d56e4b7eca4ba14699d071023a24eed2c2e"
+  },
+  "DAY_SAVER": {
+    "name": "Day Saver",
+    "tier": "uncommon",
+    "category": "misc",
+    "item_id": 151
+  },
+  "RED_CLAW_TALISMAN": {
+    "name": "Red Claw Talisman",
+    "tier": "uncommon",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "317b51e086f201448a4b45b0b91e97faf4d1739071480be6d5cab0a054512164"
+  },
+  "END_CHESTPLATE": {
+    "name": "Ender Chestplate",
+    "tier": "epic",
+    "category": "chestplate",
+    "item_id": 303
+  },
+  "BLAZE_POWDER": {
+    "name": "Blaze Powder",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 377
+  },
+  "WOOD_AXE": {
+    "name": "Деревянный топор",
+    "tier": "common",
+    "category": "axe",
+    "item_id": 271
+  },
+  "ONYX": {
+    "name": "Onyx",
+    "tier": "rare",
+    "category": "reforge stone",
+    "item_id": 397,
+    "texture": "e4eccc280793510a6c10ba088c0e9b8708790e81c60907fd6eb73f33312777a4"
+  },
+  "WISE_DRAGON_LEGGINGS": {
+    "name": "Wise Dragon Leggings",
+    "tier": "legendary",
+    "category": "leggings",
+    "item_id": 300
+  },
+  "PROTECTOR_DRAGON_HELMET": {
+    "name": "Protector Dragon Helmet",
+    "tier": "legendary",
+    "category": "helmet",
+    "item_id": 397,
+    "texture": "1f1a1ccbb024ed1d28471bc4b3c28d093277161a3871d2699d68e5d2c387964"
+  },
+  "SUSPICIOUS_VIAL": {
+    "name": "Suspicious Vial",
+    "tier": "rare",
+    "category": "reforge stone",
+    "item_id": 397,
+    "texture": "f19355ea41298327c87be54262d29c54b292cb68a80945dca905c302f06110c6"
   }
 }
