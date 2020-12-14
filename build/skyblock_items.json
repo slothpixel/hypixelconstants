@@ -1148,7 +1148,7 @@
   "RAIDER_AXE": {
     "name": "Raider Axe",
     "tier": "rare",
-    "category": "меч",
+    "category": "sword",
     "item_id": 258
   },
   "RED_GIFT": {
@@ -1743,7 +1743,7 @@
   "SCARF_STUDIES": {
     "name": "Scarf's Studies",
     "tier": "rare",
-    "category": "dungeon accessory",
+    "category": "accessory",
     "item_id": 397,
     "texture": "6de4ab129e137f9f4cbf7060318ee1748dc39da9b5d129a8da0e614e2337693"
   },
@@ -6751,5 +6751,130 @@
     "category": "misc",
     "item_id": 397,
     "texture": "9899278d0464397dd076408812eef40758f75b1cdb82c04c08c81503453e07e6"
+  },
+  "GOLD_THORN_HEAD": {
+    "name": "Golden Thorn Head ✪",
+    "tier": "special",
+    "category": "dungeon helmet",
+    "item_id": 397,
+    "texture": "a40168e7f7bccd19b5a1ede9a196b41c57c91985ec723bcf4220967525582158"
+  },
+  "REDSTONE_COMPARATOR": {
+    "name": "Comparator",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 404
+  },
+  "ROD_OF_THE_SEA": {
+    "name": "Rod of the Sea",
+    "tier": "legendary",
+    "category": "fishing rod",
+    "item_id": 346
+  },
+  "WOOL:0": {
+    "name": "White Wool",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 35
+  },
+  "RAGGEDY_SHARK_TOOTH_NECKLACE": {
+    "name": "Raggedy Shark Tooth Necklace",
+    "tier": "common",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "d77309ddebbdc278ee2772d92fa4905dd850c5f213a77ffaed5a67eecb23984a"
+  },
+  "FUNGI_CUTTER": {
+    "name": "Fungi Cutter",
+    "tier": "rare",
+    "category": "hoe",
+    "item_id": 294
+  },
+  "PRISMARINE:2": {
+    "name": "Dark Prismarine",
+    "tier": "common",
+    "category": "misc",
+    "damage": 2,
+    "item_id": 168
+  },
+  "SOLVED_PRISM": {
+    "name": "Solved Rubix Prism",
+    "tier": "epic",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "8f1a277beb9e4faa6e7e356c74786e966155736a6858bf5bb5ad29df5bab61a1"
+  },
+  "MAP": {
+    "name": "Magical Map",
+    "tier": null,
+    "category": "misc",
+    "damage": 1280,
+    "item_id": 358
+  },
+  "ENCHANTED_RAW_SALMON": {
+    "name": "Enchanted Raw Salmon",
+    "tier": "uncommon",
+    "category": "misc",
+    "damage": 1,
+    "item_id": 349
+  },
+  "ENCHANTED_SPONGE": {
+    "name": "Enchanted Sponge",
+    "tier": "uncommon",
+    "category": "misc",
+    "item_id": 19
+  },
+  "SPONGE_ROD": {
+    "name": "Sponge Rod",
+    "tier": "common",
+    "category": "fishing rod",
+    "item_id": 346
+  },
+  "THEORETICAL_HOE_CARROT_1": {
+    "name": "Gauss Carrot Hoe",
+    "tier": "common",
+    "category": "hoe",
+    "item_id": 291
+  },
+  "SEA_CREATURE_TALISMAN": {
+    "name": "Sea Creature Talisman",
+    "tier": "common",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "eaa44b170d749ce4099aa78d98945d193651484089efb87ba88892c6fed2af31"
+  },
+  "DIRT:1": {
+    "name": "Coarse Dirt",
+    "tier": "common",
+    "category": "misc",
+    "damage": 1,
+    "item_id": 3
+  },
+  "UNDEAD_PERSONALITY": {
+    "name": "Undead Minion Skin",
+    "tier": "common",
+    "category": "cosmetic",
+    "item_id": 397,
+    "texture": "42cefd02b7498a3e0bf9d05964e1c521be7fb263a272a7e16177da35a9368b3b"
+  },
+  "DIVER_BOOTS": {
+    "name": "Diver's Boots",
+    "tier": "legendary",
+    "category": "boots",
+    "item_id": 317
+  },
+  "ARMOR_SHOWCASE": {
+    "name": "Armor Stand",
+    "tier": "uncommon",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "70f50ea46644bedf8dfa53af977f8c206e7f3ee4e0faae6e5c8278d77c207ad7"
+  },
+  "TALISMAN_ENRICHMENT_MAGIC_FIND": {
+    "name": "Magic Find Enrichment",
+    "tier": "special",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "ad3b4a30aedc8040815778f778a7395909c4ccce6fd55c6e3e47ab5da531952b"
   }
 }
