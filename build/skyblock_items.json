@@ -6417,5 +6417,60 @@
     "tier": "epic",
     "category": "dungeon item",
     "item_id": 280
+  },
+  "MYCEL": {
+    "name": "Mycelium",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 110
+  },
+  "SILKY_LICHEN": {
+    "name": "Silky Lichen",
+    "tier": "rare",
+    "category": "misc",
+    "damage": 2,
+    "item_id": 351
+  },
+  "POTATO_GENERATOR_3": {
+    "name": "Potato Minion III",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "29e3d309d56d37b51f4a356cba55fec4ac8e174bf2b72a03fb8361a2b41da17d"
+  },
+  "BIRCH_GENERATOR_6": {
+    "name": "Birch Minion VI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "7b79821acb2d8dd8bc54ac77ee6486d6bd21f5e20c828f84973325d6b3f2eb41"
+  },
+  "REDSTONE_GENERATOR_3": {
+    "name": "Redstone Minion III",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "c1a5175a1caf7a88a82b88b4737159132a68dc9fc99936696b1573ea5a7bb76d"
+  },
+  "IRON_GENERATOR_4": {
+    "name": "Iron Minion IV",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "a7e83a03615a41d7a7c967fd40c0583ad273d37d0a19bde3e4a562a0f680c920"
+  },
+  "COAL_GENERATOR_4": {
+    "name": "Coal Minion IV",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "8c87968d19102ed75d95a04389f3759667cc48a2ecacee8b404f7c1681626748"
+  },
+  "DARK_OAK_GENERATOR_4": {
+    "name": "Dark Oak Minion IV",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "358db48413f01eb669ac98a4cb0884021307886e29048a072d27e4f73e1ea6fe"
   }
 }
