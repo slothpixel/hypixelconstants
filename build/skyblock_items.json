@@ -8607,5 +8607,57 @@
     "tier": "legendary",
     "category": "misc",
     "item_id": 327
+  },
+  "SAPLING:4": {
+    "name": "Acacia Sapling",
+    "tier": "common",
+    "category": "misc",
+    "damage": 4,
+    "item_id": 6
+  },
+  "WISE_WITHER_HELMET": {
+    "name": "Storm's Helmet ✪✪✪✪✪",
+    "tier": "legendary",
+    "category": "dungeon helmet",
+    "item_id": 397,
+    "texture": "f83159c5bb7d80454d2d646b15774b7116aabcb3af5b6777a27573fc45f7854f"
+  },
+  "MINION_STORAGE_EXPANDER": {
+    "name": "Minion Storage X-pender",
+    "tier": "special",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "f37cae5c51eb1558ea828f58e0dff8e6b7b0b1a183d737eecf714661761"
+  },
+  "WISE_WITHER_LEGGINGS": {
+    "name": "Storm's Leggings",
+    "tier": "legendary",
+    "category": "dungeon leggings",
+    "item_id": 300
+  },
+  "WISE_WITHER_BOOTS": {
+    "name": "Storm's Boots",
+    "tier": "legendary",
+    "category": "dungeon boots",
+    "item_id": 301
+  },
+  "SIMPLE_CARROT_CANDY": {
+    "name": "Simple Carrot Candy",
+    "tier": "uncommon",
+    "category": "misc",
+    "item_id": 141
+  },
+  "ENCHANTED_GOLDEN_CARROT": {
+    "name": "Enchanted Golden Carrot",
+    "tier": "uncommon",
+    "category": "misc",
+    "item_id": 396
+  },
+  "STAINED_GLASS_PANE:2": {
+    "name": "Magenta Stained Glass Pane",
+    "tier": "common",
+    "category": "misc",
+    "damage": 2,
+    "item_id": 160
   }
 }
