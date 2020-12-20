@@ -836,7 +836,7 @@
     "item_id": 310
   },
   "COAL": {
-    "name": "Coal",
+    "name": "Уголь",
     "tier": "common",
     "category": "misc",
     "item_id": 263
@@ -2463,7 +2463,7 @@
     "item_id": 267
   },
   "IRON_ORE": {
-    "name": "Iron Ore",
+    "name": "Железная Руда",
     "tier": "common",
     "category": "misc",
     "item_id": 15
@@ -2494,7 +2494,7 @@
     "texture": "fd86767d4f1ca2868b675696c72178cd74c4eb6c28f3c7afc82edd090ca2ca46"
   },
   "SHADOW_ASSASSIN_LEGGINGS": {
-    "name": "Shadow Assassin Leggings",
+    "name": "Shadow Assassin Leggings ✪✪✪✪",
     "tier": "epic",
     "category": "dungeon leggings",
     "item_id": 300
@@ -2789,7 +2789,7 @@
     "texture": "94af5f3b50e2dea2687d292cc3a5e42c028b8626e638842fb4f78671debe276c"
   },
   "FLOWER_OF_TRUTH": {
-    "name": "Flower of Truth",
+    "name": "Flower of Truth ✪✪✪",
     "tier": "legendary",
     "category": "dungeon sword",
     "item_id": 38
@@ -3901,7 +3901,7 @@
   },
   "ENCHANTED_RABBIT_FOOT": {
     "name": "Enchanted Rabbit Foot",
-    "tier": "rare",
+    "tier": "epic",
     "category": "misc",
     "item_id": 414
   },
@@ -5030,7 +5030,7 @@
   },
   "THEORETICAL_HOE_CARROT_2": {
     "name": "Gauss Carrot Hoe",
-    "tier": "uncommon",
+    "tier": "rare",
     "category": "hoe",
     "item_id": 292
   },
@@ -5328,7 +5328,7 @@
     "texture": "3bf7611882dcf8969e481fe6662a81cb2d332b7501e7b98e8fae30fb34f964a7"
   },
   "BEACH_BALL": {
-    "name": "Beach Ball",
+    "name": "Balle de Plage",
     "tier": "common",
     "category": "misc",
     "item_id": 397,
@@ -7009,7 +7009,7 @@
   },
   "INFINITE_SUPERBOOM_TNT": {
     "name": "Infinityboom TNT",
-    "tier": "epic",
+    "tier": "rare",
     "category": "misc",
     "item_id": 46
   },
@@ -7369,5 +7369,151 @@
     "tier": "rare",
     "category": "dungeon chestplate",
     "item_id": 311
+  },
+  "SNOWFLAKE_THE_FISH": {
+    "name": "Flake the Fish",
+    "tier": "special",
+    "category": "misc",
+    "damage": 1,
+    "item_id": 350
+  },
+  "ENDERMAN_MASK": {
+    "name": "Enderman Mask",
+    "tier": "uncommon",
+    "category": "helmet",
+    "item_id": 397,
+    "texture": "d746c26aac16e3880982d1399fb5f9f79913dd616e71654f9bf4d41fb33"
+  },
+  "POLISHED_PEBBLE": {
+    "name": "Polished Pebble",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 318
+  },
+  "SUGAR_CANE_GENERATOR_4": {
+    "name": "Sugar Cane Minion IV",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "fbeac9c599b7d794a79a7879f86b10fb7743ad42c9937954d8ffeedc3ce55122"
+  },
+  "OLD_DRAGON_LEGGINGS": {
+    "name": "Old Dragon Leggings",
+    "tier": "legendary",
+    "category": "leggings",
+    "item_id": 300
+  },
+  "GOLD_NECRON_HEAD": {
+    "name": "Golden Necron Head",
+    "tier": "special",
+    "category": "dungeon helmet",
+    "item_id": 397,
+    "texture": "1669e0b41da4fd58f625bfd140bb5b24f84d56ede6658b68f124478042cdafe6"
+  },
+  "CARPET": {
+    "name": "Carpet",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 171
+  },
+  "SAPLING:2": {
+    "name": "Birch Sapling",
+    "tier": "common",
+    "category": "misc",
+    "damage": 2,
+    "item_id": 6
+  },
+  "SEA_CREATURE_ARTIFACT": {
+    "name": "Sea Creature Artifact",
+    "tier": "rare",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "70a010791cb1c8902c6223207aa44fe9d1f84f3bc8ffb1b4cc3cf5573e056e71"
+  },
+  "STONE_SPADE": {
+    "name": "Stone Shovel",
+    "tier": "common",
+    "category": "shovel",
+    "item_id": 273
+  },
+  "FROZEN_CHICKEN": {
+    "name": "Frozen Chicken",
+    "tier": "rare",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "d61c33024246ed219a1317e2459130f2aed227655e85cf01fc513481236d8dd1"
+  },
+  "HILT_OF_TRUE_ICE": {
+    "name": "Hilt of True Ice",
+    "tier": "legendary",
+    "category": "misc",
+    "item_id": 79
+  },
+  "GOLD_GENERATOR_3": {
+    "name": "Gold Minion III",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "8bd48b17a82d5e395034d01db61c76f13f88da6e5a0b1c1d198fbdb0805a7739"
+  },
+  "NECROMANCER_LORD_LEGGINGS": {
+    "name": "Necromancer Lord Leggings ✪",
+    "tier": "legendary",
+    "category": "dungeon leggings",
+    "item_id": 300
+  },
+  "ENDER_STONE_GENERATOR_11": {
+    "name": "End Stone Minion XI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "35fc7b11e32ead79f7d110d3efb6447a66b387fce79f70fa4ceaaa0e0fe717f5"
+  },
+  "PENGUIN_PERSONALITY": {
+    "name": "Penguin Minion Skin",
+    "tier": "common",
+    "category": "cosmetic",
+    "item_id": 397,
+    "texture": "a67f533f64b5ed4970adb79a8ac33c0d61c6d8043bc9d22e72104644a4a4218b"
+  },
+  "SNOW_GENERATOR_7": {
+    "name": "Snow Minion VII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "e1fd2b30f2ef93785404cf4ca42e6f28755e2935cd3cae910121bfa4327345c1"
+  },
+  "CROWN_OF_GREED": {
+    "name": "Crown of Greed",
+    "tier": "legendary",
+    "category": "helmet",
+    "item_id": 314
+  },
+  "COW_GENERATOR_6": {
+    "name": "Cow Minion VI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "a63ba85ccc57534108199cb2034826d9853e40df3a8edaf6452326b73748e22a"
+  },
+  "BREAD": {
+    "name": "Bread",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 297
+  },
+  "STAINED_GLASS:7": {
+    "name": "Gray Stained Glass",
+    "tier": "common",
+    "category": "misc",
+    "damage": 7,
+    "item_id": 95
+  },
+  "ULTIMATE_CARROT_CANDY_UPGRADE": {
+    "name": "Ultimate Carrot Candy Upgrade",
+    "tier": "special",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "bf1c52cb15dc2a7192b155e52241e7819b565f3a6492cc4df127d2a1c42a"
   }
 }
