@@ -5291,7 +5291,7 @@
   "WITHER_BOW": {
     "name": "Wither Bow",
     "tier": "uncommon",
-    "category": "arco",
+    "category": "bow",
     "item_id": 261
   },
   "SPOOKY_CHESTPLATE": {
@@ -7022,7 +7022,7 @@
   },
   "THEORETICAL_HOE_CANE_3": {
     "name": "Turing Sugar Cane Hoe",
-    "tier": "rare",
+    "tier": "legendary",
     "category": "hoe",
     "item_id": 293
   },
@@ -8350,5 +8350,71 @@
     "category": "misc",
     "damage": 12,
     "item_id": 351
+  },
+  "PERFECT_CHESTPLATE_4": {
+    "name": "Perfect Chestplate - Tier IV ✪✪✪✪✪",
+    "tier": "epic",
+    "category": "dungeon chestplate",
+    "item_id": 311
+  },
+  "STRONG_DRAGON_LEGGINGS": {
+    "name": "Strong Dragon Leggings",
+    "tier": "legendary",
+    "category": "leggings",
+    "item_id": 300
+  },
+  "FLOWER_GENERATOR_6": {
+    "name": "Flower Minion VI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "b8ffa832227440cbd8f218fb20f2cca7f9778024814b4e92bd5112d0a3f4b7f9"
+  },
+  "COAL_GENERATOR_7": {
+    "name": "Coal Minion VII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "2d2f9afcfada866a2918335509b5401d5c56d6902658090ec4ced91fea6bf53a"
+  },
+  "COCOA_GENERATOR_4": {
+    "name": "Cocoa Beans Minion IV",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "5ed37c0b33043212ad9527df957be53f0e0fb08c184648cf0d2a64775fb6b4ec"
+  },
+  "EMBER_LEGGINGS": {
+    "name": "Ember Leggings",
+    "tier": "epic",
+    "category": "leggings",
+    "item_id": 304
+  },
+  "WOLF_PAW": {
+    "name": "Wolf Paw",
+    "tier": "uncommon",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "7afd22704eeb5c67be649ddfe1da0c658158a7058d01739de31c94f6b9808869"
+  },
+  "GOLEM_HAT": {
+    "name": "Golem Hat",
+    "tier": "common",
+    "category": "helmet",
+    "item_id": 397,
+    "texture": "89091d79ea0f59ef7ef94d7bba6e5f17f2f7d4572c44f90f76c4819a714"
+  },
+  "SMALL_HUSBANDRY_SACK": {
+    "name": "Small Husbandry Sack",
+    "tier": "uncommon",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "88e464c1984c00e10c2abfeffbc9a65935c4afda66261b53d6f366ef2042e820"
+  },
+  "REAPER_SCYTHE": {
+    "name": "Reaper Scythe",
+    "tier": "legendary",
+    "category": "sword",
+    "item_id": 293
   }
 }
