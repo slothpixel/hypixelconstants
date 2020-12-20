@@ -1687,7 +1687,7 @@
     "texture": "1a75e8b044c7201a4b2e856be4fc316a5aaec66576169bab5872a88534b80256"
   },
   "BAT_WAND": {
-    "name": "Spirit Sceptre",
+    "name": "Spirit Sceptre ✪✪✪✪✪",
     "tier": "legendary",
     "category": "dungeon sword",
     "damage": 2,
@@ -3765,7 +3765,7 @@
     "item_id": 305
   },
   "NECROMANCER_LORD_CHESTPLATE": {
-    "name": "Necromancer Lord Chestplate ✪✪✪✪✪",
+    "name": "Necromancer Lord Chestplate",
     "tier": "legendary",
     "category": "dungeon chestplate",
     "item_id": 299
@@ -3855,7 +3855,7 @@
     "item_id": 399
   },
   "GLOWSTONE_DUST": {
-    "name": "Светопыль",
+    "name": "Glowstone Dust",
     "tier": "common",
     "category": "misc",
     "item_id": 348
@@ -7963,5 +7963,126 @@
     "category": "misc",
     "item_id": 397,
     "texture": "af072bcf2be6f3c5ffb52d2875e41294f21dd57cee3f428c7986a189714ad79f"
+  },
+  "NETHER_BRICK": {
+    "name": "Nether Bricks",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 112
+  },
+  "STEP:6": {
+    "name": "Nether Brick Slab",
+    "tier": "common",
+    "category": "misc",
+    "damage": 6,
+    "item_id": 44
+  },
+  "LAPIS_GENERATOR_6": {
+    "name": "Lapis Minion VI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "6e5db0956181c801b21e53cd7eb7335941801a0f335b535a7c9afd26022e9e70"
+  },
+  "STEP:1": {
+    "name": "Sandstone Slab",
+    "tier": "common",
+    "category": "misc",
+    "damage": 1,
+    "item_id": 44
+  },
+  "WATCH": {
+    "name": "Clock",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 347
+  },
+  "SNOW_GENERATOR_6": {
+    "name": "Snow Minion VI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "7c53e9ef4aba3a41fe8e03c43e6a310eec022d1089fd9a92f3af8ed8eed4ec03"
+  },
+  "SAND_GENERATOR_1": {
+    "name": "Sand Minion I",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "81f8e2ad021eefd1217e650e848b57622144d2bf8a39fbd50dab937a7eac10de"
+  },
+  "GOLD_PROFESSOR_HEAD": {
+    "name": "Golden Professor Head",
+    "tier": "special",
+    "category": "dungeon helmet",
+    "item_id": 397,
+    "texture": "68ca03d78d157df34e8c42881ff57ea89818367e40e288da7f8b41cca5c1d406"
+  },
+  "SHADOW_FURY": {
+    "name": "Shadow Fury",
+    "tier": "legendary",
+    "category": "dungeon sword",
+    "item_id": 276
+  },
+  "POTATO_GENERATOR_5": {
+    "name": "Potato Minion V",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "2033a6e541525d523fe25da2c68a885ba1c2449362d0b35a68c95b69e8a28c87"
+  },
+  "CARROT_GENERATOR_6": {
+    "name": "Carrot Minion VI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "52bc4e06ec80d34fb5c419d743e7ccf313866a98dbd15d53a83db98a7bff8ff5"
+  },
+  "EMERALD_GENERATOR_5": {
+    "name": "Emerald Minion V",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "dc7c36d02b65e871cc696db42b3ae0cc98670205c8bc90cf96e5f53424cd681e"
+  },
+  "SHEEP_GENERATOR_1": {
+    "name": "Sheep Minion I",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "fd15d4b8bce708f77f963f1b4e87b1b969fef1766a3e9b67b249c59d5e80e8c5"
+  },
+  "BUILDER_BERRY": {
+    "name": "Berry",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "523555b0fd7df59172e92d896e67ad3d8ed14504983de65dff835ed110416a0f"
+  },
+  "DRAGON_NEST_TRAVEL_SCROLL": {
+    "name": "Travel Scroll to Dragon's Nest",
+    "tier": "epic",
+    "category": "travel scroll",
+    "item_id": 395
+  },
+  "BUNNY_JERRY": {
+    "name": "Bunny Jerry",
+    "tier": "rare",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "822d8e751c8f2fd4c8942c44bdb2f5ca4d8ae8e575ed3eb34c18a86e93b"
+  },
+  "PISTON_STICKY_BASE": {
+    "name": "Sticky Piston",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 29
+  },
+  "WOOD_STEP:2": {
+    "name": "Birch Wood Slab",
+    "tier": "common",
+    "category": "misc",
+    "damage": 2,
+    "item_id": 126
   }
 }
