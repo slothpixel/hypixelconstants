@@ -8084,5 +8084,271 @@
     "category": "misc",
     "damage": 2,
     "item_id": 126
+  },
+  "SPIDER_ARTIFACT": {
+    "name": "Spider Artifact",
+    "tier": "epic",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "8300986ed0a04ea79904f6ae53f49ed3a0ff5b1df62bba622ecbd3777f156df8"
+  },
+  "BUILDER_BLUE_CORN": {
+    "name": "Blue Corn",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "fd541581b0d24b1b5ab1dad4f51e383d03b9b0bcb4cf86f1345145468efd1c5a"
+  },
+  "PET_ITEM_FISHING_SKILL_BOOST_EPIC": {
+    "name": "Fishing Exp Boost",
+    "tier": "epic",
+    "category": "pet item",
+    "item_id": 349
+  },
+  "GROWTH_HELMET": {
+    "name": "Helmet of Growth",
+    "tier": "rare",
+    "category": "helmet",
+    "item_id": 298
+  },
+  "GROWTH_CHESTPLATE": {
+    "name": "Chestplate of Growth",
+    "tier": "rare",
+    "category": "chestplate",
+    "item_id": 299
+  },
+  "GROWTH_LEGGINGS": {
+    "name": "Leggings of Growth",
+    "tier": "rare",
+    "category": "leggings",
+    "item_id": 300
+  },
+  "GROWTH_BOOTS": {
+    "name": "Boots of Growth",
+    "tier": "rare",
+    "category": "boots",
+    "item_id": 301
+  },
+  "DOUBLE_PLANT:1": {
+    "name": "Lilac",
+    "tier": "common",
+    "category": "misc",
+    "damage": 1,
+    "item_id": 175
+  },
+  "STRONG_DRAGON_CHESTPLATE": {
+    "name": "Strong Dragon Chestplate",
+    "tier": "legendary",
+    "category": "chestplate",
+    "item_id": 299
+  },
+  "CAKE": {
+    "name": "Cake",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 354
+  },
+  "PIG_GENERATOR_11": {
+    "name": "Pig Minion XI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "9281a6db6bec7d3d5f05f3bbec4eca94ba2073863b0ec2fa853c0c8f28c97629"
+  },
+  "SKULL_ITEM": {
+    "name": "Skeleton Skull",
+    "tier": "rare",
+    "category": "misc",
+    "item_id": 397
+  },
+  "SLIME_BLOCK": {
+    "name": "Slime Block",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 165
+  },
+  "DIAMOND_BOOTS": {
+    "name": "Diamond Boots",
+    "tier": "uncommon",
+    "category": "boots",
+    "item_id": 313
+  },
+  "DIAMOND_CHESTPLATE": {
+    "name": "Diamond Chestplate",
+    "tier": "uncommon",
+    "category": "chestplate",
+    "item_id": 311
+  },
+  "DIAMOND_HELMET": {
+    "name": "Diamond Helmet",
+    "tier": "uncommon",
+    "category": "helmet",
+    "item_id": 310
+  },
+  "GOLDEN_CARROT": {
+    "name": "Golden Carrot",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 396
+  },
+  "TRAINING_DUMMY": {
+    "name": "Training Dummy",
+    "tier": "uncommon",
+    "category": "misc",
+    "item_id": 383
+  },
+  "PERFECT_BOOTS_3": {
+    "name": "Perfect Boots - Tier III",
+    "tier": "rare",
+    "category": "boots",
+    "item_id": 313
+  },
+  "CANDY_RELIC": {
+    "name": "Candy Relic",
+    "tier": "legendary",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "39668767f1141835e2c49ad2b415598f1b166be9173902a0257e77704f913e1f"
+  },
+  "SCARF_GRIMOIRE": {
+    "name": "Scarf's Grimoire",
+    "tier": "legendary",
+    "category": "dungeon accessory",
+    "item_id": 397,
+    "texture": "bafb195cc75f31b619a077b7853653254ac18f220dc32d1412982ff437b4d57a"
+  },
+  "NETHERRACK": {
+    "name": "Netherrack",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 87
+  },
+  "SMOOTH_BRICK:1": {
+    "name": "Mossy Stone Bricks",
+    "tier": "common",
+    "category": "misc",
+    "damage": 1,
+    "item_id": 98
+  },
+  "SMOOTH_BRICK:2": {
+    "name": "Cracked Stone Bricks",
+    "tier": "common",
+    "category": "misc",
+    "damage": 2,
+    "item_id": 98
+  },
+  "DARK_OAK_FENCE": {
+    "name": "Dark Oak Fence",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 191
+  },
+  "ENCHANTED_BONE_BLOCK": {
+    "name": "Enchanted Bone Block",
+    "tier": "rare",
+    "category": "misc",
+    "damage": 1,
+    "item_id": 155
+  },
+  "PERFECT_CHESTPLATE_9": {
+    "name": "Perfect Chestplate - Tier IX",
+    "tier": "legendary",
+    "category": "chestplate",
+    "item_id": 311
+  },
+  "STONE_SWORD": {
+    "name": "Stone Sword",
+    "tier": "common",
+    "category": "sword",
+    "item_id": 272
+  },
+  "TEPID_GREEN_TEA": {
+    "name": "Tepid Green Tea",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "d2168dfc513c31b1e1c2d853e8169015381c8378eee224ae6dbb1e12485e9a98"
+  },
+  "PULPOUS_ORANGE_JUICE": {
+    "name": "Pulpous Orange Juice",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "61b35f7077ecf98ef3eba0f35d93a9813030f9b8b8e426aeb68dab38f1116"
+  },
+  "KNOCKOFF_COLA": {
+    "name": "KnockOff��� Cola",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "c14befd4d3797a8a6ab53ceedebab3c12b7b1f03440bf0085010025c35717628"
+  },
+  "GOLD_SADAN_HEAD": {
+    "name": "Golden Sadan Head",
+    "tier": "special",
+    "category": "dungeon helmet",
+    "item_id": 397,
+    "texture": "5766a0d21d261c878763ca8264cd2dd0b17ecfac342411db07886b078e6cb013"
+  },
+  "CAMPFIRE_TALISMAN_18": {
+    "name": "Campfire Scion Badge",
+    "tier": "epic",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "a3cfd94e925eab4330a768afcae6c128b0a28e23149eee41c9c6df894c24f3de"
+  },
+  "NURSE_SHARK_TOOTH": {
+    "name": "Nurse Shark Tooth",
+    "tier": "uncommon",
+    "category": "misc",
+    "item_id": 370
+  },
+  "TIGER_SHARK_TOOTH": {
+    "name": "Tiger Shark Tooth",
+    "tier": "epic",
+    "category": "misc",
+    "item_id": 370
+  },
+  "LYNX_TALISMAN": {
+    "name": "Lynx Talisman",
+    "tier": "rare",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "12b84e9c79815a39b7be8ce6e91248d71f760f42b5a4de5e266b44b87a952229"
+  },
+  "GLOWSTONE_GENERATOR_5": {
+    "name": "Glowstone Minion V",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "ba8879a5be2d2cc75fcf468054046bc1eb9c61204a66f93991c9ff840a7c57cb"
+  },
+  "SAND_GENERATOR_5": {
+    "name": "Sand Minion V",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "52b94ddeedecce5f90f9d227015dd6071c314cf0234433329e53f5b26b8cf890"
+  },
+  "LAPIS_GENERATOR_3": {
+    "name": "Lapis Minion III",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "2a3915a78c2397f2cef96002391f54c544889c5ced4089eb723d14b0a6f02b08"
+  },
+  "REVENANT_GENERATOR_4": {
+    "name": "Revenant Minion IV",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "e138071b15709fd98c89597abddeefb70bee370fdcce7da9cbfa7275f2421557"
+  },
+  "REFINED_MINERAL": {
+    "name": "Refined Mineral",
+    "tier": "rare",
+    "category": "misc",
+    "damage": 12,
+    "item_id": 351
   }
 }
