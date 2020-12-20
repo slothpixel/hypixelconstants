@@ -1982,7 +1982,7 @@
     "item_id": 300
   },
   "WITHER_HELMET": {
-    "name": "Wither Helmet",
+    "name": "Wither Helmet ✪",
     "tier": "legendary",
     "category": "dungeon helmet",
     "item_id": 397,
@@ -2802,7 +2802,7 @@
     "item_id": 384
   },
   "STONE_BLADE": {
-    "name": "Adaptive Blade",
+    "name": "Adaptive Blade ✪✪✪✪",
     "tier": "epic",
     "category": "dungeon sword",
     "item_id": 272
@@ -3990,7 +3990,7 @@
     "item_id": 109
   },
   "ITEM_SPIRIT_BOW": {
-    "name": "Spirit Bow",
+    "name": "Spirit Bow ✪✪✪✪✪",
     "tier": "legendary",
     "category": "dungeon bow",
     "item_id": 261
@@ -5001,7 +5001,7 @@
   },
   "THEORETICAL_HOE_WARTS_1": {
     "name": "Newton Nether Warts Hoe",
-    "tier": "common",
+    "tier": "uncommon",
     "category": "hoe",
     "item_id": 291
   },
@@ -5427,7 +5427,7 @@
     "texture": "a9559388993fe782f67bd58d98c4df56bcd430edcb2f66ef5777a73c27de3"
   },
   "SUPER_CLEAVER": {
-    "name": "Super Cleaver",
+    "name": "Super Cleaver ✪✪✪✪✪",
     "tier": "rare",
     "category": "dungeon sword",
     "item_id": 283
@@ -5797,9 +5797,9 @@
     "texture": "c2fd8976e1b64aebfd38afbe62aa1429914253df3417ace1f589e5cf45fbd717"
   },
   "WOOD_SWORD": {
-    "name": "木剑",
+    "name": "Wooden Sword",
     "tier": "common",
-    "category": "剑",
+    "category": "sword",
     "item_id": 268
   },
   "ENCHANTMENT_TABLE": {
@@ -8453,5 +8453,60 @@
     "tier": "common",
     "category": "misc",
     "item_id": 405
+  },
+  "HARP": {
+    "name": "Personal Harp",
+    "tier": "epic",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "4d238ccc818ab0c0fdebd07d4a56c353ff5eb541c85d386362161781d1dd74cc"
+  },
+  "ROOKIE_AXE": {
+    "name": "Rookie Axe",
+    "tier": "common",
+    "category": "axe",
+    "item_id": 275
+  },
+  "ENCHANTED_WET_SPONGE": {
+    "name": "Enchanted Wet Sponge",
+    "tier": "rare",
+    "category": "misc",
+    "damage": 1,
+    "item_id": 19
+  },
+  "ZOMBIE_GRAVE": {
+    "name": "Zombie Grave",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "6f7631ab7eb4941ad1c0389d4d051f0918288a52adf0df70a279183a22b12577"
+  },
+  "MOIL_LOG": {
+    "name": "Moil Log",
+    "tier": "uncommon",
+    "category": "reforge stone",
+    "item_id": 397,
+    "texture": "82d1a7efe5d9fafce47e1d8986bb6ef5ce64695f067f8ac9dfbc23b5fb572"
+  },
+  "FISHING_GENERATOR_1": {
+    "name": "Fishing Minion I",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "53ea0fd89524db3d7a3544904933830b4fc8899ef60c113d948bb3c4fe7aabb1"
+  },
+  "CARPET:3": {
+    "name": "Light Blue Carpet",
+    "tier": "common",
+    "category": "misc",
+    "damage": 3,
+    "item_id": 171
+  },
+  "GRIFFIN_UPGRADE_STONE_EPIC": {
+    "name": "Griffin Upgrade Stone",
+    "tier": "legendary",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "8e13952025a2324a666f7edf65358325ac63baa379902e390fc27201463193e7"
   }
 }
