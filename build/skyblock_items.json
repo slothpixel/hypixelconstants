@@ -1993,7 +1993,7 @@
     "item_id": 300
   },
   "WITHER_HELMET": {
-    "name": "Wither Helmet ✪",
+    "name": "Wither Helmet",
     "tier": "legendary",
     "category": "dungeon helmet",
     "item_id": 397,
@@ -3963,11 +3963,11 @@
     "item_id": 38
   },
   "REPELLING_CANDLE": {
-    "name": "Pink Repelling Candle",
+    "name": "White Repelling Candle",
     "tier": "uncommon",
     "category": "misc",
     "item_id": 397,
-    "texture": "9f90ad608ab5f79bdb517ae634b4dc443df6fb6d0b176c11242bf8847b4eb8c"
+    "texture": "787d835b543ed1b02415701ca7b3f8c8a0a112af1318f9cec5a5e91e4814a249"
   },
   "ENCHANTED_GOLD": {
     "name": "Enchanted Gold",
@@ -5018,7 +5018,7 @@
   },
   "THEORETICAL_HOE_WARTS_1": {
     "name": "Newton Nether Warts Hoe",
-    "tier": "uncommon",
+    "tier": "common",
     "category": "hoe",
     "item_id": 291
   },
@@ -6479,7 +6479,7 @@
     "item_id": 152
   },
   "HYPERION": {
-    "name": "Hyperion",
+    "name": "Hyperion ✪✪✪✪",
     "tier": "legendary",
     "category": "dungeon sword",
     "item_id": 267
@@ -6752,7 +6752,7 @@
     "texture": "9899278d0464397dd076408812eef40758f75b1cdb82c04c08c81503453e07e6"
   },
   "GOLD_THORN_HEAD": {
-    "name": "Golden Thorn Head ✪",
+    "name": "Golden Thorn Head",
     "tier": "special",
     "category": "dungeon helmet",
     "item_id": 397,
@@ -7835,5 +7835,133 @@
     "tier": "legendary",
     "category": "dungeon chestplate",
     "item_id": 299
+  },
+  "ENCHANTED_GUNPOWDER": {
+    "name": "Enchanted Gunpowder",
+    "tier": "uncommon",
+    "category": "misc",
+    "item_id": 289
+  },
+  "POWER_WITHER_HELMET": {
+    "name": "Necron's Helmet ✪✪",
+    "tier": "legendary",
+    "category": "dungeon helmet",
+    "item_id": 397,
+    "texture": "2bbb2fa7a6ca087280ea0cb564b41ef1ae404a19f7a8128d3d28c519a85e063f"
+  },
+  "SLIME_GENERATOR_7": {
+    "name": "Slime Minion VII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "7266c128064e202143402ac7caee52392e3b003274c25ad8ac5c6773bf863ca2"
+  },
+  "NETHER_WARTS_GENERATOR_9": {
+    "name": "Nether Wart Minion IX",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "3d8780f780548eb3d7fce773c09e89307a090b175570271808953eb81b5a9d72"
+  },
+  "MAGMA_CUBE_GENERATOR_7": {
+    "name": "Magma Cube Minion VII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "bf77572393b4b420559f17a56cb55f9ec47c3e9958403184699dba27d12f3ef2"
+  },
+  "CREEPER_GENERATOR_8": {
+    "name": "Creeper Minion VIII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "8c0abba2be5c9a93362a7da3231aeea824c5c590bfaaaec78888f1b3d9d32adc"
+  },
+  "MUSHROOM_GENERATOR_7": {
+    "name": "Mushroom Minion VII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "9fd3d54f0eb2570ffd254bcbff3b3c076521ed896118d984fb66db154d4a5466"
+  },
+  "SPEED_ARTIFACT": {
+    "name": "Speed Artifact",
+    "tier": "rare",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "f06706eecb2d558ace27abda0b0b7b801d36d17dd7a890a9520dbe522374f8a6"
+  },
+  "DEVOUR_RING": {
+    "name": "Devour Ring",
+    "tier": "rare",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "8a7d1a52e8c8ddaaf0c428e1fe4901ef33eff251f289de2716395cad20bf309b"
+  },
+  "RAZOR_SHARP_SHARK_TOOTH_NECKLACE": {
+    "name": "Razor-sharp Shark Tooth Necklace",
+    "tier": "legendary",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "7792676664ac711488641f72b25961835613da9ffd43ea3bdd163cb365343a6"
+  },
+  "BONE_BOOMERANG": {
+    "name": "Bonemerang ✪✪",
+    "tier": "legendary",
+    "category": "dungeon arc",
+    "item_id": 352
+  },
+  "STAINED_GLASS_PANE:7": {
+    "name": "Gray Stained Glass Pane",
+    "tier": "common",
+    "category": "misc",
+    "damage": 7,
+    "item_id": 160
+  },
+  "NECRON_BLADE": {
+    "name": "Necron's Blade (Unrefined) ✪",
+    "tier": "legendary",
+    "category": "dungeon sword",
+    "item_id": 267
+  },
+  "STRONG_DRAGON_BOOTS": {
+    "name": "Strong Dragon Boots",
+    "tier": "legendary",
+    "category": "boots",
+    "item_id": 301
+  },
+  "MELON_GENERATOR_11": {
+    "name": "Melon Minion XI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "166a1693eb7764d0c78d683bb53787db6836518de0b5087869df692dc6be942"
+  },
+  "PRISMARINE:1": {
+    "name": "Prismarine Bricks",
+    "tier": "uncommon",
+    "category": "misc",
+    "damage": 1,
+    "item_id": 168
+  },
+  "DARK_OAK_DOOR_ITEM": {
+    "name": "Dark Oak Door",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 431
+  },
+  "SHARP_SHARK_TOOTH_NECKLACE": {
+    "name": "Sharp Shark Tooth Necklace",
+    "tier": "epic",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "228e3fb6bd9887d60434ccd279ec3e59227826c9a2f8dd9ce9899ea6683d4ee8"
+  },
+  "BUILDER_ANCIENT_FRUIT": {
+    "name": "Ancient Fruit",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "af072bcf2be6f3c5ffb52d2875e41294f21dd57cee3f428c7986a189714ad79f"
   }
 }
