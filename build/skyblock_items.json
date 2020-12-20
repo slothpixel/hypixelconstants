@@ -2476,7 +2476,7 @@
     "item_id": 96
   },
   "CANDY_CORN": {
-    "name": "Candy Corn",
+    "name": "Zuckermais",
     "tier": "rare",
     "category": "reforge stone",
     "item_id": 397,
@@ -3883,7 +3883,7 @@
   },
   "ENCHANTED_RABBIT_FOOT": {
     "name": "Enchanted Rabbit Foot",
-    "tier": "epic",
+    "tier": "rare",
     "category": "misc",
     "item_id": 414
   },
@@ -7121,7 +7121,7 @@
   },
   "ADAPTIVE_BOOTS": {
     "name": "Adaptive Boots",
-    "tier": "epic",
+    "tier": "legendary",
     "category": "dungeon boots",
     "item_id": 301
   },
@@ -8508,5 +8508,58 @@
     "category": "misc",
     "item_id": 397,
     "texture": "8e13952025a2324a666f7edf65358325ac63baa379902e390fc27201463193e7"
+  },
+  "FARMING_TALISMAN": {
+    "name": "Farming Talisman",
+    "tier": "common",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "9af328c87b068509aca9834eface197705fe5d4f0871731b7b21cd99b9fddc"
+  },
+  "CARROT_GENERATOR_9": {
+    "name": "Carrot Minion IX",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "42c2ab452b92102b7ba030b81084d000e155beb616a026f95a11c654e96f4e28"
+  },
+  "ENCHANTED_RABBIT_HIDE": {
+    "name": "Enchanted Rabbit Hide",
+    "tier": "rare",
+    "category": "misc",
+    "item_id": 415
+  },
+  "PET_ITEM_FISHING_SKILL_BOOST_UNCOMMON": {
+    "name": "Fishing Exp Boost",
+    "tier": "uncommon",
+    "category": "pet item",
+    "item_id": 349
+  },
+  "BAIT_RING": {
+    "name": "Bait Ring",
+    "tier": "rare",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "5a316d585b789b582f2d99e8e6cb2d70433e8996fab024a74bc790e22aedcdeb"
+  },
+  "SUPERIOR_DRAGON_LEGGINGS": {
+    "name": "Superior Dragon Leggings",
+    "tier": "legendary",
+    "category": "leggings",
+    "item_id": 300
+  },
+  "LEAVES_2:1": {
+    "name": "Dark Oak Leaves",
+    "tier": "common",
+    "category": "misc",
+    "damage": 1,
+    "item_id": 161
+  },
+  "BEASTMASTER_CREST_COMMON": {
+    "name": "Beastmaster Crest",
+    "tier": "common",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "53415667de3fb89c5f40c880c39e4971a0caa7f3a9d2c8f712ba37fadcee"
   }
 }
