@@ -1114,7 +1114,7 @@
     "item_id": 280
   },
   "COAL_BLOCK": {
-    "name": "Угольный блок",
+    "name": "Block of Coal",
     "tier": "common",
     "category": "misc",
     "item_id": 173
@@ -2606,7 +2606,7 @@
     "item_id": 81
   },
   "MENDER_HELMET": {
-    "name": "Mender Helmet ✪✪✪✪✪",
+    "name": "Mender Helmet",
     "tier": "rare",
     "category": "dungeon helmet",
     "item_id": 397,
@@ -4318,7 +4318,7 @@
     "item_id": 276
   },
   "SUPER_UNDEAD_BOW": {
-    "name": "Super Undead Bow ✪✪✪",
+    "name": "Super Undead Bow ✪✪✪✪✪",
     "tier": "epic",
     "category": "dungeon bow",
     "item_id": 261
@@ -4693,9 +4693,9 @@
     "item_id": 171
   },
   "PHANTOM_ROD": {
-    "name": "Phantom Rod",
+    "name": "Phantom Rod ✪✪✪✪",
     "tier": "legendary",
-    "category": "fishing weapon",
+    "category": "dungeon fishing weapon",
     "item_id": 346
   },
   "TAIGA_BIOME_STICK": {
@@ -4819,7 +4819,7 @@
   "CLEAVER": {
     "name": "Cleaver",
     "tier": "uncommon",
-    "category": "sword",
+    "category": "劍",
     "item_id": 283
   },
   "ENCHANTED_BREAD": {
@@ -6669,7 +6669,7 @@
     "texture": "2ebadb1725aa85bb2810d0b73bf7cd74db3d9d8fc61c4cf9e543dbcc199187cc"
   },
   "TANK_WITHER_CHESTPLATE": {
-    "name": "Goldor's Chestplate ✪✪✪",
+    "name": "Goldor's Chestplate",
     "tier": "legendary",
     "category": "dungeon chestplate",
     "item_id": 299
@@ -7661,5 +7661,179 @@
     "category": "misc",
     "item_id": 397,
     "texture": "83c25a7a188196b18717264ffe837ca348cf719e827179edc4b78cbcb8c7dd8"
+  },
+  "NIGHT_CRYSTAL": {
+    "name": "Night Crystal",
+    "tier": "rare",
+    "category": "accessory",
+    "item_id": 399
+  },
+  "JUNGLE_FENCE_GATE": {
+    "name": "Jungle Fence Gate",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 185
+  },
+  "PRISMARINE_BLADE": {
+    "name": "Prismarine Blade",
+    "tier": "uncommon",
+    "category": "sword",
+    "item_id": 409
+  },
+  "CACTUS_GENERATOR_9": {
+    "name": "Cactus Minion IX",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "5a03ed5566128ca6d7911e2e1614450e28372e2b0513327689e183168edc5711"
+  },
+  "PET_ITEM_FARMING_SKILL_BOOST_EPIC": {
+    "name": "Farming Exp Boost",
+    "tier": "epic",
+    "category": "pet item",
+    "item_id": 292
+  },
+  "LEAVES:1": {
+    "name": "Spruce Leaves",
+    "tier": "common",
+    "category": "misc",
+    "damage": 1,
+    "item_id": 18
+  },
+  "TREASURE_ARTIFACT": {
+    "name": "Treasure Artifact",
+    "tier": "legendary",
+    "category": "dungeon accessory",
+    "item_id": 397,
+    "texture": "e10f20a55b6e188ebe7578459b64a6fbd825067bc497b925ca43c2643d059025"
+  },
+  "SNOW_GENERATOR_10": {
+    "name": "Snow Minion X",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "f2c498b33325cce5668a3395a262046412cfd4844b8d86ddaeb9c84e940e2af"
+  },
+  "NECROMANCER_LORD_HELMET": {
+    "name": "Necromancer Lord Helmet",
+    "tier": "legendary",
+    "category": "dungeon helmet",
+    "item_id": 397,
+    "texture": "852f92694ad81e6358b43072aaef25f8e0099184bb4c7fd388e4adf70acc7e0f"
+  },
+  "PUMPKIN_HELMET": {
+    "name": "Pumpkin Helmet",
+    "tier": "common",
+    "category": "helmet",
+    "item_id": 298
+  },
+  "COAL_GENERATOR_8": {
+    "name": "Coal Minion VIII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "1292ecec3b09fbbdffc07fbe7e17fa10b1ff82a6956744e3fa35c7eb75124a98"
+  },
+  "SUGAR_CANE_GENERATOR_9": {
+    "name": "Sugar Cane Minion IX",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "49b33dad5234dc354a84f9217daf22684b58d80058de05c785f992f0b226590a"
+  },
+  "ACACIA_GENERATOR_9": {
+    "name": "Acacia Minion IX",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "2f0b33a2ab3e165a193d33e148f61384d01ed45d9edabbf1e55a3016ccd991f5"
+  },
+  "ICE_GENERATOR_9": {
+    "name": "Ice Minion IX",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "21cb422b9e633e0700692ae573c5f63a838ebc771a209a5e0cc3cba4c56f746f"
+  },
+  "CAVESPIDER_GENERATOR_8": {
+    "name": "Cave Spider Minion VIII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "5c4ec7d3c5084a5c91bdf3fba196a1d12d5bf71049b61b97dd1c5854617a41cf"
+  },
+  "SPIDER_GENERATOR_9": {
+    "name": "Spider Minion IX",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "fe3869503b7fdeaa063351fd3579dbaf6fd3592bd4c30bac1058c9367c6a3823"
+  },
+  "SALMON_CHESTPLATE": {
+    "name": "Salmon Chestplate",
+    "tier": "epic",
+    "category": "chestplate",
+    "item_id": 299
+  },
+  "MELON_BLOCK": {
+    "name": "Melon",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 103
+  },
+  "SKELETON_GENERATOR_8": {
+    "name": "Skeleton Minion VIII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "1a81a52e837daa71fd05c9e4c37a9cad2e722f96779b574127072d30a98af582"
+  },
+  "JUNGLE_GENERATOR_9": {
+    "name": "Jungle Minion IX",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "a4bbeb118757923d36871c835779aa71f8790931f64e64f2942ad3306aee59ad"
+  },
+  "GRAVEL_GENERATOR_7": {
+    "name": "Gravel Minion VII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "d092f7535b5d091cc3d3f0a343be5d46f16466ae9344b0cac452f3435f00996a"
+  },
+  "BIRCH_GENERATOR_8": {
+    "name": "Birch Minion VIII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "8f85e3656474430d5cca86f73c474aa647d78594791fcd5acb8d637f60133164"
+  },
+  "IRON_GENERATOR_8": {
+    "name": "Iron Minion VIII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "7e5ea57f0fb1f58a68746b5a6e93b8491528d09ba07b586b73a43ae05638ad0c"
+  },
+  "ZOMBIE_GENERATOR_9": {
+    "name": "Zombie Minion IX",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "fcbf17681e579f00d65f978c0b50915aaf2d5f609da7d9ab156cb6f092b88840"
+  },
+  "SPRUCE_GENERATOR_9": {
+    "name": "Spruce Minion IX",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "999cbe069cd5fc2368e41c9dd073d1aedaa8e5465276d4b8852ac5a917bbdda8"
+  },
+  "STARRED_SHADOW_ASSASSIN_CHESTPLATE": {
+    "name": "⚚ Shadow Assassin Chestplate ✪✪✪",
+    "tier": "legendary",
+    "category": "dungeon chestplate",
+    "item_id": 299
   }
 }
