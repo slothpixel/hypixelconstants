@@ -4230,7 +4230,7 @@
   "YETI_ROD": {
     "name": "Yeti Rod",
     "tier": "epic",
-    "category": "angel",
+    "category": "fishing rod",
     "item_id": 346
   },
   "PET_ITEM_IRON_CLAWS_COMMON": {
@@ -4537,7 +4537,7 @@
   },
   "THEORETICAL_HOE_CANE_1": {
     "name": "Turing Sugar Cane Hoe",
-    "tier": "uncommon",
+    "tier": "common",
     "category": "hoe",
     "item_id": 291
   },
@@ -5928,7 +5928,7 @@
   },
   "SHADOW_ASSASSIN_CHESTPLATE": {
     "name": "Shadow Assassin Chestplate",
-    "tier": "epic",
+    "tier": "legendary",
     "category": "dungeon chestplate",
     "item_id": 299
   },
@@ -6462,7 +6462,7 @@
     "item_id": 152
   },
   "HYPERION": {
-    "name": "Hyperion ✪✪✪✪",
+    "name": "Hyperion ✪✪✪",
     "tier": "legendary",
     "category": "dungeon sword",
     "item_id": 267
@@ -7902,7 +7902,7 @@
     "item_id": 160
   },
   "NECRON_BLADE": {
-    "name": "Necron's Blade (Unrefined) ✪",
+    "name": "Necron's Blade (Unrefined)",
     "tier": "legendary",
     "category": "dungeon sword",
     "item_id": 267
@@ -8561,5 +8561,51 @@
     "category": "accessory",
     "item_id": 397,
     "texture": "53415667de3fb89c5f40c880c39e4971a0caa7f3a9d2c8f712ba37fadcee"
+  },
+  "SUGAR_CANE_GENERATOR_6": {
+    "name": "Sugar Cane Minion VI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "ca9351b61e93840264f5cc6c6b5a882111ae58a404f3bbbe455e07bf868d3975"
+  },
+  "DESERT_BIOME_STICK": {
+    "name": "Desert Biome Stick",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 280
+  },
+  "DUNGEON_WIZARD_CRYSTAL": {
+    "name": "Wizard's Crystal",
+    "tier": "rare",
+    "category": "dungeon item",
+    "item_id": 397,
+    "texture": "403343c2dd7eedc887dc6af2b70aee0cfb1511524df34ee4f1414d954a9e7a7d"
+  },
+  "STAINED_CLAY:10": {
+    "name": "Purple Hardened Clay",
+    "tier": "common",
+    "category": "misc",
+    "damage": 10,
+    "item_id": 159
+  },
+  "STAINED_CLAY:1": {
+    "name": "Orange Hardened Clay",
+    "tier": "common",
+    "category": "misc",
+    "damage": 1,
+    "item_id": 159
+  },
+  "FLOWER_POT_ITEM": {
+    "name": "Flower Pot",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 390
+  },
+  "MAGMA_BUCKET": {
+    "name": "Magma Bucket",
+    "tier": "legendary",
+    "category": "misc",
+    "item_id": 327
   }
 }
