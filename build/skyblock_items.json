@@ -1061,7 +1061,7 @@
   "BONZO_STAFF": {
     "name": "Bonzo's Staff",
     "tier": "rare",
-    "category": "dungeon sword",
+    "category": "dungeon espada",
     "item_id": 369
   },
   "ICE": {
@@ -1742,7 +1742,7 @@
   "SCARF_STUDIES": {
     "name": "Scarf's Studies",
     "tier": "rare",
-    "category": "accessory",
+    "category": "dungeon accessory",
     "item_id": 397,
     "texture": "6de4ab129e137f9f4cbf7060318ee1748dc39da9b5d129a8da0e614e2337693"
   },
@@ -3691,7 +3691,7 @@
     "item_id": 310
   },
   "STARRED_BONZO_MASK": {
-    "name": "⚚ Bonzo's Mask ✪✪✪✪✪",
+    "name": "⚚ Bonzo's Mask",
     "tier": "rare",
     "category": "dungeon helmet",
     "item_id": 397,
@@ -7515,5 +7515,151 @@
     "category": "misc",
     "item_id": 397,
     "texture": "bf1c52cb15dc2a7192b155e52241e7819b565f3a6492cc4df127d2a1c42a"
+  },
+  "WHEAT_GENERATOR_8": {
+    "name": "Wheat Minion VIII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "efe4b6553a3d0f764a20624f4ab256792167e5fc3b75b31b59732325a316f162"
+  },
+  "THEORETICAL_HOE_WARTS_3": {
+    "name": "Newton Nether Warts Hoe",
+    "tier": "legendary",
+    "category": "hoe",
+    "item_id": 293
+  },
+  "UNSTABLE_BABY": {
+    "name": "Baby Skin",
+    "tier": "epic",
+    "category": "cosmetic",
+    "item_id": 397,
+    "texture": "42a023636a7f0300a74cc50d3e4dbb81a7bc1485f0daf6e9a7c0f4d8a2e3a18f"
+  },
+  "GHAST_GENERATOR_10": {
+    "name": "Ghast Minion X",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "4013d128e7116812388b789ec641d31d48bf10aa862f7d63d2b4fc0a03d147a2"
+  },
+  "REVENANT_VISCERA": {
+    "name": "Revenant Viscera",
+    "tier": "rare",
+    "category": "misc",
+    "item_id": 320
+  },
+  "STAINED_GLASS_PANE:8": {
+    "name": "Light Gray Stained Glass Pane",
+    "tier": "common",
+    "category": "misc",
+    "damage": 8,
+    "item_id": 160
+  },
+  "TRUE_ESSENCE": {
+    "name": "True Essence",
+    "tier": "common",
+    "category": "misc",
+    "damage": 8,
+    "item_id": 351
+  },
+  "FISHING_GENERATOR_5": {
+    "name": "Fishing Minion V",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "5eb079ce77840f08fb170aad0a89827695d92a6ccca5977f48c43fe931fd22f7"
+  },
+  "ENCHANTED_RAW_BEEF": {
+    "name": "Enchanted Raw Beef",
+    "tier": "uncommon",
+    "category": "misc",
+    "item_id": 363
+  },
+  "ZOMBIE_GENERATOR_4": {
+    "name": "Zombie Minion IV",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "bfbec1bd0fe3b71b9da9d7666fd6bbde341b4c481e8563fddf61f4ee52f7cd1b"
+  },
+  "ICE_GENERATOR_4": {
+    "name": "Ice Minion IV",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "79579614fdaa24d6b2136a164c23e7ef082d3dee751c2e37e096d48bef028272"
+  },
+  "ENDER_STONE_GENERATOR_4": {
+    "name": "End Stone Minion IV",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "fd40b308f1ca5b1188618c45a3de05b068d9cafba7039aa06d2bc5b9c6751cea"
+  },
+  "FURNACE": {
+    "name": "Furnace",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 61
+  },
+  "PET_ITEM_SHARPENED_CLAWS_UNCOMMON": {
+    "name": "Sharpened Claws",
+    "tier": "uncommon",
+    "category": "pet item",
+    "item_id": 409
+  },
+  "TALISMAN_ENRICHMENT_SWAPPER": {
+    "name": "Accessory Enrichment Swapper",
+    "tier": "special",
+    "category": "misc",
+    "item_id": 404
+  },
+  "HYPER_CLEAVER": {
+    "name": "Hyper Cleaver ✪✪",
+    "tier": "epic",
+    "category": "dungeon sword",
+    "item_id": 283
+  },
+  "MINE_TALISMAN": {
+    "name": "Mine Affinity Talisman",
+    "tier": "common",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "d9563fdc4acab6db324b21bc43b238fe465e530a6327e7eef11d2d0c4ea"
+  },
+  "VILLAGE_TALISMAN": {
+    "name": "Village Affinity Talisman",
+    "tier": "common",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "9c11d6c79b8a1f18902d783cdda4bdfb9d47337b73791028a126a6e6cf101def"
+  },
+  "ZOMBIE_TALISMAN": {
+    "name": "Zombie Talisman",
+    "tier": "common",
+    "category": "accessory",
+    "damage": 2,
+    "item_id": 397
+  },
+  "SKELETON_TALISMAN": {
+    "name": "Skeleton Talisman",
+    "tier": "common",
+    "category": "accessory",
+    "item_id": 397
+  },
+  "SKELETON_GENERATOR_4": {
+    "name": "Skeleton Minion IV",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "5b2df127315a583e767c6116f9c6ccdb887dc71fbe36ff30e0c4533db2c8514e"
+  },
+  "EASTER_BASKET": {
+    "name": "Easter Basket",
+    "tier": "rare",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "83c25a7a188196b18717264ffe837ca348cf719e827179edc4b78cbcb8c7dd8"
   }
 }
