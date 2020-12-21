@@ -2522,7 +2522,7 @@
     "item_id": 2265
   },
   "POWER_WITHER_BOOTS": {
-    "name": "Necron's Boots",
+    "name": "Necron's Boots ✪",
     "tier": "legendary",
     "category": "dungeon boots",
     "item_id": 301
@@ -8822,5 +8822,11 @@
     "category": "misc",
     "item_id": 397,
     "texture": "9788f69ebdb3030054feff365e689bb5b10a867f52f9873bc952fc26b54d48ff"
+  },
+  "STONE_CHESTPLATE": {
+    "name": "Stone Chestplate",
+    "tier": "rare",
+    "category": "dungeon chestplate",
+    "item_id": 299
   }
 }
