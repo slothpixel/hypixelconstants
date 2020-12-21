@@ -8846,5 +8846,73 @@
     "tier": "epic",
     "category": "accessory",
     "item_id": 287
+  },
+  "PET_ITEM_ALL_SKILLS_BOOST_COMMON": {
+    "name": "All Skills Exp Boost",
+    "tier": "common",
+    "category": "pet item",
+    "item_id": 264
+  },
+  "SUPERIOR_DRAGON_BOOTS": {
+    "name": "Superior Dragon Boots",
+    "tier": "legendary",
+    "category": "boots",
+    "item_id": 301
+  },
+  "GRIZZLY_BAIT": {
+    "name": "Grizzly Bait",
+    "tier": "rare",
+    "category": "misc",
+    "damage": 1,
+    "item_id": 349
+  },
+  "HEAT_CORE": {
+    "name": "Heat Core",
+    "tier": "special",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "59358703ab7727df3324336969e81d6f92b7aa79edb966c0be91ab161bad1f01"
+  },
+  "SKELETON_GENERATOR_11": {
+    "name": "Skeleton Minion XI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "576255c781ebfb719d28f904813f69e20541d697f88bc6d96a6d4aa05b0fbc22"
+  },
+  "ZOMBIE_GENERATOR_11": {
+    "name": "Zombie Minion XI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "6699ff5ce9a0f5032340596f6b2dd6ac7028fc7cc5b943d4c1fc2d3749fedcd6"
+  },
+  "PUMPKIN_GENERATOR_11": {
+    "name": "Pumpkin Minion XI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "4c6a48f079ef70d84df10332bb0f2bf038d8e0e82ac36734823fb4b4a50705e4"
+  },
+  "NETHER_WARTS_GENERATOR_11": {
+    "name": "Nether Wart Minion XI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "79d99c73e1f9a5376bd697c7ccbe3844f762a2b196fa72a5831988747aaacfa"
+  },
+  "CHICKEN_GENERATOR_4": {
+    "name": "Chicken Minion IV",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "c968476a306df54c26053b639de69e1473b5b453a4f84cf371f675ba794314da"
+  },
+  "GRAVEL_GENERATOR_4": {
+    "name": "Gravel Minion IV",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "ef5b6973f41305d2b41aa82b94ef3b95e05e943e4cd4f793ca59278c46cbb985"
   }
 }
