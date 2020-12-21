@@ -6627,7 +6627,7 @@
     "texture": "c0e9118bcebf481394132a5111fcbcd9981b9a99504923b04794912660e22cea"
   },
   "GIANTS_SWORD": {
-    "name": "Giant's Sword",
+    "name": "Giant's Sword ✪✪✪✪✪",
     "tier": "legendary",
     "category": "dungeon sword",
     "item_id": 267
@@ -8914,5 +8914,24 @@
     "category": "misc",
     "item_id": 397,
     "texture": "ef5b6973f41305d2b41aa82b94ef3b95e05e943e4cd4f793ca59278c46cbb985"
+  },
+  "OBSIDIAN_GENERATOR_6": {
+    "name": "Obsidian Minion VI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "7c124351bd2da2312d261574fb578594c18720ac9c9d9edfdb57754b7340bd27"
+  },
+  "SHOWCASE_BLOCK": {
+    "name": "Showcase Block",
+    "tier": "uncommon",
+    "category": "misc",
+    "item_id": 20
+  },
+  "PLASMA_BUCKET": {
+    "name": "Plasma Bucket",
+    "tier": "mythic",
+    "category": "misc",
+    "item_id": 327
   }
 }
