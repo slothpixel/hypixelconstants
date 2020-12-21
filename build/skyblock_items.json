@@ -8659,5 +8659,56 @@
     "category": "misc",
     "damage": 2,
     "item_id": 160
+  },
+  "IRON_FENCE": {
+    "name": "Iron Bars",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 101
+  },
+  "NETHER_BRICK_STAIRS": {
+    "name": "Nether Bricks Stairs",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 114
+  },
+  "WEDDING_RING_5": {
+    "name": "Refined Ring of Love",
+    "tier": "rare",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "8fb265c8cc6136063b4eb15450fe1fe1ab7738b0bf54d265490e1ef49da60b7c"
+  },
+  "LONG_GRASS": {
+    "name": "Shrub",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 31
+  },
+  "STAINED_CLAY:14": {
+    "name": "Red Hardened Clay",
+    "tier": "common",
+    "category": "misc",
+    "damage": 14,
+    "item_id": 159
+  },
+  "STARRED_LAST_BREATH": {
+    "name": "⚚ Last Breath ✪✪✪✪✪",
+    "tier": "legendary",
+    "category": "dungeon bow",
+    "item_id": 261
+  },
+  "WOOD_BUTTON": {
+    "name": "Wooden Button",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 143
+  },
+  "POTATO_GENERATOR_11": {
+    "name": "Potato Minion XI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "57441fa19d89d5df902c07586c084f1b00c4ca06ca4cc2ec5b6230d1a5199811"
   }
 }
