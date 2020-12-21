@@ -8768,5 +8768,59 @@
     "category": "reforge stone",
     "item_id": 397,
     "texture": "d01930cdb6d797da1b31e41dbdb36b34ce9728ffa3f8c1e39728a10b37196b47"
+  },
+  "SUPER_EGG": {
+    "name": "Super Enchanted Egg",
+    "tier": "rare",
+    "category": "misc",
+    "item_id": 383
+  },
+  "COBBLESTONE_GENERATOR_1": {
+    "name": "Cobblestone Minion I",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "2f93289a82bd2a06cbbe61b733cfdc1f1bd93c4340f7a90abd9bdda774109071"
+  },
+  "GRAVITY_TALISMAN": {
+    "name": "Gravity Talisman",
+    "tier": "uncommon",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "ba52632a9c8f7bde94719064234920ded48614e2bd8bc91afe7ffc2cd8a46f19"
+  },
+  "ETERNAL_HOOF": {
+    "name": "Eternal Hoof",
+    "tier": "rare",
+    "category": "accessory",
+    "item_id": 418
+  },
+  "WHEAT_GENERATOR_1": {
+    "name": "Wheat Minion I",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "bbc571c5527336352e2fee2b40a9edfa2e809f64230779aa01253c6aa535881b"
+  },
+  "ENDERMAN_GENERATOR_6": {
+    "name": "Enderman Minion VI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "89f50d3955bec550def51df0e4e143cda3d71314f9a7288dd92e0079605b5363"
+  },
+  "ENDERMAN_GENERATOR_5": {
+    "name": "Enderman Minion V",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "9dd3f4532c428d0589bac809463b76e15e6fa31bccd2d5e350aa7d506b792904"
+  },
+  "POTATO_GENERATOR_8": {
+    "name": "Potato Minion VIII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "9788f69ebdb3030054feff365e689bb5b10a867f52f9873bc952fc26b54d48ff"
   }
 }
