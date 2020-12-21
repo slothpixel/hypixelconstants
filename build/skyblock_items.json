@@ -8828,5 +8828,23 @@
     "tier": "rare",
     "category": "dungeon chestplate",
     "item_id": 299
+  },
+  "HOLY_DRAGON_LEGGINGS": {
+    "name": "Holy Dragon Leggings",
+    "tier": "legendary",
+    "category": "leggings",
+    "item_id": 300
+  },
+  "BED": {
+    "name": "Bed",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 355
+  },
+  "MELODY_HAIR": {
+    "name": "♪ Melody's Hair ♫",
+    "tier": "epic",
+    "category": "accessory",
+    "item_id": 287
   }
 }
