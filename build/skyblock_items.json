@@ -5551,7 +5551,7 @@
     "texture": "fb2cfdad77fb027ede854bcd14ee5c0b4133aa25bf4c444789782c89acd00593"
   },
   "MENDER_FEDORA": {
-    "name": "Mender Fedora ✪✪✪✪",
+    "name": "Mender Fedora ✪✪✪✪✪",
     "tier": "epic",
     "category": "dungeon helmet",
     "item_id": 397,
@@ -7309,7 +7309,7 @@
     "texture": "af41cc2250d2f5cfcf4384aa0cf3e23c19767549a2a8abd7532bd52c5a1de"
   },
   "ANVIL": {
-    "name": "铁砧",
+    "name": "Anvil",
     "tier": "common",
     "category": "misc",
     "item_id": 145
@@ -8710,5 +8710,63 @@
     "category": "misc",
     "item_id": 397,
     "texture": "57441fa19d89d5df902c07586c084f1b00c4ca06ca4cc2ec5b6230d1a5199811"
+  },
+  "ENCHANTED_MUTTON": {
+    "name": "Enchanted Mutton",
+    "tier": "uncommon",
+    "category": "misc",
+    "item_id": 423
+  },
+  "ICE_GENERATOR_11": {
+    "name": "Ice Minion XI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "5ef40b76cca1e4bcd2cbda5bc61bc982a519a2df5170662ea889bf0d95aa2c1b"
+  },
+  "WHEAT_ISLAND_CRYSTAL": {
+    "name": "Wheat Crystal",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "9265f96f54b78885c46e7d2f86b1c1dbfe643c6060fc7fcc9834c3e3fd595135"
+  },
+  "EMERALD_ORE": {
+    "name": "Emerald Ore",
+    "tier": "uncommon",
+    "category": "misc",
+    "item_id": 129
+  },
+  "COAL_ORE": {
+    "name": "Coal Ore",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 16
+  },
+  "REDSTONE_ORE": {
+    "name": "Redstone Ore",
+    "tier": "uncommon",
+    "category": "misc",
+    "item_id": 73
+  },
+  "QUARTZ_ORE": {
+    "name": "Nether Quartz Ore",
+    "tier": "uncommon",
+    "category": "misc",
+    "item_id": 153
+  },
+  "STAINED_CLAY:2": {
+    "name": "Magenta Hardened Clay",
+    "tier": "common",
+    "category": "misc",
+    "damage": 2,
+    "item_id": 159
+  },
+  "BLESSED_FRUIT": {
+    "name": "Blessed Fruit",
+    "tier": "epic",
+    "category": "reforge stone",
+    "item_id": 397,
+    "texture": "d01930cdb6d797da1b31e41dbdb36b34ce9728ffa3f8c1e39728a10b37196b47"
   }
 }
