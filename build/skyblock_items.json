@@ -7323,9 +7323,9 @@
     "texture": "bde647431a27149bf3f462a22515863af6c36532c1f66668688131ca11453fd1"
   },
   "PERFECT_CHESTPLATE_1": {
-    "name": "Perfect Chestplate - Tier I ✪",
+    "name": "Perfect Chestplate - Tier I",
     "tier": "rare",
-    "category": "dungeon chestplate",
+    "category": "chestplate",
     "item_id": 311
   },
   "SNOWFLAKE_THE_FISH": {
@@ -7369,7 +7369,7 @@
     "texture": "1669e0b41da4fd58f625bfd140bb5b24f84d56ede6658b68f124478042cdafe6"
   },
   "CARPET": {
-    "name": "Carpet",
+    "name": "Ковёр",
     "tier": "common",
     "category": "misc",
     "item_id": 171
@@ -7483,7 +7483,7 @@
   },
   "THEORETICAL_HOE_WARTS_3": {
     "name": "Newton Nether Warts Hoe",
-    "tier": "legendary",
+    "tier": "rare",
     "category": "hoe",
     "item_id": 293
   },
@@ -9160,5 +9160,105 @@
     "tier": "epic",
     "category": "dungeon leggings",
     "item_id": 300
+  },
+  "STAINED_GLASS_PANE:11": {
+    "name": "Blue Stained Glass Pane",
+    "tier": "common",
+    "category": "misc",
+    "damage": 11,
+    "item_id": 160
+  },
+  "CLAY_GENERATOR_10": {
+    "name": "Clay Minion X",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "b1655ad07817ef1e71c9b82024648340f0e46a3254857e1c7fee2a1eb2eaab41"
+  },
+  "REDSTONE_GENERATOR_6": {
+    "name": "Redstone Minion VI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "9cfd7010be9a08edd1e91c4203fccff6ddf71e680e4dfb4d32c38dee99d4a389"
+  },
+  "TARANTULA_GENERATOR_5": {
+    "name": "Tarantula Minion V",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "f78b57faf9b4935932b749e10a2fff66532fecdede5a4e58f80d6f6ace2ed7ed"
+  },
+  "WISE_DRAGON_BOOTS": {
+    "name": "Wise Dragon Boots",
+    "tier": "legendary",
+    "category": "boots",
+    "item_id": 301
+  },
+  "CHAINMAIL_BOOTS": {
+    "name": "Chainmail Boots",
+    "tier": "uncommon",
+    "category": "boots",
+    "item_id": 305
+  },
+  "FARMER_ORB": {
+    "name": "Farmer Orb",
+    "tier": "uncommon",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "73b172a979eff9bf5bfb80eb8515d93e4888cc41cd806473f2a9a0d8bd29e3"
+  },
+  "STAINED_GLASS:10": {
+    "name": "Фиолетовое стекло",
+    "tier": "common",
+    "category": "misc",
+    "damage": 10,
+    "item_id": 95
+  },
+  "STAINED_GLASS_PANE:10": {
+    "name": "Фиолетовая стеклянная панель",
+    "tier": "common",
+    "category": "misc",
+    "damage": 10,
+    "item_id": 160
+  },
+  "SPIDER_GENERATOR_6": {
+    "name": "Spider Minion VI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "dc785f2b1cca983928b0fe8ceb700660365b757e93a42a6651a937df773c70af"
+  },
+  "PROTECTOR_DRAGON_LEGGINGS": {
+    "name": "Protector Dragon Leggings",
+    "tier": "legendary",
+    "category": "leggings",
+    "item_id": 300
+  },
+  "HEALING_RING": {
+    "name": "Healing Ring",
+    "tier": "uncommon",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "879fe7543ca1d5855e961514cff7e2728d2740ca3c33320d84dd053aea5dcb7d"
+  },
+  "BIRCH_FENCE_GATE": {
+    "name": "Birch Fence Gate",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 184
+  },
+  "BOOK_AND_QUILL": {
+    "name": "Book and Quill",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 386
+  },
+  "FISHING_GENERATOR_4": {
+    "name": "Fishing Minion IV",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "cdfb98800f7d01c56744fa116d2275090a337334f6f884230522f8ea3964c9e0"
   }
 }
