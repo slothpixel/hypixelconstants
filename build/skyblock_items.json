@@ -3921,11 +3921,11 @@
     "item_id": 38
   },
   "REPELLING_CANDLE": {
-    "name": "White Repelling Candle",
+    "name": "Pink Repelling Candle",
     "tier": "uncommon",
     "category": "misc",
     "item_id": 397,
-    "texture": "787d835b543ed1b02415701ca7b3f8c8a0a112af1318f9cec5a5e91e4814a249"
+    "texture": "9f90ad608ab5f79bdb517ae634b4dc443df6fb6d0b176c11242bf8847b4eb8c"
   },
   "ENCHANTED_GOLD": {
     "name": "Enchanted Gold",
@@ -5526,7 +5526,7 @@
     "texture": "fb2cfdad77fb027ede854bcd14ee5c0b4133aa25bf4c444789782c89acd00593"
   },
   "MENDER_FEDORA": {
-    "name": "Mender Fedora ✪✪✪✪✪",
+    "name": "Mender Fedora",
     "tier": "epic",
     "category": "dungeon helmet",
     "item_id": 397,
@@ -7415,7 +7415,7 @@
     "texture": "8bd48b17a82d5e395034d01db61c76f13f88da6e5a0b1c1d198fbdb0805a7739"
   },
   "NECROMANCER_LORD_LEGGINGS": {
-    "name": "Necromancer Lord Leggings ✪",
+    "name": "Necromancer Lord Leggings",
     "tier": "legendary",
     "category": "dungeon leggings",
     "item_id": 300
@@ -9393,5 +9393,63 @@
     "category": "misc",
     "item_id": 397,
     "texture": "8959d9c639b20b294cf6cd0726422092682e762d3991ddac39d92cdc60334103"
+  },
+  "GLOWSTONE_GENERATOR_3": {
+    "name": "Glowstone Minion III",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "7b21d7757c8ae382432b606b26ce7854f6c1555e668444ed0eecc2faab55a37d"
+  },
+  "CLAY_GENERATOR_3": {
+    "name": "Clay Minion III",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "fd4ffcb5df4ef82fc07bc7585474c97fc0f2bf59022ffd6c2606b4675f8aaa42"
+  },
+  "REFORGE_ANVIL": {
+    "name": "Reforge Anvil",
+    "tier": "epic",
+    "category": "dungeon item",
+    "item_id": 145
+  },
+  "STAINED_GLASS:5": {
+    "name": "Lime Stained Glass",
+    "tier": "common",
+    "category": "misc",
+    "damage": 5,
+    "item_id": 95
+  },
+  "PRISMARINE": {
+    "name": "Prismarine",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 168
+  },
+  "STONE_PLATE": {
+    "name": "Stone Pressure Plate",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 70
+  },
+  "SUGAR": {
+    "name": "Sugar",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 353
+  },
+  "WOOL:8": {
+    "name": "Light Gray Wool",
+    "tier": "common",
+    "category": "misc",
+    "damage": 8,
+    "item_id": 35
+  },
+  "ENCHANTED_CACTUS": {
+    "name": "Enchanted Cactus",
+    "tier": "rare",
+    "category": "misc",
+    "item_id": 81
   }
 }
