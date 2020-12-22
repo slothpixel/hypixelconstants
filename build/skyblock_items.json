@@ -42,7 +42,7 @@
     "tier": "legendary",
     "category": "misc",
     "item_id": 397,
-    "texture": "ea0e81df4c0985f6e1b7ded3ba7a830b88caf9a763605ba4b61a247b5cfd2e8e"
+    "texture": "1f8405116c1daa7ce2f012591458d50246d0a467bcb95a5a2c033aefd6008b63"
   },
   "ENCHANTED_ROTTEN_FLESH": {
     "name": "Enchanted Rotten Flesh",
@@ -61,7 +61,7 @@
     "tier": "epic",
     "category": "misc",
     "item_id": 397,
-    "texture": "bbd7db0313fe80d927bb3aba04075c69f5200f55637459e22b8d933f6ae6733f"
+    "texture": "62f3b3a05481cde77240005c0ddcee1c069e5504a62ce0977879f55a39396146"
   },
   "LARGE_DUNGEON_SACK": {
     "name": "Dungeon Sack",
@@ -122,11 +122,11 @@
     "item_id": 399
   },
   "RUNE": {
-    "name": "◆ White Spiral Rune I",
-    "tier": "uncommon",
+    "name": "◆ Golden Rune I",
+    "tier": "epic",
     "category": "cosmetic",
     "item_id": 397,
-    "texture": "3ef2432ef305361384d4318df5bda5bd1ac2d9bea06d1f5cfead6dd87e37ddf5"
+    "texture": "35f4861aa5b22ee28a90e75dab45d221efd14c0b1ecc8ee998fb67e43bb8f3de"
   },
   "ROGUE_SWORD": {
     "name": "Rogue Sword",
@@ -153,7 +153,7 @@
     "item_id": 291
   },
   "DIAMOND_SPADE": {
-    "name": "Pelle en Diamant",
+    "name": "Diamond Shovel",
     "tier": "uncommon",
     "category": "shovel",
     "item_id": 277
@@ -220,10 +220,10 @@
     "texture": "82ada1c7fcc8cf35defeb944a4f8ffa9a9d260560fc7f5f5826de8085435967c"
   },
   "POTION": {
-    "name": "Dungeon V Potion",
-    "tier": "rare",
+    "name": "Archery I Potion",
+    "tier": "common",
     "category": "misc",
-    "damage": 1,
+    "damage": 7,
     "item_id": 373
   },
   "ENCHANTED_BONE": {
@@ -313,12 +313,12 @@
     "tier": "rare",
     "category": "misc",
     "item_id": 397,
-    "texture": "62f3b3a05481cde77240005c0ddcee1c069e5504a62ce0977879f55a39396146"
+    "texture": "548a918a02feb1b39d0cb6c3cd45da3cbd0a75512281b28596aaf0beac3afc30"
   },
   "FLORID_ZOMBIE_SWORD": {
-    "name": "Florid Zombie Sword ✪✪✪✪✪",
+    "name": "Florid Zombie Sword",
     "tier": "legendary",
-    "category": "dungeon sword",
+    "category": "sword",
     "item_id": 283
   },
   "GOLD_AXE": {
@@ -380,7 +380,7 @@
   },
   "THEORETICAL_HOE_POTATO_2": {
     "name": "Pythagorean Potato Hoe",
-    "tier": "rare",
+    "tier": "uncommon",
     "category": "hoe",
     "item_id": 292
   },
@@ -455,7 +455,7 @@
     "texture": "5b783670ad917913fd6944fd760f9c8398daf77285b51c2757ce3cbf9b1ffb"
   },
   "SHADOW_ASSASSIN_BOOTS": {
-    "name": "Shadow Assassin Boots ✪✪✪",
+    "name": "Shadow Assassin Boots",
     "tier": "epic",
     "category": "dungeon boots",
     "item_id": 301
@@ -560,7 +560,7 @@
   "END_STONE_BOW": {
     "name": "End Stone Bow",
     "tier": "epic",
-    "category": "лук",
+    "category": "bow",
     "item_id": 261
   },
   "NETHER_FORTRESS_BOSS_TRAVEL_SCROLL": {
@@ -743,7 +743,7 @@
     "name": "Undead Bow ✪✪✪✪✪",
     "tier": "rare",
     "category": "dungeon bow",
-    "damage": 21,
+    "damage": 22,
     "item_id": 261
   },
   "BONZO_MASK": {
@@ -754,9 +754,9 @@
     "texture": "12716ecbf5b8da00b05f316ec6af61e8bd02805b21eb8e440151468dc656549c"
   },
   "DIAMOND_SWORD": {
-    "name": "Алмазный меч",
+    "name": "Diamond Sword",
     "tier": "uncommon",
-    "category": "меч",
+    "category": "sword",
     "item_id": 276
   },
   "REVIVE_STONE": {
@@ -774,10 +774,10 @@
     "texture": "b561595d9c7457796c719fae463a22271cbc01cf10809f5a64ccb3d6ae7f8f6"
   },
   "CAKE_SOUL": {
-    "name": "[YOUTUBE] Mekzz",
+    "name": "[YOUTUBE] toadstar0",
     "tier": "mythic",
     "category": "misc",
-    "damage": 4,
+    "damage": 5,
     "item_id": 351
   },
   "DIAMOND_HOE": {
@@ -1031,12 +1031,12 @@
   "HURRICANE_BOW": {
     "name": "Hurricane Bow",
     "tier": "epic",
-    "category": "bow",
+    "category": "arco",
     "item_id": 261
   },
   "PET": {
-    "name": "[Lvl 1] Enderman",
-    "tier": "rare",
+    "name": "[Lvl 100] Enderman",
+    "tier": "common",
     "category": "misc",
     "item_id": 397,
     "texture": "6eab75eaa5c9f2c43a0d23cfdce35f4df632e9815001850377385f7b2f039ce1"
@@ -1161,14 +1161,14 @@
   },
   "BLUE_ICE_HUNK": {
     "name": "Hunk of Blue Ice",
-    "tier": "rare",
+    "tier": "epic",
     "category": "misc",
     "item_id": 397,
     "texture": "5ab09ee14e3a5df599cfa4d16c5ce8d054bef846951320f721aa4a7181f8db5e"
   },
   "ICE_HUNK": {
     "name": "Hunk of Ice",
-    "tier": "uncommon",
+    "tier": "rare",
     "category": "misc",
     "item_id": 397,
     "texture": "ddba642efffa13ec3730eafc5914ab68115c1f998803f74452e2e0cd26af0b8"
@@ -1213,7 +1213,7 @@
   },
   "PLASMAFLUX_POWER_ORB": {
     "name": "Plasmaflux Power Orb",
-    "tier": "legendary",
+    "tier": "mythic",
     "category": "misc",
     "item_id": 397,
     "texture": "83ed4ce23933e66e04df16070644f7599eeb55307f7eafe8d92f40fb3520863c"
@@ -1251,7 +1251,7 @@
     "item_id": 280
   },
   "STONE": {
-    "name": "Камень",
+    "name": "Stone",
     "tier": "common",
     "category": "misc",
     "item_id": 1
@@ -1277,7 +1277,7 @@
   },
   "SPOOKY_PIE": {
     "name": "Spooky Pie",
-    "tier": "special",
+    "tier": "mythic",
     "category": "misc",
     "item_id": 400
   },
@@ -1298,7 +1298,7 @@
   "TREECAPITATOR_AXE": {
     "name": "Treecapitator",
     "tier": "epic",
-    "category": "axe",
+    "category": "斧頭",
     "item_id": 286
   },
   "SUMMONING_EYE": {
@@ -1658,9 +1658,9 @@
     "texture": "1a75e8b044c7201a4b2e856be4fc316a5aaec66576169bab5872a88534b80256"
   },
   "BAT_WAND": {
-    "name": "Spirit Sceptre ✪✪✪✪✪",
+    "name": "Spirit Sceptre",
     "tier": "legendary",
-    "category": "dungeon sword",
+    "category": "dungeon schwert",
     "damage": 2,
     "item_id": 38
   },
@@ -1830,7 +1830,7 @@
   "WINTER_ROD": {
     "name": "Winter Rod",
     "tier": "rare",
-    "category": "caña de pescar",
+    "category": "fishing rod",
     "item_id": 346
   },
   "COMPACTOR": {
@@ -2132,7 +2132,7 @@
   "GRINCH_PERSONALITY": {
     "name": "Grinch Minion Skin",
     "tier": "common",
-    "category": "misc",
+    "category": "cosmetic",
     "item_id": 397,
     "texture": "9a1d45f0102d1410a061f74bef329ce3cfaa16d0762e5c9581fa5eb0032eaf60"
   },
@@ -2145,7 +2145,7 @@
   },
   "NOPE_THE_FISH": {
     "name": "Nope the Fish",
-    "tier": "mythic",
+    "tier": "special",
     "category": "misc",
     "damage": 1,
     "item_id": 349
@@ -2165,7 +2165,7 @@
   "SILVER_FANG": {
     "name": "Silver Fang",
     "tier": "uncommon",
-    "category": "меч",
+    "category": "sword",
     "item_id": 370
   },
   "SLIME_HAT": {
@@ -2421,7 +2421,7 @@
     "item_id": 269
   },
   "SAPLING:3": {
-    "name": "Саженец тропического дерева",
+    "name": "Jungle Sapling",
     "tier": "common",
     "category": "misc",
     "damage": 3,
@@ -2430,11 +2430,11 @@
   "RECLUSE_FANG": {
     "name": "Recluse Fang",
     "tier": "rare",
-    "category": "меч",
+    "category": "espada",
     "item_id": 267
   },
   "IRON_ORE": {
-    "name": "Железная Руда",
+    "name": "Iron Ore",
     "tier": "common",
     "category": "misc",
     "item_id": 15
@@ -2458,7 +2458,7 @@
     "item_id": 96
   },
   "CANDY_CORN": {
-    "name": "Zuckermais",
+    "name": "Candy Corn",
     "tier": "rare",
     "category": "reforge stone",
     "item_id": 397,
@@ -2585,7 +2585,7 @@
   },
   "GOLD_NUGGET": {
     "name": "Gold Nugget",
-    "tier": "uncommon",
+    "tier": "common",
     "category": "misc",
     "item_id": 371
   },
@@ -2747,7 +2747,7 @@
     "texture": "94af5f3b50e2dea2687d292cc3a5e42c028b8626e638842fb4f78671debe276c"
   },
   "FLOWER_OF_TRUTH": {
-    "name": "Flower of Truth",
+    "name": "Flower of Truth ✪",
     "tier": "legendary",
     "category": "dungeon sword",
     "item_id": 38
@@ -2778,7 +2778,7 @@
     "item_id": 384
   },
   "STONE_BLADE": {
-    "name": "Adaptive Blade ✪✪✪✪",
+    "name": "Adaptive Blade",
     "tier": "epic",
     "category": "dungeon sword",
     "item_id": 272
@@ -3019,7 +3019,7 @@
   },
   "GIFT_THE_FISH": {
     "name": "Gift the Fish",
-    "tier": "mythic",
+    "tier": "special",
     "category": "misc",
     "damage": 3,
     "item_id": 349
@@ -3649,7 +3649,7 @@
     "item_id": 310
   },
   "STARRED_BONZO_MASK": {
-    "name": "⚚ Bonzo's Mask ✪✪✪✪✪",
+    "name": "⚚ Bonzo's Mask",
     "tier": "rare",
     "category": "dungeon helmet",
     "item_id": 397,
@@ -4094,7 +4094,7 @@
   },
   "THEORETICAL_HOE_WHEAT_2": {
     "name": "Euclid's Wheat Hoe",
-    "tier": "uncommon",
+    "tier": "rare",
     "category": "hoe",
     "item_id": 292
   },
@@ -4180,7 +4180,7 @@
   },
   "BAT_THE_FISH": {
     "name": "Bat the Fish",
-    "tier": "mythic",
+    "tier": "special",
     "category": "misc",
     "item_id": 350
   },
@@ -4276,10 +4276,9 @@
     "item_id": 276
   },
   "SUPER_UNDEAD_BOW": {
-    "name": "Super Undead Bow ✪✪✪✪✪",
+    "name": "Super Undead Bow ✪✪✪✪",
     "tier": "epic",
     "category": "dungeon bow",
-    "damage": 3,
     "item_id": 261
   },
   "ILLUSION_GLASS": {
@@ -4513,7 +4512,7 @@
   },
   "THEORETICAL_HOE_CANE_1": {
     "name": "Turing Sugar Cane Hoe",
-    "tier": "common",
+    "tier": "uncommon",
     "category": "hoe",
     "item_id": 291
   },
@@ -5473,7 +5472,7 @@
     "item_id": 346
   },
   "WITHER_CHESTPLATE": {
-    "name": "Wither Chestplate ✪✪✪✪✪",
+    "name": "Wither Chestplate",
     "tier": "legendary",
     "category": "dungeon chestplate",
     "item_id": 299
@@ -5773,9 +5772,9 @@
     "texture": "c2fd8976e1b64aebfd38afbe62aa1429914253df3417ace1f589e5cf45fbd717"
   },
   "WOOD_SWORD": {
-    "name": "Wooden Sword",
+    "name": "木剑",
     "tier": "common",
-    "category": "sword",
+    "category": "剑",
     "item_id": 268
   },
   "ENCHANTMENT_TABLE": {
@@ -6438,7 +6437,7 @@
     "item_id": 152
   },
   "HYPERION": {
-    "name": "Hyperion ✪✪✪",
+    "name": "Hyperion",
     "tier": "legendary",
     "category": "dungeon sword",
     "item_id": 267
@@ -6790,7 +6789,7 @@
   },
   "THEORETICAL_HOE_CARROT_1": {
     "name": "Gauss Carrot Hoe",
-    "tier": "common",
+    "tier": "uncommon",
     "category": "hoe",
     "item_id": 291
   },
@@ -6961,7 +6960,7 @@
     "texture": "818386b0efa6f8ccd48fce89e7dc564e6a46974c3ae5727aadf837d3fda65964"
   },
   "COOKIE": {
-    "name": "Cookie",
+    "name": "Печенье",
     "tier": "common",
     "category": "misc",
     "item_id": 357
@@ -7285,7 +7284,7 @@
     "texture": "af41cc2250d2f5cfcf4384aa0cf3e23c19767549a2a8abd7532bd52c5a1de"
   },
   "ANVIL": {
-    "name": "Anvil",
+    "name": "铁砧",
     "tier": "common",
     "category": "misc",
     "item_id": 145
@@ -8177,7 +8176,7 @@
     "texture": "bafb195cc75f31b619a077b7853653254ac18f220dc32d1412982ff437b4d57a"
   },
   "NETHERRACK": {
-    "name": "Netherrack",
+    "name": "地狱岩",
     "tier": "common",
     "category": "misc",
     "item_id": 87
@@ -8210,9 +8209,9 @@
     "item_id": 155
   },
   "PERFECT_CHESTPLATE_9": {
-    "name": "Perfect Chestplate - Tier IX",
+    "name": "Perfect Chestplate - Tier IX ✪✪✪✪✪",
     "tier": "legendary",
-    "category": "chestplate",
+    "category": "dungeon chestplate",
     "item_id": 311
   },
   "STONE_SWORD": {
@@ -8592,7 +8591,7 @@
     "item_id": 6
   },
   "WISE_WITHER_HELMET": {
-    "name": "Storm's Helmet ✪✪✪✪✪",
+    "name": "Storm's Helmet",
     "tier": "legendary",
     "category": "dungeon helmet",
     "item_id": 397,
@@ -8606,7 +8605,7 @@
     "texture": "f37cae5c51eb1558ea828f58e0dff8e6b7b0b1a183d737eecf714661761"
   },
   "WISE_WITHER_LEGGINGS": {
-    "name": "Storm's Leggings",
+    "name": "Storm's Leggings ✪✪✪✪",
     "tier": "legendary",
     "category": "dungeon leggings",
     "item_id": 300
@@ -8669,7 +8668,7 @@
     "item_id": 159
   },
   "STARRED_LAST_BREATH": {
-    "name": "⚚ Last Breath ✪✪✪✪✪",
+    "name": "⚚ Last Breath",
     "tier": "legendary",
     "category": "dungeon bow",
     "item_id": 261
@@ -8909,5 +8908,232 @@
     "tier": "mythic",
     "category": "misc",
     "item_id": 327
+  },
+  "ROTTEN_FLESH": {
+    "name": "Rotten Flesh",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 367
+  },
+  "BONE": {
+    "name": "Bone",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 352
+  },
+  "COBBLESTONE": {
+    "name": "Cobblestone",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 4
+  },
+  "THEORETICAL_HOE_POTATO_3": {
+    "name": "Pythagorean Potato Hoe",
+    "tier": "rare",
+    "category": "hoe",
+    "item_id": 293
+  },
+  "PIGS_FOOT": {
+    "name": "Pig's Foot",
+    "tier": "rare",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "604faebefd0a8f721403e3142efecb83fbf4b7d1f705d0c9b44d91f0bf40127b"
+  },
+  "SULPHUR": {
+    "name": "Gunpowder",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 289
+  },
+  "WITHER_GOGGLES": {
+    "name": "Wither Goggles ✪✪✪✪✪",
+    "tier": "epic",
+    "category": "dungeon helmet",
+    "item_id": 397,
+    "texture": "37ceb8f0758e2d8ac49de6f977603c7bfc23fd82a8574810a45f5e97c6436d79"
+  },
+  "CHICKEN_GENERATOR_11": {
+    "name": "Chicken Minion XI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "d5c12fd3968d389f6d053b1a7a85dc1cfb90a39385c379e3afee6295aaafcd37"
+  },
+  "WEAPON_RACK": {
+    "name": "Weapon Rack",
+    "tier": "uncommon",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "834ebcc7d1a187156adce27cbf5d4e1f368c18b36aa4ccee6c20b3c2ecf38e56"
+  },
+  "LOG": {
+    "name": "Oak Wood",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 17
+  },
+  "HOLOGRAM": {
+    "name": "Hologram",
+    "tier": "legendary",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "87ee4e4895a9c6e24336e24665c5638272a3feeac955882ff92ae3215ae7f"
+  },
+  "CRYPT_DREADLORD_SWORD": {
+    "name": "Dreadlord Sword",
+    "tier": "rare",
+    "category": "dungeon sword",
+    "item_id": 267
+  },
+  "HASTE_RING": {
+    "name": "Haste Ring",
+    "tier": "rare",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "3c26a1ec929d4b144266c56af11d9abaf93f6b274872c96d3e34cb7c7965"
+  },
+  "WHEAT_GENERATOR_7": {
+    "name": "Wheat Minion VII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "5c6f9f3a7b55ee7093ee8f5bf5888b16def6bfde157556df219a1c0b94b0458f"
+  },
+  "FISHING_GENERATOR_8": {
+    "name": "Fishing Minion VIII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "a5ee01b414c8e7fb1f55d8143d63b9dfed0c0428f7de043b721424c4a84eded3"
+  },
+  "STAINED_GLASS_PANE:6": {
+    "name": "Pink Stained Glass Pane",
+    "tier": "common",
+    "category": "misc",
+    "damage": 6,
+    "item_id": 160
+  },
+  "STAINED_GLASS_PANE:13": {
+    "name": "Green Stained Glass Pane",
+    "tier": "common",
+    "category": "misc",
+    "damage": 13,
+    "item_id": 160
+  },
+  "OBSIDIAN_GENERATOR_11": {
+    "name": "Obsidian Minion XI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "4d36910bcbb3fc0b7dedaae85ff052967ad74f3f4c2fb6f7dd2bed5bcfd0992b"
+  },
+  "DESERT_ISLAND": {
+    "name": "Desert Island",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "2f585b41ca5a1b4ac26f556760ed11307c94f8f8a1ade615bd12ce074f4793"
+  },
+  "LOG:2": {
+    "name": "Birch Wood",
+    "tier": "common",
+    "category": "misc",
+    "damage": 2,
+    "item_id": 17
+  },
+  "BUILDER_APPALLED_PUMPKIN": {
+    "name": "Appalled Pumpkin",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "107da572a8e9dad5782b1665b74f911d21fb1a723a97da7c8ec494b75ec9db84"
+  },
+  "BUILDER_CACTUS": {
+    "name": "Cactus",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "297138ff5a74fb7379ccca7972669871b209b91bf6c7b07e76929285c8fb3"
+  },
+  "BUILDER_LETTUCE": {
+    "name": "Lettuce",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "9979fe7b32fb7fc9746e157471f975f31afcb58fd8b5acb8bf53ec350f4d5c2"
+  },
+  "BUILDER_ORANGE": {
+    "name": "Orange",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "3c2d8e8ec2737b599a48fc07ea58b806969e6021802019992dda32a653794df6"
+  },
+  "BUILDER_BEETROOT": {
+    "name": "Beetroot",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "18f36ea228c4fd9afed5add6d0526de71b7ac0559eabfc2f60de6c4aa733f5"
+  },
+  "BUILDER_CHESTO_BERRY": {
+    "name": "Chesto Berry",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "436f4ff183cbaa49122455614911b84942b5f92d4d82cc3b890bcc7d57c6"
+  },
+  "CHEAP_TUXEDO_LEGGINGS": {
+    "name": "Cheap Tuxedo Pants",
+    "tier": "epic",
+    "category": "leggings",
+    "item_id": 300
+  },
+  "CHEAP_TUXEDO_BOOTS": {
+    "name": "Cheap Tuxedo Oxfords",
+    "tier": "epic",
+    "category": "boots",
+    "item_id": 301
+  },
+  "CHEAP_TUXEDO_CHESTPLATE": {
+    "name": "Cheap Tuxedo Jacket",
+    "tier": "epic",
+    "category": "chestplate",
+    "item_id": 299
+  },
+  "DWARF_TURTLE_SHELMET": {
+    "name": "Dwarf Turtle Shelmet",
+    "tier": "rare",
+    "category": "pet item",
+    "item_id": 397,
+    "texture": "664698fea5ec3f2fd7db7a8e3f4e989a1716035c2bd3666434ba1af58157"
+  },
+  "SKELETON_GENERATOR_6": {
+    "name": "Skeleton Minion VI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "b51e887ab5c0966bb4622882e4417037c3eee8a2d0162e2e82bf295f0d1e1db2"
+  },
+  "COAL": {
+    "name": "Coal",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 263
+  },
+  "SPEED_RING": {
+    "name": "Speed Ring",
+    "tier": "uncommon",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "c2da40a91f8fa7e1cbdd934da92a7668dc95d75b57c9c80a381c5e178cee6ba7"
+  },
+  "STAINED_GLASS:1": {
+    "name": "Orange Stained Glass",
+    "tier": "common",
+    "category": "misc",
+    "damage": 1,
+    "item_id": 95
   }
 }
