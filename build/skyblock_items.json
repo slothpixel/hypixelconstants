@@ -1952,7 +1952,7 @@
     "item_id": 416
   },
   "WITHER_BOOTS": {
-    "name": "Wither Boots ✪✪✪✪",
+    "name": "Wither Boots",
     "tier": "legendary",
     "category": "dungeon boots",
     "item_id": 301
@@ -4976,7 +4976,7 @@
   },
   "THEORETICAL_HOE_WARTS_1": {
     "name": "Newton Nether Warts Hoe",
-    "tier": "uncommon",
+    "tier": "common",
     "category": "hoe",
     "item_id": 291
   },
@@ -5903,7 +5903,7 @@
   },
   "SHADOW_ASSASSIN_CHESTPLATE": {
     "name": "Shadow Assassin Chestplate",
-    "tier": "legendary",
+    "tier": "epic",
     "category": "dungeon chestplate",
     "item_id": 299
   },
@@ -6765,7 +6765,7 @@
     "name": "Magical Map",
     "tier": null,
     "category": "misc",
-    "damage": 1280,
+    "damage": 1792,
     "item_id": 358
   },
   "ENCHANTED_RAW_SALMON": {
@@ -9135,5 +9135,30 @@
     "category": "misc",
     "damage": 1,
     "item_id": 95
+  },
+  "SEA_CREATURE_RING": {
+    "name": "Sea Creature Ring",
+    "tier": "uncommon",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "eaf892574f948d5f840879325570e6beb511945766f2054a3c9a3609712dee77"
+  },
+  "STAINED_CLAY": {
+    "name": "White Hardened Clay",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 159
+  },
+  "DIAMOND_ORE": {
+    "name": "Diamond Ore",
+    "tier": "uncommon",
+    "category": "misc",
+    "item_id": 56
+  },
+  "SKELETON_SOLDIER_LEGGINGS": {
+    "name": "Skeleton Soldier Leggings",
+    "tier": "epic",
+    "category": "dungeon leggings",
+    "item_id": 300
   }
 }
