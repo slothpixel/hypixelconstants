@@ -7801,7 +7801,7 @@
     "item_id": 289
   },
   "POWER_WITHER_HELMET": {
-    "name": "Necron's Helmet ✪✪",
+    "name": "Necron's Helmet ✪✪✪",
     "tier": "legendary",
     "category": "dungeon helmet",
     "item_id": 397,
@@ -9313,5 +9313,50 @@
     "category": "reforge stone",
     "item_id": 397,
     "texture": "78872537b6ce574659dc176a1d8dfe9c1e599f6f141c1822628347dd538b9e2"
+  },
+  "ENDER_PORTAL_FRAME": {
+    "name": "End Portal Frame",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 120
+  },
+  "REDSTONE_LAMP_OFF": {
+    "name": "Redstone Lamp",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 123
+  },
+  "STAINED_GLASS:8": {
+    "name": "Light Gray Stained Glass",
+    "tier": "common",
+    "category": "misc",
+    "damage": 8,
+    "item_id": 95
+  },
+  "FERMENTED_SPIDER_EYE": {
+    "name": "Fermented Spider Eye",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 376
+  },
+  "STONE:1": {
+    "name": "Granite",
+    "tier": "common",
+    "category": "misc",
+    "damage": 1,
+    "item_id": 1
+  },
+  "STAINED_GLASS:2": {
+    "name": "Magenta Stained Glass",
+    "tier": "common",
+    "category": "misc",
+    "damage": 2,
+    "item_id": 95
+  },
+  "ZOMBIE_KNIGHT_HELMET": {
+    "name": "Zombie Knight Helmet",
+    "tier": "epic",
+    "category": "dungeon helmet",
+    "item_id": 314
   }
 }
