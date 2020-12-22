@@ -392,7 +392,7 @@
   },
   "THEORETICAL_HOE_WHEAT_1": {
     "name": "Euclid's Wheat Hoe",
-    "tier": "common",
+    "tier": "uncommon",
     "category": "hoe",
     "item_id": 291
   },
@@ -9358,5 +9358,40 @@
     "tier": "epic",
     "category": "dungeon helmet",
     "item_id": 314
+  },
+  "INK_SACK:5": {
+    "name": "Purple Dye",
+    "tier": "common",
+    "category": "misc",
+    "damage": 5,
+    "item_id": 351
+  },
+  "DESERT_ISLAND_CRYSTAL": {
+    "name": "Desert Crystal",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "9265f96f54b78885c46e7d2f86b1c1dbfe643c6060fc7fcc9834c3e3fd595135"
+  },
+  "NETHER_WARTS_GENERATOR_7": {
+    "name": "Nether Wart Minion VII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "d45298dcfb39274d0eed5df91ad744d7161d75da155f52955c44767231e88584"
+  },
+  "SUGAR_CANE_GENERATOR_5": {
+    "name": "Sugar Cane Minion V",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "802e05d0a041aaf3a7fa04d6c97e67a66987c7617ae45311ae2bb6f2005f59c1"
+  },
+  "FLOWER_GENERATOR_8": {
+    "name": "Flower Minion VIII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "8959d9c639b20b294cf6cd0726422092682e762d3991ddac39d92cdc60334103"
   }
 }
