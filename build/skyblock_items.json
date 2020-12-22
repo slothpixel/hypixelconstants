@@ -830,18 +830,6 @@
     "category": "helmet",
     "item_id": 310
   },
-  "COAL": {
-    "name": "Уголь",
-    "tier": "common",
-    "category": "misc",
-    "item_id": 263
-  },
-  "BONE": {
-    "name": "Кость",
-    "tier": "common",
-    "category": "misc",
-    "item_id": 352
-  },
   "MAGMA_CREAM": {
     "name": "Magma Cream",
     "tier": "common",
@@ -1261,12 +1249,6 @@
     "tier": "uncommon",
     "category": "misc",
     "item_id": 280
-  },
-  "COBBLESTONE": {
-    "name": "Булыжник",
-    "tier": "common",
-    "category": "misc",
-    "item_id": 4
   },
   "STONE": {
     "name": "Камень",
@@ -2658,12 +2640,6 @@
     "tier": "epic",
     "category": "misc",
     "item_id": 384
-  },
-  "LOG": {
-    "name": "Дуб",
-    "tier": "common",
-    "category": "misc",
-    "item_id": 17
   },
   "LOG_2": {
     "name": "Acacia Wood",
