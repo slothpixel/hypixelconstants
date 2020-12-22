@@ -5249,7 +5249,7 @@
   "WITHER_BOW": {
     "name": "Wither Bow",
     "tier": "uncommon",
-    "category": "bow",
+    "category": "arco",
     "item_id": 261
   },
   "SPOOKY_CHESTPLATE": {
@@ -7096,7 +7096,7 @@
   },
   "ADAPTIVE_BOOTS": {
     "name": "Adaptive Boots",
-    "tier": "legendary",
+    "tier": "epic",
     "category": "dungeon boots",
     "item_id": 301
   },
@@ -9260,5 +9260,58 @@
     "category": "misc",
     "item_id": 397,
     "texture": "cdfb98800f7d01c56744fa116d2275090a337334f6f884230522f8ea3964c9e0"
+  },
+  "WOOD_STAIRS": {
+    "name": "Oak Wood Stairs",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 53
+  },
+  "DIAMOND_CHEST": {
+    "name": "Diamond Chest+",
+    "tier": "rare",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "e6eb06ba8d6c09320bf754bb98e75090a02a49456e117e9af666b24fe7647bb8"
+  },
+  "STAINED_GLASS_PANE:3": {
+    "name": "Light Blue Stained Glass Pane",
+    "tier": "common",
+    "category": "misc",
+    "damage": 3,
+    "item_id": 160
+  },
+  "ZOMBIE_GENERATOR_7": {
+    "name": "Zombie Minion VII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "5058f08910b39c30644f33fd71f81a412f6e05fe7c703a87fd4f3d5e4b2b6509"
+  },
+  "SUGAR_CANE_GENERATOR_7": {
+    "name": "Sugar Cane Minion VII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "f983804d6b4afdcda8050670f51bb3890945fa4fa8a9c3cfa143a3d7912036a3"
+  },
+  "NETHER_FENCE": {
+    "name": "Забор из адского кирпича",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 113
+  },
+  "FENCE_GATE": {
+    "name": "Oak Fence Gate",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 107
+  },
+  "TOIL_LOG": {
+    "name": "Toil Log",
+    "tier": "epic",
+    "category": "reforge stone",
+    "item_id": 397,
+    "texture": "78872537b6ce574659dc176a1d8dfe9c1e599f6f141c1822628347dd538b9e2"
   }
 }
