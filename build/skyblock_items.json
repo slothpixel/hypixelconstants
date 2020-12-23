@@ -4651,7 +4651,7 @@
     "item_id": 171
   },
   "PHANTOM_ROD": {
-    "name": "Phantom Rod ✪✪✪✪✪",
+    "name": "Phantom Rod ✪✪✪✪",
     "tier": "legendary",
     "category": "dungeon fishing weapon",
     "item_id": 346
@@ -9580,5 +9580,12 @@
     "category": "misc",
     "item_id": 397,
     "texture": "ea357aeaf75a8cfed2b3c1c8f3ccf54f907ae2b64fa871cf201baeef53528e19"
+  },
+  "WEDDING_RING_2": {
+    "name": "Mediocre Ring of Love",
+    "tier": "uncommon",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "8690c18e2b8780c927fd121d5a36196a53a72c670a89d785deedee3155024b2a"
   }
 }
