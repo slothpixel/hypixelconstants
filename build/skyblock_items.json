@@ -9587,5 +9587,25 @@
     "category": "accessory",
     "item_id": 397,
     "texture": "8690c18e2b8780c927fd121d5a36196a53a72c670a89d785deedee3155024b2a"
+  },
+  "THEORETICAL_HOE_POTATO_1": {
+    "name": "Pythagorean Potato Hoe",
+    "tier": "uncommon",
+    "category": "hoe",
+    "item_id": 291
+  },
+  "STAINED_GLASS_PANE:4": {
+    "name": "Yellow Stained Glass Pane",
+    "tier": "common",
+    "category": "misc",
+    "damage": 4,
+    "item_id": 160
+  },
+  "ENDSTONE_GEODE": {
+    "name": "End Stone Geode",
+    "tier": "rare",
+    "category": "reforge stone",
+    "item_id": 397,
+    "texture": "7d255fee5f7cf9081f2c0d5a0442ac3f3fd1fc24cb956e3f1d331863d11de176"
   }
 }
