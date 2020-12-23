@@ -3222,7 +3222,7 @@
   "COCO_CHOPPER": {
     "name": "Coco Chopper",
     "tier": "epic",
-    "category": "axe",
+    "category": "axt",
     "item_id": 286
   },
   "MAGMA_BOW": {
@@ -9496,5 +9496,82 @@
     "tier": "common",
     "category": "misc",
     "item_id": 429
+  },
+  "SAND_GENERATOR_8": {
+    "name": "Sand Minion VIII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "765db90f1e3dab4df3a5a42cd80f7e71a92ea4739395df56f1750c73c27cdc4f"
+  },
+  "CACTUS_GENERATOR_11": {
+    "name": "Cactus Minion XI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "b1cabca262d9f98ccabf5546c033614f664173c6f206e626ca8b316d7962f8c8"
+  },
+  "SAND_GENERATOR_9": {
+    "name": "Sand Minion IX",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "281ccdfe00a7843bce0c109676c1b59dd156389f730f00d3987c10aef64a7f96"
+  },
+  "ACACIA_GENERATOR_10": {
+    "name": "Acacia Minion X",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "9b4826120105ca75f208c3b97225245033e156a61fb53ecebc3fa6e1baaba919"
+  },
+  "COCOA_GENERATOR_10": {
+    "name": "Cocoa Beans Minion X",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "80c4434c532a0e1a41dad610989f8a01432ea47adc39d64ec81fef81284d581"
+  },
+  "DIAMOND_GENERATOR_10": {
+    "name": "Diamond Minion X",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "f024c9b17c2b4a84fe503726df57b7cd7a77827f530c6b93d2e94e7cc0b515f9"
+  },
+  "MELON_GENERATOR_9": {
+    "name": "Melon Minion IX",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "8ebac9c3ddbb76ea862b91a6992bae358c0eaed7b2ca73fb28b8115be019e32b"
+  },
+  "GHAST_GENERATOR_9": {
+    "name": "Ghast Minion IX",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "af4d8d82f4d86569c70d265f5cf62e46ee8dc0a5a6d97ef1901c793d0b127545"
+  },
+  "SAND_GENERATOR_10": {
+    "name": "Sand Minion X",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "fdceae5bc34dee02b31a68b0015d0ca808844e491cf926c6763d52b26191993f"
+  },
+  "SECRET_DUNGEON_REDSTONE_KEY": {
+    "name": "Redstone Key",
+    "tier": "rare",
+    "category": "dungeon item",
+    "item_id": 397,
+    "texture": "cb852ba1584da9e5714859995451e4b94748c4dd63ae4543c15f9f8aec65c8"
+  },
+  "SPEED_TALISMAN": {
+    "name": "Speed Talisman",
+    "tier": "common",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "8624bacb5f1986e6477abce4ae7dca1820a5260b6233b55ba1d9ba936c84b"
   }
 }
