@@ -9607,5 +9607,46 @@
     "category": "reforge stone",
     "item_id": 397,
     "texture": "7d255fee5f7cf9081f2c0d5a0442ac3f3fd1fc24cb956e3f1d331863d11de176"
+  },
+  "ENCHANTED_SHARK_FIN": {
+    "name": "Enchanted Shark Fin",
+    "tier": "epic",
+    "category": "misc",
+    "item_id": 409
+  },
+  "BUILDER_APPLE": {
+    "name": "Apple",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "921127d22675c5c769a0c08b572018d299c83046f8e1f943ed9d51be03b07"
+  },
+  "REDSTONE_GENERATOR_8": {
+    "name": "Redstone Minion VIII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "a40b85c00f824f61beefd651c9588698e49d01902e84a098f79ee09941d8e4ac"
+  },
+  "CREEPER_GENERATOR_3": {
+    "name": "Creeper Minion III",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "488b4089a835e276838bba45c79d1146f0c2341971170a6163e6493890fd1b83"
+  },
+  "DIAMOND_GENERATOR_9": {
+    "name": "Diamond Minion IX",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "d6cc4e3241c518aeb8e64e32a0b6f536d7684c8b5fe6bc9699db9ee6332cf70f"
+  },
+  "GOLD_GENERATOR_5": {
+    "name": "Gold Minion V",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "f6e438a6d1ef319c42d73a00db2b2981fdbb0e437a1c02399b8daf8d9e37a05b"
   }
 }
