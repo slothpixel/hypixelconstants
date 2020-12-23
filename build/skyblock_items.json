@@ -9648,5 +9648,31 @@
     "category": "misc",
     "item_id": 397,
     "texture": "f6e438a6d1ef319c42d73a00db2b2981fdbb0e437a1c02399b8daf8d9e37a05b"
+  },
+  "COIN_TALISMAN": {
+    "name": "Talisman of Coins",
+    "tier": "common",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "452dca68c8f8af533fb737faeeacbe717b968767fc18824dc2d37ac789fc77"
+  },
+  "COW_GENERATOR_5": {
+    "name": "Cow Minion V",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "7b412e13e1eba6d84336aee778115f183b88cbbe546b83ea64c5b6295145355a"
+  },
+  "MUSHROOM_SOUP": {
+    "name": "Mushroom Soup",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 282
+  },
+  "FAKE_EMERALD_ALTAR": {
+    "name": "Fake Emerald Altar",
+    "tier": "uncommon",
+    "category": "misc",
+    "item_id": 133
   }
 }
