@@ -9573,5 +9573,12 @@
     "category": "accessory",
     "item_id": 397,
     "texture": "8624bacb5f1986e6477abce4ae7dca1820a5260b6233b55ba1d9ba936c84b"
+  },
+  "BLAZE_GENERATOR_10": {
+    "name": "Blaze Minion X",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "ea357aeaf75a8cfed2b3c1c8f3ccf54f907ae2b64fa871cf201baeef53528e19"
   }
 }
