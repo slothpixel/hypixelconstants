@@ -4777,7 +4777,7 @@
   "CLEAVER": {
     "name": "Cleaver",
     "tier": "uncommon",
-    "category": "劍",
+    "category": "sword",
     "item_id": 283
   },
   "ENCHANTED_BREAD": {
@@ -9451,5 +9451,50 @@
     "tier": "rare",
     "category": "misc",
     "item_id": 81
+  },
+  "POWERED_RAIL": {
+    "name": "Powered Rail",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 27
+  },
+  "SPRUCE_FENCE_GATE": {
+    "name": "Spruce Fence Gate",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 183
+  },
+  "CARPET:5": {
+    "name": "Lime Carpet",
+    "tier": "common",
+    "category": "misc",
+    "damage": 5,
+    "item_id": 171
+  },
+  "WOOL:12": {
+    "name": "Brown Wool",
+    "tier": "common",
+    "category": "misc",
+    "damage": 12,
+    "item_id": 35
+  },
+  "CAMPFIRE_TALISMAN_16": {
+    "name": "Campfire Scion Badge",
+    "tier": "epic",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "a3cfd94e925eab4330a768afcae6c128b0a28e23149eee41c9c6df894c24f3de"
+  },
+  "PARKOUR_TIMES": {
+    "name": "Parkour Times",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 42
+  },
+  "JUNGLE_DOOR_ITEM": {
+    "name": "Jungle Door",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 429
   }
 }
