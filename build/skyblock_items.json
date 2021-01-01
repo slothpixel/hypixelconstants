@@ -2453,7 +2453,7 @@
     "texture": "fd86767d4f1ca2868b675696c72178cd74c4eb6c28f3c7afc82edd090ca2ca46"
   },
   "SHADOW_ASSASSIN_LEGGINGS": {
-    "name": "Shadow Assassin Leggings ✪",
+    "name": "Shadow Assassin Leggings",
     "tier": "epic",
     "category": "dungeon leggings",
     "item_id": 300
@@ -2839,7 +2839,7 @@
     "item_id": 334
   },
   "ITEM_FRAME": {
-    "name": "Item Frame",
+    "name": "Cadre d'Objet",
     "tier": "common",
     "category": "misc",
     "item_id": 389
@@ -6950,7 +6950,7 @@
   },
   "THEORETICAL_HOE_CANE_3": {
     "name": "Turing Sugar Cane Hoe",
-    "tier": "legendary",
+    "tier": "epic",
     "category": "hoe",
     "item_id": 293
   },
@@ -9826,5 +9826,93 @@
     "tier": "legendary",
     "category": "sword",
     "item_id": 286
+  },
+  "WOOD_SWORD": {
+    "name": "Wooden Sword",
+    "tier": "common",
+    "category": "sword",
+    "item_id": 268
+  },
+  "MINING_2_PORTAL": {
+    "name": "Portal to the Deep Caverns",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "569a1f114151b4521373f34bc14c2963a5011cdc25a6554c48c708cd96ebfc"
+  },
+  "ENCHANTED_QUARTZ_BLOCK": {
+    "name": "Enchanted Quartz Block",
+    "tier": "rare",
+    "category": "misc",
+    "item_id": 155
+  },
+  "DANGER_3_TRAVEL_SCROLL": {
+    "name": "Travel Scroll to the End",
+    "tier": "rare",
+    "category": "travel scroll",
+    "item_id": 395
+  },
+  "DANGER_1_TRAVEL_SCROLL": {
+    "name": "Travel Scroll to Spider's Den",
+    "tier": "rare",
+    "category": "travel scroll",
+    "item_id": 395
+  },
+  "FARMING_1_TRAVEL_SCROLL": {
+    "name": "Travel Scroll to the Barn",
+    "tier": "rare",
+    "category": "travel scroll",
+    "item_id": 395
+  },
+  "FORAGING_1_TRAVEL_SCROLL": {
+    "name": "Travel Scroll to The Park",
+    "tier": "rare",
+    "category": "travel scroll",
+    "item_id": 395
+  },
+  "DANGER_2_TRAVEL_SCROLL": {
+    "name": "Travel Scroll to Blazing Fortress",
+    "tier": "rare",
+    "category": "travel scroll",
+    "item_id": 395
+  },
+  "FIREWORK_CHARGE": {
+    "name": "Firework Star",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 402
+  },
+  "PET_ITEM_COMBAT_SKILL_BOOST_COMMON": {
+    "name": "Combat Exp Boost",
+    "tier": "common",
+    "category": "pet item",
+    "item_id": 267
+  },
+  "MAGMA_CUBE_GENERATOR_4": {
+    "name": "Magma Cube Minion IV",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "69890974664089d1d08a34d5febead4bb34508f902aa624e0be02b61d0178b7f"
+  },
+  "FISHING_CRYSTAL": {
+    "name": "Fishing Crystal",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "b375948572348fc678d1fdbba1a770f644a04977a1fc7194370066a18323fc69"
+  },
+  "CHICKEN_GENERATOR_9": {
+    "name": "Chicken Minion IX",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "9f24c0d1e3aa3c2999a1268fcc0f933591a9910437f082b1d5dc9bed7ee1a753"
+  },
+  "CARPET": {
+    "name": "Carpet",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 171
   }
 }
