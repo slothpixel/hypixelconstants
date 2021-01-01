@@ -7348,7 +7348,7 @@
     "texture": "70a010791cb1c8902c6223207aa44fe9d1f84f3bc8ffb1b4cc3cf5573e056e71"
   },
   "STONE_SPADE": {
-    "name": "Stone Shovel",
+    "name": "Каменная лопата",
     "tier": "common",
     "category": "shovel",
     "item_id": 273
@@ -7760,7 +7760,7 @@
     "item_id": 289
   },
   "POWER_WITHER_HELMET": {
-    "name": "Necron's Helmet ✪✪✪",
+    "name": "Necron's Helmet",
     "tier": "legendary",
     "category": "dungeon helmet",
     "item_id": 397,
@@ -9914,5 +9914,26 @@
     "tier": "common",
     "category": "misc",
     "item_id": 171
+  },
+  "STAINED_GLASS:14": {
+    "name": "Red Stained Glass",
+    "tier": "common",
+    "category": "misc",
+    "damage": 14,
+    "item_id": 95
+  },
+  "RED_ROSE:4": {
+    "name": "Red Tulip",
+    "tier": "common",
+    "category": "misc",
+    "damage": 4,
+    "item_id": 38
+  },
+  "TALISMAN_ENRICHMENT_INTELLIGENCE": {
+    "name": "Intelligence Enrichment",
+    "tier": "special",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "dc9365642c6eddcfedf5b5e14e2bc71257d9e4a3363d123c6f33c55cafbf6d"
   }
 }
