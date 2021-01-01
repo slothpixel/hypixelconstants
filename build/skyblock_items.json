@@ -455,7 +455,7 @@
     "texture": "5b783670ad917913fd6944fd760f9c8398daf77285b51c2757ce3cbf9b1ffb"
   },
   "SHADOW_ASSASSIN_BOOTS": {
-    "name": "Shadow Assassin Boots",
+    "name": "Shadow Assassin Boots ✪✪✪",
     "tier": "epic",
     "category": "dungeon boots",
     "item_id": 301
@@ -1036,9 +1036,9 @@
     "texture": "f5ec964645a8efac76be2f160d7c9956362f32b6517390c59c3085034f050cff"
   },
   "BONZO_STAFF": {
-    "name": "Bonzo's Staff",
+    "name": "Bonzo's Staff ✪✪✪✪✪",
     "tier": "rare",
-    "category": "dungeon espada",
+    "category": "dungeon sword",
     "item_id": 369
   },
   "ICE": {
@@ -1271,7 +1271,7 @@
   },
   "SPOOKY_PIE": {
     "name": "Spooky Pie",
-    "tier": "mythic",
+    "tier": "special",
     "category": "misc",
     "item_id": 400
   },
@@ -5508,7 +5508,7 @@
     "texture": "fb2cfdad77fb027ede854bcd14ee5c0b4133aa25bf4c444789782c89acd00593"
   },
   "MENDER_FEDORA": {
-    "name": "Mender Fedora",
+    "name": "Mender Fedora ✪✪✪✪✪",
     "tier": "epic",
     "category": "dungeon helmet",
     "item_id": 397,
@@ -5878,7 +5878,7 @@
     "item_id": 371
   },
   "SHADOW_ASSASSIN_CHESTPLATE": {
-    "name": "Shadow Assassin Chestplate ✪✪",
+    "name": "Shadow Assassin Chestplate ✪✪✪",
     "tier": "epic",
     "category": "dungeon chestplate",
     "item_id": 299
@@ -6741,7 +6741,7 @@
     "name": "Magical Map",
     "tier": null,
     "category": "misc",
-    "damage": 1792,
+    "damage": 1280,
     "item_id": 358
   },
   "ENCHANTED_RAW_SALMON": {
@@ -7098,6 +7098,7 @@
     "name": "Death Bow ✪✪✪✪✪",
     "tier": "epic",
     "category": "dungeon bow",
+    "damage": 2,
     "item_id": 261
   },
   "COAL:1": {
@@ -9665,5 +9666,72 @@
     "category": "misc",
     "item_id": 397,
     "texture": "20f4d7c26b0310990a7d3a3b45948b95dd4ab407a16a4b6d3b7cb4fba031aeed"
+  },
+  "ZOMBIE_GENERATOR_8": {
+    "name": "Zombie Minion VIII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "e40b20aba5b3c279dee42b39d8e03de25cbead3421655f0cf1bea43ed0b4272e"
+  },
+  "STONE_SLAB2": {
+    "name": "Red Sandstone Slab",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 182
+  },
+  "SUGAR_CANE_GENERATOR_11": {
+    "name": "Sugar Cane Minion XI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "237514eb4e09053002f242a04997cfb3584928185acf99fa9a1d998bd987e1d7"
+  },
+  "STAINED_CLAY:13": {
+    "name": "Green Hardened Clay",
+    "tier": "common",
+    "category": "misc",
+    "damage": 13,
+    "item_id": 159
+  },
+  "DROPPER": {
+    "name": "Dropper",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 158
+  },
+  "OAK_GENERATOR_11": {
+    "name": "Oak Minion XI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "e613f991f92bd0cf700cfee9a1440ff4dfe89999792e1eb9698b406549761180"
+  },
+  "COOKIE": {
+    "name": "Cookie",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 357
+  },
+  "WASHED_UP_SOUVENIR": {
+    "name": "Washed-up Souvenir",
+    "tier": "legendary",
+    "category": "pet item",
+    "item_id": 397,
+    "texture": "3777f04644dec5f80bfeaa7401acfbbc150eb25d3ff8be4220e7c34426cd727c"
+  },
+  "BEASTMASTER_CREST_RARE": {
+    "name": "Beastmaster Crest",
+    "tier": "rare",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "53415667de3fb89c5f40c880c39e4971a0caa7f3a9d2c8f712ba37fadcee"
+  },
+  "DIRT_BOTTLE": {
+    "name": "Dirt Bottle",
+    "tier": "rare",
+    "category": "reforge stone",
+    "item_id": 397,
+    "texture": "203239f70a3c25358b22a29be1bfd1b985ee95f286348b4e0f22f347409825b8"
   }
 }
