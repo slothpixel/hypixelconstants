@@ -6196,9 +6196,9 @@
     "texture": "8744c81099c1aebf20f677faed24cace520a294cf46bdeb6a257f436a323a1d8"
   },
   "PROTECTOR_DRAGON_BOOTS": {
-    "name": "Protector Dragon Boots",
+    "name": "Protector Dragon Boots ✪✪✪✪✪",
     "tier": "legendary",
-    "category": "boots",
+    "category": "dungeon boots",
     "item_id": 301
   },
   "WOOL:1": {
@@ -6765,7 +6765,7 @@
   },
   "THEORETICAL_HOE_CARROT_1": {
     "name": "Gauss Carrot Hoe",
-    "tier": "uncommon",
+    "tier": "common",
     "category": "hoe",
     "item_id": 291
   },
@@ -6889,9 +6889,9 @@
     "item_id": 300
   },
   "PROTECTOR_DRAGON_HELMET": {
-    "name": "Protector Dragon Helmet",
+    "name": "Protector Dragon Helmet ✪✪✪✪✪",
     "tier": "legendary",
-    "category": "helmet",
+    "category": "dungeon helmet",
     "item_id": 397,
     "texture": "1f1a1ccbb024ed1d28471bc4b3c28d093277161a3871d2699d68e5d2c387964"
   },
@@ -9169,9 +9169,9 @@
     "texture": "dc785f2b1cca983928b0fe8ceb700660365b757e93a42a6651a937df773c70af"
   },
   "PROTECTOR_DRAGON_LEGGINGS": {
-    "name": "Protector Dragon Leggings",
+    "name": "Protector Dragon Leggings ✪✪✪✪✪",
     "tier": "legendary",
-    "category": "leggings",
+    "category": "dungeon leggings",
     "item_id": 300
   },
   "HEALING_RING": {
@@ -10170,5 +10170,18 @@
     "category": "misc",
     "item_id": 397,
     "texture": "5e07676b749e912c6299bdb05904aba8fc6df91eb9494376957fcf0f745be295"
+  },
+  "PET_ITEM_FARMING_SKILL_BOOST_COMMON": {
+    "name": "Farming Exp Boost",
+    "tier": "common",
+    "category": "pet item",
+    "item_id": 292
+  },
+  "KRAMPUS_HELMET": {
+    "name": "Krampus Helmet",
+    "tier": "epic",
+    "category": "helmet",
+    "item_id": 397,
+    "texture": "5f18998a51a2f2912f39a294212c7e9d194789fe053fcf85382a9ef219d93"
   }
 }
