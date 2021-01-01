@@ -957,9 +957,9 @@
     "item_id": 299
   },
   "FROZEN_SCYTHE": {
-    "name": "Frozen Scythe",
+    "name": "Frozen Scythe ✪",
     "tier": "rare",
-    "category": "sword",
+    "category": "dungeon sword",
     "item_id": 292
   },
   "WOOL:15": {
@@ -8432,7 +8432,7 @@
   },
   "GRIFFIN_UPGRADE_STONE_EPIC": {
     "name": "Griffin Upgrade Stone",
-    "tier": "legendary",
+    "tier": "epic",
     "category": "misc",
     "item_id": 397,
     "texture": "8e13952025a2324a666f7edf65358325ac63baa379902e390fc27201463193e7"
@@ -9968,5 +9968,112 @@
     "tier": "legendary",
     "category": "dungeon sword",
     "item_id": 346
+  },
+  "RAILS": {
+    "name": "Rail",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 66
+  },
+  "HUGE_MUSHROOM_1": {
+    "name": "Brown Mushroom Block",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 99
+  },
+  "ACTIVATOR_RAIL": {
+    "name": "Activator Rail",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 157
+  },
+  "GRAVEL_GENERATOR_3": {
+    "name": "Gravel Minion III",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "aae230c0ded51aa97c7964db885786f0c77f6244539b185ef4a5f2554199c785"
+  },
+  "LAPIS_GENERATOR_4": {
+    "name": "Lapis Minion IV",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "97df8ae6e1436504a6f08137313e5e47e17aa078827f3a636336668a4188e6fc"
+  },
+  "ZOMBIE_ARTIFACT": {
+    "name": "Zombie Artifact",
+    "tier": "rare",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "c3fb4e5db97f479c66a42bbd8a7d781daf201a8ddaf77afcf4aef87779aa8b4"
+  },
+  "GRIFFIN_UPGRADE_STONE_UNCOMMON": {
+    "name": "Griffin Upgrade Stone",
+    "tier": "uncommon",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "8e13952025a2324a666f7edf65358325ac63baa379902e390fc27201463193e7"
+  },
+  "GRIFFIN_UPGRADE_STONE_LEGENDARY": {
+    "name": "Griffin Upgrade Stone",
+    "tier": "legendary",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "8e13952025a2324a666f7edf65358325ac63baa379902e390fc27201463193e7"
+  },
+  "REVENANT_LEGGINGS": {
+    "name": "Revenant Leggings",
+    "tier": "epic",
+    "category": "leggings",
+    "item_id": 312
+  },
+  "REVENANT_BOOTS": {
+    "name": "Revenant Boots",
+    "tier": "epic",
+    "category": "boots",
+    "item_id": 313
+  },
+  "COBBLESTONE_GENERATOR_4": {
+    "name": "Cobblestone Minion IV",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "39514fee95d702625b974f1730fd62e567c5934997f73bae7e07ab52ddf9066e"
+  },
+  "COW_GENERATOR_4": {
+    "name": "Cow Minion IV",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "e7b32af9f116a425c7394d23dd851f3bff53f05ec413fb2fce3839533d925a86"
+  },
+  "POTATO_GENERATOR_2": {
+    "name": "Potato Minion II",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "6ce06fb5d857f1b821b4f6f4481464b2471650733bf7baa3e1f6b41555aab561"
+  },
+  "ZOMBIE_GENERATOR_1": {
+    "name": "Zombie Minion I",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "196063a884d3901c41f35b69a8c9f401c61ac9f6330f964f80c35352c3e8bfb0"
+  },
+  "ZOMBIE_GENERATOR_2": {
+    "name": "Zombie Minion II",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "c01613ba2e99ee8326b5ceae77efb1e9afa6ae541f38b4ed63e79ecb01e725f0"
+  },
+  "OBSIDIAN_GENERATOR_1": {
+    "name": "Obsidian Minion I",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "320c29ab966637cb9aecc34ee76d5a0130461e0c4fdb08cdaf80939fa1209102"
   }
 }
