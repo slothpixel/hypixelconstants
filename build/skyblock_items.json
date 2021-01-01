@@ -10114,5 +10114,61 @@
     "tier": "common",
     "category": "misc",
     "item_id": 330
+  },
+  "VIKING_TEAR": {
+    "name": "Viking's Tear",
+    "tier": "rare",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "b29b194fd1252e5c3f3b32a9a911af439eeeb99ea8de1cf2fad6543207101b34"
+  },
+  "TALISMAN_ENRICHMENT_HEALTH": {
+    "name": "Health Enrichment",
+    "tier": "special",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "faff2eb498e5c6a04484f0c9f785b448479ab213df95ec91176a308a12add70"
+  },
+  "COAL_GENERATOR_9": {
+    "name": "Coal Minion IX",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "29f5b3c25dd013c4b1630746b7f6ee88c73c0bacf22a970a2331818c225a0620"
+  },
+  "CARPET:10": {
+    "name": "Purple Carpet",
+    "tier": "common",
+    "category": "misc",
+    "damage": 10,
+    "item_id": 171
+  },
+  "ACACIA_GENERATOR_11": {
+    "name": "Acacia Minion XI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "4f6e34656f238ed0d6823fc31cb16455f79aa9756884225d6ce4ef681c8240eb"
+  },
+  "SPRUCE_GENERATOR_10": {
+    "name": "Spruce Minion X",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "74ba98e2b81e9426e5f1f44b63559633b3b2ab416a72cbc3b6cb4d527aaad8cd"
+  },
+  "EMERALD_GENERATOR_10": {
+    "name": "Emerald Minion X",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "c2ba3b81576024cbde5dade239ad7603e1fe5f9d8b1fe4716cfc68a9bcb2d324"
+  },
+  "BIRCH_GENERATOR_9": {
+    "name": "Birch Minion IX",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "5e07676b749e912c6299bdb05904aba8fc6df91eb9494376957fcf0f745be295"
   }
 }
