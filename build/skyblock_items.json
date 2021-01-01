@@ -122,11 +122,11 @@
     "item_id": 399
   },
   "RUNE": {
-    "name": "◆ Golden Rune I",
-    "tier": "epic",
+    "name": "◆ Sparkling Rune I",
+    "tier": "rare",
     "category": "cosmetic",
     "item_id": 397,
-    "texture": "35f4861aa5b22ee28a90e75dab45d221efd14c0b1ecc8ee998fb67e43bb8f3de"
+    "texture": "f1e2428cb359988f4c4ff0e61de21385c62269de19a69762d773223b75dd1666"
   },
   "ROGUE_SWORD": {
     "name": "Rogue Sword",
@@ -220,10 +220,10 @@
     "texture": "82ada1c7fcc8cf35defeb944a4f8ffa9a9d260560fc7f5f5826de8085435967c"
   },
   "POTION": {
-    "name": "Archery I Potion",
-    "tier": "common",
+    "name": "Dungeon VII Potion",
+    "tier": "epic",
     "category": "misc",
-    "damage": 7,
+    "damage": 1,
     "item_id": 373
   },
   "ENCHANTED_BONE": {
@@ -313,12 +313,12 @@
     "tier": "rare",
     "category": "misc",
     "item_id": 397,
-    "texture": "548a918a02feb1b39d0cb6c3cd45da3cbd0a75512281b28596aaf0beac3afc30"
+    "texture": "62f3b3a05481cde77240005c0ddcee1c069e5504a62ce0977879f55a39396146"
   },
   "FLORID_ZOMBIE_SWORD": {
-    "name": "Florid Zombie Sword",
+    "name": "Florid Zombie Sword ✪✪✪✪✪",
     "tier": "legendary",
-    "category": "sword",
+    "category": "dungeon sword",
     "item_id": 283
   },
   "GOLD_AXE": {
@@ -380,7 +380,7 @@
   },
   "THEORETICAL_HOE_POTATO_2": {
     "name": "Pythagorean Potato Hoe",
-    "tier": "uncommon",
+    "tier": "rare",
     "category": "hoe",
     "item_id": 292
   },
@@ -392,7 +392,7 @@
   },
   "THEORETICAL_HOE_WHEAT_1": {
     "name": "Euclid's Wheat Hoe",
-    "tier": "uncommon",
+    "tier": "common",
     "category": "hoe",
     "item_id": 291
   },
@@ -424,7 +424,7 @@
   "ASPECT_OF_THE_END": {
     "name": "Aspect of the End",
     "tier": "rare",
-    "category": "sword",
+    "category": "schwert",
     "item_id": 276
   },
   "TRAINING_WEIGHTS": {
@@ -498,7 +498,7 @@
   "GOLD_PICKAXE": {
     "name": "Golden Pickaxe",
     "tier": "common",
-    "category": "pickaxe",
+    "category": "镐子",
     "item_id": 285
   },
   "GOLD_SPADE": {
@@ -508,7 +508,7 @@
     "item_id": 284
   },
   "DIRT": {
-    "name": "Dirt",
+    "name": "Erde",
     "tier": "common",
     "category": "misc",
     "item_id": 3
@@ -740,14 +740,14 @@
     "item_id": 301
   },
   "UNDEAD_BOW": {
-    "name": "Undead Bow ✪✪✪✪✪",
+    "name": "Undead Bow",
     "tier": "rare",
     "category": "dungeon bow",
-    "damage": 22,
+    "damage": 5,
     "item_id": 261
   },
   "BONZO_MASK": {
-    "name": "Bonzo's Mask",
+    "name": "Bonzo's Mask ✪✪✪✪✪",
     "tier": "rare",
     "category": "dungeon helmet",
     "item_id": 397,
@@ -812,7 +812,7 @@
     "item_id": 372
   },
   "SUGAR_CANE": {
-    "name": "Sugar Cane",
+    "name": "甘蔗",
     "tier": "common",
     "category": "misc",
     "item_id": 338
@@ -956,12 +956,6 @@
     "category": "chestplate",
     "item_id": 299
   },
-  "TRIPWIRE_HOOK": {
-    "name": "Tripwire Hook",
-    "tier": "common",
-    "category": "misc",
-    "item_id": 131
-  },
   "FROZEN_SCYTHE": {
     "name": "Frozen Scythe",
     "tier": "rare",
@@ -1031,15 +1025,15 @@
   "HURRICANE_BOW": {
     "name": "Hurricane Bow",
     "tier": "epic",
-    "category": "arco",
+    "category": "bow",
     "item_id": 261
   },
   "PET": {
-    "name": "[Lvl 100] Enderman",
-    "tier": "common",
+    "name": "[Lvl 76] Wither Skeleton",
+    "tier": "legendary",
     "category": "misc",
     "item_id": 397,
-    "texture": "6eab75eaa5c9f2c43a0d23cfdce35f4df632e9815001850377385f7b2f039ce1"
+    "texture": "f5ec964645a8efac76be2f160d7c9956362f32b6517390c59c3085034f050cff"
   },
   "BONZO_STAFF": {
     "name": "Bonzo's Staff",
@@ -1161,7 +1155,7 @@
   },
   "BLUE_ICE_HUNK": {
     "name": "Hunk of Blue Ice",
-    "tier": "epic",
+    "tier": "rare",
     "category": "misc",
     "item_id": 397,
     "texture": "5ab09ee14e3a5df599cfa4d16c5ce8d054bef846951320f721aa4a7181f8db5e"
@@ -1213,7 +1207,7 @@
   },
   "PLASMAFLUX_POWER_ORB": {
     "name": "Plasmaflux Power Orb",
-    "tier": "mythic",
+    "tier": "legendary",
     "category": "misc",
     "item_id": 397,
     "texture": "83ed4ce23933e66e04df16070644f7599eeb55307f7eafe8d92f40fb3520863c"
@@ -1298,7 +1292,7 @@
   "TREECAPITATOR_AXE": {
     "name": "Treecapitator",
     "tier": "epic",
-    "category": "斧頭",
+    "category": "axe",
     "item_id": 286
   },
   "SUMMONING_EYE": {
@@ -1361,7 +1355,7 @@
   "FEL_SWORD": {
     "name": "Fel Sword",
     "tier": "epic",
-    "category": "dungeon sword",
+    "category": "dungeon 剑",
     "item_id": 272
   },
   "ENCHANTED_COAL_BLOCK": {
@@ -1658,9 +1652,9 @@
     "texture": "1a75e8b044c7201a4b2e856be4fc316a5aaec66576169bab5872a88534b80256"
   },
   "BAT_WAND": {
-    "name": "Spirit Sceptre",
+    "name": "Spirit Sceptre ✪✪✪",
     "tier": "legendary",
-    "category": "dungeon schwert",
+    "category": "dungeon sword",
     "damage": 2,
     "item_id": 38
   },
@@ -2112,9 +2106,9 @@
     "texture": "8ce4c87eb4dde27459e3e7f85921e7e57b11199260caa5ce63f139ee3d188c"
   },
   "BOW": {
-    "name": "Bow",
+    "name": "Bogen",
     "tier": "common",
-    "category": "bow",
+    "category": "bogen",
     "item_id": 261
   },
   "ENCHANTED_MAGMA_CREAM": {
@@ -2132,7 +2126,7 @@
   "GRINCH_PERSONALITY": {
     "name": "Grinch Minion Skin",
     "tier": "common",
-    "category": "cosmetic",
+    "category": "misc",
     "item_id": 397,
     "texture": "9a1d45f0102d1410a061f74bef329ce3cfaa16d0762e5c9581fa5eb0032eaf60"
   },
@@ -2145,7 +2139,7 @@
   },
   "NOPE_THE_FISH": {
     "name": "Nope the Fish",
-    "tier": "special",
+    "tier": "mythic",
     "category": "misc",
     "damage": 1,
     "item_id": 349
@@ -2414,12 +2408,6 @@
     "category": "меч",
     "item_id": 283
   },
-  "WOOD_SPADE": {
-    "name": "Деревянная лопата",
-    "tier": "common",
-    "category": "shovel",
-    "item_id": 269
-  },
   "SAPLING:3": {
     "name": "Jungle Sapling",
     "tier": "common",
@@ -2552,7 +2540,7 @@
     "item_id": 257
   },
   "INFINIDIRT_WAND": {
-    "name": "InfiniDirt™ Wand",
+    "name": "InfiniDirt��� Wand",
     "tier": "uncommon",
     "category": "misc",
     "item_id": 280
@@ -2610,7 +2598,7 @@
     "item_id": 393
   },
   "BLAZE_ROD": {
-    "name": "Blaze Rod",
+    "name": "Vara de Blaze",
     "tier": "common",
     "category": "misc",
     "item_id": 369
@@ -2670,7 +2658,7 @@
   },
   "CATACOMBS_EXPERT_RING": {
     "name": "Catacombs Expert Ring",
-    "tier": "epic",
+    "tier": "legendary",
     "category": "dungeon accessory",
     "item_id": 397,
     "texture": "c078c68f6f9669370ea39be72945a3a8688e0e024e5d6158fd854fb2b80fb"
@@ -2684,7 +2672,7 @@
   "LAST_BREATH": {
     "name": "Last Breath",
     "tier": "legendary",
-    "category": "dungeon bow",
+    "category": "dungeon 弓",
     "item_id": 261
   },
   "BOWL": {
@@ -2747,7 +2735,7 @@
     "texture": "94af5f3b50e2dea2687d292cc3a5e42c028b8626e638842fb4f78671debe276c"
   },
   "FLOWER_OF_TRUTH": {
-    "name": "Flower of Truth ✪",
+    "name": "Flower of Truth ✪✪✪",
     "tier": "legendary",
     "category": "dungeon sword",
     "item_id": 38
@@ -3222,7 +3210,7 @@
   "COCO_CHOPPER": {
     "name": "Coco Chopper",
     "tier": "epic",
-    "category": "axt",
+    "category": "axe",
     "item_id": 286
   },
   "MAGMA_BOW": {
@@ -3649,7 +3637,7 @@
     "item_id": 310
   },
   "STARRED_BONZO_MASK": {
-    "name": "⚚ Bonzo's Mask",
+    "name": "⚚ Bonzo's Mask ✪✪✪✪✪",
     "tier": "rare",
     "category": "dungeon helmet",
     "item_id": 397,
@@ -3838,12 +3826,6 @@
     "damage": 7,
     "item_id": 171
   },
-  "THIN_GLASS": {
-    "name": "玻璃片",
-    "tier": "common",
-    "category": "misc",
-    "item_id": 102
-  },
   "HYPIXEL_CASTLE": {
     "name": "Hypixel Sandcastle",
     "tier": "rare",
@@ -3966,7 +3948,7 @@
     "item_id": 109
   },
   "ITEM_SPIRIT_BOW": {
-    "name": "Spirit Bow ✪✪✪✪✪",
+    "name": "Spirit Bow",
     "tier": "legendary",
     "category": "dungeon bow",
     "item_id": 261
@@ -4651,9 +4633,9 @@
     "item_id": 171
   },
   "PHANTOM_ROD": {
-    "name": "Phantom Rod ✪✪✪✪",
+    "name": "Phantom Rod",
     "tier": "legendary",
-    "category": "dungeon fishing weapon",
+    "category": "fishing weapon",
     "item_id": 346
   },
   "TAIGA_BIOME_STICK": {
@@ -5249,7 +5231,7 @@
   "WITHER_BOW": {
     "name": "Wither Bow",
     "tier": "uncommon",
-    "category": "arco",
+    "category": "bow",
     "item_id": 261
   },
   "SPOOKY_CHESTPLATE": {
@@ -5771,12 +5753,6 @@
     "item_id": 397,
     "texture": "c2fd8976e1b64aebfd38afbe62aa1429914253df3417ace1f589e5cf45fbd717"
   },
-  "WOOD_SWORD": {
-    "name": "木剑",
-    "tier": "common",
-    "category": "剑",
-    "item_id": 268
-  },
   "ENCHANTMENT_TABLE": {
     "name": "Enchantment Table",
     "tier": "common",
@@ -5902,7 +5878,7 @@
     "item_id": 371
   },
   "SHADOW_ASSASSIN_CHESTPLATE": {
-    "name": "Shadow Assassin Chestplate",
+    "name": "Shadow Assassin Chestplate ✪✪",
     "tier": "epic",
     "category": "dungeon chestplate",
     "item_id": 299
@@ -6959,12 +6935,6 @@
     "item_id": 397,
     "texture": "818386b0efa6f8ccd48fce89e7dc564e6a46974c3ae5727aadf837d3fda65964"
   },
-  "COOKIE": {
-    "name": "Печенье",
-    "tier": "common",
-    "category": "misc",
-    "item_id": 357
-  },
   "INFINITE_SUPERBOOM_TNT": {
     "name": "Infinityboom TNT",
     "tier": "epic",
@@ -7283,12 +7253,6 @@
     "item_id": 397,
     "texture": "af41cc2250d2f5cfcf4384aa0cf3e23c19767549a2a8abd7532bd52c5a1de"
   },
-  "ANVIL": {
-    "name": "铁砧",
-    "tier": "common",
-    "category": "misc",
-    "item_id": 145
-  },
   "WISE_WITHER_CHESTPLATE": {
     "name": "Storm's Chestplate",
     "tier": "legendary",
@@ -7367,12 +7331,6 @@
     "category": "dungeon helmet",
     "item_id": 397,
     "texture": "1669e0b41da4fd58f625bfd140bb5b24f84d56ede6658b68f124478042cdafe6"
-  },
-  "CARPET": {
-    "name": "Ковёр",
-    "tier": "common",
-    "category": "misc",
-    "item_id": 171
   },
   "SAPLING:2": {
     "name": "Birch Sapling",
@@ -8175,12 +8133,6 @@
     "item_id": 397,
     "texture": "bafb195cc75f31b619a077b7853653254ac18f220dc32d1412982ff437b4d57a"
   },
-  "NETHERRACK": {
-    "name": "地狱岩",
-    "tier": "common",
-    "category": "misc",
-    "item_id": 87
-  },
   "SMOOTH_BRICK:1": {
     "name": "Mossy Stone Bricks",
     "tier": "common",
@@ -8611,7 +8563,7 @@
     "item_id": 300
   },
   "WISE_WITHER_BOOTS": {
-    "name": "Storm's Boots",
+    "name": "Storm's Boots ✪✪✪✪",
     "tier": "legendary",
     "category": "dungeon boots",
     "item_id": 301
@@ -9208,20 +9160,6 @@
     "item_id": 397,
     "texture": "73b172a979eff9bf5bfb80eb8515d93e4888cc41cd806473f2a9a0d8bd29e3"
   },
-  "STAINED_GLASS:10": {
-    "name": "Фиолетовое стекло",
-    "tier": "common",
-    "category": "misc",
-    "damage": 10,
-    "item_id": 95
-  },
-  "STAINED_GLASS_PANE:10": {
-    "name": "Фиолетовая стеклянная панель",
-    "tier": "common",
-    "category": "misc",
-    "damage": 10,
-    "item_id": 160
-  },
   "SPIDER_GENERATOR_6": {
     "name": "Spider Minion VI",
     "tier": null,
@@ -9294,12 +9232,6 @@
     "category": "misc",
     "item_id": 397,
     "texture": "f983804d6b4afdcda8050670f51bb3890945fa4fa8a9c3cfa143a3d7912036a3"
-  },
-  "NETHER_FENCE": {
-    "name": "Забор из адского кирпича",
-    "tier": "common",
-    "category": "misc",
-    "item_id": 113
   },
   "FENCE_GATE": {
     "name": "Oak Fence Gate",
@@ -9674,5 +9606,64 @@
     "tier": "uncommon",
     "category": "misc",
     "item_id": 133
+  },
+  "JUKEBOX": {
+    "name": "Jukebox",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 84
+  },
+  "ZOG_ANVIL": {
+    "name": "Zog Anvil",
+    "tier": "rare",
+    "category": "misc",
+    "item_id": 145
+  },
+  "ANVIL": {
+    "name": "Anvil",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 145
+  },
+  "BEASTMASTER_CREST_LEGENDARY": {
+    "name": "Beastmaster Crest",
+    "tier": "mythic",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "53415667de3fb89c5f40c880c39e4971a0caa7f3a9d2c8f712ba37fadcee"
+  },
+  "REDSTONE_GENERATOR_7": {
+    "name": "Redstone Minion VII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "18db0ef0af4853603a3f663de24381159e9faaa1cdf93b026719dab050ea9954"
+  },
+  "BASE_GRIFFIN_UPGRADE_STONE": {
+    "name": "Base Griffin Upgrade Stone",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "8e13952025a2324a666f7edf65358325ac63baa379902e390fc27201463193e7"
+  },
+  "DAEDALUS_STICK": {
+    "name": "Daedalus Stick",
+    "tier": "legendary",
+    "category": "misc",
+    "item_id": 280
+  },
+  "COAL_GENERATOR_11": {
+    "name": "Coal Minion XI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "641ffadeaa22c8d97a72036cbd5d934ca454032a81957052e85f3f95b79d3169"
+  },
+  "GLOWSTONE_GENERATOR_1": {
+    "name": "Glowstone Minion I",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "20f4d7c26b0310990a7d3a3b45948b95dd4ab407a16a4b6d3b7cb4fba031aeed"
   }
 }
