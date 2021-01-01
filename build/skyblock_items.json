@@ -8770,7 +8770,7 @@
     "item_id": 355
   },
   "MELODY_HAIR": {
-    "name": "♪ Melody's Hair ♫",
+    "name": "��� Melody's Hair ���",
     "tier": "epic",
     "category": "accessory",
     "item_id": 287
@@ -9935,5 +9935,38 @@
     "category": "misc",
     "item_id": 397,
     "texture": "dc9365642c6eddcfedf5b5e14e2bc71257d9e4a3363d123c6f33c55cafbf6d"
+  },
+  "SPEEDSTER_BOOTS": {
+    "name": "Speedster Boots",
+    "tier": "epic",
+    "category": "boots",
+    "item_id": 301
+  },
+  "MINOS_RELIC": {
+    "name": "Minos Relic",
+    "tier": "epic",
+    "category": "pet item",
+    "item_id": 397,
+    "texture": "40b4648cbd817c7b5fc654c9c054e360d81bbfe1a00f214657a174e3e0d07d21"
+  },
+  "GRIFFIN_UPGRADE_STONE_RARE": {
+    "name": "Griffin Upgrade Stone",
+    "tier": "rare",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "8e13952025a2324a666f7edf65358325ac63baa379902e390fc27201463193e7"
+  },
+  "REAPER_MASK": {
+    "name": "Reaper Mask",
+    "tier": "epic",
+    "category": "helmet",
+    "item_id": 397,
+    "texture": "1fc0184473fe882d2895ce7cbc8197bd40ff70bf10d3745de97b6c2a9c5fc78f"
+  },
+  "SOUL_WHIP": {
+    "name": "Soul Whip ✪",
+    "tier": "legendary",
+    "category": "dungeon sword",
+    "item_id": 346
   }
 }
