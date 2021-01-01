@@ -3896,7 +3896,7 @@
     "item_id": 363
   },
   "RED_ROSE:5": {
-    "name": "Orange Tulip",
+    "name": "Orange Tulpe",
     "tier": "common",
     "category": "misc",
     "damage": 5,
@@ -3925,7 +3925,7 @@
   "EMBER_ROD": {
     "name": "Ember Rod",
     "tier": "epic",
-    "category": "sword",
+    "category": "schwert",
     "item_id": 369
   },
   "EMERALD_GENERATOR_6": {
@@ -3950,7 +3950,7 @@
   "ITEM_SPIRIT_BOW": {
     "name": "Spirit Bow",
     "tier": "legendary",
-    "category": "dungeon bow",
+    "category": "dungeon 弓",
     "item_id": 261
   },
   "DIODE": {
@@ -6686,7 +6686,7 @@
     "texture": "9899278d0464397dd076408812eef40758f75b1cdb82c04c08c81503453e07e6"
   },
   "GOLD_THORN_HEAD": {
-    "name": "Golden Thorn Head",
+    "name": "Golden Thorn Head ✪",
     "tier": "special",
     "category": "dungeon helmet",
     "item_id": 397,
@@ -6910,7 +6910,7 @@
     "texture": "fd5d22583f7f8b419c1ae87340e2e53fc549daa4efb547889b54cc341223688c"
   },
   "POWER_WITHER_LEGGINGS": {
-    "name": "Necron's Leggings",
+    "name": "Necron's Leggings ✪✪✪",
     "tier": "legendary",
     "category": "dungeon leggings",
     "item_id": 300
@@ -6937,7 +6937,7 @@
   },
   "INFINITE_SUPERBOOM_TNT": {
     "name": "Infinityboom TNT",
-    "tier": "epic",
+    "tier": "rare",
     "category": "misc",
     "item_id": 46
   },
@@ -7632,7 +7632,7 @@
     "texture": "f2c498b33325cce5668a3395a262046412cfd4844b8d86ddaeb9c84e940e2af"
   },
   "NECROMANCER_LORD_HELMET": {
-    "name": "Necromancer Lord Helmet",
+    "name": "Necromancer Lord Helmet ✪✪✪✪",
     "tier": "legendary",
     "category": "dungeon helmet",
     "item_id": 397,
@@ -8623,7 +8623,7 @@
   "STARRED_LAST_BREATH": {
     "name": "⚚ Last Breath",
     "tier": "legendary",
-    "category": "dungeon bow",
+    "category": "dungeon bogen",
     "item_id": 261
   },
   "WOOD_BUTTON": {
@@ -9733,5 +9733,98 @@
     "category": "reforge stone",
     "item_id": 397,
     "texture": "203239f70a3c25358b22a29be1bfd1b985ee95f286348b4e0f22f347409825b8"
+  },
+  "NETHERRACK": {
+    "name": "Netherrack",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 87
+  },
+  "SLEEPING_EYE": {
+    "name": "Sleeping Eye",
+    "tier": "epic",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "37c0d010dd0e512ffea108d7c5fe69d576c31ec266c884b51ec0b28cc457"
+  },
+  "JUMBO_BACKPACK_UPGRADE": {
+    "name": "Jumbo Backpack Upgrade",
+    "tier": "special",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "b6acfc643f608e16de19335ddca71a828dfb8daca5793eb5bbcb0c7d1559249"
+  },
+  "ENCHANTING_PLUS": {
+    "name": "Enchanting Table+",
+    "tier": "rare",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "9ec83ab2059ccfeaa36c3f4f20daa9503d483a530fbdb80f940940aa81d2c61"
+  },
+  "SWORD_OF_REVELATIONS": {
+    "name": "Sword of Revelations",
+    "tier": "epic",
+    "category": "sword",
+    "item_id": 268
+  },
+  "THIN_GLASS": {
+    "name": "Glass Pane",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 102
+  },
+  "NETHER_WART_ISLAND": {
+    "name": "Nether Wart Island",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "f8912bc1ad3ddbe39a19b734a42d8548964bb0a9ce58a52f1a6ae37121524"
+  },
+  "BUNNY_PERSONALITY": {
+    "name": "Bunny Minion Skin",
+    "tier": "common",
+    "category": "cosmetic",
+    "item_id": 397,
+    "texture": "520a37b5d079eb79d87ed5eda2cf95a5ae761062eb09499ef33078410883ca72"
+  },
+  "CHICK_NEST": {
+    "name": "Chick Nest",
+    "tier": "rare",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "a332e1bc7fcd86b8ef624d8e2e90f8ea6c98d6beff1f7231e8c14fdc8d7f0"
+  },
+  "BEE_PERSONALITY": {
+    "name": "Bee Minion Skin",
+    "tier": "common",
+    "category": "cosmetic",
+    "item_id": 397,
+    "texture": "17bb4c5db2c46abf8a5dd837e43686da25110449d3a396dffc0980cba7f3e1a1"
+  },
+  "BUNNY": {
+    "name": "Bunny",
+    "tier": "rare",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "cec242e667aee44492413ef461b810cac356b74d8718e5cec1f892a6b43e5e1"
+  },
+  "WOOD_SINGULARITY": {
+    "name": "Wood Singularity",
+    "tier": "legendary",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "cad57d1f60478af6ae1b6b1c28cee534d5dbb8c8cab87963e9c2ef0c6ac58"
+  },
+  "MOON_CHUNK": {
+    "name": "Chunk of the Moon",
+    "tier": "rare",
+    "category": "misc",
+    "item_id": 121
+  },
+  "DAEDALUS_AXE": {
+    "name": "Daedalus Axe",
+    "tier": "legendary",
+    "category": "sword",
+    "item_id": 286
   }
 }
