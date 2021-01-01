@@ -1505,7 +1505,7 @@
   },
   "AUGER_ROD": {
     "name": "Auger Rod",
-    "tier": "epic",
+    "tier": "legendary",
     "category": "fishing rod",
     "item_id": 346
   },
@@ -7442,7 +7442,7 @@
   },
   "THEORETICAL_HOE_WARTS_3": {
     "name": "Newton Nether Warts Hoe",
-    "tier": "rare",
+    "tier": "mythic",
     "category": "hoe",
     "item_id": 293
   },
@@ -10075,5 +10075,44 @@
     "category": "misc",
     "item_id": 397,
     "texture": "320c29ab966637cb9aecc34ee76d5a0130461e0c4fdb08cdaf80939fa1209102"
+  },
+  "RED_ROSE:7": {
+    "name": "Pink Tulip",
+    "tier": "common",
+    "category": "misc",
+    "damage": 7,
+    "item_id": 38
+  },
+  "GREAT_WHITE_SHARK_TOOTH": {
+    "name": "Great White Shark Tooth",
+    "tier": "legendary",
+    "category": "misc",
+    "item_id": 370
+  },
+  "ICE_GENERATOR_6": {
+    "name": "Ice Minion VI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "38bdef08b0cd6378e9a7b9c4438f7324c65d2c2afdfb699ef14305b668b44700"
+  },
+  "WOOD_SPADE": {
+    "name": "Wooden Shovel",
+    "tier": "common",
+    "category": "shovel",
+    "item_id": 269
+  },
+  "DIVER_PUFFER": {
+    "name": "Puffer Fish Skin",
+    "tier": "legendary",
+    "category": "cosmetic",
+    "item_id": 397,
+    "texture": "5c6f54fc06fc388e048d489c049586eaae760101591e3064d0506894482b6b55"
+  },
+  "IRON_DOOR": {
+    "name": "Iron Door",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 330
   }
 }
