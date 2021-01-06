@@ -42,7 +42,7 @@
     "tier": "legendary",
     "category": "misc",
     "item_id": 397,
-    "texture": "1f8405116c1daa7ce2f012591458d50246d0a467bcb95a5a2c033aefd6008b63"
+    "texture": "c5e39fc6293556dc56d7263750ea71410022bbac8f87e89048a79b42ccfd34e1"
   },
   "ENCHANTED_ROTTEN_FLESH": {
     "name": "Enchanted Rotten Flesh",
@@ -61,7 +61,7 @@
     "tier": "epic",
     "category": "misc",
     "item_id": 397,
-    "texture": "62f3b3a05481cde77240005c0ddcee1c069e5504a62ce0977879f55a39396146"
+    "texture": "a8c3803558db279ebe409ce261937c1c9b5371aa1786555f69b55bb223f9324"
   },
   "LARGE_DUNGEON_SACK": {
     "name": "Dungeon Sack",
@@ -122,16 +122,16 @@
     "item_id": 399
   },
   "RUNE": {
-    "name": "◆ Sparkling Rune I",
+    "name": "◆ Hearts Rune I",
     "tier": "rare",
-    "category": "cosmetic",
+    "category": "misc",
     "item_id": 397,
-    "texture": "f1e2428cb359988f4c4ff0e61de21385c62269de19a69762d773223b75dd1666"
+    "texture": "2c1c179ad51955f1522c48ea9931f09c162741b45e22e9d3feb682c7e5ed8274"
   },
   "ROGUE_SWORD": {
-    "name": "Rogue Sword",
+    "name": "Rogue Sword ✪✪✪✪✪",
     "tier": "common",
-    "category": "sword",
+    "category": "dungeon sword",
     "item_id": 283
   },
   "GRAPPLING_HOOK": {
@@ -173,7 +173,7 @@
   "END_SWORD": {
     "name": "End Sword",
     "tier": "uncommon",
-    "category": "sword",
+    "category": "schwert",
     "item_id": 276
   },
   "NETHER_STALK": {
@@ -351,7 +351,7 @@
     "tier": "uncommon",
     "category": "misc",
     "item_id": 397,
-    "texture": "21d837ca222cbc0bc12426f5da018c3a931b406008800960a9df112a596e7d62"
+    "texture": "ba058931a9310d857514bd38a33cde0f3cea5abb1a40dc56a35acf520eb614d4"
   },
   "SEEDS": {
     "name": "Seeds",
@@ -424,7 +424,7 @@
   "ASPECT_OF_THE_END": {
     "name": "Aspect of the End",
     "tier": "rare",
-    "category": "schwert",
+    "category": "sword",
     "item_id": 276
   },
   "TRAINING_WEIGHTS": {
@@ -455,7 +455,7 @@
     "texture": "5b783670ad917913fd6944fd760f9c8398daf77285b51c2757ce3cbf9b1ffb"
   },
   "SHADOW_ASSASSIN_BOOTS": {
-    "name": "Shadow Assassin Boots ✪✪✪",
+    "name": "Shadow Assassin Boots",
     "tier": "epic",
     "category": "dungeon boots",
     "item_id": 301
@@ -498,7 +498,7 @@
   "GOLD_PICKAXE": {
     "name": "Golden Pickaxe",
     "tier": "common",
-    "category": "镐子",
+    "category": "pickaxe",
     "item_id": 285
   },
   "GOLD_SPADE": {
@@ -508,7 +508,7 @@
     "item_id": 284
   },
   "DIRT": {
-    "name": "Erde",
+    "name": "Dirt",
     "tier": "common",
     "category": "misc",
     "item_id": 3
@@ -734,16 +734,15 @@
     "item_id": 368
   },
   "TARANTULA_BOOTS": {
-    "name": "Tarantula Boots",
+    "name": "Tarantula Boots ✪✪✪✪✪",
     "tier": "epic",
-    "category": "boots",
+    "category": "dungeon boots",
     "item_id": 301
   },
   "UNDEAD_BOW": {
     "name": "Undead Bow",
     "tier": "rare",
     "category": "dungeon bow",
-    "damage": 5,
     "item_id": 261
   },
   "BONZO_MASK": {
@@ -812,7 +811,7 @@
     "item_id": 372
   },
   "SUGAR_CANE": {
-    "name": "甘蔗",
+    "name": "Sugar Cane",
     "tier": "common",
     "category": "misc",
     "item_id": 338
@@ -1029,14 +1028,14 @@
     "item_id": 261
   },
   "PET": {
-    "name": "[Lvl 76] Wither Skeleton",
-    "tier": "legendary",
+    "name": "[Lvl 1] Ghoul",
+    "tier": "epic",
     "category": "misc",
     "item_id": 397,
-    "texture": "f5ec964645a8efac76be2f160d7c9956362f32b6517390c59c3085034f050cff"
+    "texture": "87934565bf522f6f4726cdfe127137be11d37c310db34d8c70253392b5ff5b"
   },
   "BONZO_STAFF": {
-    "name": "Bonzo's Staff ✪✪✪✪✪",
+    "name": "Bonzo's Staff",
     "tier": "rare",
     "category": "dungeon sword",
     "item_id": 369
@@ -1162,7 +1161,7 @@
   },
   "ICE_HUNK": {
     "name": "Hunk of Ice",
-    "tier": "rare",
+    "tier": "uncommon",
     "category": "misc",
     "item_id": 397,
     "texture": "ddba642efffa13ec3730eafc5914ab68115c1f998803f74452e2e0cd26af0b8"
@@ -1355,7 +1354,7 @@
   "FEL_SWORD": {
     "name": "Fel Sword",
     "tier": "epic",
-    "category": "dungeon 剑",
+    "category": "dungeon sword",
     "item_id": 272
   },
   "ENCHANTED_COAL_BLOCK": {
@@ -2106,9 +2105,9 @@
     "texture": "8ce4c87eb4dde27459e3e7f85921e7e57b11199260caa5ce63f139ee3d188c"
   },
   "BOW": {
-    "name": "Bogen",
+    "name": "Bow",
     "tier": "common",
-    "category": "bogen",
+    "category": "bow",
     "item_id": 261
   },
   "ENCHANTED_MAGMA_CREAM": {
@@ -2126,20 +2125,20 @@
   "GRINCH_PERSONALITY": {
     "name": "Grinch Minion Skin",
     "tier": "common",
-    "category": "misc",
+    "category": "cosmetic",
     "item_id": 397,
     "texture": "9a1d45f0102d1410a061f74bef329ce3cfaa16d0762e5c9581fa5eb0032eaf60"
   },
   "SANTA_PERSONALITY": {
     "name": "Santa Minion Skin",
     "tier": "common",
-    "category": "misc",
+    "category": "cosmetic",
     "item_id": 397,
     "texture": "d178ae03d84227f21fa23682d9c620131000ffb7673395533b2740fa83ab1037"
   },
   "NOPE_THE_FISH": {
     "name": "Nope the Fish",
-    "tier": "mythic",
+    "tier": "special",
     "category": "misc",
     "damage": 1,
     "item_id": 349
@@ -2598,7 +2597,7 @@
     "item_id": 393
   },
   "BLAZE_ROD": {
-    "name": "Vara de Blaze",
+    "name": "Blaze Rod",
     "tier": "common",
     "category": "misc",
     "item_id": 369
@@ -2670,9 +2669,9 @@
     "item_id": 331
   },
   "LAST_BREATH": {
-    "name": "Last Breath",
+    "name": "Last Breath ✪✪✪✪✪",
     "tier": "legendary",
-    "category": "dungeon 弓",
+    "category": "dungeon bow",
     "item_id": 261
   },
   "BOWL": {
@@ -2735,7 +2734,7 @@
     "texture": "94af5f3b50e2dea2687d292cc3a5e42c028b8626e638842fb4f78671debe276c"
   },
   "FLOWER_OF_TRUTH": {
-    "name": "Flower of Truth ✪✪✪",
+    "name": "Flower of Truth ✪✪✪✪",
     "tier": "legendary",
     "category": "dungeon sword",
     "item_id": 38
@@ -2839,7 +2838,7 @@
     "item_id": 334
   },
   "ITEM_FRAME": {
-    "name": "Cadre d'Objet",
+    "name": "Item Frame",
     "tier": "common",
     "category": "misc",
     "item_id": 389
@@ -3524,7 +3523,7 @@
   "THE_SHREDDER": {
     "name": "Shredder",
     "tier": "legendary",
-    "category": "fishing weapon",
+    "category": "fishing rod",
     "item_id": 346
   },
   "WHALE_BAIT": {
@@ -4958,7 +4957,7 @@
   },
   "THEORETICAL_HOE_WARTS_1": {
     "name": "Newton Nether Warts Hoe",
-    "tier": "common",
+    "tier": "uncommon",
     "category": "hoe",
     "item_id": 291
   },
@@ -7936,7 +7935,7 @@
     "texture": "68ca03d78d157df34e8c42881ff57ea89818367e40e288da7f8b41cca5c1d406"
   },
   "SHADOW_FURY": {
-    "name": "Shadow Fury",
+    "name": "Shadow Fury ✪",
     "tier": "legendary",
     "category": "dungeon sword",
     "item_id": 276
@@ -10183,5 +10182,67 @@
     "category": "helmet",
     "item_id": 397,
     "texture": "5f18998a51a2f2912f39a294212c7e9d194789fe053fcf85382a9ef219d93"
+  },
+  "TRIPWIRE_HOOK": {
+    "name": "Tripwire Hook",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 131
+  },
+  "AOTE_STONE": {
+    "name": "Warped Stone",
+    "tier": "rare",
+    "category": "reforge stone",
+    "item_id": 397,
+    "texture": "5cb7c21cc43dc17678ee6f16591ffaab1f637c37f4f6bbd8cea497451d76db6d"
+  },
+  "CLAY_GENERATOR_6": {
+    "name": "Clay Minion VI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "23974725dd17729fc5f751a6749e02c8fa3d9299d890c9164225b1fbb7280329"
+  },
+  "JUNGLE_GENERATOR_10": {
+    "name": "Jungle Minion X",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "3ee34e1469da11fe6c44f2ca90dc9b2861a1e7b98594cb344d86824eeeabcb60"
+  },
+  "SHADOW_GOGGLES": {
+    "name": "Shadow Goggles ✪✪✪✪✪",
+    "tier": "epic",
+    "category": "dungeon helmet",
+    "item_id": 397,
+    "texture": "c465a847e114ef62e7833cbfb2fe5de5764bab5f10af125fd2d316238268279f"
+  },
+  "FORAGING_1_PORTAL": {
+    "name": "Portal to Birch Park",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "a221f813dacee0fef8c59f76894dbb26415478d9ddfc44c2e708a6d3b7549b"
+  },
+  "CAMPFIRE_TALISMAN_3": {
+    "name": "Campfire Initiate Badge",
+    "tier": "common",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "af41cc2250d2f5cfcf4384aa0cf3e23c19767549a2a8abd7532bd52c5a1de"
+  },
+  "BUILDER_BANANA_BUNCH": {
+    "name": "Banana Bunch",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "20aaa1425d2b99383697d57193f27d872442bcb995508f42d19de4af1f8612"
+  },
+  "ENDERMAN_GENERATOR_1": {
+    "name": "Enderman Minion I",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "e460d20ba1e9cd1d4cfd6d5fb0179ff41597ac6d2461bd7ccdb58b20291ec46e"
   }
 }
