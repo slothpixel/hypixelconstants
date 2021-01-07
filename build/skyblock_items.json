@@ -1706,7 +1706,7 @@
   "SCARF_STUDIES": {
     "name": "Scarf's Studies",
     "tier": "rare",
-    "category": "dungeon accessory",
+    "category": "accessory",
     "item_id": 397,
     "texture": "6de4ab129e137f9f4cbf7060318ee1748dc39da9b5d129a8da0e614e2337693"
   },
@@ -3710,7 +3710,7 @@
     "item_id": 305
   },
   "NECROMANCER_LORD_CHESTPLATE": {
-    "name": "Necromancer Lord Chestplate",
+    "name": "Necromancer Lord Chestplate ✪✪",
     "tier": "legendary",
     "category": "dungeon chestplate",
     "item_id": 299
@@ -3902,11 +3902,11 @@
     "item_id": 38
   },
   "REPELLING_CANDLE": {
-    "name": "Pink Repelling Candle",
+    "name": "White Repelling Candle",
     "tier": "uncommon",
     "category": "misc",
     "item_id": 397,
-    "texture": "9f90ad608ab5f79bdb517ae634b4dc443df6fb6d0b176c11242bf8847b4eb8c"
+    "texture": "787d835b543ed1b02415701ca7b3f8c8a0a112af1318f9cec5a5e91e4814a249"
   },
   "ENCHANTED_GOLD": {
     "name": "Enchanted Gold",
@@ -5877,7 +5877,7 @@
     "item_id": 371
   },
   "SHADOW_ASSASSIN_CHESTPLATE": {
-    "name": "Shadow Assassin Chestplate ✪✪✪",
+    "name": "Shadow Assassin Chestplate ✪",
     "tier": "epic",
     "category": "dungeon chestplate",
     "item_id": 299
@@ -6351,7 +6351,7 @@
     "item_id": 280
   },
   "MYCEL": {
-    "name": "Mycelium",
+    "name": "Myzel",
     "tier": "common",
     "category": "misc",
     "item_id": 110
@@ -6412,7 +6412,7 @@
     "item_id": 152
   },
   "HYPERION": {
-    "name": "Hyperion",
+    "name": "Hyperion ✪✪✪",
     "tier": "legendary",
     "category": "dungeon sword",
     "item_id": 267
@@ -7097,7 +7097,7 @@
     "name": "Death Bow ✪✪✪✪✪",
     "tier": "epic",
     "category": "dungeon bow",
-    "damage": 2,
+    "damage": 4,
     "item_id": 261
   },
   "COAL:1": {
@@ -7822,7 +7822,7 @@
     "texture": "7792676664ac711488641f72b25961835613da9ffd43ea3bdd163cb365343a6"
   },
   "BONE_BOOMERANG": {
-    "name": "Bonemerang",
+    "name": "Bonemerang ✪✪✪✪✪",
     "tier": "legendary",
     "category": "dungeon bow",
     "item_id": 352
@@ -9168,9 +9168,9 @@
     "texture": "dc785f2b1cca983928b0fe8ceb700660365b757e93a42a6651a937df773c70af"
   },
   "PROTECTOR_DRAGON_LEGGINGS": {
-    "name": "Protector Dragon Leggings ✪✪✪✪✪",
+    "name": "Protector Dragon Leggings",
     "tier": "legendary",
-    "category": "dungeon leggings",
+    "category": "leggings",
     "item_id": 300
   },
   "HEALING_RING": {
@@ -10270,5 +10270,67 @@
     "tier": "common",
     "category": "misc",
     "item_id": 192
+  },
+  "PET_SKIN_SHEEP_NEON_BLUE": {
+    "name": "Neon Blue Sheep Skin",
+    "tier": "rare",
+    "category": "cosmetic",
+    "item_id": 397,
+    "texture": "e55b3fe9311c99342ea565483cbf9e969a258faf7afa30270fb9a0929377acfd"
+  },
+  "COCOA_GENERATOR_2": {
+    "name": "Cocoa Beans Minion II",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "475cb9dcc1b3c33aca8220834588d457f9f771235f37d62050544be2f2825d1b"
+  },
+  "CAMPFIRE_TALISMAN_7": {
+    "name": "Campfire Adept Badge",
+    "tier": "uncommon",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "af41cc2250d2f5cfcf4384aa0cf3e23c19767549a2a8abd7532bd52c5a1de"
+  },
+  "CANDY_RING": {
+    "name": "Candy Ring",
+    "tier": "rare",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "2670c37a2f177e8afe29627adfb692bab30ba679736ccccc826148987f9bcf27"
+  },
+  "PET_ITEM_FISHING_SKILL_BOOST_COMMON": {
+    "name": "Fishing Exp Boost",
+    "tier": "common",
+    "category": "pet item",
+    "item_id": 349
+  },
+  "BLAZE_GENERATOR_11": {
+    "name": "Blaze Minion XI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "e791eb26b39f162f552d539a4d22c4bee8aa9c571d9acf82a012593bb945c360"
+  },
+  "GOLD_GENERATOR_6": {
+    "name": "Gold Minion VI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "1317a0b66ed2dc274b3b0d77b6859d4b9942ccc942d9e0bc26f7fa15b89842b"
+  },
+  "SKYBLOCK_CHAIR": {
+    "name": "Dark Oak Chair",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "dc151c026f8efd2d981294a9f4765788248fcb3af8a6075ff32e4aeaffda3d1d"
+  },
+  "WHEAT_GENERATOR_9": {
+    "name": "Wheat Minion IX",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "2e3cb30a26293b7fc67519249bb07efd9c9a72229811e902e1627027938edcce"
   }
 }
