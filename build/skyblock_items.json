@@ -461,7 +461,7 @@
     "item_id": 301
   },
   "SHADOW_ASSASSIN_HELMET": {
-    "name": "Shadow Assassin Helmet ✪✪✪✪✪",
+    "name": "Shadow Assassin Helmet",
     "tier": "epic",
     "category": "dungeon helmet",
     "item_id": 397,
@@ -773,10 +773,10 @@
     "texture": "b561595d9c7457796c719fae463a22271cbc01cf10809f5a64ccb3d6ae7f8f6"
   },
   "CAKE_SOUL": {
-    "name": "[YOUTUBE] toadstar0",
+    "name": "[MVP+] ImAstrix",
     "tier": "mythic",
     "category": "misc",
-    "damage": 5,
+    "damage": 2,
     "item_id": 351
   },
   "DIAMOND_HOE": {
@@ -3006,7 +3006,7 @@
   },
   "GIFT_THE_FISH": {
     "name": "Gift the Fish",
-    "tier": "special",
+    "tier": "mythic",
     "category": "misc",
     "damage": 3,
     "item_id": 349
@@ -4161,7 +4161,7 @@
   },
   "BAT_THE_FISH": {
     "name": "Bat the Fish",
-    "tier": "special",
+    "tier": "mythic",
     "category": "misc",
     "item_id": 350
   },
@@ -4257,7 +4257,7 @@
     "item_id": 276
   },
   "SUPER_UNDEAD_BOW": {
-    "name": "Super Undead Bow ✪✪✪✪",
+    "name": "Super Undead Bow",
     "tier": "epic",
     "category": "dungeon bow",
     "item_id": 261
@@ -6888,9 +6888,9 @@
     "item_id": 300
   },
   "PROTECTOR_DRAGON_HELMET": {
-    "name": "Protector Dragon Helmet ✪✪✪✪✪",
+    "name": "Protector Dragon Helmet",
     "tier": "legendary",
-    "category": "dungeon helmet",
+    "category": "helmet",
     "item_id": 397,
     "texture": "1f1a1ccbb024ed1d28471bc4b3c28d093277161a3871d2699d68e5d2c387964"
   },
@@ -6949,7 +6949,7 @@
   },
   "THEORETICAL_HOE_CANE_3": {
     "name": "Turing Sugar Cane Hoe",
-    "tier": "epic",
+    "tier": "legendary",
     "category": "hoe",
     "item_id": 293
   },
@@ -7631,7 +7631,7 @@
     "texture": "f2c498b33325cce5668a3395a262046412cfd4844b8d86ddaeb9c84e940e2af"
   },
   "NECROMANCER_LORD_HELMET": {
-    "name": "Necromancer Lord Helmet ✪✪✪✪",
+    "name": "Necromancer Lord Helmet",
     "tier": "legendary",
     "category": "dungeon helmet",
     "item_id": 397,
@@ -10244,5 +10244,31 @@
     "category": "misc",
     "item_id": 397,
     "texture": "e460d20ba1e9cd1d4cfd6d5fb0179ff41597ac6d2461bd7ccdb58b20291ec46e"
+  },
+  "JUNGLE_FENCE": {
+    "name": "Jungle Fence",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 190
+  },
+  "ZOMBIE_HAT": {
+    "name": "Zombie Hat",
+    "tier": "common",
+    "category": "helmet",
+    "damage": 2,
+    "item_id": 397
+  },
+  "NETHER_WARTS_GENERATOR_10": {
+    "name": "Nether Wart Minion X",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "3e5291d28b362a5d8c17b521a317b3a66d68f0ed9e8f322b65db0c32c42e10a2"
+  },
+  "ACACIA_FENCE": {
+    "name": "Acacia Fence",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 192
   }
 }
