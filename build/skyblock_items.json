@@ -10332,5 +10332,43 @@
     "category": "misc",
     "item_id": 397,
     "texture": "2e3cb30a26293b7fc67519249bb07efd9c9a72229811e902e1627027938edcce"
+  },
+  "HASTE_BLOCK": {
+    "name": "Haste Block",
+    "tier": "uncommon",
+    "category": "misc",
+    "item_id": 121
+  },
+  "EMERALD_ARMOR_BOOTS": {
+    "name": "Emerald Armor Boots",
+    "tier": "epic",
+    "category": "boots",
+    "item_id": 301
+  },
+  "ENCHANTED_REDSTONE_LAMP": {
+    "name": "Enchanted Redstone Lamp",
+    "tier": "rare",
+    "category": "misc",
+    "item_id": 123
+  },
+  "FLOWER_GENERATOR_3": {
+    "name": "Flower Minion III",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "de5c24a8bcd21e4f0a37551a2ad197a798be986ef08371ab11e95c2044bb1bc0"
+  },
+  "STARRED_SHADOW_ASSASSIN_HELMET": {
+    "name": "⚚ Shadow Assassin Helmet ✪✪✪",
+    "tier": "legendary",
+    "category": "dungeon helmet",
+    "item_id": 397,
+    "texture": "9b8af52ef2f72c3bf5ece6e70a82f1371959ce3fcb736c500305caddc505c5e2"
+  },
+  "STARRED_SHADOW_ASSASSIN_BOOTS": {
+    "name": "⚚ Shadow Assassin Boots ✪✪✪",
+    "tier": "legendary",
+    "category": "dungeon boots",
+    "item_id": 301
   }
 }
