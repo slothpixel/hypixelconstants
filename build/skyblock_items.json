@@ -42,7 +42,7 @@
     "tier": "legendary",
     "category": "misc",
     "item_id": 397,
-    "texture": "c5e39fc6293556dc56d7263750ea71410022bbac8f87e89048a79b42ccfd34e1"
+    "texture": "1f8405116c1daa7ce2f012591458d50246d0a467bcb95a5a2c033aefd6008b63"
   },
   "ENCHANTED_ROTTEN_FLESH": {
     "name": "Enchanted Rotten Flesh",
@@ -61,7 +61,7 @@
     "tier": "epic",
     "category": "misc",
     "item_id": 397,
-    "texture": "a8c3803558db279ebe409ce261937c1c9b5371aa1786555f69b55bb223f9324"
+    "texture": "ae5588d0484b26e2c2ac60dfe6596038cc8fd2882f6ed135f2cc9097eb420ada"
   },
   "LARGE_DUNGEON_SACK": {
     "name": "Dungeon Sack",
@@ -106,7 +106,7 @@
     "tier": "legendary",
     "category": "dungeon item",
     "item_id": 397,
-    "texture": "1e5924798a487f99ba08e54a5b130692cc586902a87e1dee213813ef8c66"
+    "texture": "96c8447a8b6b0e0c7e7629c6898ec9c749a7a0a2b452b9c3852c7847bb4dc5"
   },
   "AATROX_BATPHONE": {
     "name": "Maddox Batphone",
@@ -122,16 +122,16 @@
     "item_id": 399
   },
   "RUNE": {
-    "name": "◆ Hearts Rune I",
-    "tier": "rare",
-    "category": "misc",
+    "name": "◆ Lava Rune I",
+    "tier": "common",
+    "category": "cosmetic",
     "item_id": 397,
-    "texture": "2c1c179ad51955f1522c48ea9931f09c162741b45e22e9d3feb682c7e5ed8274"
+    "texture": "b13d903f601034ac3400d2625fef104e9b0940746c554193f6d9e85a84a966a1"
   },
   "ROGUE_SWORD": {
-    "name": "Rogue Sword ✪✪✪✪✪",
+    "name": "Rogue Sword",
     "tier": "common",
-    "category": "dungeon sword",
+    "category": "sword",
     "item_id": 283
   },
   "GRAPPLING_HOOK": {
@@ -220,8 +220,8 @@
     "texture": "82ada1c7fcc8cf35defeb944a4f8ffa9a9d260560fc7f5f5826de8085435967c"
   },
   "POTION": {
-    "name": "Dungeon VII Potion",
-    "tier": "epic",
+    "name": "Dungeon VI Potion",
+    "tier": "rare",
     "category": "misc",
     "damage": 1,
     "item_id": 373
@@ -246,7 +246,7 @@
   },
   "ENCHANTED_BOOK": {
     "name": "Enchanted Book",
-    "tier": "common",
+    "tier": "rare",
     "category": "misc",
     "item_id": 403
   },
@@ -286,7 +286,7 @@
     "tier": "epic",
     "category": "misc",
     "item_id": 397,
-    "texture": "62f3b3a05481cde77240005c0ddcee1c069e5504a62ce0977879f55a39396146"
+    "texture": "f740e80987764f2e1c745049f4965d1d8252979f546b4d59d736de2be29b5470"
   },
   "VOODOO_DOLL": {
     "name": "Voodoo Doll",
@@ -313,12 +313,12 @@
     "tier": "rare",
     "category": "misc",
     "item_id": 397,
-    "texture": "62f3b3a05481cde77240005c0ddcee1c069e5504a62ce0977879f55a39396146"
+    "texture": "548a918a02feb1b39d0cb6c3cd45da3cbd0a75512281b28596aaf0beac3afc30"
   },
   "FLORID_ZOMBIE_SWORD": {
-    "name": "Florid Zombie Sword ✪✪✪✪✪",
+    "name": "Florid Zombie Sword",
     "tier": "legendary",
-    "category": "dungeon sword",
+    "category": "sword",
     "item_id": 283
   },
   "GOLD_AXE": {
@@ -351,7 +351,7 @@
     "tier": "uncommon",
     "category": "misc",
     "item_id": 397,
-    "texture": "ba058931a9310d857514bd38a33cde0f3cea5abb1a40dc56a35acf520eb614d4"
+    "texture": "21d837ca222cbc0bc12426f5da018c3a931b406008800960a9df112a596e7d62"
   },
   "SEEDS": {
     "name": "Seeds",
@@ -734,19 +734,20 @@
     "item_id": 368
   },
   "TARANTULA_BOOTS": {
-    "name": "Tarantula Boots ✪✪✪✪✪",
+    "name": "Tarantula Boots",
     "tier": "epic",
-    "category": "dungeon boots",
+    "category": "boots",
     "item_id": 301
   },
   "UNDEAD_BOW": {
-    "name": "Undead Bow",
+    "name": "Undead Bow ✪✪✪✪✪",
     "tier": "rare",
     "category": "dungeon bow",
+    "damage": 28,
     "item_id": 261
   },
   "BONZO_MASK": {
-    "name": "Bonzo's Mask ✪✪✪✪✪",
+    "name": "Bonzo's Mask ✪✪",
     "tier": "rare",
     "category": "dungeon helmet",
     "item_id": 397,
@@ -1028,11 +1029,11 @@
     "item_id": 261
   },
   "PET": {
-    "name": "[Lvl 1] Ghoul",
-    "tier": "epic",
+    "name": "[Lvl 1] Dolphin",
+    "tier": "uncommon",
     "category": "misc",
     "item_id": 397,
-    "texture": "87934565bf522f6f4726cdfe127137be11d37c310db34d8c70253392b5ff5b"
+    "texture": "cefe7d803a45aa2af1993df2544a28df849a762663719bfefc58bf389ab7f5"
   },
   "BONZO_STAFF": {
     "name": "Bonzo's Staff",
@@ -1472,7 +1473,7 @@
     "item_id": 292
   },
   "LIVID_DAGGER": {
-    "name": "Livid Dagger",
+    "name": "Livid Dagger ✪✪",
     "tier": "legendary",
     "category": "dungeon sword",
     "item_id": 267
@@ -1706,7 +1707,7 @@
   "SCARF_STUDIES": {
     "name": "Scarf's Studies",
     "tier": "rare",
-    "category": "accessory",
+    "category": "dungeon accessory",
     "item_id": 397,
     "texture": "6de4ab129e137f9f4cbf7060318ee1748dc39da9b5d129a8da0e614e2337693"
   },
@@ -1783,7 +1784,7 @@
     "item_id": 360
   },
   "MELON": {
-    "name": "Melon",
+    "name": "Melone",
     "tier": "common",
     "category": "misc",
     "item_id": 360
@@ -2276,7 +2277,7 @@
   },
   "THEORETICAL_HOE_WARTS_2": {
     "name": "Newton Nether Warts Hoe",
-    "tier": "rare",
+    "tier": "uncommon",
     "category": "hoe",
     "item_id": 292
   },
@@ -2539,7 +2540,7 @@
     "item_id": 257
   },
   "INFINIDIRT_WAND": {
-    "name": "InfiniDirt��� Wand",
+    "name": "InfiniDirt™ Wand",
     "tier": "uncommon",
     "category": "misc",
     "item_id": 280
@@ -2558,7 +2559,7 @@
     "item_id": 294
   },
   "CACTUS": {
-    "name": "Cactus",
+    "name": "Kaktus",
     "tier": "common",
     "category": "misc",
     "item_id": 81
@@ -2669,7 +2670,7 @@
     "item_id": 331
   },
   "LAST_BREATH": {
-    "name": "Last Breath ✪✪✪✪✪",
+    "name": "Last Breath ✪",
     "tier": "legendary",
     "category": "dungeon bow",
     "item_id": 261
@@ -2734,7 +2735,7 @@
     "texture": "94af5f3b50e2dea2687d292cc3a5e42c028b8626e638842fb4f78671debe276c"
   },
   "FLOWER_OF_TRUTH": {
-    "name": "Flower of Truth ✪✪✪✪",
+    "name": "Flower of Truth ✪✪✪",
     "tier": "legendary",
     "category": "dungeon sword",
     "item_id": 38
@@ -10211,7 +10212,7 @@
     "texture": "3ee34e1469da11fe6c44f2ca90dc9b2861a1e7b98594cb344d86824eeeabcb60"
   },
   "SHADOW_GOGGLES": {
-    "name": "Shadow Goggles ✪✪✪✪✪",
+    "name": "Shadow Goggles ✪✪✪✪",
     "tier": "epic",
     "category": "dungeon helmet",
     "item_id": 397,
@@ -10370,5 +10371,24 @@
     "tier": "legendary",
     "category": "dungeon boots",
     "item_id": 301
+  },
+  "MASTIFF_BOOTS": {
+    "name": "Mastiff Boots",
+    "tier": "epic",
+    "category": "boots",
+    "item_id": 313
+  },
+  "MASTIFF_LEGGINGS": {
+    "name": "Mastiff Leggings",
+    "tier": "epic",
+    "category": "leggings",
+    "item_id": 312
+  },
+  "DIAMOND_GENERATOR_1": {
+    "name": "Diamond Minion I",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "2354bbe604dfe58bf92e7729730d0c8e37844e831ee3816d7e8427c27a1824a2"
   }
 }
