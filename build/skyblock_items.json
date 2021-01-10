@@ -774,10 +774,10 @@
     "texture": "b561595d9c7457796c719fae463a22271cbc01cf10809f5a64ccb3d6ae7f8f6"
   },
   "CAKE_SOUL": {
-    "name": "[MVP+] ImAstrix",
+    "name": "Cake Soul",
     "tier": "mythic",
     "category": "misc",
-    "damage": 2,
+    "damage": 1,
     "item_id": 351
   },
   "DIAMOND_HOE": {
@@ -1652,7 +1652,7 @@
     "texture": "1a75e8b044c7201a4b2e856be4fc316a5aaec66576169bab5872a88534b80256"
   },
   "BAT_WAND": {
-    "name": "Spirit Sceptre ✪✪✪",
+    "name": "Spirit Sceptre ✪✪",
     "tier": "legendary",
     "category": "dungeon sword",
     "damage": 2,
@@ -2243,7 +2243,7 @@
     "texture": "c9c28da01e012880eacc3ab1d34d9145357d2e2d46d42aa3b59edb91b1f7bd6d"
   },
   "INK_SACK:2": {
-    "name": "Cactus Green",
+    "name": "Corante Verde",
     "tier": "common",
     "category": "misc",
     "damage": 2,
@@ -2766,7 +2766,7 @@
     "item_id": 384
   },
   "STONE_BLADE": {
-    "name": "Adaptive Blade",
+    "name": "Adaptive Blade ✪✪✪✪",
     "tier": "epic",
     "category": "dungeon sword",
     "item_id": 272
@@ -3007,7 +3007,7 @@
   },
   "GIFT_THE_FISH": {
     "name": "Gift the Fish",
-    "tier": "mythic",
+    "tier": "special",
     "category": "misc",
     "damage": 3,
     "item_id": 349
@@ -3637,7 +3637,7 @@
     "item_id": 310
   },
   "STARRED_BONZO_MASK": {
-    "name": "⚚ Bonzo's Mask ✪✪✪✪✪",
+    "name": "⚚ Bonzo's Mask",
     "tier": "rare",
     "category": "dungeon helmet",
     "item_id": 397,
@@ -3896,7 +3896,7 @@
     "item_id": 363
   },
   "RED_ROSE:5": {
-    "name": "Orange Tulpe",
+    "name": "Orange Tulip",
     "tier": "common",
     "category": "misc",
     "damage": 5,
@@ -4162,7 +4162,7 @@
   },
   "BAT_THE_FISH": {
     "name": "Bat the Fish",
-    "tier": "mythic",
+    "tier": "special",
     "category": "misc",
     "item_id": 350
   },
@@ -7823,7 +7823,7 @@
     "texture": "7792676664ac711488641f72b25961835613da9ffd43ea3bdd163cb365343a6"
   },
   "BONE_BOOMERANG": {
-    "name": "Bonemerang ✪✪✪✪✪",
+    "name": "Bonemerang",
     "tier": "legendary",
     "category": "dungeon bow",
     "item_id": 352
@@ -7936,7 +7936,7 @@
     "texture": "68ca03d78d157df34e8c42881ff57ea89818367e40e288da7f8b41cca5c1d406"
   },
   "SHADOW_FURY": {
-    "name": "Shadow Fury ✪",
+    "name": "Shadow Fury",
     "tier": "legendary",
     "category": "dungeon sword",
     "item_id": 276
@@ -8564,7 +8564,7 @@
     "item_id": 300
   },
   "WISE_WITHER_BOOTS": {
-    "name": "Storm's Boots ✪✪✪✪",
+    "name": "Storm's Boots",
     "tier": "legendary",
     "category": "dungeon boots",
     "item_id": 301
@@ -8623,7 +8623,7 @@
   "STARRED_LAST_BREATH": {
     "name": "⚚ Last Breath",
     "tier": "legendary",
-    "category": "dungeon bogen",
+    "category": "dungeon bow",
     "item_id": 261
   },
   "WOOD_BUTTON": {
@@ -10390,5 +10390,56 @@
     "category": "misc",
     "item_id": 397,
     "texture": "2354bbe604dfe58bf92e7729730d0c8e37844e831ee3816d7e8427c27a1824a2"
+  },
+  "JACK_O_LANTERN": {
+    "name": "Jack o' Lantern",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 91
+  },
+  "TARANTULA_GENERATOR_4": {
+    "name": "Tarantula Minion IV",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "bafde429ffcd5141f42b3d754d75a0ad3528594509c09be0083bc2c98d38fdce"
+  },
+  "DARK_OAK_GENERATOR_11": {
+    "name": "Dark Oak Minion XI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "23c650b69189a1da2a0a9e9d0a235cb89df0f32ab421ad059e012be59638057f"
+  },
+  "WEREWOLF_CHESTPLATE": {
+    "name": "Werewolf Chestplate",
+    "tier": "legendary",
+    "category": "chestplate",
+    "item_id": 299
+  },
+  "STARRED_BONZO_STAFF": {
+    "name": "⚚ Bonzo's Staff",
+    "tier": "rare",
+    "category": "dungeon sword",
+    "item_id": 369
+  },
+  "ENCHANTED_CAKE": {
+    "name": "Enchanted Cake",
+    "tier": "uncommon",
+    "category": "misc",
+    "item_id": 354
+  },
+  "MUSHROOM_GENERATOR_3": {
+    "name": "Mushroom Minion III",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "a8e5b335b018b36c2d259711bee83da5b42fcc55ec234514ae2c23b1e98d7e77"
+  },
+  "WARTS_STEW": {
+    "name": "Mushroom & Warts Stew",
+    "tier": "rare",
+    "category": "misc",
+    "item_id": 413
   }
 }
