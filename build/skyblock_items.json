@@ -2229,7 +2229,7 @@
     "item_id": 264
   },
   "DARK_GOGGLES": {
-    "name": "Dark Goggles ✪",
+    "name": "Dark Goggles",
     "tier": "rare",
     "category": "dungeon helmet",
     "item_id": 397,
@@ -11180,5 +11180,18 @@
     "category": "misc",
     "item_id": 397,
     "texture": "73bc965d579c3c6039f0a17eb7c2e6faf538c7a5de8e60ec7a719360d0a857a9"
+  },
+  "MACHINE_GUN_BOW": {
+    "name": "Machine Gun Bow",
+    "tier": "rare",
+    "category": "dungeon bow",
+    "item_id": 261
+  },
+  "ENDER_STONE_GENERATOR_9": {
+    "name": "End Stone Minion IX",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "13f379728f8cbb88300e8de137d9b576205cde2c5e36607ad8d3bb558f533d68"
   }
 }
