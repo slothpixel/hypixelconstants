@@ -10588,5 +10588,31 @@
     "category": "misc",
     "item_id": 397,
     "texture": "5de0153aa18d34939b7d297c110e7a207779908cee070e3278a3d4dc9e97b122"
+  },
+  "DOUBLE_PLANT:5": {
+    "name": "Peony",
+    "tier": "common",
+    "category": "misc",
+    "damage": 5,
+    "item_id": 175
+  },
+  "IRON_TRAPDOOR": {
+    "name": "Iron Trapdoor",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 167
+  },
+  "EMBER_CHESTPLATE": {
+    "name": "Ember Chestplate",
+    "tier": "epic",
+    "category": "chestplate",
+    "item_id": 303
+  },
+  "EMBER_HELMET": {
+    "name": "Ember Helmet",
+    "tier": "epic",
+    "category": "helmet",
+    "item_id": 397,
+    "texture": "38d199e23c17488a01a07005a41fe330b1d22b04e99943c9f8c897d156e9555a"
   }
 }
