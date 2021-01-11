@@ -1385,7 +1385,7 @@
     "texture": "b88cfafa5f03f8aef042a143799e964342df76b7c1eb461f618e398f84a99a63"
   },
   "FLINT": {
-    "name": "Flint",
+    "name": "부싯돌",
     "tier": "common",
     "category": "misc",
     "item_id": 318
@@ -2658,7 +2658,7 @@
   },
   "CATACOMBS_EXPERT_RING": {
     "name": "Catacombs Expert Ring",
-    "tier": "legendary",
+    "tier": "epic",
     "category": "dungeon accessory",
     "item_id": 397,
     "texture": "c078c68f6f9669370ea39be72945a3a8688e0e024e5d6158fd854fb2b80fb"
@@ -3903,11 +3903,11 @@
     "item_id": 38
   },
   "REPELLING_CANDLE": {
-    "name": "White Repelling Candle",
+    "name": "Black Repelling Candle",
     "tier": "uncommon",
     "category": "misc",
     "item_id": 397,
-    "texture": "787d835b543ed1b02415701ca7b3f8c8a0a112af1318f9cec5a5e91e4814a249"
+    "texture": "dafc4b045983e6895c5f40028e993d516732e936de1583ecba3f32fe15fcf03f"
   },
   "ENCHANTED_GOLD": {
     "name": "Enchanted Gold",
@@ -4633,9 +4633,9 @@
     "item_id": 171
   },
   "PHANTOM_ROD": {
-    "name": "Phantom Rod",
+    "name": "Phantom Rod ✪✪✪",
     "tier": "legendary",
-    "category": "fishing weapon",
+    "category": "dungeon fishing weapon",
     "item_id": 346
   },
   "TAIGA_BIOME_STICK": {
@@ -5508,7 +5508,7 @@
     "texture": "fb2cfdad77fb027ede854bcd14ee5c0b4133aa25bf4c444789782c89acd00593"
   },
   "MENDER_FEDORA": {
-    "name": "Mender Fedora ✪✪✪✪✪",
+    "name": "Mender Fedora",
     "tier": "epic",
     "category": "dungeon helmet",
     "item_id": 397,
@@ -10441,5 +10441,32 @@
     "tier": "rare",
     "category": "misc",
     "item_id": 413
+  },
+  "STAINED_GLASS_PANE:10": {
+    "name": "Purple Stained Glass Pane",
+    "tier": "common",
+    "category": "misc",
+    "damage": 10,
+    "item_id": 160
+  },
+  "LEAVES_2": {
+    "name": "Acacia Leaves",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 161
+  },
+  "FISHING_GENERATOR_7": {
+    "name": "Fishing Minion VII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "db557d80642ccd12c417a9190c8d24b9df2e797eb79b9b63e55c4b0716584222"
+  },
+  "OAK_GENERATOR_10": {
+    "name": "Oak Minion X",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "546f4040054a097956bf7e135656ea8f52c53acaebddbddbff8d123231c82e93"
   }
 }
