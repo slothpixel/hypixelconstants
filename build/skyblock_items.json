@@ -10777,5 +10777,39 @@
     "tier": "common",
     "category": "misc",
     "item_id": 382
+  },
+  "STAINED_CLAY:6": {
+    "name": "Pink Hardened Clay",
+    "tier": "common",
+    "category": "misc",
+    "damage": 6,
+    "item_id": 159
+  },
+  "STAINED_GLASS:6": {
+    "name": "Pink Stained Glass",
+    "tier": "common",
+    "category": "misc",
+    "damage": 6,
+    "item_id": 95
+  },
+  "STAINED_GLASS:12": {
+    "name": "Brown Stained Glass",
+    "tier": "common",
+    "category": "misc",
+    "damage": 12,
+    "item_id": 95
+  },
+  "BUILDER_BERRY_BUSH": {
+    "name": "Berry Bush",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "b4ec3fcd557269a1a0b9bfa8a02dae1a39fa0ee8ff40e0cb8a96479be04b6609"
+  },
+  "NETHER_FENCE": {
+    "name": "Nether Brick Fence",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 113
   }
 }
