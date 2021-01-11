@@ -1958,7 +1958,7 @@
     "item_id": 300
   },
   "WITHER_HELMET": {
-    "name": "Wither Helmet ✪",
+    "name": "Wither Helmet",
     "tier": "legendary",
     "category": "dungeon helmet",
     "item_id": 397,
@@ -3925,7 +3925,7 @@
   "EMBER_ROD": {
     "name": "Ember Rod",
     "tier": "epic",
-    "category": "schwert",
+    "category": "sword",
     "item_id": 369
   },
   "EMERALD_GENERATOR_6": {
@@ -8122,7 +8122,7 @@
   },
   "CANDY_RELIC": {
     "name": "Candy Relic",
-    "tier": "legendary",
+    "tier": "mythic",
     "category": "accessory",
     "item_id": 397,
     "texture": "39668767f1141835e2c49ad2b415598f1b166be9173902a0257e77704f913e1f"
@@ -10621,5 +10621,57 @@
     "category": "cosmetic",
     "item_id": 397,
     "texture": "2c14d66911554bd0882339074bf6b8110c2d3509b69e7a6144e4d5a7164bacc8"
+  },
+  "GUARDIAN_CHESTPLATE": {
+    "name": "Guardian Chestplate",
+    "tier": "rare",
+    "category": "chestplate",
+    "item_id": 299
+  },
+  "STARRED_SHADOW_FURY": {
+    "name": "⚚ Shadow Fury",
+    "tier": "legendary",
+    "category": "dungeon sword",
+    "item_id": 276
+  },
+  "ZOMBIE_GENERATOR_3": {
+    "name": "Zombie Minion III",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "d6fdd8d54bc3a109b7e06baaf1b0ac97fb22989aa93069b63cca817ff7fd7463"
+  },
+  "SPOOK_THE_FISH": {
+    "name": "Spook the Fish",
+    "tier": "special",
+    "category": "misc",
+    "damage": 1,
+    "item_id": 349
+  },
+  "CAMPFIRE_TALISMAN_12": {
+    "name": "Campfire Cultist Badge",
+    "tier": "rare",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "a3cfd94e925eab4330a768afcae6c128b0a28e23149eee41c9c6df894c24f3de"
+  },
+  "EMPTY_MAP": {
+    "name": "Empty Map",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 395
+  },
+  "PET_ITEM_SADDLE": {
+    "name": "Saddle",
+    "tier": "uncommon",
+    "category": "pet item",
+    "item_id": 329
+  },
+  "CAMPFIRE_TALISMAN_10": {
+    "name": "Campfire Cultist Badge",
+    "tier": "rare",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "a3cfd94e925eab4330a768afcae6c128b0a28e23149eee41c9c6df894c24f3de"
   }
 }
