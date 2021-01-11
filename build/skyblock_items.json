@@ -456,7 +456,7 @@
   },
   "SHADOW_ASSASSIN_BOOTS": {
     "name": "Shadow Assassin Boots",
-    "tier": "epic",
+    "tier": "legendary",
     "category": "dungeon boots",
     "item_id": 301
   },
@@ -774,10 +774,10 @@
     "texture": "b561595d9c7457796c719fae463a22271cbc01cf10809f5a64ccb3d6ae7f8f6"
   },
   "CAKE_SOUL": {
-    "name": "Cake Soul",
+    "name": "[MVP++] egom",
     "tier": "mythic",
     "category": "misc",
-    "damage": 1,
+    "damage": 4,
     "item_id": 351
   },
   "DIAMOND_HOE": {
@@ -3379,9 +3379,9 @@
     "item_id": 290
   },
   "YOUNG_DRAGON_HELMET": {
-    "name": "Young Dragon Helmet",
+    "name": "Young Dragon Helmet ✪✪✪✪✪",
     "tier": "legendary",
-    "category": "helmet",
+    "category": "dungeon helmet",
     "item_id": 397,
     "texture": "a0e81ed07dfb0244d56f4d5f2b37553ec026fb4796f0fb0c57a8eb264983e1e0"
   },
@@ -4633,7 +4633,7 @@
     "item_id": 171
   },
   "PHANTOM_ROD": {
-    "name": "Phantom Rod ✪✪✪",
+    "name": "Phantom Rod ✪✪✪✪✪",
     "tier": "legendary",
     "category": "dungeon fishing weapon",
     "item_id": 346
@@ -5454,7 +5454,7 @@
     "item_id": 346
   },
   "WITHER_CHESTPLATE": {
-    "name": "Wither Chestplate",
+    "name": "Wither Chestplate ✪",
     "tier": "legendary",
     "category": "dungeon chestplate",
     "item_id": 299
@@ -7109,7 +7109,7 @@
     "item_id": 263
   },
   "RED_ROSE:1": {
-    "name": "Blue Orchid",
+    "name": "Niebieska Orchidea",
     "tier": "common",
     "category": "misc",
     "damage": 1,
@@ -7348,7 +7348,7 @@
     "texture": "70a010791cb1c8902c6223207aa44fe9d1f84f3bc8ffb1b4cc3cf5573e056e71"
   },
   "STONE_SPADE": {
-    "name": "Каменная лопата",
+    "name": "Stone Shovel",
     "tier": "common",
     "category": "shovel",
     "item_id": 273
@@ -7374,7 +7374,7 @@
     "texture": "8bd48b17a82d5e395034d01db61c76f13f88da6e5a0b1c1d198fbdb0805a7739"
   },
   "NECROMANCER_LORD_LEGGINGS": {
-    "name": "Necromancer Lord Leggings ✪",
+    "name": "Necromancer Lord Leggings",
     "tier": "legendary",
     "category": "dungeon leggings",
     "item_id": 300
@@ -11117,5 +11117,68 @@
     "category": "misc",
     "item_id": 397,
     "texture": "fcf9f335bc5c68cf1bb1590d421e8564b942ed94d3c2b4025c1b30168981214e"
+  },
+  "BUILDER_MELON": {
+    "name": "Melon",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "d58670551f7ff13afab239318a10bad2327ee742e157837ea1785ef443d3a576"
+  },
+  "SHEEP_GENERATOR_6": {
+    "name": "Sheep Minion VI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "aea49ac4e8f88bbf0321b55ed264df0d527952ce49c387fdebdedc5d6447376"
+  },
+  "FISHING_GENERATOR_9": {
+    "name": "Fishing Minion IX",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "204b03b60b99d675da18c4238d3031b6139c3763dcb59ba09129e6b3367d9f59"
+  },
+  "MONSTER_EGG:120": {
+    "name": "Spawn Villager",
+    "tier": "common",
+    "category": "misc",
+    "damage": 120,
+    "item_id": 383
+  },
+  "OAK_GENERATOR_6": {
+    "name": "Oak Minion VI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "3497c3ff3cf509495bbf59884f8ecae2148ee391a589d4e20bbcb7872d55373f"
+  },
+  "SPRUCE_GENERATOR_6": {
+    "name": "Spruce Minion VI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "5b2efe8fe599598326b4941c2ff55c284ce26b0948b520c0490de8b0d9aeff4a"
+  },
+  "FARMING_2_PORTAL": {
+    "name": "Portal to Mushroom Island",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "2116b9d8df346a25edd05f842e7a9345beaf16dca4118abf5a68c75bcaae10"
+  },
+  "FARMING_1_PORTAL": {
+    "name": "Portal to the Barn",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "4d3a6bd98ac1833c664c4909ff8d2dc62ce887bdcf3cc5b3848651ae5af6b"
+  },
+  "MINING_1_PORTAL": {
+    "name": "Portal to the Gold Mine",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "73bc965d579c3c6039f0a17eb7c2e6faf538c7a5de8e60ec7a719360d0a857a9"
   }
 }
