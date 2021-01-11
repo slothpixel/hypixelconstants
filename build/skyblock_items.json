@@ -5231,7 +5231,7 @@
   "WITHER_BOW": {
     "name": "Wither Bow",
     "tier": "uncommon",
-    "category": "bow",
+    "category": "arco",
     "item_id": 261
   },
   "SPOOKY_CHESTPLATE": {
@@ -6686,7 +6686,7 @@
     "texture": "9899278d0464397dd076408812eef40758f75b1cdb82c04c08c81503453e07e6"
   },
   "GOLD_THORN_HEAD": {
-    "name": "Golden Thorn Head ✪",
+    "name": "Golden Thorn Head",
     "tier": "special",
     "category": "dungeon helmet",
     "item_id": 397,
@@ -7098,7 +7098,7 @@
     "name": "Death Bow ✪✪✪✪✪",
     "tier": "epic",
     "category": "dungeon bow",
-    "damage": 4,
+    "damage": 6,
     "item_id": 261
   },
   "COAL:1": {
@@ -10468,5 +10468,105 @@
     "category": "misc",
     "item_id": 397,
     "texture": "546f4040054a097956bf7e135656ea8f52c53acaebddbddbff8d123231c82e93"
+  },
+  "MAGMA_CUBE_GENERATOR_5": {
+    "name": "Magma Cube Minion V",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "5a74333ed5c54aef95aead60c21e541131d797d3f0d7a647915d7a03bbe4a5fe"
+  },
+  "MAGMA_CUBE_GENERATOR_2": {
+    "name": "Magma Cube Minion II",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "212ff47f5c8b38e96e940b9957958e37d610918df9b664b0c11bd6246799f4af"
+  },
+  "MAGMA_CUBE_GENERATOR_3": {
+    "name": "Magma Cube Minion III",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "376d0b9eb9e5633d21424f6eaade8bd4124b9c91f3fa1f6be512fe0b51d6a013"
+  },
+  "EMERALD_BLADE": {
+    "name": "Emerald Blade",
+    "tier": "epic",
+    "category": "sword",
+    "item_id": 388
+  },
+  "ENCHANTED_INK_SACK": {
+    "name": "Enchanted Ink Sack",
+    "tier": "uncommon",
+    "category": "misc",
+    "item_id": 351
+  },
+  "PET_SKIN_TIGER_TWILIGHT": {
+    "name": "Twilight Tiger Skin",
+    "tier": "mythic",
+    "category": "cosmetic",
+    "item_id": 397,
+    "texture": "896211dc599368dbd9056c0116ab61063991db793be93066a858eb4e9ce56438"
+  },
+  "WHEAT_GENERATOR_11": {
+    "name": "Wheat Minion XI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "2f6d62602c22e630153be8b764f45827585521bd82bb5307df1168f250f17f6b"
+  },
+  "PUMPKIN_BOOTS": {
+    "name": "Pumpkin Boots",
+    "tier": "common",
+    "category": "boots",
+    "item_id": 301
+  },
+  "PUMPKIN_LEGGINGS": {
+    "name": "Pumpkin Leggings",
+    "tier": "common",
+    "category": "leggings",
+    "item_id": 300
+  },
+  "ICE_GENERATOR_8": {
+    "name": "Ice Minion VIII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "d381912c9337a459a28f66e2a3edcdacbddc296dd69b3c820942ba1f4969d936"
+  },
+  "ENDER_STONE_GENERATOR_8": {
+    "name": "End Stone Minion VIII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "2b1755ccf1e0bba50ab41007aaec977286b7d7fcf3953a9c018aaf62967f3474"
+  },
+  "COLOSSAL_EXP_BOTTLE_UPGRADE": {
+    "name": "Colossal Experience Bottle Upgrade",
+    "tier": "special",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "7054c29c78090471c1ea058bd641897391c9e4694aa9d140afbba8d0cc43637"
+  },
+  "OOPS_THE_FISH": {
+    "name": "Oops the Fish",
+    "tier": "special",
+    "category": "misc",
+    "damage": 2,
+    "item_id": 349
+  },
+  "MELON_GENERATOR_4": {
+    "name": "Melon Minion IV",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "9e2654f305b788b9345bef6be076d8f36e7c946d6eae26d3c0803ddc4843b596"
+  },
+  "ZOMBIE_PICKAXE": {
+    "name": "Zombie Pickaxe",
+    "tier": "common",
+    "category": "pickaxe",
+    "item_id": 257
   }
 }
