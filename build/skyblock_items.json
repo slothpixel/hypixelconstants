@@ -9523,7 +9523,7 @@
   },
   "THEORETICAL_HOE_POTATO_1": {
     "name": "Pythagorean Potato Hoe",
-    "tier": "uncommon",
+    "tier": "common",
     "category": "hoe",
     "item_id": 291
   },
@@ -11036,5 +11036,12 @@
     "tier": "rare",
     "category": "pet item",
     "item_id": 257
+  },
+  "ICE_GENERATOR_10": {
+    "name": "Ice Minion X",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "6406ca9dcd26cc148e05917ae1524066824a4f59f5865c47214ba8771e9b924b"
   }
 }
