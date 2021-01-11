@@ -10701,5 +10701,19 @@
     "category": "misc",
     "damage": 1,
     "item_id": 31
+  },
+  "DANGER_3_PORTAL": {
+    "name": "Portal to The End",
+    "tier": "uncommon",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "46994d71b875f087e64dea9b4a0a5cb9f4eb9ab0e8d9060dfde7f6803baa1779"
+  },
+  "SLIME_GENERATOR_11": {
+    "name": "Slime Minion XI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "c04c9cb411cfd504c3bc7972fc74acd5045c55e1a76379d40e37f5d73c92e453"
   }
 }
