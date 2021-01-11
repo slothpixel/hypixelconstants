@@ -2492,7 +2492,7 @@
     "item_id": 2265
   },
   "POWER_WITHER_BOOTS": {
-    "name": "Necron's Boots ✪",
+    "name": "Necron's Boots ✪✪",
     "tier": "legendary",
     "category": "dungeon boots",
     "item_id": 301
@@ -5878,7 +5878,7 @@
     "item_id": 371
   },
   "SHADOW_ASSASSIN_CHESTPLATE": {
-    "name": "Shadow Assassin Chestplate ✪",
+    "name": "Shadow Assassin Chestplate",
     "tier": "epic",
     "category": "dungeon chestplate",
     "item_id": 299
@@ -8882,7 +8882,7 @@
   },
   "THEORETICAL_HOE_POTATO_3": {
     "name": "Pythagorean Potato Hoe",
-    "tier": "rare",
+    "tier": "epic",
     "category": "hoe",
     "item_id": 293
   },
@@ -10811,5 +10811,183 @@
     "tier": "common",
     "category": "misc",
     "item_id": 113
+  },
+  "REDSTONE_GENERATOR_10": {
+    "name": "Redstone Minion X",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "6588bed4136c95dd961b54a06307b2489726bbfe4fda41cee8ab2c57fa36f291"
+  },
+  "SOLAR_PANEL": {
+    "name": "Solar Panel",
+    "tier": "uncommon",
+    "category": "misc",
+    "item_id": 151
+  },
+  "RED_CLAW_RING": {
+    "name": "Red Claw Ring",
+    "tier": "rare",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "59d9b327ff82f6e109b8746c48bfb7f641e1552855493dd4118be24d5b02bc0a"
+  },
+  "FIREWORK": {
+    "name": "Firework Rocket",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 401
+  },
+  "MELON_GENERATOR_2": {
+    "name": "Melon Minion II",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "93dbb7b41ddd998842719915179a6b5a82d0c223e4c313c9eb081b52c84a764f"
+  },
+  "CARPET:13": {
+    "name": "Green Carpet",
+    "tier": "common",
+    "category": "misc",
+    "damage": 13,
+    "item_id": 171
+  },
+  "CAMPFIRE_TALISMAN_9": {
+    "name": "Campfire Cultist Badge",
+    "tier": "rare",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "a3cfd94e925eab4330a768afcae6c128b0a28e23149eee41c9c6df894c24f3de"
+  },
+  "SPIDER_GENERATOR_5": {
+    "name": "Spider Minion V",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "eeb537b6d278623a110b4d31784ae415789972fad78bec236aa36f3a5f43a856"
+  },
+  "OAK_GENERATOR_4": {
+    "name": "Oak Minion IV",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "c643dd831a5d5e409b22f721bd4a6d1e1109b1b24e1fbafeeb0d2aba8c626ce9"
+  },
+  "GLOWSTONE_GENERATOR_4": {
+    "name": "Glowstone Minion IV",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "3cc302e56b0474d5e428978704cd4a85de2f6c3e885a70f781e2838b551d5bfc"
+  },
+  "CACTUS_GENERATOR_3": {
+    "name": "Cactus Minion III",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "1b35a27732a2cb5ee36a52653b2e7d98bdd9d3d799499035c9f918344570c9e8"
+  },
+  "SLIME_GENERATOR_4": {
+    "name": "Slime Minion IV",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "7afc7e081dcc29042129e1b17a10baa05c8e74432600465bf75b31c99bab3fae"
+  },
+  "JUNGLE_GENERATOR_5": {
+    "name": "Jungle Minion V",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "20d26c2e29b2205c620b8b60fbaa056942d5417b75a2acc7f4c581b0e9bc6d"
+  },
+  "SPIDER_GENERATOR_4": {
+    "name": "Spider Minion IV",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "4ef774366eef0ae26c9da09f52d101fd3a6181f62c059d579900d33098968058"
+  },
+  "DARK_OAK_GENERATOR_5": {
+    "name": "Dark Oak Minion V",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "cf0969d586970c7ed5fef0c44d2899cfc97780488a36d725d55a6569dd02fa3c"
+  },
+  "BIRCH_GENERATOR_4": {
+    "name": "Birch Minion IV",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "ac49f5616584ddb09b46e2d9eba91228c5c55d81dd557c8bf84f7ead7e74578a"
+  },
+  "JERRY_STAFF": {
+    "name": "Jerry-chine Gun",
+    "tier": "epic",
+    "category": "sword",
+    "item_id": 418
+  },
+  "JERRY_TALISMAN_GREEN": {
+    "name": "Green Jerry Talisman",
+    "tier": "uncommon",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "2567251d71b6f3a4dc03fa01e441de7edf9354794e74aec16c04f141ddf31c70"
+  },
+  "JERRY_BOX_PURPLE": {
+    "name": "Purple Jerry Box",
+    "tier": "epic",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "a3f75c5281ccbb76759fdd57106120eb9c1db128b386d438e0659f312eb715a5"
+  },
+  "JERRY_BOX_GREEN": {
+    "name": "Green Jerry Box",
+    "tier": "uncommon",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "daadf63a18632af72dcecc05d9a5adb60c68a18ffbb58e36ac43b10ceb934a7b"
+  },
+  "SCORPION_BOW": {
+    "name": "Scorpion Bow",
+    "tier": "epic",
+    "category": "bow",
+    "item_id": 261
+  },
+  "JERRY_BOX_GOLDEN": {
+    "name": "Golden Jerry Box",
+    "tier": "legendary",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "8ade6d678ee82fa5ae9eda3fa33d39a41413e8dee4436f3eb51bd8971321f79"
+  },
+  "JERRY_BOX_BLUE": {
+    "name": "Blue Jerry Box",
+    "tier": "rare",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "6ac311fab7ac73782b221200e6cd4acbbb217c62e787b213635d5e52f75c372b"
+  },
+  "JERRY_STONE": {
+    "name": "Jerry Stone",
+    "tier": "rare",
+    "category": "reforge stone",
+    "item_id": 397,
+    "texture": "5edb6fd749e95b2dd0d2495a85617b5aef3b476417c859bf34c45477ae681"
+  },
+  "JERRY_CANDY": {
+    "name": "Jerry Candy",
+    "tier": "uncommon",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "54856515866e0f90315abe08234e916ffb018d5630ef05f53a20c33b91942f6f"
+  },
+  "SCARECROW": {
+    "name": "Scarecrow",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "a17740e6a5edd8d4f39c7f0a9064a84b6e4c20d3db55557d723ce7db3ad7cc46"
   }
 }
