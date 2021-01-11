@@ -4284,7 +4284,7 @@
   },
   "PERSONAL_COMPACTOR_7000": {
     "name": "Personal Compactor 7000",
-    "tier": "legendary",
+    "tier": "mythic",
     "category": "accessory",
     "item_id": 158
   },
@@ -6741,7 +6741,7 @@
     "name": "Magical Map",
     "tier": null,
     "category": "misc",
-    "damage": 1280,
+    "damage": 1536,
     "item_id": 358
   },
   "ENCHANTED_RAW_SALMON": {
@@ -10750,5 +10750,26 @@
     "category": "cosmetic",
     "item_id": 397,
     "texture": "119812cc57b78c3366d076778745f7d81e936769a8d28cac68d4836ffe958121"
+  },
+  "CARPET:11": {
+    "name": "Blue Carpet",
+    "tier": "common",
+    "category": "misc",
+    "damage": 11,
+    "item_id": 171
+  },
+  "SPIDER_GENERATOR_8": {
+    "name": "Spider Minion VIII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "4781e95aeb0e31be71e64093a084602de754f3e50443d5a4f685aac00d7a662f"
+  },
+  "LAPIS_GENERATOR_5": {
+    "name": "Lapis Minion V",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "aa5d796b9687cc358ea59b06fdd9a0a519d2c7a2928de10d37848b91fbbc648f"
   }
 }
