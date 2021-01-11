@@ -8544,7 +8544,7 @@
     "item_id": 6
   },
   "WISE_WITHER_HELMET": {
-    "name": "Storm's Helmet",
+    "name": "Storm's Helmet ✪✪✪",
     "tier": "legendary",
     "category": "dungeon helmet",
     "item_id": 397,
@@ -11043,5 +11043,38 @@
     "category": "misc",
     "item_id": 397,
     "texture": "6406ca9dcd26cc148e05917ae1524066824a4f59f5865c47214ba8771e9b924b"
+  },
+  "HUGE_MUSHROOM_2": {
+    "name": "Red Mushroom Block",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 100
+  },
+  "MIDAS_SWORD": {
+    "name": "Midas' Sword",
+    "tier": "legendary",
+    "category": "sword",
+    "item_id": 283
+  },
+  "QUARTZ_GENERATOR_10": {
+    "name": "Quartz Minion X",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "3ae41345d675f4ed4dc5145662303123cb828b6e1a3e72d8278174488562dfa9"
+  },
+  "ENDERMAN_GENERATOR_11": {
+    "name": "Enderman Minion XI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "86906d7f34af69a797ddf5b5a5b1c428f77284451c67e788caf08070e3008ad"
+  },
+  "SHEEP_GENERATOR_8": {
+    "name": "Sheep Minion VIII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "f04de71765e46be9bcdb6c499f954c9bc831563d52776c593c16c99113bcb2d9"
   }
 }
