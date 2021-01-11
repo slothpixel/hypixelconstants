@@ -4258,7 +4258,7 @@
     "item_id": 276
   },
   "SUPER_UNDEAD_BOW": {
-    "name": "Super Undead Bow",
+    "name": "Super Undead Bow ✪✪✪✪✪",
     "tier": "epic",
     "category": "dungeon bow",
     "item_id": 261
@@ -8558,7 +8558,7 @@
     "texture": "f37cae5c51eb1558ea828f58e0dff8e6b7b0b1a183d737eecf714661761"
   },
   "WISE_WITHER_LEGGINGS": {
-    "name": "Storm's Leggings ✪✪✪✪",
+    "name": "Storm's Leggings",
     "tier": "legendary",
     "category": "dungeon leggings",
     "item_id": 300
@@ -10614,5 +10614,12 @@
     "category": "helmet",
     "item_id": 397,
     "texture": "38d199e23c17488a01a07005a41fe330b1d22b04e99943c9f8c897d156e9555a"
+  },
+  "PET_SKIN_SHEEP_NEON_GREEN": {
+    "name": "Neon Green Sheep Skin",
+    "tier": "rare",
+    "category": "cosmetic",
+    "item_id": 397,
+    "texture": "2c14d66911554bd0882339074bf6b8110c2d3509b69e7a6144e4d5a7164bacc8"
   }
 }
