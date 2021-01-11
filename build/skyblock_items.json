@@ -10687,5 +10687,19 @@
     "category": "misc",
     "item_id": 397,
     "texture": "db81f7229ad141b925ad3ff0f121c14686478a35f4777c73d3416505343d3811"
+  },
+  "LAPIS_GENERATOR_10": {
+    "name": "Lapis Minion X",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "6fe5c4ceb6e66e7e0c357014be3d58f052a38c040be62f26af5fb9bed437541"
+  },
+  "LONG_GRASS:1": {
+    "name": "Long Grass",
+    "tier": "common",
+    "category": "misc",
+    "damage": 1,
+    "item_id": 31
   }
 }
