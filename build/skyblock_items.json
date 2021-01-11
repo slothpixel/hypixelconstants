@@ -4494,7 +4494,7 @@
   },
   "THEORETICAL_HOE_CANE_1": {
     "name": "Turing Sugar Cane Hoe",
-    "tier": "uncommon",
+    "tier": "common",
     "category": "hoe",
     "item_id": 291
   },
@@ -5384,7 +5384,7 @@
     "texture": "a9559388993fe782f67bd58d98c4df56bcd430edcb2f66ef5777a73c27de3"
   },
   "SUPER_CLEAVER": {
-    "name": "Super Cleaver ✪✪✪✪✪",
+    "name": "Super Cleaver",
     "tier": "rare",
     "category": "dungeon sword",
     "item_id": 283
@@ -8162,9 +8162,9 @@
     "item_id": 155
   },
   "PERFECT_CHESTPLATE_9": {
-    "name": "Perfect Chestplate - Tier IX ✪✪✪✪✪",
+    "name": "Perfect Chestplate - Tier IX",
     "tier": "legendary",
-    "category": "dungeon chestplate",
+    "category": "chestplate",
     "item_id": 311
   },
   "STONE_SWORD": {
@@ -10568,5 +10568,11 @@
     "tier": "common",
     "category": "pickaxe",
     "item_id": 257
+  },
+  "SANDSTONE_STAIRS": {
+    "name": "Sandstone Stairs",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 128
   }
 }
