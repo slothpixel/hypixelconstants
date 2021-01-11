@@ -7065,7 +7065,7 @@
     "texture": "16f0d34aaa714377983701c1bbe9b3f6e7b30cb38571bc0a2fd7541d7edb1637"
   },
   "ADAPTIVE_BOOTS": {
-    "name": "Adaptive Boots",
+    "name": "Adaptive Boots ✪✪✪✪",
     "tier": "epic",
     "category": "dungeon boots",
     "item_id": 301
@@ -10574,5 +10574,19 @@
     "tier": "common",
     "category": "misc",
     "item_id": 128
+  },
+  "MAGMA_CUBE_GENERATOR_8": {
+    "name": "Magma Cube Minion VIII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "365c702393988e0312f56c00c6e73c8cf510b89df05ad766a65b36a1f281b604"
+  },
+  "MAGMA_CUBE_GENERATOR_6": {
+    "name": "Magma Cube Minion VI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "5de0153aa18d34939b7d297c110e7a207779908cee070e3278a3d4dc9e97b122"
   }
 }
