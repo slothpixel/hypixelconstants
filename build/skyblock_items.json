@@ -42,7 +42,7 @@
     "tier": "legendary",
     "category": "misc",
     "item_id": 397,
-    "texture": "1f8405116c1daa7ce2f012591458d50246d0a467bcb95a5a2c033aefd6008b63"
+    "texture": "aa980f766e073ab84508179a51319da221d95244fcf97978f347f3a1b787ee90"
   },
   "ENCHANTED_ROTTEN_FLESH": {
     "name": "Enchanted Rotten Flesh",
@@ -61,7 +61,7 @@
     "tier": "epic",
     "category": "misc",
     "item_id": 397,
-    "texture": "ae5588d0484b26e2c2ac60dfe6596038cc8fd2882f6ed135f2cc9097eb420ada"
+    "texture": "bbd7db0313fe80d927bb3aba04075c69f5200f55637459e22b8d933f6ae6733f"
   },
   "LARGE_DUNGEON_SACK": {
     "name": "Dungeon Sack",
@@ -106,7 +106,7 @@
     "tier": "legendary",
     "category": "dungeon item",
     "item_id": 397,
-    "texture": "96c8447a8b6b0e0c7e7629c6898ec9c749a7a0a2b452b9c3852c7847bb4dc5"
+    "texture": "1e5924798a487f99ba08e54a5b130692cc586902a87e1dee213813ef8c66"
   },
   "AATROX_BATPHONE": {
     "name": "Maddox Batphone",
@@ -122,11 +122,11 @@
     "item_id": 399
   },
   "RUNE": {
-    "name": "◆ Lava Rune I",
+    "name": "◆ Gem Rune I",
     "tier": "common",
     "category": "cosmetic",
     "item_id": 397,
-    "texture": "b13d903f601034ac3400d2625fef104e9b0940746c554193f6d9e85a84a966a1"
+    "texture": "43a1ad4fcc42fb63c681328e42d63c83ca193b333af2a426728a25a8cc600692"
   },
   "ROGUE_SWORD": {
     "name": "Rogue Sword",
@@ -173,7 +173,7 @@
   "END_SWORD": {
     "name": "End Sword",
     "tier": "uncommon",
-    "category": "schwert",
+    "category": "sword",
     "item_id": 276
   },
   "NETHER_STALK": {
@@ -220,10 +220,10 @@
     "texture": "82ada1c7fcc8cf35defeb944a4f8ffa9a9d260560fc7f5f5826de8085435967c"
   },
   "POTION": {
-    "name": "Dungeon VI Potion",
+    "name": "Speed V Potion",
     "tier": "rare",
     "category": "misc",
-    "damage": 1,
+    "damage": 2,
     "item_id": 373
   },
   "ENCHANTED_BONE": {
@@ -246,7 +246,7 @@
   },
   "ENCHANTED_BOOK": {
     "name": "Enchanted Book",
-    "tier": "rare",
+    "tier": "common",
     "category": "misc",
     "item_id": 403
   },
@@ -286,7 +286,7 @@
     "tier": "epic",
     "category": "misc",
     "item_id": 397,
-    "texture": "f740e80987764f2e1c745049f4965d1d8252979f546b4d59d736de2be29b5470"
+    "texture": "62f3b3a05481cde77240005c0ddcee1c069e5504a62ce0977879f55a39396146"
   },
   "VOODOO_DOLL": {
     "name": "Voodoo Doll",
@@ -303,9 +303,9 @@
     "texture": "62512ac6cc5d8c7ae3dddeee2c429d4a2d6a8341bde056e18e5ae21011bbe643"
   },
   "ORNATE_ZOMBIE_SWORD": {
-    "name": "Ornate Zombie Sword",
+    "name": "Ornate Zombie Sword ✪✪✪✪✪",
     "tier": "epic",
-    "category": "sword",
+    "category": "dungeon sword",
     "item_id": 283
   },
   "MEDIUM_BACKPACK": {
@@ -313,12 +313,12 @@
     "tier": "rare",
     "category": "misc",
     "item_id": 397,
-    "texture": "548a918a02feb1b39d0cb6c3cd45da3cbd0a75512281b28596aaf0beac3afc30"
+    "texture": "62f3b3a05481cde77240005c0ddcee1c069e5504a62ce0977879f55a39396146"
   },
   "FLORID_ZOMBIE_SWORD": {
-    "name": "Florid Zombie Sword",
+    "name": "Florid Zombie Sword ✪✪✪✪✪",
     "tier": "legendary",
-    "category": "sword",
+    "category": "dungeon sword",
     "item_id": 283
   },
   "GOLD_AXE": {
@@ -351,7 +351,7 @@
     "tier": "uncommon",
     "category": "misc",
     "item_id": 397,
-    "texture": "21d837ca222cbc0bc12426f5da018c3a931b406008800960a9df112a596e7d62"
+    "texture": "80be74d367b761df9f296667c2589d70e20c555318950451015b0ed1a1e0face"
   },
   "SEEDS": {
     "name": "Seeds",
@@ -747,7 +747,7 @@
     "item_id": 261
   },
   "BONZO_MASK": {
-    "name": "Bonzo's Mask ✪✪",
+    "name": "Bonzo's Mask",
     "tier": "rare",
     "category": "dungeon helmet",
     "item_id": 397,
@@ -1029,11 +1029,11 @@
     "item_id": 261
   },
   "PET": {
-    "name": "[Lvl 1] Dolphin",
-    "tier": "uncommon",
+    "name": "[Lvl 1] Enderman",
+    "tier": "rare",
     "category": "misc",
     "item_id": 397,
-    "texture": "cefe7d803a45aa2af1993df2544a28df849a762663719bfefc58bf389ab7f5"
+    "texture": "6eab75eaa5c9f2c43a0d23cfdce35f4df632e9815001850377385f7b2f039ce1"
   },
   "BONZO_STAFF": {
     "name": "Bonzo's Staff",
@@ -1353,7 +1353,7 @@
     "texture": "9b8f452c9d6b6254b5478569a60b0b6fb031c7ad2f06ea3dacf2ce874ca7083"
   },
   "FEL_SWORD": {
-    "name": "Fel Sword",
+    "name": "Fel Sword ✪✪✪✪✪",
     "tier": "epic",
     "category": "dungeon sword",
     "item_id": 272
@@ -1385,7 +1385,7 @@
     "texture": "b88cfafa5f03f8aef042a143799e964342df76b7c1eb461f618e398f84a99a63"
   },
   "FLINT": {
-    "name": "부싯돌",
+    "name": "Flint",
     "tier": "common",
     "category": "misc",
     "item_id": 318
@@ -1639,7 +1639,7 @@
     "texture": "80a46078cc76fc6c685bec4212117115a88134cff4cbc82bbaf0194c8d277e99"
   },
   "PUMPKIN": {
-    "name": "Pumpkin",
+    "name": "Kürbis",
     "tier": "common",
     "category": "misc",
     "item_id": 86
@@ -2133,13 +2133,13 @@
   "SANTA_PERSONALITY": {
     "name": "Santa Minion Skin",
     "tier": "common",
-    "category": "cosmetic",
+    "category": "misc",
     "item_id": 397,
     "texture": "d178ae03d84227f21fa23682d9c620131000ffb7673395533b2740fa83ab1037"
   },
   "NOPE_THE_FISH": {
     "name": "Nope the Fish",
-    "tier": "special",
+    "tier": "mythic",
     "category": "misc",
     "damage": 1,
     "item_id": 349
@@ -2243,7 +2243,7 @@
     "texture": "c9c28da01e012880eacc3ab1d34d9145357d2e2d46d42aa3b59edb91b1f7bd6d"
   },
   "INK_SACK:2": {
-    "name": "Corante Verde",
+    "name": "Cactus Green",
     "tier": "common",
     "category": "misc",
     "damage": 2,
@@ -2277,7 +2277,7 @@
   },
   "THEORETICAL_HOE_WARTS_2": {
     "name": "Newton Nether Warts Hoe",
-    "tier": "uncommon",
+    "tier": "rare",
     "category": "hoe",
     "item_id": 292
   },
@@ -2405,7 +2405,7 @@
   "FANCY_SWORD": {
     "name": "Fancy Sword",
     "tier": "common",
-    "category": "меч",
+    "category": "sword",
     "item_id": 283
   },
   "SAPLING:3": {
@@ -2540,7 +2540,7 @@
     "item_id": 257
   },
   "INFINIDIRT_WAND": {
-    "name": "InfiniDirt™ Wand",
+    "name": "InfiniDirt��� Wand",
     "tier": "uncommon",
     "category": "misc",
     "item_id": 280
@@ -2670,7 +2670,7 @@
     "item_id": 331
   },
   "LAST_BREATH": {
-    "name": "Last Breath ✪",
+    "name": "Last Breath",
     "tier": "legendary",
     "category": "dungeon bow",
     "item_id": 261
@@ -2735,7 +2735,7 @@
     "texture": "94af5f3b50e2dea2687d292cc3a5e42c028b8626e638842fb4f78671debe276c"
   },
   "FLOWER_OF_TRUTH": {
-    "name": "Flower of Truth ✪✪✪",
+    "name": "Flower of Truth",
     "tier": "legendary",
     "category": "dungeon sword",
     "item_id": 38
@@ -2766,7 +2766,7 @@
     "item_id": 384
   },
   "STONE_BLADE": {
-    "name": "Adaptive Blade ✪✪✪✪",
+    "name": "Adaptive Blade",
     "tier": "epic",
     "category": "dungeon sword",
     "item_id": 272
@@ -3637,7 +3637,7 @@
     "item_id": 310
   },
   "STARRED_BONZO_MASK": {
-    "name": "⚚ Bonzo's Mask",
+    "name": "⚚ Bonzo's Mask ✪✪✪✪✪",
     "tier": "rare",
     "category": "dungeon helmet",
     "item_id": 397,
@@ -3950,7 +3950,7 @@
   "ITEM_SPIRIT_BOW": {
     "name": "Spirit Bow",
     "tier": "legendary",
-    "category": "dungeon 弓",
+    "category": "dungeon bow",
     "item_id": 261
   },
   "DIODE": {
@@ -4284,7 +4284,7 @@
   },
   "PERSONAL_COMPACTOR_7000": {
     "name": "Personal Compactor 7000",
-    "tier": "mythic",
+    "tier": "legendary",
     "category": "accessory",
     "item_id": 158
   },
@@ -5508,7 +5508,7 @@
     "texture": "fb2cfdad77fb027ede854bcd14ee5c0b4133aa25bf4c444789782c89acd00593"
   },
   "MENDER_FEDORA": {
-    "name": "Mender Fedora",
+    "name": "Mender Fedora ✪✪✪✪✪",
     "tier": "epic",
     "category": "dungeon helmet",
     "item_id": 397,
@@ -6950,7 +6950,7 @@
   },
   "THEORETICAL_HOE_CANE_3": {
     "name": "Turing Sugar Cane Hoe",
-    "tier": "legendary",
+    "tier": "rare",
     "category": "hoe",
     "item_id": 293
   },
@@ -7098,7 +7098,7 @@
     "name": "Death Bow ✪✪✪✪✪",
     "tier": "epic",
     "category": "dungeon bow",
-    "damage": 6,
+    "damage": 21,
     "item_id": 261
   },
   "COAL:1": {
@@ -8195,8 +8195,8 @@
     "texture": "c14befd4d3797a8a6ab53ceedebab3c12b7b1f03440bf0085010025c35717628"
   },
   "GOLD_SADAN_HEAD": {
-    "name": "Golden Sadan Head",
-    "tier": "special",
+    "name": "Golden Sadan Head ✪✪✪✪",
+    "tier": "very_special",
     "category": "dungeon helmet",
     "item_id": 397,
     "texture": "5766a0d21d261c878763ca8264cd2dd0b17ecfac342411db07886b078e6cb013"
@@ -8623,7 +8623,7 @@
   "STARRED_LAST_BREATH": {
     "name": "⚚ Last Breath",
     "tier": "legendary",
-    "category": "dungeon bow",
+    "category": "dungeon bogen",
     "item_id": 261
   },
   "WOOD_BUTTON": {
@@ -9523,7 +9523,7 @@
   },
   "THEORETICAL_HOE_POTATO_1": {
     "name": "Pythagorean Potato Hoe",
-    "tier": "common",
+    "tier": "uncommon",
     "category": "hoe",
     "item_id": 291
   },
@@ -10418,7 +10418,7 @@
     "item_id": 299
   },
   "STARRED_BONZO_STAFF": {
-    "name": "⚚ Bonzo's Staff",
+    "name": "⚚ Bonzo's Staff ✪✪✪✪✪",
     "tier": "rare",
     "category": "dungeon sword",
     "item_id": 369
@@ -11104,5 +11104,18 @@
     "category": "misc",
     "item_id": 397,
     "texture": "f0950b05122a0b51e9ce91485f2f7c179964696a9e36386d49005e9e51d39a9f"
+  },
+  "GRILLED_PORK": {
+    "name": "Cooked Porkchop",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 320
+  },
+  "OAK_GENERATOR_8": {
+    "name": "Oak Minion VIII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "fcf9f335bc5c68cf1bb1590d421e8564b942ed94d3c2b4025c1b30168981214e"
   }
 }
