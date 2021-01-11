@@ -10715,5 +10715,40 @@
     "category": "misc",
     "item_id": 397,
     "texture": "c04c9cb411cfd504c3bc7972fc74acd5045c55e1a76379d40e37f5d73c92e453"
+  },
+  "CAVESPIDER_GENERATOR_7": {
+    "name": "Cave Spider Minion VII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "729095202ca3cd63556e3549f71c39aae4b6718170de19067d6819be4ddecd6e"
+  },
+  "WOOD_TALISMAN": {
+    "name": "Wood Affinity Talisman",
+    "tier": "uncommon",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "219ad5215ba6c7e4e4d0668f02d3a9c937ac536acc75ac49e7bd7b1c8ccf80"
+  },
+  "HEALING_TALISMAN": {
+    "name": "Healing Talisman",
+    "tier": "common",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "651eb16f22dd7505be5dae06671803633a5abf8b2beeb5c60548670df0e59214"
+  },
+  "WOOD_STEP:4": {
+    "name": "Acacia Wood Slab",
+    "tier": "common",
+    "category": "misc",
+    "damage": 4,
+    "item_id": 126
+  },
+  "CLOWNFISH_PERSONALITY": {
+    "name": "Clownfish Minion Skin",
+    "tier": "common",
+    "category": "cosmetic",
+    "item_id": 397,
+    "texture": "119812cc57b78c3366d076778745f7d81e936769a8d28cac68d4836ffe958121"
   }
 }
