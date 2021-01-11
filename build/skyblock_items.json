@@ -7374,7 +7374,7 @@
     "texture": "8bd48b17a82d5e395034d01db61c76f13f88da6e5a0b1c1d198fbdb0805a7739"
   },
   "NECROMANCER_LORD_LEGGINGS": {
-    "name": "Necromancer Lord Leggings",
+    "name": "Necromancer Lord Leggings ✪",
     "tier": "legendary",
     "category": "dungeon leggings",
     "item_id": 300
@@ -7533,7 +7533,7 @@
     "item_id": 404
   },
   "HYPER_CLEAVER": {
-    "name": "Hyper Cleaver ✪✪",
+    "name": "Hyper Cleaver",
     "tier": "epic",
     "category": "dungeon sword",
     "item_id": 283
@@ -11076,5 +11076,33 @@
     "category": "misc",
     "item_id": 397,
     "texture": "f04de71765e46be9bcdb6c499f954c9bc831563d52776c593c16c99113bcb2d9"
+  },
+  "DINING_TABLE": {
+    "name": "Dining Table",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "8a6d4d516a9b40530c278d7f13a506326ac0a742e50693b1a1c10ae4c1470216"
+  },
+  "DINING_CHAIR": {
+    "name": "Dining Chair",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "2735f2301d0810bdceb3f8dd256ef0c0c02eedc6e047ba3e59edeb037c8fdf2f"
+  },
+  "STOOL": {
+    "name": "Stool",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "48d9c8ce9052fa91ac7acf6a998e964c6b192c154738d01009e3f6128fdedc71"
+  },
+  "COFFEE_TABLE": {
+    "name": "Coffee Table",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "f0950b05122a0b51e9ce91485f2f7c179964696a9e36386d49005e9e51d39a9f"
   }
 }
