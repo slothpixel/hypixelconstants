@@ -10989,5 +10989,52 @@
     "category": "misc",
     "item_id": 397,
     "texture": "a17740e6a5edd8d4f39c7f0a9064a84b6e4c20d3db55557d723ce7db3ad7cc46"
+  },
+  "GLOWSTONE_GENERATOR_6": {
+    "name": "Glowstone Minion VI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "cd965a713f2e553c4c3ec047237b600b5ba0de9321a9c7dfe3d47b71d6afda41"
+  },
+  "FLOWER_MAELSTROM": {
+    "name": "Flower Maelstrom",
+    "tier": "epic",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "bcb2f12cf4f34a8adfe3d75b7ff489b91aba3c8b1995213fa461d68490a51"
+  },
+  "PET_ITEM_TOY_JERRY": {
+    "name": "Jerry 3D Glasses",
+    "tier": "legendary",
+    "category": "pet item",
+    "item_id": 397,
+    "texture": "c1bf6d1838d032b9bb28c678cc9335333d4d21c41b3c4f5a2f650d2b391b1319"
+  },
+  "JERRY_TALISMAN_BLUE": {
+    "name": "Blue Jerry Talisman",
+    "tier": "rare",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "d3b919f040922eb17733b42d216b7cdefeaea366be14c1ae6993ca7e5909e0f0"
+  },
+  "ENCHANTED_POPPY": {
+    "name": "Enchanted Poppy",
+    "tier": "uncommon",
+    "category": "misc",
+    "item_id": 38
+  },
+  "STAINED_GLASS_PANE:1": {
+    "name": "Orange Stained Glass Pane",
+    "tier": "common",
+    "category": "misc",
+    "damage": 1,
+    "item_id": 160
+  },
+  "PET_ITEM_MINING_SKILL_BOOST_RARE": {
+    "name": "Mining Exp Boost",
+    "tier": "rare",
+    "category": "pet item",
+    "item_id": 257
   }
 }
