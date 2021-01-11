@@ -1075,7 +1075,7 @@
   "PRISMARINE_BOW": {
     "name": "Prismarine Bow",
     "tier": "uncommon",
-    "category": "лук",
+    "category": "bow",
     "item_id": 261
   },
   "STEP": {
@@ -10771,5 +10771,11 @@
     "category": "misc",
     "item_id": 397,
     "texture": "aa5d796b9687cc358ea59b06fdd9a0a519d2c7a2928de10d37848b91fbbc648f"
+  },
+  "SPECKLED_MELON": {
+    "name": "Glistering Melon",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 382
   }
 }
