@@ -2658,7 +2658,7 @@
   },
   "CATACOMBS_EXPERT_RING": {
     "name": "Catacombs Expert Ring",
-    "tier": "epic",
+    "tier": "legendary",
     "category": "dungeon accessory",
     "item_id": 397,
     "texture": "c078c68f6f9669370ea39be72945a3a8688e0e024e5d6158fd854fb2b80fb"
@@ -7442,7 +7442,7 @@
   },
   "THEORETICAL_HOE_WARTS_3": {
     "name": "Newton Nether Warts Hoe",
-    "tier": "epic",
+    "tier": "legendary",
     "category": "hoe",
     "item_id": 293
   },
@@ -11193,5 +11193,12 @@
     "category": "misc",
     "item_id": 397,
     "texture": "13f379728f8cbb88300e8de137d9b576205cde2c5e36607ad8d3bb558f533d68"
+  },
+  "CARROT_GENERATOR_4": {
+    "name": "Carrot Minion IV",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "7399c0373eed7e12d5c212e13c51422e21d4ec7fa301f5a5c684f816a2eb2aab"
   }
 }
