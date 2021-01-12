@@ -11253,5 +11253,25 @@
     "category": "misc",
     "item_id": 397,
     "texture": "65be0e9684b28a2531bec6186f75171c1111c3133b8ea944f32c34f247ea6923"
+  },
+  "TARANTULA_BLACK_WIDOW": {
+    "name": "Black Widow Skin",
+    "tier": "legendary",
+    "category": "cosmetic",
+    "item_id": 397,
+    "texture": "b2b6732eaa9788458468f5976943986464974af35feafb4fcad05a7a308c2a67"
+  },
+  "JERRY_TALISMAN_PURPLE": {
+    "name": "Purple Jerry Talisman",
+    "tier": "epic",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "ff8bd61b60a425d2e0deb1df9665327750ceba822a0be85e2f4a3a722e20f7d6"
+  },
+  "MINECART": {
+    "name": "Minecart",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 328
   }
 }
