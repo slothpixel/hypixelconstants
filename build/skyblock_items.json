@@ -11554,5 +11554,24 @@
     "category": "helmet",
     "item_id": 397,
     "texture": "5d6c6eda942f7f5f71c3161c7306f4aed307d82895f9d2b07ab4525718edc5"
+  },
+  "MINING_2_TRAVEL_SCROLL": {
+    "name": "Travel Scroll to Deep Caverns",
+    "tier": "rare",
+    "category": "travel scroll",
+    "item_id": 395
+  },
+  "INK_SACK:6": {
+    "name": "Cyan Dye",
+    "tier": "common",
+    "category": "misc",
+    "damage": 6,
+    "item_id": 351
+  },
+  "SILENCE_BLOCK": {
+    "name": "Silence Block",
+    "tier": "uncommon",
+    "category": "misc",
+    "item_id": 25
   }
 }
