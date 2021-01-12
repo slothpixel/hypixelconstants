@@ -6196,9 +6196,9 @@
     "texture": "8744c81099c1aebf20f677faed24cace520a294cf46bdeb6a257f436a323a1d8"
   },
   "PROTECTOR_DRAGON_BOOTS": {
-    "name": "Protector Dragon Boots ✪✪✪✪✪",
+    "name": "Protector Dragon Boots",
     "tier": "legendary",
-    "category": "dungeon boots",
+    "category": "boots",
     "item_id": 301
   },
   "WOOL:1": {
@@ -11479,5 +11479,32 @@
     "tier": "common",
     "category": "chestplate",
     "item_id": 299
+  },
+  "ZOMBIE_RING": {
+    "name": "Zombie Ring",
+    "tier": "uncommon",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "55d996cb5a8e5a71a274275f46944b944eeeacd2e1cadef918b05b879a03336f"
+  },
+  "SKULL_CHEST": {
+    "name": "Skull Chest++",
+    "tier": "rare",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "1880725ac40d46542bf7c819801872e0f01b7f9a52a4c48a98d7c94874484c0f"
+  },
+  "COOKED_CHICKEN": {
+    "name": "Cooked Chicken",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 366
+  },
+  "INK_SACK:12": {
+    "name": "Light Blue Dye",
+    "tier": "common",
+    "category": "misc",
+    "damage": 12,
+    "item_id": 351
   }
 }
