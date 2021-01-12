@@ -754,9 +754,9 @@
     "texture": "12716ecbf5b8da00b05f316ec6af61e8bd02805b21eb8e440151468dc656549c"
   },
   "DIAMOND_SWORD": {
-    "name": "Diamond Sword",
+    "name": "Cutlass o' Diamond",
     "tier": "uncommon",
-    "category": "sword",
+    "category": "cutlass",
     "item_id": 276
   },
   "REVIVE_STONE": {
@@ -3711,7 +3711,7 @@
     "item_id": 305
   },
   "NECROMANCER_LORD_CHESTPLATE": {
-    "name": "Necromancer Lord Chestplate ✪✪",
+    "name": "Necromancer Lord Chestplate",
     "tier": "legendary",
     "category": "dungeon chestplate",
     "item_id": 299
