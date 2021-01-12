@@ -296,7 +296,7 @@
     "item_id": 349
   },
   "GOLD_LIVID_HEAD": {
-    "name": "Golden Livid Head",
+    "name": "Golden Livid Head ✪",
     "tier": "special",
     "category": "dungeon helmet",
     "item_id": 397,
@@ -5878,7 +5878,7 @@
     "item_id": 371
   },
   "SHADOW_ASSASSIN_CHESTPLATE": {
-    "name": "Shadow Assassin Chestplate",
+    "name": "Shadow Assassin Chestplate ✪",
     "tier": "epic",
     "category": "dungeon chestplate",
     "item_id": 299
@@ -9103,7 +9103,7 @@
     "item_id": 159
   },
   "DIAMOND_ORE": {
-    "name": "Diamond Ore",
+    "name": "Shinies",
     "tier": "uncommon",
     "category": "misc",
     "item_id": 56
@@ -11287,5 +11287,100 @@
     "category": "misc",
     "item_id": 397,
     "texture": "a8507f495bf89912dd2a317ae86faf8ce3631d62ca3d062e9fe5bf8d9d00fd70"
+  },
+  "PET_ITEM_EXP_SHARE": {
+    "name": "Exp Share",
+    "tier": "epic",
+    "category": "pet item",
+    "item_id": 37
+  },
+  "INK_SACK:10": {
+    "name": "Lime Dye",
+    "tier": "common",
+    "category": "misc",
+    "damage": 10,
+    "item_id": 351
+  },
+  "PIG_GENERATOR_7": {
+    "name": "Pig Minion VII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "73c5582b39fc6c08d4adc8c27bd7b9fc1340073ace1d5571276f57bfc852d864"
+  },
+  "EPOCH_CAKE_AQUA": {
+    "name": "Barry Century Cake",
+    "tier": "uncommon",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "7f50aa3e7229247aa598249c83aec462ab1654865e201e6925f55f5dd3643eca"
+  },
+  "NECROMANCER_SWORD": {
+    "name": "Necromancer Sword",
+    "tier": "legendary",
+    "category": "dungeon sword",
+    "item_id": 267
+  },
+  "EMERALD_GENERATOR_8": {
+    "name": "Emerald Minion VIII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "34e546bb3f8930b0a1a204daaec9ed76f85eab3d57a61e62c3133d11f65c15b"
+  },
+  "ENDERMAN_GENERATOR_8": {
+    "name": "Enderman Minion VIII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "84c91f6c71b6f75b7540134cb4d36b7e3c5ff8f26b6919a7410fe3427663b7dd"
+  },
+  "IRON_GENERATOR_7": {
+    "name": "Iron Minion VII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "f58e6617cefe52eeacb9d3f7f424d52e4ae1b8e8f775c0bfd6045c99387851ab"
+  },
+  "OBSIDIAN_GENERATOR_9": {
+    "name": "Obsidian Minion IX",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "15a45b66c8e21b515ea25abf47c9c27d995fe79b128844a0c8bf7777f3badee5"
+  },
+  "POTATO_GENERATOR_9": {
+    "name": "Potato Minion IX",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "b84792c8674b964f708b880df7d175631b9b6d9b5362353362ca997e727e1189"
+  },
+  "MUSHROOM_GENERATOR_9": {
+    "name": "Mushroom Minion IX",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "e785f2fb94555998b380d19deffe120eb8dbd1191b0927312221e1f4f762a87d"
+  },
+  "QUARTZ_GENERATOR_4": {
+    "name": "Quartz Minion IV",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "c2bc6c98d4cbab68af7d8434116a92a351011165f73a3f6356fb88df8af40a49"
+  },
+  "SPRUCE_GENERATOR_8": {
+    "name": "Spruce Minion VIII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "ed3f7f42298490fcf71e27a7b4c5ed5f2c556c58c97fd0f2e3460488d32938c7"
+  },
+  "LAPIS_ORE": {
+    "name": "Lapis Lazuli Ore",
+    "tier": "uncommon",
+    "category": "misc",
+    "item_id": 21
   }
 }
