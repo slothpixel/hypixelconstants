@@ -7255,8 +7255,8 @@
     "texture": "af41cc2250d2f5cfcf4384aa0cf3e23c19767549a2a8abd7532bd52c5a1de"
   },
   "WISE_WITHER_CHESTPLATE": {
-    "name": "Storm's Chestplate",
-    "tier": "legendary",
+    "name": "Storm's Chestplate ✪✪✪✪",
+    "tier": "mythic",
     "category": "dungeon chestplate",
     "item_id": 299
   },
@@ -11573,5 +11573,24 @@
     "tier": "uncommon",
     "category": "misc",
     "item_id": 25
+  },
+  "SNOW_GENERATOR_8": {
+    "name": "Snow Minion VIII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "9f53221b1b2e40a97a7a10fb47710e61bdd84e15052dd817da2f89783248375e"
+  },
+  "SPONGE_LEGGINGS": {
+    "name": "Sponge Leggings",
+    "tier": "epic",
+    "category": "leggings",
+    "item_id": 300
+  },
+  "SPONGE_HELMET": {
+    "name": "Sponge Helmet",
+    "tier": "epic",
+    "category": "helmet",
+    "item_id": 19
   }
 }
