@@ -11420,5 +11420,12 @@
     "tier": "epic",
     "category": "chestplate",
     "item_id": 299
+  },
+  "RING_POTION_AFFINITY": {
+    "name": "Potion Affinity Ring",
+    "tier": "uncommon",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "72a7dcbf7eca6b6f6386591d237991ca1b888a4f0c753ff9a3202cf0e92229e3"
   }
 }
