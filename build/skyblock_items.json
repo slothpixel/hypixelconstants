@@ -4958,7 +4958,7 @@
   },
   "THEORETICAL_HOE_WARTS_1": {
     "name": "Newton Nether Warts Hoe",
-    "tier": "uncommon",
+    "tier": "common",
     "category": "hoe",
     "item_id": 291
   },
@@ -5370,9 +5370,9 @@
     "item_id": 95
   },
   "UNSTABLE_DRAGON_HELMET": {
-    "name": "Unstable Dragon Helmet",
+    "name": "Unstable Dragon Helmet ✪✪✪✪✪",
     "tier": "legendary",
-    "category": "helmet",
+    "category": "dungeon helmet",
     "item_id": 397,
     "texture": "605fc4e2b68c45059afef3999e9a95aa3d8943597a7894e569397d6cf5d1672a"
   },
@@ -11200,5 +11200,44 @@
     "category": "misc",
     "item_id": 397,
     "texture": "7399c0373eed7e12d5c212e13c51422e21d4ec7fa301f5a5c684f816a2eb2aab"
+  },
+  "JUNGLE_GENERATOR_8": {
+    "name": "Jungle Minion VIII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "24606b1daf8e60363fc8db71ef204262ee800fa7b6496fb2e05f57d0674ef51f"
+  },
+  "CACTUS_GENERATOR_8": {
+    "name": "Cactus Minion VIII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "2ddea64e86688c84d9edae63cf94765b9a5fac004e4babb3bfff081b30198327"
+  },
+  "SALMON_BOOTS": {
+    "name": "Salmon Boots",
+    "tier": "epic",
+    "category": "boots",
+    "item_id": 301
+  },
+  "SALMON_LEGGINGS": {
+    "name": "Salmon Leggings",
+    "tier": "epic",
+    "category": "leggings",
+    "item_id": 300
+  },
+  "SALMON_HELMET": {
+    "name": "Salmon Helmet",
+    "tier": "epic",
+    "category": "helmet",
+    "item_id": 298
+  },
+  "JERRY_TALISMAN_GOLDEN": {
+    "name": "Golden Jerry Artifact",
+    "tier": "legendary",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "29251e18657e7304eaceac5f8d446d248ea46af2eab145f8185cece779f1648"
   }
 }
