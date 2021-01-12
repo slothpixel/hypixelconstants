@@ -11239,5 +11239,19 @@
     "category": "accessory",
     "item_id": 397,
     "texture": "29251e18657e7304eaceac5f8d446d248ea46af2eab145f8185cece779f1648"
+  },
+  "CAMPFIRE_TALISMAN_8": {
+    "name": "Campfire Cultist Badge",
+    "tier": "rare",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "a3cfd94e925eab4330a768afcae6c128b0a28e23149eee41c9c6df894c24f3de"
+  },
+  "LAPIS_GENERATOR_2": {
+    "name": "Lapis Minion II",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "65be0e9684b28a2531bec6186f75171c1111c3133b8ea944f32c34f247ea6923"
   }
 }
