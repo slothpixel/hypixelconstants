@@ -11273,5 +11273,19 @@
     "tier": "common",
     "category": "misc",
     "item_id": 328
+  },
+  "COBBLESTONE_GENERATOR_2": {
+    "name": "Cobblestone Minion II",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "3fd87486dc94cb8cd04a3d7d06f191f027f38dad7b4ed34c6681fb4d08834c06"
+  },
+  "GLOWSTONE_GENERATOR_8": {
+    "name": "Glowstone Minion VIII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "a8507f495bf89912dd2a317ae86faf8ce3631d62ca3d062e9fe5bf8d9d00fd70"
   }
 }
