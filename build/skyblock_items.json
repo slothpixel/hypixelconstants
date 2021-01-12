@@ -4174,9 +4174,9 @@
     "texture": "1e0329f42192ee7c1a0c704f82dbbbe7c00fbfa3f020c1067a208630b991b988"
   },
   "SUPERIOR_DRAGON_CHESTPLATE": {
-    "name": "Superior Dragon Chestplate",
+    "name": "Superior Dragon Chestplate ✪✪✪",
     "tier": "legendary",
-    "category": "chestplate",
+    "category": "dungeon chestplate",
     "item_id": 299
   },
   "SHARK_SCALE_BOOTS": {
@@ -6578,7 +6578,7 @@
     "texture": "c0e9118bcebf481394132a5111fcbcd9981b9a99504923b04794912660e22cea"
   },
   "GIANTS_SWORD": {
-    "name": "Giant's Sword ✪✪✪✪✪",
+    "name": "Giant's Sword",
     "tier": "legendary",
     "category": "dungeon sword",
     "item_id": 267
@@ -8782,9 +8782,9 @@
     "item_id": 264
   },
   "SUPERIOR_DRAGON_BOOTS": {
-    "name": "Superior Dragon Boots",
+    "name": "Superior Dragon Boots ✪✪✪",
     "tier": "legendary",
-    "category": "boots",
+    "category": "dungeon boots",
     "item_id": 301
   },
   "GRIZZLY_BAIT": {
@@ -11427,5 +11427,57 @@
     "category": "accessory",
     "item_id": 397,
     "texture": "72a7dcbf7eca6b6f6386591d237991ca1b888a4f0c753ff9a3202cf0e92229e3"
+  },
+  "BIRCH_GENERATOR_11": {
+    "name": "Birch Minion XI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "c7461229df076f8137a4560b38365ae48430b01070b90221aa5846284c17b876"
+  },
+  "WITHER_ARTIFACT": {
+    "name": "Wither Artifact",
+    "tier": "epic",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "964e1c3e315c8d8fffc37985b6681c5bd16a6f97ffd07199e8a05efbef103793"
+  },
+  "SEA_LANTERN_HAT": {
+    "name": "Sea Lantern Hat",
+    "tier": "uncommon",
+    "category": "helmet",
+    "item_id": 169
+  },
+  "CROOKED_ARTIFACT": {
+    "name": "Crooked Artifact",
+    "tier": "rare",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "5b7ff88d154d04a8a26995c99f64e53b574c7b82ec21a12a9e448bca1e70f461"
+  },
+  "WOOL:9": {
+    "name": "Cyan Wool",
+    "tier": "common",
+    "category": "misc",
+    "damage": 9,
+    "item_id": 35
+  },
+  "LEAFLET_BOOTS": {
+    "name": "Leaflet Sandals",
+    "tier": "common",
+    "category": "boots",
+    "item_id": 301
+  },
+  "LEAFLET_LEGGINGS": {
+    "name": "Leaflet Pants",
+    "tier": "common",
+    "category": "leggings",
+    "item_id": 300
+  },
+  "LEAFLET_CHESTPLATE": {
+    "name": "Leaflet Tunic",
+    "tier": "common",
+    "category": "chestplate",
+    "item_id": 299
   }
 }
