@@ -8564,7 +8564,7 @@
     "item_id": 300
   },
   "WISE_WITHER_BOOTS": {
-    "name": "Storm's Boots",
+    "name": "Storm's Boots ✪✪✪",
     "tier": "legendary",
     "category": "dungeon boots",
     "item_id": 301
@@ -11382,5 +11382,30 @@
     "tier": "uncommon",
     "category": "misc",
     "item_id": 21
+  },
+  "OLD_DRAGON_BOOTS": {
+    "name": "Old Dragon Boots",
+    "tier": "legendary",
+    "category": "boots",
+    "item_id": 301
+  },
+  "LAUNCH_PAD": {
+    "name": "Launch Pad",
+    "tier": "uncommon",
+    "category": "misc",
+    "item_id": 165
+  },
+  "FISHING_GENERATOR_2": {
+    "name": "Fishing Minion II",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "8798c0d7b65bfa5f56b084c1f51767a4276ad9f2c60bcb284dc6eccb7281e2ab"
+  },
+  "DEAD_BUSH": {
+    "name": "Dead Bush",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 32
   }
 }
