@@ -11407,5 +11407,18 @@
     "tier": "common",
     "category": "misc",
     "item_id": 32
+  },
+  "PUMPKIN_GENERATOR_5": {
+    "name": "Pumpkin Minion V",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "16685cf51ab0e08e842a822ca416225df3c583b32110bf4d778ad69f3f604b43"
+  },
+  "SPEEDSTER_CHESTPLATE": {
+    "name": "Speedster Chestplate",
+    "tier": "epic",
+    "category": "chestplate",
+    "item_id": 299
   }
 }
