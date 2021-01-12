@@ -8558,7 +8558,7 @@
     "texture": "f37cae5c51eb1558ea828f58e0dff8e6b7b0b1a183d737eecf714661761"
   },
   "WISE_WITHER_LEGGINGS": {
-    "name": "Storm's Leggings",
+    "name": "Storm's Leggings ✪✪✪✪",
     "tier": "legendary",
     "category": "dungeon leggings",
     "item_id": 300
@@ -11506,5 +11506,33 @@
     "category": "misc",
     "damage": 12,
     "item_id": 351
+  },
+  "MINION_CHAIR": {
+    "name": "Minion Chair",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 397,
+    "texture": "20f9c5a838ff62569bef624bf037dd28a3d5872cc0597b9e809c5337e1d77010"
+  },
+  "OAK_GENERATOR_2": {
+    "name": "Oak Minion II",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "bb4eccf762baf18f2d5b5b0c8fa9ca2ce1150f8beb1ce66756a4884c68253d9a"
+  },
+  "WITHER_RELIC": {
+    "name": "Wither Relic",
+    "tier": "epic",
+    "category": "dungeon accessory",
+    "item_id": 397,
+    "texture": "964e1c3e315c8d8fffc37985b6681c5bd16a6f97ffd07199e8a05efbef103793"
+  },
+  "ENDER_ARTIFACT": {
+    "name": "Ender Artifact",
+    "tier": "epic",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "969da4e7b8d558af02e80e2e1669ceb6084898db55907ef3e66d9a329329e941"
   }
 }
