@@ -8188,7 +8188,7 @@
     "texture": "61b35f7077ecf98ef3eba0f35d93a9813030f9b8b8e426aeb68dab38f1116"
   },
   "KNOCKOFF_COLA": {
-    "name": "KnockOff��� Cola",
+    "name": "KnockOff™ Cola",
     "tier": "common",
     "category": "misc",
     "item_id": 397,
@@ -11683,5 +11683,19 @@
     "category": "accessory",
     "item_id": 397,
     "texture": "4080bbefca87dc0f36536b6508425cfc4b95ba6e8f5e6a46ff9e9cb488a9ed"
+  },
+  "SAND_GENERATOR_6": {
+    "name": "Sand Minion VI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "7a756b6a9735b74031b284be6064898f649e5bb4d1300aafc3c0b280dad04b69"
+  },
+  "LAPIS_GENERATOR_8": {
+    "name": "Lapis Minion VIII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "c08a219f5cf568c9e03711518fcf18631a1866b407c1315017e3bf57f44ef563"
   }
 }
