@@ -11636,5 +11636,18 @@
     "tier": "legendary",
     "category": "chestplate",
     "item_id": 315
+  },
+  "COAL_GENERATOR_5": {
+    "name": "Coal Minion V",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "c5ebd621512c22d013aab7f443862a2d81856ce037afe80fcd6841d0d539136b"
+  },
+  "SPIDER_SWORD": {
+    "name": "Spider Sword",
+    "tier": "common",
+    "category": "sword",
+    "item_id": 267
   }
 }
