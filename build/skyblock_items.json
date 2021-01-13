@@ -2959,7 +2959,7 @@
     "item_id": 346
   },
   "SPIRIT_MASK": {
-    "name": "Spirit Mask",
+    "name": "Spirit Mask ✪✪",
     "tier": "epic",
     "category": "dungeon helmet",
     "item_id": 397,
@@ -11658,6 +11658,26 @@
     "texture": "4e13862d1d0c52d272ece109e923af62aedebb13b56c47085f41752a5d4d59e2"
   },
   "CAMPFIRE_TALISMAN_23": {
+    "name": "Campfire God Badge",
+    "tier": "legendary",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "4080bbefca87dc0f36536b6508425cfc4b95ba6e8f5e6a46ff9e9cb488a9ed"
+  },
+  "CAMPFIRE_TALISMAN_27": {
+    "name": "Campfire God Badge",
+    "tier": "legendary",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "4080bbefca87dc0f36536b6508425cfc4b95ba6e8f5e6a46ff9e9cb488a9ed"
+  },
+  "ADAPTIVE_LEGGINGS": {
+    "name": "Adaptive Leggings ✪",
+    "tier": "epic",
+    "category": "dungeon leggings",
+    "item_id": 300
+  },
+  "CAMPFIRE_TALISMAN_28": {
     "name": "Campfire God Badge",
     "tier": "legendary",
     "category": "accessory",
