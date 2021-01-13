@@ -2492,7 +2492,7 @@
     "item_id": 2265
   },
   "POWER_WITHER_BOOTS": {
-    "name": "Necron's Boots ✪✪",
+    "name": "Necron's Boots",
     "tier": "legendary",
     "category": "dungeon boots",
     "item_id": 301
@@ -11704,5 +11704,12 @@
     "category": "misc",
     "item_id": 397,
     "texture": "3d90f56d6e1632c00c14d568036aa536073c6a4a7e5759e012bd46d9f3809086"
+  },
+  "CARPET:6": {
+    "name": "Pink Carpet",
+    "tier": "common",
+    "category": "misc",
+    "damage": 6,
+    "item_id": 171
   }
 }
