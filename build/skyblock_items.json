@@ -11778,5 +11778,33 @@
     "tier": "rare",
     "category": "misc",
     "item_id": 165
+  },
+  "PET_SKIN_SHEEP_NEON_YELLOW": {
+    "name": "Neon Yellow Sheep Skin",
+    "tier": "rare",
+    "category": "cosmetic",
+    "item_id": 397,
+    "texture": "94263428c23da9165b2639a8f2428ff4835227945c9e1038461cf644d67cc82a"
+  },
+  "CACTUS_GENERATOR_7": {
+    "name": "Cactus Minion VII",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "2c1b5f3b3ffb6a8983f5110d4fd347df6086205bcedd3e065cbdf9ee47f957fe"
+  },
+  "GRAVEL_GENERATOR_6": {
+    "name": "Gravel Minion VI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "69c5f0583967589650b0de2c5108811ff01c32ac9861a820bba650f0412126d6"
+  },
+  "ENDER_STONE_GENERATOR_3": {
+    "name": "End Stone Minion III",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "63f211a5f8aca7607a02df177145bea0c6edc032bc82807fb1daeaa5d95b447d"
   }
 }
