@@ -4258,7 +4258,7 @@
     "item_id": 276
   },
   "SUPER_UNDEAD_BOW": {
-    "name": "Super Undead Bow ✪✪✪✪✪",
+    "name": "Super Undead Bow",
     "tier": "epic",
     "category": "dungeon bow",
     "item_id": 261
@@ -11599,5 +11599,30 @@
     "category": "dungeon helmet",
     "item_id": 397,
     "texture": "8b115cdc45fd84f21fba7ac0f2bc77bc3b6302be670842f6e11f66eb557f13ee"
+  },
+  "SPEED_WITHER_BOOTS": {
+    "name": "Maxor's Boots",
+    "tier": "legendary",
+    "category": "dungeon boots",
+    "item_id": 301
+  },
+  "PET_ITEM_MINING_SKILL_BOOST_COMMON": {
+    "name": "Mining Exp Boost",
+    "tier": "common",
+    "category": "pet item",
+    "item_id": 257
+  },
+  "MASTIFF_HELMET": {
+    "name": "Mastiff Crown",
+    "tier": "epic",
+    "category": "helmet",
+    "item_id": 397,
+    "texture": "3285950fd67858e76c439b0b5b87c69a6c52a4df936e224d843b14c22565949e"
+  },
+  "MASTIFF_CHESTPLATE": {
+    "name": "Mastiff Chestplate",
+    "tier": "epic",
+    "category": "chestplate",
+    "item_id": 315
   }
 }
