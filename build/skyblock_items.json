@@ -11649,5 +11649,12 @@
     "tier": "common",
     "category": "sword",
     "item_id": 267
+  },
+  "SNOW_GENERATOR_3": {
+    "name": "Snow Minion III",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "4e13862d1d0c52d272ece109e923af62aedebb13b56c47085f41752a5d4d59e2"
   }
 }
