@@ -11592,5 +11592,12 @@
     "tier": "epic",
     "category": "helmet",
     "item_id": 19
+  },
+  "DIAMOND_NECRON_HEAD": {
+    "name": "Diamond Necron Head ✪",
+    "tier": "special",
+    "category": "dungeon helmet",
+    "item_id": 397,
+    "texture": "8b115cdc45fd84f21fba7ac0f2bc77bc3b6302be670842f6e11f66eb557f13ee"
   }
 }
