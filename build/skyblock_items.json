@@ -5778,7 +5778,7 @@
     "item_id": 318
   },
   "GOLD_BONZO_HEAD": {
-    "name": "Golden Bonzo Head",
+    "name": "Golden Bonzo Head ✪✪✪",
     "tier": "special",
     "category": "dungeon helmet",
     "item_id": 397,
@@ -11744,5 +11744,39 @@
     "tier": "common",
     "category": "misc",
     "item_id": 163
+  },
+  "DARK_OAK_GENERATOR_6": {
+    "name": "Dark Oak Minion VI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "299b2d8c62b17108023c57e2bc40873446e1b96f11674a2bb2a27f915cf9d519"
+  },
+  "JUNGLE_GENERATOR_6": {
+    "name": "Jungle Minion VI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "b8619464d104822d9937344d11ee5c037169a13b2473f59b24836fca4cf214c5"
+  },
+  "ACACIA_GENERATOR_6": {
+    "name": "Acacia Minion VI",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "836bc401455a23aed7f83b6ae46f2bcd52809a153bb5888b04a7dca3a702f531"
+  },
+  "ENDERMAN_GENERATOR_9": {
+    "name": "Enderman Minion IX",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "c70a920c4940a1ffaebcc20b87afaaf0b17ebc4d3b1c34dfd0374a0a583de32d"
+  },
+  "ENCHANTED_SLIME_BLOCK": {
+    "name": "Enchanted Slime Block",
+    "tier": "rare",
+    "category": "misc",
+    "item_id": 165
   }
 }
