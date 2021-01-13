@@ -11717,5 +11717,32 @@
     "tier": "common",
     "category": "misc",
     "item_id": 130
+  },
+  "ACACIA_GENERATOR_5": {
+    "name": "Acacia Minion V",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "f06b64b7743a20fc36f2aaa0908d64346540af97e38d8263acf5b53e4e4a16fe"
+  },
+  "GRAVEL_GENERATOR_5": {
+    "name": "Gravel Minion V",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "c5961d126cda263759e43940c5665e9f1487ac2c7e26f903e5086affb3785714"
+  },
+  "BIRCH_GENERATOR_5": {
+    "name": "Birch Minion V",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "1a1fb86ed5a7d5bddcee9593eed7142f68b4fb55a8b812d0bfaa765e2162138d"
+  },
+  "ACACIA_STAIRS": {
+    "name": "Acacia Wood Stairs",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 163
   }
 }
