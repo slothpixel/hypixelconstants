@@ -6741,7 +6741,7 @@
     "name": "Magical Map",
     "tier": null,
     "category": "misc",
-    "damage": 1536,
+    "damage": 1280,
     "item_id": 358
   },
   "ENCHANTED_RAW_SALMON": {
@@ -7058,11 +7058,11 @@
     "texture": "a85f31382591d2dab0efed4dd31ed385494ad9563409c8a2e0efd05492d60b55"
   },
   "ADAPTIVE_HELMET": {
-    "name": "Adaptive Helm",
+    "name": "Adaptive Helm ✪",
     "tier": "epic",
     "category": "dungeon helmet",
     "item_id": 397,
-    "texture": "16f0d34aaa714377983701c1bbe9b3f6e7b30cb38571bc0a2fd7541d7edb1637"
+    "texture": "859e077da25fcc67acad364ac51fc2c9d7b238fc565a5234a38dc9dc8313b318"
   },
   "ADAPTIVE_BOOTS": {
     "name": "Adaptive Boots ✪✪✪✪",
@@ -11656,5 +11656,12 @@
     "category": "misc",
     "item_id": 397,
     "texture": "4e13862d1d0c52d272ece109e923af62aedebb13b56c47085f41752a5d4d59e2"
+  },
+  "CAMPFIRE_TALISMAN_23": {
+    "name": "Campfire God Badge",
+    "tier": "legendary",
+    "category": "accessory",
+    "item_id": 397,
+    "texture": "4080bbefca87dc0f36536b6508425cfc4b95ba6e8f5e6a46ff9e9cb488a9ed"
   }
 }
