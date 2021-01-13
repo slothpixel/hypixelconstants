@@ -1652,7 +1652,7 @@
     "texture": "1a75e8b044c7201a4b2e856be4fc316a5aaec66576169bab5872a88534b80256"
   },
   "BAT_WAND": {
-    "name": "Spirit Sceptre ✪✪",
+    "name": "Spirit Sceptre",
     "tier": "legendary",
     "category": "dungeon sword",
     "damage": 2,
@@ -11622,6 +11622,18 @@
   "MASTIFF_CHESTPLATE": {
     "name": "Mastiff Chestplate",
     "tier": "epic",
+    "category": "chestplate",
+    "item_id": 315
+  },
+  "DIVER_LEGGINGS": {
+    "name": "Diver's Trunks",
+    "tier": "legendary",
+    "category": "leggings",
+    "item_id": 316
+  },
+  "DIVER_CHESTPLATE": {
+    "name": "Diver's Shirt",
+    "tier": "legendary",
     "category": "chestplate",
     "item_id": 315
   }
