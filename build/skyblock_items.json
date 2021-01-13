@@ -4222,7 +4222,7 @@
     "item_id": 300
   },
   "LEATHER_BOOTS": {
-    "name": "Leather Boots",
+    "name": "革のブーツ",
     "tier": "common",
     "category": "boots",
     "item_id": 301
@@ -11697,5 +11697,12 @@
     "category": "misc",
     "item_id": 397,
     "texture": "c08a219f5cf568c9e03711518fcf18631a1866b407c1315017e3bf57f44ef563"
+  },
+  "CAVESPIDER_GENERATOR_4": {
+    "name": "Cave Spider Minion IV",
+    "tier": null,
+    "category": "misc",
+    "item_id": 397,
+    "texture": "3d90f56d6e1632c00c14d568036aa536073c6a4a7e5759e012bd46d9f3809086"
   }
 }
