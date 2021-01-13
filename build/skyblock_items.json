@@ -6413,7 +6413,7 @@
     "item_id": 152
   },
   "HYPERION": {
-    "name": "Hyperion ✪✪✪",
+    "name": "Hyperion",
     "tier": "legendary",
     "category": "dungeon sword",
     "item_id": 267
@@ -11711,5 +11711,11 @@
     "category": "misc",
     "damage": 6,
     "item_id": 171
+  },
+  "ENDER_CHEST": {
+    "name": "Ender Chest",
+    "tier": "common",
+    "category": "misc",
+    "item_id": 130
   }
 }
