@@ -1,14 +1,14 @@
 {
   "success": true,
-  "lastUpdated": 1594898243191,
-  "version": "0.8.16",
+  "lastUpdated": 1610626825947,
+  "version": "0.10.34",
   "collections": {
     "FARMING": {
       "name": "Farming",
       "items": {
         "WHEAT": {
           "name": "Wheat",
-          "maxTiers": 10,
+          "maxTiers": 11,
           "tiers": [
             {
               "tier": 1,
@@ -85,6 +85,13 @@
               "amountRequired": 50000,
               "unlocks": [
                 "Large Agronomy Sack Recipe"
+              ]
+            },
+            {
+              "tier": 11,
+              "amountRequired": 100000,
+              "unlocks": [
+                "Tightly-Tied Hay Bale Recipe"
               ]
             }
           ]
@@ -230,7 +237,7 @@
         },
         "PUMPKIN": {
           "name": "Pumpkin",
-          "maxTiers": 9,
+          "maxTiers": 11,
           "tiers": [
             {
               "tier": 1,
@@ -296,6 +303,20 @@
               "amountRequired": 50000,
               "unlocks": [
                 "Farmer Boots Recipe"
+              ]
+            },
+            {
+              "tier": 10,
+              "amountRequired": 100000,
+              "unlocks": [
+                "Polished Pumpkin Recipe"
+              ]
+            },
+            {
+              "tier": 11,
+              "amountRequired": 250000,
+              "unlocks": [
+                "Rancher's Boots Recipe"
               ]
             }
           ]
@@ -792,7 +813,8 @@
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Cow Head Recipe"
+                "Cow Head Recipe",
+                "Milk Bucket Trade"
               ]
             },
             {
@@ -1135,7 +1157,7 @@
         },
         "NETHER_STALK": {
           "name": "Nether Wart",
-          "maxTiers": 11,
+          "maxTiers": 12,
           "tiers": [
             {
               "tier": 1,
@@ -1212,6 +1234,13 @@
               "amountRequired": 100000,
               "unlocks": [
                 "Massive Potion Bag Upgrade"
+              ]
+            },
+            {
+              "tier": 12,
+              "amountRequired": 250000,
+              "unlocks": [
+                "Mutant Nether Wart Recipe"
               ]
             }
           ]
@@ -1387,7 +1416,7 @@
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Golem Hat (COMING SOON)"
+                "Golem Hat Recipe"
               ]
             },
             {
@@ -1700,7 +1729,7 @@
               "tier": 5,
               "amountRequired": 5000,
               "unlocks": [
-                "Emerald Ring (COMING SOON)"
+                "Emerald Ring Recipe"
               ]
             },
             {
@@ -1739,7 +1768,7 @@
         },
         "REDSTONE": {
           "name": "Redstone",
-          "maxTiers": 14,
+          "maxTiers": 15,
           "tiers": [
             {
               "tier": 1,
@@ -1839,7 +1868,15 @@
               "tier": 14,
               "amountRequired": 1000000,
               "unlocks": [
-                "Colossal Accessory Bag Upgrade"
+                "Colossal Accessory Bag Upgrade",
+                "Personal Compactor 7000 Recipe"
+              ]
+            },
+            {
+              "tier": 15,
+              "amountRequired": 1200000,
+              "unlocks": [
+                "Titanic Accessory Bag Upgrade"
               ]
             }
           ]
@@ -2445,7 +2482,7 @@
         },
         "BONE": {
           "name": "Bone",
-          "maxTiers": 9,
+          "maxTiers": 10,
           "tiers": [
             {
               "tier": 1,
@@ -2508,6 +2545,13 @@
               "amountRequired": 50000,
               "unlocks": [
                 "Runaan's Bow Recipe"
+              ]
+            },
+            {
+              "tier": 10,
+              "amountRequired": 150000,
+              "unlocks": [
+                "Enchanted Bone Block Recipe"
               ]
             }
           ]
@@ -3640,7 +3684,10 @@
               "tier": 7,
               "amountRequired": 2500,
               "unlocks": [
-                "Salmon Hat (COMING SOON)"
+                "Salmon Helmet Recipe",
+                "Salmon Chestplate Recipe",
+                "Salmon Leggings Recipe",
+                "Salmon Boots Recipe"
               ]
             },
             {
@@ -3654,7 +3701,7 @@
               "tier": 9,
               "amountRequired": 10000,
               "unlocks": [
-                "Salmon Armor (COMING SOON)"
+                "Salmon Hat (COMING SOON)"
               ]
             }
           ]
@@ -3833,7 +3880,7 @@
               "tier": 1,
               "amountRequired": 10,
               "unlocks": [
-                "Sea Lantern Hat (COMING SOON)"
+                "Sea Lantern Hat Recipe"
               ]
             },
             {
