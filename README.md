@@ -20,6 +20,7 @@ List of Content
 | skyblock_collections | SkyBlock collections |
 | skyblock_skills | SkyBlock skills |
 | skyblock_items | SkyBlock item ID conversion table |
+| skyblock_bazaar | SkyBlock bazaar item info |
 | languages | Data of languages Hypixel is currently translated to |
 | modes | Hypixel minigame modes |
 | pet_xp | Array containing the required xp to pet leveling |

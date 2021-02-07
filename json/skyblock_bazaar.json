@@ -1,0 +1,2479 @@
+{
+  "INK_SACK:3": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "ENCHANTED_COCOA",
+      "ENCHANTED_COOKIE"
+    ],
+    "name": "Cocoa Beans"
+  },
+  "BROWN_MUSHROOM": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "ENCHANTED_BROWN_MUSHROOM",
+      "HUGE_MUSHROOM_1",
+      "ENCHANTED_HUGE_MUSHROOM_1",
+      "RED_MUSHROOM",
+      "ENCHANTED_RED_MUSHROOM",
+      "HUGE_MUSHROOM_2",
+      "ENCHANTED_HUGE_MUSHROOM_2"
+    ],
+    "name": "Brown Mushroom"
+  },
+  "INK_SACK:4": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "ENCHANTED_LAPIS_LAZULI",
+      "ENCHANTED_LAPIS_LAZULI_BLOCK"
+    ],
+    "name": "Lapis Lazuli"
+  },
+  "SPOOKY_SHARD": {
+    "category": "Oddities",
+    "category_color": "d",
+    "related": [
+      "GREEN_CANDY",
+      "PURPLE_CANDY",
+      "ECTOPLASM",
+      "PUMPKIN_GUTS",
+      "WEREWOLF_SKIN",
+      "SOUL_FRAGMENT"
+    ],
+    "name": "Spooky Shard"
+  },
+  "TARANTULA_WEB": {
+    "category": "Combat",
+    "category_color": "c",
+    "related": [
+      "TARANTULA_SILK"
+    ],
+    "name": "Tarantula Web"
+  },
+  "CARROT_ITEM": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "ENCHANTED_CARROT",
+      "ENCHANTED_CARROT_STICK",
+      "ENCHANTED_GOLDEN_CARROT"
+    ],
+    "name": "Carotte"
+  },
+  "ENCHANTED_POTATO": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "POTATO_ITEM",
+      "ENCHANTED_BAKED_POTATO"
+    ],
+    "name": "Enchanted Potato"
+  },
+  "EXP_BOTTLE": {
+    "category": "Oddities",
+    "category_color": "d",
+    "related": [
+      "GRAND_EXP_BOTTLE",
+      "TITANIC_EXP_BOTTLE",
+      "COLOSSAL_EXP_BOTTLE"
+    ],
+    "name": "Experience Bottle"
+  },
+  "JERRY_BOX_GREEN": {
+    "category": "Oddities",
+    "category_color": "d",
+    "related": [
+      "JERRY_BOX_BLUE",
+      "JERRY_BOX_PURPLE",
+      "JERRY_BOX_GOLDEN"
+    ],
+    "name": "Green Jerry Box"
+  },
+  "ENCHANTED_SLIME_BALL": {
+    "category": "Combat",
+    "category_color": "c",
+    "related": [
+      "SLIME_BALL",
+      "ENCHANTED_SLIME_BLOCK"
+    ],
+    "name": "Enchanted Slimeball"
+  },
+  "ENCHANTED_RED_MUSHROOM": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "BROWN_MUSHROOM",
+      "ENCHANTED_BROWN_MUSHROOM",
+      "HUGE_MUSHROOM_1",
+      "ENCHANTED_HUGE_MUSHROOM_1",
+      "RED_MUSHROOM",
+      "HUGE_MUSHROOM_2",
+      "ENCHANTED_HUGE_MUSHROOM_2"
+    ],
+    "name": "Enchanted Red Mushroom"
+  },
+  "ENCHANTED_GOLDEN_CARROT": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "CARROT_ITEM",
+      "ENCHANTED_CARROT",
+      "ENCHANTED_CARROT_STICK"
+    ],
+    "name": "Enchanted Golden Carrot"
+  },
+  "ENCHANTED_RABBIT_HIDE": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "RABBIT",
+      "ENCHANTED_RABBIT",
+      "RABBIT_FOOT",
+      "ENCHANTED_RABBIT_FOOT",
+      "RABBIT_HIDE"
+    ],
+    "name": "Enchanted Rabbit Hide"
+  },
+  "ENCHANTED_BIRCH_LOG": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "LOG:2"
+    ],
+    "name": "Enchanted Birch Wood"
+  },
+  "ENCHANTED_GUNPOWDER": {
+    "category": "Combat",
+    "category_color": "c",
+    "related": [
+      "SULPHUR",
+      "ENCHANTED_FIREWORK_ROCKET"
+    ],
+    "name": "Enchanted Gunpowder"
+  },
+  "ENCHANTED_MELON": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "MELON",
+      "ENCHANTED_GLISTERING_MELON",
+      "ENCHANTED_MELON_BLOCK"
+    ],
+    "name": "Enchanted Melon"
+  },
+  "ENCHANTED_SUGAR": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "SUGAR_CANE",
+      "ENCHANTED_PAPER",
+      "ENCHANTED_SUGAR_CANE"
+    ],
+    "name": "Enchanted Sugar"
+  },
+  "CACTUS": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "ENCHANTED_CACTUS_GREEN",
+      "ENCHANTED_CACTUS"
+    ],
+    "name": "Cactus"
+  },
+  "ENCHANTED_BLAZE_ROD": {
+    "category": "Combat",
+    "category_color": "c",
+    "related": [
+      "BLAZE_ROD",
+      "ENCHANTED_BLAZE_POWDER"
+    ],
+    "name": "Enchanted Blaze Rod"
+  },
+  "ENCHANTED_CAKE": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "RAW_CHICKEN",
+      "ENCHANTED_RAW_CHICKEN",
+      "ENCHANTED_EGG",
+      "SUPER_EGG"
+    ],
+    "name": "Enchanted Cake"
+  },
+  "PUMPKIN": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "ENCHANTED_PUMPKIN",
+      "POLISHED_PUMPKIN"
+    ],
+    "name": "Pumpkin"
+  },
+  "ENCHANTED_BROWN_MUSHROOM": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "BROWN_MUSHROOM",
+      "HUGE_MUSHROOM_1",
+      "ENCHANTED_HUGE_MUSHROOM_1",
+      "RED_MUSHROOM",
+      "ENCHANTED_RED_MUSHROOM",
+      "HUGE_MUSHROOM_2",
+      "ENCHANTED_HUGE_MUSHROOM_2"
+    ],
+    "name": "Enchanted Brown Mushroom"
+  },
+  "WHEAT": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "ENCHANTED_BREAD",
+      "HAY_BLOCK",
+      "ENCHANTED_HAY_BLOCK",
+      "TIGHTLY-TIED_HAY_BALE"
+    ],
+    "name": "Wheat"
+  },
+  "NURSE_SHARK_TOOTH": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "BLUE_SHARK_TOOTH",
+      "TIGER_SHARK_TOOTH",
+      "GREAT_WHITE_SHARK_TOOTH",
+      "SHARK_FIN",
+      "ENCHANTED_SHARK_FIN"
+    ],
+    "name": "Nurse Shark Tooth"
+  },
+  "ENCHANTED_RAW_SALMON": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "RAW_FISH:1",
+      "ENCHANTED_RAW_SALMON",
+      "ENCHANTED_COOKED_SALMON"
+    ],
+    "name": "Enchanted Raw Salmon"
+  },
+  "ENCHANTED_GLISTERING_MELON": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "MELON",
+      "ENCHANTED_MELON",
+      "ENCHANTED_MELON_BLOCK"
+    ]
+  },
+  "PRISMARINE_SHARD": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "ENCHANTED_PRIMSARINE_SHARD"
+    ],
+    "name": "Prismarine Shard"
+  },
+  "PROTECTOR_FRAGMENT": {
+    "category": "Oddities",
+    "category_color": "d",
+    "related": [
+      "OLD_FRAGMENT",
+      "UNSTABLE_FRAGMENT",
+      "STRONG_FRAGMENT",
+      "YOUNG_FRAGMENT",
+      "WISE_FRAGMENT",
+      "SUPERIOR_FRAGMENT",
+      "HOLY_FRAGMENT"
+    ],
+    "name": "Protector Dragon Fragment"
+  },
+  "ENCHANTED_EMERALD": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "EMERALD",
+      "ENCHANTED_EMERALD_BLOCK"
+    ],
+    "name": "Enchanted Emerald"
+  },
+  "ENCHANTED_SPIDER_EYE": {
+    "category": "Combat",
+    "category_color": "c",
+    "related": [
+      "SPIDER_EYE",
+      "ENCHANTED_FERMENTED_SPIDER_EYE"
+    ],
+    "name": "Enchanted Spider Eye"
+  },
+  "RED_MUSHROOM": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "BROWN_MUSHROOM",
+      "ENCHANTED_BROWN_MUSHROOM",
+      "HUGE_MUSHROOM_1",
+      "ENCHANTED_HUGE_MUSHROOM_1",
+      "ENCHANTED_RED_MUSHROOM",
+      "HUGE_MUSHROOM_2",
+      "ENCHANTED_HUGE_MUSHROOM_2"
+    ],
+    "name": "Red Mushroom"
+  },
+  "GRAND_EXP_BOTTLE": {
+    "category": "Oddities",
+    "category_color": "d",
+    "related": [
+      "EXP_BOTTLE",
+      "TITANIC_EXP_BOTTLE",
+      "COLOSSAL_EXP_BOTTLE"
+    ],
+    "name": "Grand Experience Bottle"
+  },
+  "ENCHANTED_MELON_BLOCK": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "MELON",
+      "ENCHANTED_MELON",
+      "ENCHANTED_GLISTERING_MELON"
+    ],
+    "name": "Enchanted Melon Block"
+  },
+  "MUTTON": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "ENCHANTED_MUTTON",
+      "ENCHANTED_COOKED_MUTTON"
+    ],
+    "name": "Mutton"
+  },
+  "DIAMOND": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "ENCHANTED_DIAMOND",
+      "ENCHANTED_DIAMOND_BLOCK",
+      "REFINED_DIAMOND"
+    ],
+    "name": "Diamond"
+  },
+  "SHARK_FIN": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "NURSE_SHARK_TOOTH",
+      "BLUE_SHARK_TOOTH",
+      "TIGER_SHARK_TOOTH",
+      "GREAT_WHITE_SHARK_TOOTH",
+      "ENCHANTED_SHARK_FIN"
+    ],
+    "name": "Shark Fin"
+  },
+  "WISE_FRAGMENT": {
+    "category": "Oddities",
+    "category_color": "d",
+    "related": [
+      "PROTECTOR_FRAGMENT",
+      "OLD_FRAGMENT",
+      "UNSTABLE_FRAGMENT",
+      "STRONG_FRAGMENT",
+      "YOUNG_FRAGMENT",
+      "SUPERIOR_FRAGMENT",
+      "HOLY_FRAGMENT"
+    ],
+    "name": "Wise Dragon Fragment"
+  },
+  "COBBLESTONE": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "ENCHANTED_COBBLESTONE"
+    ],
+    "name": "Cobblestone"
+  },
+  "REFINED_MITHRIL": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "MITHRIL_ORE",
+      "ENCHANTED_MITHRIL"
+    ],
+    "name": "Refined Mithril"
+  },
+  "SPIDER_EYE": {
+    "category": "Combat",
+    "category_color": "c",
+    "related": [
+      "ENCHANTED_SPIDER_EYE",
+      "ENCHANTED_FERMENTED_SPIDER_EYE"
+    ],
+    "name": "Spider Eye"
+  },
+  "RAW_FISH": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "RAW_FISH",
+      "ENCHANTED_RAW_FISH",
+      "ENCHANTED_COOKED_FISH"
+    ],
+    "name": "Raw Fish"
+  },
+  "ENCHANTED_PUFFERFISH": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "RAW_FISH:3"
+    ],
+    "name": "Enchanted Pufferfish"
+  },
+  "POTATO_ITEM": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "ENCHANTED_POTATO",
+      "ENCHANTED_BAKED_POTATO"
+    ],
+    "name": "Potato"
+  },
+  "ENCHANTED_HUGE_MUSHROOM_1": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "BROWN_MUSHROOM",
+      "ENCHANTED_BROWN_MUSHROOM",
+      "HUGE_MUSHROOM_1",
+      "RED_MUSHROOM",
+      "ENCHANTED_RED_MUSHROOM",
+      "HUGE_MUSHROOM_2",
+      "ENCHANTED_HUGE_MUSHROOM_2"
+    ]
+  },
+  "REFINED_DIAMOND": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "DIAMOND",
+      "ENCHANTED_DIAMOND",
+      "ENCHANTED_DIAMOND_BLOCK"
+    ],
+    "name": "Refined Diamond"
+  },
+  "TIGHTLY_TIED_HAY_BALE": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "WHEAT",
+      "ENCHANTED_BREAD",
+      "HAY_BLOCK",
+      "ENCHANTED_HAY_BLOCK"
+    ],
+    "name": "Tightly-Tied Hay Bale"
+  },
+  "ENCHANTED_COBBLESTONE": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "COBBLESTONE"
+    ],
+    "name": "Enchanted Cobblestone"
+  },
+  "ENCHANTED_HUGE_MUSHROOM_2": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "BROWN_MUSHROOM",
+      "ENCHANTED_BROWN_MUSHROOM",
+      "HUGE_MUSHROOM_1",
+      "ENCHANTED_HUGE_MUSHROOM_1",
+      "RED_MUSHROOM",
+      "ENCHANTED_RED_MUSHROOM",
+      "HUGE_MUSHROOM_2"
+    ],
+    "name": "Enchanted Red Mushroom Block"
+  },
+  "PORK": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "ENCHANTED_PORK",
+      "ENCHANTED_GRILLED_PORK"
+    ],
+    "name": "Raw Porkchop"
+  },
+  "PRISMARINE_CRYSTALS": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "ENCHANTED_PRISMARINE_CRYSTALS"
+    ],
+    "name": "Prismarine Crystals"
+  },
+  "ICE": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "PACKED_ICE",
+      "ENCHANTED_ICE",
+      "ENCHANTED_PACKED_ICE"
+    ],
+    "name": "Ice"
+  },
+  "HUGE_MUSHROOM_1": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "BROWN_MUSHROOM",
+      "ENCHANTED_BROWN_MUSHROOM",
+      "ENCHANTED_HUGE_MUSHROOM_1",
+      "RED_MUSHROOM",
+      "ENCHANTED_RED_MUSHROOM",
+      "HUGE_MUSHROOM_2",
+      "ENCHANTED_HUGE_MUSHROOM_2"
+    ],
+    "name": "Brown Mushroom Block"
+  },
+  "TIGER_SHARK_TOOTH": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "NURSE_SHARK_TOOTH",
+      "BLUE_SHARK_TOOTH",
+      "GREAT_WHITE_SHARK_TOOTH",
+      "SHARK_FIN",
+      "ENCHANTED_SHARK_FIN"
+    ],
+    "name": "Tiger Shark Tooth"
+  },
+  "HUGE_MUSHROOM_2": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "BROWN_MUSHROOM",
+      "ENCHANTED_BROWN_MUSHROOM",
+      "HUGE_MUSHROOM_1",
+      "ENCHANTED_HUGE_MUSHROOM_1",
+      "RED_MUSHROOM",
+      "ENCHANTED_RED_MUSHROOM",
+      "ENCHANTED_HUGE_MUSHROOM_2"
+    ],
+    "name": "Red Mushroom Block"
+  },
+  "ICE_BAIT": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "CARROT_BAIT",
+      "MINNOW_BAIT",
+      "FISH_BAIT",
+      "LIGHT_BAIT",
+      "DARK_BAIT",
+      "SPOOKY_BAIT",
+      "SPIKED_BAIT",
+      "BLESSED_BAIT",
+      "WHALE_BAIT",
+      "SHARK_BAIT"
+    ],
+    "name": "Ice Bait"
+  },
+  "LOG_2:1": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "ENCHANTED_DARK_OAK_LOG"
+    ],
+    "name": "Dark Oak Wood"
+  },
+  "ENCHANTED_SNOW_BLOCK": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "SNOW_BALL",
+      "SNOW_BLOCK"
+    ],
+    "name": "Enchanted Snow Block"
+  },
+  "GOLDEN_TOOTH": {
+    "category": "Combat",
+    "category_color": "c",
+    "related": [
+      "WOLF_TOOTH"
+    ],
+    "name": "Golden Tooth"
+  },
+  "STRING": {
+    "category": "Combat",
+    "category_color": "c",
+    "related": [
+      "ENCHANTED_STRING"
+    ],
+    "name": "String"
+  },
+  "HYPER_CATALYST": {
+    "category": "Oddities",
+    "category_color": "d",
+    "related": [
+      "ENCHANTED_LAVA_BUCKET",
+      "HAMSTER_WHEEL",
+      "FOUL_FLESH",
+      "CATALYST"
+    ],
+    "name": "Hyper Catalyst"
+  },
+  "RABBIT_FOOT": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "RABBIT",
+      "ENCHANTED_RABBIT",
+      "ENCHANTED_RABBIT_FOOT",
+      "RABBIT_HIDE",
+      "ENCHANTED_RABBIT_HIDE"
+    ],
+    "name": "Rabbit's Foot"
+  },
+  "REDSTONE": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "ENCHANTED_REDSTONE",
+      "ENCHANTED_REDSTONE_BLOCK"
+    ],
+    "name": "Redstone"
+  },
+  "JERRY_BOX_GOLDEN": {
+    "category": "Oddities",
+    "category_color": "d",
+    "related": [
+      "JERRY_BOX_GREEN",
+      "JERRY_BOX_BLUE",
+      "JERRY_BOX_PURPLE"
+    ],
+    "name": "Golden Jerry Box"
+  },
+  "PUMPKIN_GUTS": {
+    "category": "Oddities",
+    "category_color": "d",
+    "related": [
+      "SPOOKY_SHARD",
+      "GREEN_CANDY",
+      "PURPLE_CANDY",
+      "ECTOPLASM",
+      "WEREWOLF_SKIN",
+      "SOUL_FRAGMENT"
+    ],
+    "name": "Pumpkin Guts"
+  },
+  "ENCHANTED_CACTUS_GREEN": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "CACTUS",
+      "ENCHANTED_CACTUS"
+    ],
+    "name": "Enchanted Cactus Green"
+  },
+  "BOOSTER_COOKIE": {
+    "category": "Oddities",
+    "category_color": "d",
+    "related": [],
+    "name": "Booster Cookie"
+  },
+  "ENCHANTED_COOKIE": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "INK_SACK:3",
+      "ENCHANTED_COCOA"
+    ],
+    "name": "Enchanted Cookie"
+  },
+  "ENCHANTED_LAPIS_LAZULI_BLOCK": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "INK_SACK:4",
+      "ENCHANTED_LAPIS_LAZULI"
+    ],
+    "name": "Enchanted Lapis Block"
+  },
+  "ENCHANTED_ENDSTONE": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "ENDER_STONE"
+    ],
+    "name": "Enchanted End Stone"
+  },
+  "ENCHANTED_SAND": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "SAND",
+      "ENCHANTED_SAND"
+    ],
+    "name": "Enchanted Sand"
+  },
+  "COLOSSAL_EXP_BOTTLE": {
+    "category": "Oddities",
+    "category_color": "d",
+    "related": [
+      "EXP_BOTTLE",
+      "GRAND_EXP_BOTTLE",
+      "TITANIC_EXP_BOTTLE"
+    ],
+    "name": "Colossal Experience Bottle"
+  },
+  "ENCHANTED_STRING": {
+    "category": "Combat",
+    "category_color": "c",
+    "related": [
+      "STRING"
+    ],
+    "name": "Enchanted String"
+  },
+  "STRONG_FRAGMENT": {
+    "category": "Oddities",
+    "category_color": "d",
+    "related": [
+      "PROTECTOR_FRAGMENT",
+      "OLD_FRAGMENT",
+      "UNSTABLE_FRAGMENT",
+      "YOUNG_FRAGMENT",
+      "WISE_FRAGMENT",
+      "SUPERIOR_FRAGMENT",
+      "HOLY_FRAGMENT"
+    ],
+    "name": "Strong Dragon Fragment"
+  },
+  "SLIME_BALL": {
+    "category": "Combat",
+    "category_color": "c",
+    "related": [
+      "ENCHANTED_SLIME_BALL",
+      "ENCHANTED_SLIME_BLOCK"
+    ],
+    "name": "Slimeball"
+  },
+  "SNOW_BALL": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "SNOW_BLOCK",
+      "ENCHANTED_SNOW_BLOCK"
+    ],
+    "name": "Snowball"
+  },
+  "HOLY_FRAGMENT": {
+    "category": "Oddities",
+    "category_color": "d",
+    "related": [
+      "PROTECTOR_FRAGMENT",
+      "OLD_FRAGMENT",
+      "UNSTABLE_FRAGMENT",
+      "STRONG_FRAGMENT",
+      "YOUNG_FRAGMENT",
+      "WISE_FRAGMENT",
+      "SUPERIOR_FRAGMENT"
+    ],
+    "name": "Holy Dragon Fragment"
+  },
+  "ENCHANTED_ACACIA_LOG": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "LOG_2"
+    ],
+    "name": "Enchanted Acacia Wood"
+  },
+  "ENCHANTED_EGG": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "RAW_CHICKEN",
+      "ENCHANTED_RAW_CHICKEN",
+      "ENCHANTED_CAKE",
+      "SUPER_EGG"
+    ],
+    "name": "Enchanted Egg"
+  },
+  "SAND": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "ENCHANTED_SAND"
+    ],
+    "name": "Sand"
+  },
+  "SOUL_FRAGMENT": {
+    "category": "Oddities",
+    "category_color": "d",
+    "related": [
+      "SPOOKY_SHARD",
+      "GREEN_CANDY",
+      "PURPLE_CANDY",
+      "ECTOPLASM",
+      "PUMPKIN_GUTS",
+      "WEREWOLF_SKIN"
+    ],
+    "name": "Soul Fragment"
+  },
+  "RAW_CHICKEN": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "ENCHANTED_RAW_CHICKEN",
+      "ENCHANTED_EGG",
+      "ENCHANTED_CAKE",
+      "SUPER_EGG"
+    ],
+    "name": "Raw Chicken"
+  },
+  "ANCIENT_CLAW": {
+    "category": "Combat",
+    "category_color": "c",
+    "related": [
+      "GRIFFIN_FEATHER",
+      "DAEDALUS_STICK",
+      "ENCHANTED_ANCIENT_CLAW"
+    ],
+    "name": "Ancient Claw"
+  },
+  "ENCHANTED_LAPIS_LAZULI": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "INK_SACK:4",
+      "ENCHANTED_LAPIS_LAZULI_BLOCK"
+    ],
+    "name": "Enchanted Lapis Lazuli"
+  },
+  "ENCHANTED_GHAST_TEAR": {
+    "category": "Combat",
+    "category_color": "c",
+    "related": [
+      "GHAST_TEAR"
+    ],
+    "name": "Enchanted Ghast Tear"
+  },
+  "ENCHANTED_COCOA": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "INK_SACK:3",
+      "ENCHANTED_COOKIE"
+    ],
+    "name": "Enchanted Cocoa Bean"
+  },
+  "CARROT_BAIT": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "MINNOW_BAIT",
+      "FISH_BAIT",
+      "LIGHT_BAIT",
+      "DARK_BAIT",
+      "SPOOKY_BAIT",
+      "SPIKED_BAIT",
+      "BLESSED_BAIT",
+      "ICE_BAIT",
+      "WHALE_BAIT",
+      "SHARK_BAIT"
+    ],
+    "name": "Carrot Bait"
+  },
+  "SEEDS": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "ENCHANTED_SEEDS"
+    ],
+    "name": "Seeds"
+  },
+  "ENCHANTED_LEATHER": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "LEATHER",
+      "RAW_BEEF",
+      "ENCHANTED_RAW_BEEF"
+    ],
+    "name": "Enchanted Leather"
+  },
+  "ENCHANTED_SPONGE": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "SPONGE",
+      "ENCHANTED_WET_SPONGE"
+    ],
+    "name": "Enchanted Sponge"
+  },
+  "ENCHANTED_SHARK_FIN": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "NURSE_SHARK_TOOTH",
+      "BLUE_SHARK_TOOTH",
+      "TIGER_SHARK_TOOTH",
+      "GREAT_WHITE_SHARK_TOOTH",
+      "SHARK_FIN"
+    ],
+    "name": "Enchanted Shark Fin"
+  },
+  "HAY_BLOCK": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "WHEAT",
+      "ENCHANTED_BREAD",
+      "ENCHANTED_HAY_BLOCK",
+      "TIGHTLY-TIED_HAY_BALE"
+    ],
+    "name": "Hay Bale"
+  },
+  "FLINT": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "ENCHANTED_FLINT"
+    ],
+    "name": "Flint"
+  },
+  "INK_SACK": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "ENCHANTED_INK_SACK"
+    ],
+    "name": "Ink Sack"
+  },
+  "WOLF_TOOTH": {
+    "category": "Combat",
+    "category_color": "c",
+    "related": [
+      "GOLDEN_TOOTH"
+    ],
+    "name": "Wolf Tooth"
+  },
+  "ENCHANTED_ROTTEN_FLESH": {
+    "category": "Combat",
+    "category_color": "c",
+    "related": [
+      "ROTTEN_FLESH"
+    ],
+    "name": "Enchanted Rotten Flesh"
+  },
+  "ENCHANTED_SPRUCE_LOG": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "LOG:1"
+    ],
+    "name": "Enchanted Spruce Wood"
+  },
+  "ENCHANTED_GRILLED_PORK": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "PORK",
+      "ENCHANTED_PORK"
+    ],
+    "name": "Enchanted Grilled Pork"
+  },
+  "ENCHANTED_NETHER_STALK": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "NETHER_STALK",
+      "MUTANT_NETHER_STALK"
+    ],
+    "name": "Enchanted Nether Wart"
+  },
+  "ENCHANTED_REDSTONE_BLOCK": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "REDSTONE",
+      "ENCHANTED_REDSTONE"
+    ],
+    "name": "Enchanted Redstone Block"
+  },
+  "ENCHANTED_ANCIENT_CLAW": {
+    "category": "Combat",
+    "category_color": "c",
+    "related": [
+      "GRIFFIN_FEATHER",
+      "DAEDALUS_STICK",
+      "ANCIENT_CLAW"
+    ],
+    "name": "Enchanted Ancient Claw"
+  },
+  "ENCHANTED_QUARTZ_BLOCK": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "QUARTZ",
+      "ENCHANTED_QUARTZ"
+    ],
+    "name": "Enchanted Quartz Block"
+  },
+  "GREEN_CANDY": {
+    "category": "Oddities",
+    "category_color": "d",
+    "related": [
+      "SPOOKY_SHARD",
+      "PURPLE_CANDY",
+      "ECTOPLASM",
+      "PUMPKIN_GUTS",
+      "WEREWOLF_SKIN",
+      "SOUL_FRAGMENT"
+    ],
+    "name": "Green Candy"
+  },
+  "ENCHANTED_REDSTONE": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "REDSTONE",
+      "ENCHANTED_REDSTONE_BLOCK"
+    ],
+    "name": "Enchanted Redstone"
+  },
+  "ENCHANTED_REDSTONE_LAMP": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "GLOWSTONE_DUST",
+      "ENCHANTED_GLOWSTONE_DUST",
+      "ENCHANTED_GLOWSTONE"
+    ],
+    "name": "Enchanted Redstone Lamp"
+  },
+  "GREAT_WHITE_SHARK_TOOTH": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "NURSE_SHARK_TOOTH",
+      "BLUE_SHARK_TOOTH",
+      "TIGER_SHARK_TOOTH",
+      "SHARK_FIN",
+      "ENCHANTED_SHARK_FIN"
+    ],
+    "name": "Great White Shark Tooth"
+  },
+  "GRAVEL": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [],
+    "name": "Gravel"
+  },
+  "MELON": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "ENCHANTED_MELON",
+      "ENCHANTED_GLISTERING_MELON",
+      "ENCHANTED_MELON_BLOCK"
+    ],
+    "name": "Melon"
+  },
+  "ENCHANTED_LAVA_BUCKET": {
+    "category": "Oddities",
+    "category_color": "d",
+    "related": [
+      "HAMSTER_WHEEL",
+      "FOUL_FLESH",
+      "CATALYST",
+      "HYPER_CATALYST"
+    ],
+    "name": "Enchanted Lava Bucket"
+  },
+  "ENCHANTED_PACKED_ICE": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "ICE",
+      "PACKED_ICE",
+      "ENCHANTED_ICE"
+    ],
+    "name": "Enchanted Packed Ice"
+  },
+  "RAW_FISH:3": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "ENCHANTED_PUFFERFISH"
+    ],
+    "name": "Pufferfish"
+  },
+  "ENCHANTED_PRISMARINE_SHARD": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "PRIMSARINE_SHARD"
+    ],
+    "name": "Enchanted Prismarine Shard"
+  },
+  "ENCHANTED_IRON_BLOCK": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "IRON_INGOT",
+      "ENCHANTED_IRON"
+    ],
+    "name": "Enchanted Iron Block"
+  },
+  "RECOMBOBULATOR_3000": {
+    "category": "Oddities",
+    "category_color": "d",
+    "related": [],
+    "name": "Recombobulator 3000"
+  },
+  "ENCHANTED_CARROT_STICK": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "CARROT_ITEM",
+      "ENCHANTED_CARROT",
+      "ENCHANTED_GOLDEN_CARROT"
+    ],
+    "name": "Enchanted Carrot on a Stick"
+  },
+  "BONE": {
+    "category": "Combat",
+    "category_color": "c",
+    "related": [
+      "ENCHANTED_BONE",
+      "ENCHANTED_BONE_BLOCK"
+    ],
+    "name": "Bone"
+  },
+  "RAW_FISH:2": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "ENCHANTED_CLOWNFISH"
+    ],
+    "name": "Clownfish"
+  },
+  "RAW_FISH:1": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "ENCHANTED_RAW_SALMON",
+      "ENCHANTED_COOKED_SALMON"
+    ],
+    "name": "Raw Salmon"
+  },
+  "REVENANT_FLESH": {
+    "category": "Combat",
+    "category_color": "c",
+    "related": [
+      "REVENANT_VISCERA"
+    ],
+    "name": "Revenant Flesh"
+  },
+  "ENCHANTED_PORK": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "PORK",
+      "ENCHANTED_GRILLED_PORK"
+    ],
+    "name": "Enchanted Pork"
+  },
+  "ENCHANTED_GLOWSTONE": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "GLOWSTONE_DUST",
+      "ENCHANTED_GLOWSTONE_DUST",
+      "ENCHANTED_REDSTONE_LAMP"
+    ],
+    "name": "Enchanted Glowstone"
+  },
+  "FEATHER": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "ENCHANTED_FEATHER"
+    ],
+    "name": "Feather"
+  },
+  "WHALE_BAIT": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "CARROT_BAIT",
+      "MINNOW_BAIT",
+      "FISH_BAIT",
+      "LIGHT_BAIT",
+      "DARK_BAIT",
+      "SPOOKY_BAIT",
+      "SPIKED_BAIT",
+      "BLESSED_BAIT",
+      "ICE_BAIT",
+      "SHARK_BAIT"
+    ],
+    "name": "Whale Bait"
+  },
+  "NETHERRACK": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [],
+    "name": "Netherrack"
+  },
+  "SPONGE": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "ENCHANTED_SPONGE",
+      "ENCHANTED_WET_SPONGE"
+    ],
+    "name": "Sponge"
+  },
+  "BLAZE_ROD": {
+    "category": "Combat",
+    "category_color": "c",
+    "related": [
+      "ENCHANTED_BLAZE_POWDER",
+      "ENCHANTED_BLAZE_ROD"
+    ],
+    "name": "Blaze Rod"
+  },
+  "ENCHANTED_DARK_OAK_LOG": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "LOG_2:1"
+    ],
+    "name": "Enchanted Dark Oak Wood"
+  },
+  "YOUNG_FRAGMENT": {
+    "category": "Oddities",
+    "category_color": "d",
+    "related": [
+      "PROTECTOR_FRAGMENT",
+      "OLD_FRAGMENT",
+      "UNSTABLE_FRAGMENT",
+      "STRONG_FRAGMENT",
+      "WISE_FRAGMENT",
+      "SUPERIOR_FRAGMENT",
+      "HOLY_FRAGMENT"
+    ],
+    "name": "Young Dragon Fragment"
+  },
+  "ENCHANTED_CLOWNFISH": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "RAW_FISH:2"
+    ],
+    "name": "Enchanted Clownfish"
+  },
+  "REFINED_MINERAL": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [],
+    "name": "Refined Mineral"
+  },
+  "ENCHANTED_GOLD": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "GOLD_INGOT",
+      "ENCHANTED_GOLD",
+      "ENCHANTED_GOLD_BLOCK"
+    ],
+    "name": "Enchanted Gold"
+  },
+  "ENCHANTED_RAW_CHICKEN": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "RAW_CHICKEN",
+      "ENCHANTED_EGG",
+      "ENCHANTED_CAKE",
+      "SUPER_EGG"
+    ],
+    "name": "Enchanted Raw Chicken"
+  },
+  "ENCHANTED_WATER_LILY": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "WATER_LILY"
+    ],
+    "name": "Enchanted Lily Pad"
+  },
+  "LOG:1": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "ENCHANTED_SPRUCE_LOG"
+    ],
+    "name": "Spruce Wood"
+  },
+  "TITANIUM_ORE": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "TITANIUM_ORE",
+      "REFINED_TITANIUM",
+      "ENCHANTED_TITANIUM"
+    ],
+    "name": "Titanium"
+  },
+  "CATALYST": {
+    "category": "Oddities",
+    "category_color": "d",
+    "related": [
+      "ENCHANTED_LAVA_BUCKET",
+      "HAMSTER_WHEEL",
+      "FOUL_FLESH",
+      "HYPER_CATALYST"
+    ],
+    "name": "Catalyst"
+  },
+  "BLUE_SHARK_TOOTH": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "NURSE_SHARK_TOOTH",
+      "TIGER_SHARK_TOOTH",
+      "GREAT_WHITE_SHARK_TOOTH",
+      "SHARK_FIN",
+      "ENCHANTED_SHARK_FIN"
+    ],
+    "name": "Blue Shark Tooth"
+  },
+  "LOG:3": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "ENCHANTED_JUNGLE_LOG"
+    ],
+    "name": "Jungle Wood"
+  },
+  "LOG:2": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "ENCHANTED_BIRCH_LOG"
+    ],
+    "name": "Birch Wood"
+  },
+  "BLESSED_BAIT": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "CARROT_BAIT",
+      "MINNOW_BAIT",
+      "FISH_BAIT",
+      "LIGHT_BAIT",
+      "DARK_BAIT",
+      "SPOOKY_BAIT",
+      "SPIKED_BAIT",
+      "ICE_BAIT",
+      "WHALE_BAIT",
+      "SHARK_BAIT"
+    ],
+    "name": "Blessed Bait"
+  },
+  "ENCHANTED_GLOWSTONE_DUST": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "GLOWSTONE_DUST",
+      "ENCHANTED_GLOWSTONE",
+      "ENCHANTED_REDSTONE_LAMP"
+    ],
+    "name": "Enchanted Glowstone Dust"
+  },
+  "ENCHANTED_INK_SACK": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "INK_SACK"
+    ],
+    "name": "Enchanted Ink Sack"
+  },
+  "ENCHANTED_CACTUS": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "CACTUS",
+      "ENCHANTED_CACTUS_GREEN"
+    ],
+    "name": "Enchanted Cactus"
+  },
+  "ENCHANTED_SUGAR_CANE": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "SUGAR_CANE",
+      "ENCHANTED_SUGAR",
+      "ENCHANTED_PAPER"
+    ],
+    "name": "Enchanted Sugar Cane"
+  },
+  "ENCHANTED_COOKED_SALMON": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "RAW_FISH:1",
+      "ENCHANTED_RAW_SALMON"
+    ],
+    "name": "Enchanted Cooked Salmon"
+  },
+  "ENCHANTED_SEEDS": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "SEEDS"
+    ],
+    "name": "Enchanted Seeds"
+  },
+  "LOG": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "ENCHANTED_OAK_LOG"
+    ],
+    "name": "Oak Wood"
+  },
+  "JACOBS_TICKET": {
+    "category": "Oddities",
+    "category_color": "d",
+    "related": [],
+    "name": "Jacob's Ticket"
+  },
+  "ENCHANTED_BONE_BLOCK": {
+    "category": "Combat",
+    "category_color": "c",
+    "related": [
+      "BONE",
+      "ENCHANTED_BONE"
+    ],
+    "name": "Enchanted Bone Block"
+  },
+  "GHAST_TEAR": {
+    "category": "Combat",
+    "category_color": "c",
+    "related": [
+      "ENCHANTED_GHAST_TEAR"
+    ],
+    "name": "Ghast Tear"
+  },
+  "ENCHANTED_ENDER_PEARL": {
+    "category": "Combat",
+    "category_color": "c",
+    "related": [
+      "ENDER_PEARL",
+      "ENCHANTED_ENDER_PEARL",
+      "ENCHANTED_EYE_OF_ENDER"
+    ],
+    "name": "Enchanted Ender Pearl"
+  },
+  "UNSTABLE_FRAGMENT": {
+    "category": "Oddities",
+    "category_color": "d",
+    "related": [
+      "PROTECTOR_FRAGMENT",
+      "OLD_FRAGMENT",
+      "STRONG_FRAGMENT",
+      "YOUNG_FRAGMENT",
+      "WISE_FRAGMENT",
+      "SUPERIOR_FRAGMENT",
+      "HOLY_FRAGMENT"
+    ],
+    "name": "Unstable Dragon Fragment"
+  },
+  "PURPLE_CANDY": {
+    "category": "Oddities",
+    "category_color": "d",
+    "related": [
+      "SPOOKY_SHARD",
+      "GREEN_CANDY",
+      "ECTOPLASM",
+      "PUMPKIN_GUTS",
+      "WEREWOLF_SKIN",
+      "SOUL_FRAGMENT"
+    ],
+    "name": "Purple Candy"
+  },
+  "ENCHANTED_FERMENTED_SPIDER_EYE": {
+    "category": "Combat",
+    "category_color": "c",
+    "related": [
+      "SPIDER_EYE",
+      "ENCHANTED_SPIDER_EYE"
+    ],
+    "name": "Enchanted Fermented Spider Eye"
+  },
+  "POLISHED_PUMPKIN": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "PUMPKIN",
+      "ENCHANTED_PUMPKIN"
+    ],
+    "name": "Polished Pumpkin"
+  },
+  "SPIKED_BAIT": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "CARROT_BAIT",
+      "MINNOW_BAIT",
+      "FISH_BAIT",
+      "LIGHT_BAIT",
+      "DARK_BAIT",
+      "SPOOKY_BAIT",
+      "BLESSED_BAIT",
+      "ICE_BAIT",
+      "WHALE_BAIT",
+      "SHARK_BAIT"
+    ],
+    "name": "Spiked Bait"
+  },
+  "ENCHANTED_GOLD_BLOCK": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "GOLD_INGOT",
+      "ENCHANTED_GOLD"
+    ],
+    "name": "Enchanted Gold Block"
+  },
+  "ENCHANTED_JUNGLE_LOG": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "LOG:3"
+    ],
+    "name": "Enchanted Jungle Wood"
+  },
+  "ENCHANTED_FLINT": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "FLINT"
+    ],
+    "name": "Enchanted Flint"
+  },
+  "IRON_INGOT": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "ENCHANTED_IRON",
+      "ENCHANTED_IRON_BLOCK"
+    ],
+    "name": "Iron Ingot"
+  },
+  "ENCHANTED_EMERALD_BLOCK": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "EMERALD",
+      "ENCHANTED_EMERALD"
+    ],
+    "name": "Enchanted Emerald Block"
+  },
+  "ENCHANTED_CLAY_BALL": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "CLAY_BALL",
+      "ENCHANTED_CLAY_BALL"
+    ],
+    "name": "Enchanted Clay"
+  },
+  "GLOWSTONE_DUST": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "ENCHANTED_GLOWSTONE_DUST",
+      "ENCHANTED_GLOWSTONE",
+      "ENCHANTED_REDSTONE_LAMP"
+    ],
+    "name": "Glowstone Dust"
+  },
+  "GOLD_INGOT": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "ENCHANTED_GOLD",
+      "ENCHANTED_GOLD_BLOCK"
+    ],
+    "name": "Gold Ingot"
+  },
+  "REVENANT_VISCERA": {
+    "category": "Combat",
+    "category_color": "c",
+    "related": [
+      "REVENANT_FLESH"
+    ],
+    "name": "Revenant Viscera"
+  },
+  "TARANTULA_SILK": {
+    "category": "Combat",
+    "category_color": "c",
+    "related": [
+      "TARANTULA_WEB"
+    ],
+    "name": "Tarantula Silk"
+  },
+  "TITANIC_EXP_BOTTLE": {
+    "category": "Oddities",
+    "category_color": "d",
+    "related": [
+      "EXP_BOTTLE",
+      "GRAND_EXP_BOTTLE",
+      "COLOSSAL_EXP_BOTTLE"
+    ],
+    "name": "Titanic Experience Bottle"
+  },
+  "ENCHANTED_MUTTON": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "MUTTON",
+      "ENCHANTED_COOKED_MUTTON"
+    ],
+    "name": "Enchanted Mutton"
+  },
+  "ENCHANTED_IRON": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "IRON_INGOT",
+      "ENCHANTED_IRON_BLOCK"
+    ],
+    "name": "Enchanted Iron"
+  },
+  "SUPER_COMPACTOR_3000": {
+    "category": "Oddities",
+    "category_color": "d",
+    "related": [
+      "COMPACTOR"
+    ],
+    "name": "Super Compactor 3000"
+  },
+  "SUPER_EGG": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "RAW_CHICKEN",
+      "ENCHANTED_RAW_CHICKEN",
+      "ENCHANTED_EGG",
+      "ENCHANTED_CAKE"
+    ],
+    "name": "Super Enchanted Egg"
+  },
+  "STOCK_OF_STONKS": {
+    "category": "Oddities",
+    "category_color": "d",
+    "related": [],
+    "name": "Stock of Stonks"
+  },
+  "MITHRIL_ORE": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "ENCHANTED_MITHRIL",
+      "REFINED_MITHRIL"
+    ],
+    "name": "Mithril"
+  },
+  "ENCHANTED_HAY_BLOCK": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "WHEAT",
+      "ENCHANTED_BREAD",
+      "HAY_BLOCK",
+      "TIGHTLY-TIED_HAY_BALE"
+    ],
+    "name": "Enchanted Hay Bale"
+  },
+  "ENCHANTED_PAPER": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "ENCHANTED_SUGAR",
+      "ENCHANTED_SUGAR_CANE"
+    ],
+    "name": "Enchanted Paper"
+  },
+  "ENCHANTED_BONE": {
+    "category": "Combat",
+    "category_color": "c",
+    "related": [
+      "BONE",
+      "ENCHANTED_BONE_BLOCK"
+    ],
+    "name": "Enchanted Bone"
+  },
+  "ENCHANTED_TITANIUM": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "TITANIUM_ORE",
+      "REFINED_TITANIUM"
+    ],
+    "name": "Enchanted Titanium"
+  },
+  "ENCHANTED_DIAMOND_BLOCK": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "DIAMOND",
+      "ENCHANTED_DIAMOND",
+      "REFINED_DIAMOND"
+    ],
+    "name": "Enchanted Diamond Block"
+  },
+  "SPOOKY_BAIT": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "CARROT_BAIT",
+      "MINNOW_BAIT",
+      "FISH_BAIT",
+      "LIGHT_BAIT",
+      "DARK_BAIT",
+      "SPIKED_BAIT",
+      "BLESSED_BAIT",
+      "ICE_BAIT",
+      "WHALE_BAIT",
+      "SHARK_BAIT"
+    ],
+    "name": "Spooky Bait"
+  },
+  "SUPERIOR_FRAGMENT": {
+    "category": "Oddities",
+    "category_color": "d",
+    "related": [
+      "PROTECTOR_FRAGMENT",
+      "OLD_FRAGMENT",
+      "UNSTABLE_FRAGMENT",
+      "STRONG_FRAGMENT",
+      "YOUNG_FRAGMENT",
+      "WISE_FRAGMENT",
+      "HOLY_FRAGMENT"
+    ],
+    "name": "Superior Dragon Fragment"
+  },
+  "EMERALD": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "ENCHANTED_EMERALD",
+      "ENCHANTED_EMERALD_BLOCK"
+    ],
+    "name": "Emerald"
+  },
+  "ENCHANTED_RABBIT_FOOT": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "RABBIT",
+      "ENCHANTED_RABBIT",
+      "RABBIT_FOOT",
+      "RABBIT_HIDE",
+      "ENCHANTED_RABBIT_HIDE"
+    ],
+    "name": "Enchanted Rabbit Foot"
+  },
+  "LIGHT_BAIT": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "CARROT_BAIT",
+      "MINNOW_BAIT",
+      "FISH_BAIT",
+      "DARK_BAIT",
+      "SPOOKY_BAIT",
+      "SPIKED_BAIT",
+      "BLESSED_BAIT",
+      "ICE_BAIT",
+      "WHALE_BAIT",
+      "SHARK_BAIT"
+    ],
+    "name": "Light Bait"
+  },
+  "HOT_POTATO_BOOK": {
+    "category": "Oddities",
+    "category_color": "d",
+    "related": [
+      "FUMING_POTATO_BOOK"
+    ],
+    "name": "Hot Potato Book"
+  },
+  "ENCHANTED_ICE": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "ICE",
+      "PACKED_ICE",
+      "ENCHANTED_PACKED_ICE"
+    ],
+    "name": "Enchanted Ice"
+  },
+  "CLAY_BALL": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "ENCHANTED_CLAY_BALL"
+    ],
+    "name": "Clay"
+  },
+  "OLD_FRAGMENT": {
+    "category": "Oddities",
+    "category_color": "d",
+    "related": [
+      "PROTECTOR_FRAGMENT",
+      "UNSTABLE_FRAGMENT",
+      "STRONG_FRAGMENT",
+      "YOUNG_FRAGMENT",
+      "WISE_FRAGMENT",
+      "SUPERIOR_FRAGMENT",
+      "HOLY_FRAGMENT"
+    ],
+    "name": "Old Dragon Fragment"
+  },
+  "GREEN_GIFT": {
+    "category": "Oddities",
+    "category_color": "d",
+    "related": [
+      "WHITE_GIFT",
+      "GREEN_GIFT",
+      "RED_GIFT"
+    ],
+    "name": "Green Gift"
+  },
+  "PACKED_ICE": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "ICE",
+      "ENCHANTED_ICE",
+      "ENCHANTED_PACKED_ICE"
+    ],
+    "name": "Packed Ice"
+  },
+  "WATER_LILY": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "ENCHANTED_WATER_LILY"
+    ],
+    "name": "Lily Pad"
+  },
+  "LOG_2": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "ENCHANTED_ACACIA_LOG"
+    ],
+    "name": "Acacia Wood"
+  },
+  "HAMSTER_WHEEL": {
+    "category": "Oddities",
+    "category_color": "d",
+    "related": [
+      "ENCHANTED_LAVA_BUCKET",
+      "FOUL_FLESH",
+      "CATALYST",
+      "HYPER_CATALYST"
+    ],
+    "name": "Hamster Wheel"
+  },
+  "ENCHANTED_OBSIDIAN": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "OBSIDIAN",
+      "ENCHANTED_OBSIDIAN"
+    ],
+    "name": "Enchanted Obsidian"
+  },
+  "ENCHANTED_COAL": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "COAL",
+      "ENCHANTED_CHARCOAL",
+      "ENCHANTED_COAL_BLOCK"
+    ],
+    "name": "Enchanted Coal"
+  },
+  "COAL": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "ENCHANTED_COAL",
+      "ENCHANTED_CHARCOAL",
+      "ENCHANTED_COAL_BLOCK"
+    ],
+    "name": "Coal"
+  },
+  "ENCHANTED_QUARTZ": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "QUARTZ",
+      "ENCHANTED_QUARTZ_BLOCK"
+    ],
+    "name": "Enchanted Quartz"
+  },
+  "ENDER_PEARL": {
+    "category": "Combat",
+    "category_color": "c",
+    "related": [
+      "ENCHANTED_ENDER_PEARL",
+      "ENCHANTED_EYE_OF_ENDER"
+    ],
+    "name": "Ender Pearl"
+  },
+  "ENCHANTED_COAL_BLOCK": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "COAL",
+      "ENCHANTED_COAL",
+      "ENCHANTED_CHARCOAL"
+    ],
+    "name": "Enchanted Block of Coal"
+  },
+  "WEREWOLF_SKIN": {
+    "category": "Oddities",
+    "category_color": "d",
+    "related": [
+      "SPOOKY_SHARD",
+      "GREEN_CANDY",
+      "PURPLE_CANDY",
+      "ECTOPLASM",
+      "PUMPKIN_GUTS",
+      "SOUL_FRAGMENT"
+    ],
+    "name": "Werewolf Skin"
+  },
+  "ENCHANTED_PRISMARINE_CRYSTALS": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "PRISMARINE_CRYSTALS"
+    ],
+    "name": "Enchanted Prismarine Crystals"
+  },
+  "DAEDALUS_STICK": {
+    "category": "Combat",
+    "category_color": "c",
+    "related": [
+      "GRIFFIN_FEATHER",
+      "ANCIENT_CLAW",
+      "ENCHANTED_ANCIENT_CLAW"
+    ],
+    "name": "Daedalus Stick"
+  },
+  "ENCHANTED_WET_SPONGE": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "SPONGE",
+      "ENCHANTED_SPONGE"
+    ],
+    "name": "Enchanted Wet Sponge"
+  },
+  "ENDER_STONE": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "ENCHANTED_ENDSTONE"
+    ],
+    "name": "End Stone"
+  },
+  "ENCHANTED_RAW_FISH": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "RAW_FISH",
+      "ENCHANTED_COOKED_FISH"
+    ],
+    "name": "Enchanted Raw Fish"
+  },
+  "FOUL_FLESH": {
+    "category": "Oddities",
+    "category_color": "d",
+    "related": [
+      "ENCHANTED_LAVA_BUCKET",
+      "HAMSTER_WHEEL",
+      "CATALYST",
+      "HYPER_CATALYST"
+    ],
+    "name": "Foul Flesh"
+  },
+  "QUARTZ": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "ENCHANTED_QUARTZ",
+      "ENCHANTED_QUARTZ_BLOCK"
+    ],
+    "name": "Nether Quartz"
+  },
+  "JERRY_BOX_PURPLE": {
+    "category": "Oddities",
+    "category_color": "d",
+    "related": [
+      "JERRY_BOX_GREEN",
+      "JERRY_BOX_BLUE",
+      "JERRY_BOX_GOLDEN"
+    ],
+    "name": "Purple Jerry Box"
+  },
+  "RAW_BEEF": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "LEATHER",
+      "ENCHANTED_LEATHER",
+      "ENCHANTED_RAW_BEEF"
+    ],
+    "name": "Raw Beef"
+  },
+  "ENCHANTED_EYE_OF_ENDER": {
+    "category": "Combat",
+    "category_color": "c",
+    "related": [
+      "ENDER_PEARL",
+      "ENCHANTED_ENDER_PEARL"
+    ],
+    "name": "Enchanted Eye of Ender"
+  },
+  "ECTOPLASM": {
+    "category": "Oddities",
+    "category_color": "d",
+    "related": [
+      "SPOOKY_SHARD",
+      "GREEN_CANDY",
+      "PURPLE_CANDY",
+      "PUMPKIN_GUTS",
+      "WEREWOLF_SKIN",
+      "SOUL_FRAGMENT"
+    ],
+    "name": "Ectoplasm"
+  },
+  "SUGAR_CANE": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "ENCHANTED_SUGAR",
+      "ENCHANTED_PAPER",
+      "ENCHANTED_SUGAR_CANE"
+    ],
+    "name": "Sugar Cane"
+  },
+  "MAGMA_CREAM": {
+    "category": "Combat",
+    "category_color": "c",
+    "related": [
+      "ENCHANTED_MAGMA_CREAM"
+    ],
+    "name": "Magma Cream"
+  },
+  "SHARK_BAIT": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "CARROT_BAIT",
+      "MINNOW_BAIT",
+      "FISH_BAIT",
+      "LIGHT_BAIT",
+      "DARK_BAIT",
+      "SPOOKY_BAIT",
+      "SPIKED_BAIT",
+      "BLESSED_BAIT",
+      "ICE_BAIT",
+      "WHALE_BAIT"
+    ],
+    "name": "Shark Bait"
+  },
+  "RED_GIFT": {
+    "category": "Oddities",
+    "category_color": "d",
+    "related": [
+      "WHITE_GIFT",
+      "GREEN_GIFT"
+    ],
+    "name": "Red Gift"
+  },
+  "ENCHANTED_MITHRIL": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "MITHRIL_ORE",
+      "REFINED_MITHRIL"
+    ],
+    "name": "Enchanted Mithril"
+  },
+  "JERRY_BOX_BLUE": {
+    "category": "Oddities",
+    "category_color": "d",
+    "related": [
+      "JERRY_BOX_GREEN",
+      "JERRY_BOX_PURPLE",
+      "JERRY_BOX_GOLDEN"
+    ],
+    "name": "Blue Jerry Box"
+  },
+  "ENCHANTED_RAW_BEEF": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "LEATHER",
+      "ENCHANTED_LEATHER",
+      "RAW_BEEF"
+    ],
+    "name": "Enchanted Raw Beef"
+  },
+  "ENCHANTED_SLIME_BLOCK": {
+    "category": "Combat",
+    "category_color": "c",
+    "related": [
+      "SLIME_BALL",
+      "ENCHANTED_SLIME_BALL"
+    ],
+    "name": "Enchanted Slime Block"
+  },
+  "ENCHANTED_FEATHER": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "FEATHER"
+    ],
+    "name": "Enchanted Feather"
+  },
+  "ENCHANTED_OAK_LOG": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "LOG"
+    ],
+    "name": "Enchanted Oak Wood"
+  },
+  "RABBIT_HIDE": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "RABBIT",
+      "ENCHANTED_RABBIT",
+      "RABBIT_FOOT",
+      "ENCHANTED_RABBIT_FOOT",
+      "ENCHANTED_RABBIT_HIDE"
+    ],
+    "name": "Rabbit Hide"
+  },
+  "WHITE_GIFT": {
+    "category": "Oddities",
+    "category_color": "d",
+    "related": [
+      "GREEN_GIFT",
+      "RED_GIFT"
+    ],
+    "name": "White Gift"
+  },
+  "NETHER_STALK": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "ENCHANTED_NETHER_STALK",
+      "MUTANT_NETHER_STALK"
+    ],
+    "name": "Nether Wart"
+  },
+  "RABBIT": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "ENCHANTED_RABBIT",
+      "RABBIT_FOOT",
+      "ENCHANTED_RABBIT_FOOT",
+      "RABBIT_HIDE",
+      "ENCHANTED_RABBIT_HIDE"
+    ],
+    "name": "Raw Rabbit"
+  },
+  "SULPHUR": {
+    "category": "Combat",
+    "category_color": "c",
+    "related": [
+      "ENCHANTED_GUNPOWDER",
+      "ENCHANTED_FIREWORK_ROCKET"
+    ],
+    "name": "Gunpowder"
+  },
+  "DARK_BAIT": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "CARROT_BAIT",
+      "MINNOW_BAIT",
+      "FISH_BAIT",
+      "LIGHT_BAIT",
+      "SPOOKY_BAIT",
+      "SPIKED_BAIT",
+      "BLESSED_BAIT",
+      "ICE_BAIT",
+      "WHALE_BAIT",
+      "SHARK_BAIT"
+    ],
+    "name": "Dark Bait"
+  },
+  "ENCHANTED_CARROT": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "CARROT_ITEM",
+      "ENCHANTED_CARROT_STICK",
+      "ENCHANTED_GOLDEN_CARROT"
+    ],
+    "name": "Enchanted Carrot"
+  },
+  "ENCHANTED_PUMPKIN": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "PUMPKIN",
+      "POLISHED_PUMPKIN"
+    ],
+    "name": "Enchanted Pumpkin"
+  },
+  "GRIFFIN_FEATHER": {
+    "category": "Combat",
+    "category_color": "c",
+    "related": [
+      "DAEDALUS_STICK",
+      "ANCIENT_CLAW",
+      "ENCHANTED_ANCIENT_CLAW"
+    ],
+    "name": "Griffin Feather"
+  },
+  "ROTTEN_FLESH": {
+    "category": "Combat",
+    "category_color": "c",
+    "related": [
+      "ENCHANTED_ROTTEN_FLESH"
+    ],
+    "name": "Rotten Flesh"
+  },
+  "ENCHANTED_COOKED_FISH": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "RAW_FISH",
+      "ENCHANTED_RAW_FISH"
+    ],
+    "name": "Enchanted Cooked Fish"
+  },
+  "OBSIDIAN": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "ENCHANTED_OBSIDIAN"
+    ],
+    "name": "黑曜石"
+  },
+  "MINNOW_BAIT": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "CARROT_BAIT",
+      "FISH_BAIT",
+      "LIGHT_BAIT",
+      "DARK_BAIT",
+      "SPOOKY_BAIT",
+      "SPIKED_BAIT",
+      "BLESSED_BAIT",
+      "ICE_BAIT",
+      "WHALE_BAIT",
+      "SHARK_BAIT"
+    ],
+    "name": "Minnow Bait"
+  },
+  "ENCHANTED_MAGMA_CREAM": {
+    "category": "Combat",
+    "category_color": "c",
+    "related": [
+      "MAGMA_CREAM"
+    ],
+    "name": "Enchanted Magma Cream"
+  },
+  "ENCHANTED_FIREWORK_ROCKET": {
+    "category": "Combat",
+    "category_color": "c",
+    "related": [
+      "SULPHUR",
+      "ENCHANTED_GUNPOWDER"
+    ],
+    "name": "Enchanted Firework Rocket"
+  },
+  "STARFALL": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [],
+    "name": "Starfall"
+  },
+  "LEATHER": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "ENCHANTED_LEATHER",
+      "RAW_BEEF",
+      "ENCHANTED_RAW_BEEF"
+    ],
+    "name": "Leather"
+  },
+  "ENCHANTED_COOKED_MUTTON": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "MUTTON",
+      "ENCHANTED_MUTTON"
+    ],
+    "name": "Enchanted Cooked Mutton"
+  },
+  "REFINED_TITANIUM": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "TITANIUM_ORE",
+      "ENCHANTED_TITANIUM"
+    ],
+    "name": "Refined Titanium"
+  },
+  "ENCHANTED_RABBIT": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "RABBIT",
+      "RABBIT_FOOT",
+      "ENCHANTED_RABBIT_FOOT",
+      "RABBIT_HIDE",
+      "ENCHANTED_RABBIT_HIDE"
+    ],
+    "name": "Enchanted Raw Rabbit x64"
+  },
+  "MUTANT_NETHER_STALK": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "NETHER_STALK",
+      "ENCHANTED_NETHER_STALK"
+    ],
+    "name": "Mutant Nether Wart"
+  },
+  "ENCHANTED_BREAD": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "WHEAT",
+      "HAY_BLOCK",
+      "ENCHANTED_HAY_BLOCK",
+      "TIGHTLY-TIED_HAY_BALE"
+    ],
+    "name": "Enchanted Bread"
+  },
+  "FUMING_POTATO_BOOK": {
+    "category": "Oddities",
+    "category_color": "d",
+    "related": [
+      "HOT_POTATO_BOOK"
+    ],
+    "name": "Fuming Potato Book"
+  },
+  "ENCHANTED_CHARCOAL": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "COAL",
+      "ENCHANTED_COAL",
+      "ENCHANTED_COAL_BLOCK"
+    ],
+    "name": "Enchanted Charcoal"
+  },
+  "ENCHANTED_BLAZE_POWDER": {
+    "category": "Combat",
+    "category_color": "c",
+    "related": [
+      "BLAZE_ROD",
+      "ENCHANTED_BLAZE_ROD"
+    ],
+    "name": "Enchanted Blaze Powder"
+  },
+  "SUMMONING_EYE": {
+    "category": "Oddities",
+    "category_color": "d",
+    "related": [],
+    "name": "Summoning Eye"
+  },
+  "FISH_BAIT": {
+    "category": "Woods & Fishes",
+    "category_color": "4",
+    "related": [
+      "CARROT_BAIT",
+      "MINNOW_BAIT",
+      "LIGHT_BAIT",
+      "DARK_BAIT",
+      "SPOOKY_BAIT",
+      "SPIKED_BAIT",
+      "BLESSED_BAIT",
+      "ICE_BAIT",
+      "WHALE_BAIT",
+      "SHARK_BAIT"
+    ],
+    "name": "Fish Bait"
+  },
+  "SNOW_BLOCK": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "SNOW_BALL",
+      "ENCHANTED_SNOW_BLOCK"
+    ],
+    "name": "Snow Block"
+  },
+  "ENCHANTED_BAKED_POTATO": {
+    "category": "Farming",
+    "category_color": "e",
+    "related": [
+      "POTATO_ITEM",
+      "ENCHANTED_POTATO"
+    ],
+    "name": "Enchanted Baked Potato"
+  },
+  "COMPACTOR": {
+    "category": "Oddities",
+    "category_color": "d",
+    "related": [
+      "SUPER_COMPACTOR_3000"
+    ],
+    "name": "Compactor"
+  },
+  "ENCHANTED_DIAMOND": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "DIAMOND",
+      "ENCHANTED_DIAMOND_BLOCK",
+      "REFINED_DIAMOND"
+    ],
+    "name": "Enchanted Diamond"
+  }
+}
