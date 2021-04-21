@@ -313,6 +313,10 @@
         "name": "Team Deathmatch"
       },
       {
+        "key": "defusal_tourney",
+        "name": "Defusal Tourney"
+      },
+      {
         "key": "challenge",
         "name": "Challenge",
         "modes": [
@@ -467,6 +471,10 @@
       {
         "key": "BEDWARS_FOUR_FOUR",
         "name": "4v4v4v4"
+      },
+      {
+        "key": "BEDWARS_PRACTICE",
+        "name": "Practice"
       },
       {
         "key": "DREAMS",
@@ -716,11 +724,7 @@
       },
       {
         "key": "farming_1",
-        "name": "The Barn"
-      },
-      {
-        "key": "farming_2",
-        "name": "Mushroom Desert"
+        "name": "The Farming Islands"
       },
       {
         "key": "mining_1",
@@ -729,6 +733,10 @@
       {
         "key": "mining_2",
         "name": "Deep Caverns"
+      },
+      {
+        "key": "mining_3",
+        "name": "Dwarven Mines"
       },
       {
         "key": "combat_1",
