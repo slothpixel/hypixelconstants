@@ -60,7 +60,7 @@
       "ENCHANTED_CARROT_STICK",
       "ENCHANTED_GOLDEN_CARROT"
     ],
-    "name": "Carotte"
+    "name": "Carrot"
   },
   "ENCHANTED_POTATO": {
     "category": "Farming",
@@ -265,7 +265,8 @@
       "MELON",
       "ENCHANTED_MELON",
       "ENCHANTED_MELON_BLOCK"
-    ]
+    ],
+    "name": "Enchanted Glistering Melon"
   },
   "PRISMARINE_SHARD": {
     "category": "Woods & Fishes",
@@ -450,7 +451,8 @@
       "ENCHANTED_RED_MUSHROOM",
       "HUGE_MUSHROOM_2",
       "ENCHANTED_HUGE_MUSHROOM_2"
-    ]
+    ],
+    "name": "Enchanted Brown Mushroom Block"
   },
   "REFINED_DIAMOND": {
     "category": "Mining",
@@ -2288,7 +2290,7 @@
     "related": [
       "ENCHANTED_OBSIDIAN"
     ],
-    "name": "黑曜石"
+    "name": "Obsidian"
   },
   "MINNOW_BAIT": {
     "category": "Woods & Fishes",
@@ -2368,7 +2370,7 @@
       "RABBIT_HIDE",
       "ENCHANTED_RABBIT_HIDE"
     ],
-    "name": "Enchanted Raw Rabbit x64"
+    "name": "Enchanted Raw Rabbit"
   },
   "MUTANT_NETHER_STALK": {
     "category": "Farming",
