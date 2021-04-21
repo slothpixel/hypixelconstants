@@ -399,8 +399,12 @@
     "category": "Mining",
     "category_color": "b",
     "related": [
+      "TITANIUM_ORE",
+      "ENCHANTED_TITANIUM",
+      "REFINED_TITANIUM",
       "MITHRIL_ORE",
-      "ENCHANTED_MITHRIL"
+      "ENCHANTED_MITHRIL",
+      "STARFALL"
     ],
     "name": "Refined Mithril"
   },
@@ -621,7 +625,10 @@
       "ENCHANTED_LAVA_BUCKET",
       "HAMSTER_WHEEL",
       "FOUL_FLESH",
-      "CATALYST"
+      "CATALYST",
+      "PLASMA_BUCKET",
+      "MAGMA_BUCKET",
+      "POWER_CRYSTAL"
     ],
     "name": "Hyper Catalyst"
   },
@@ -1090,9 +1097,54 @@
       "HAMSTER_WHEEL",
       "FOUL_FLESH",
       "CATALYST",
-      "HYPER_CATALYST"
+      "HYPER_CATALYST",
+      "PLASMA_BUCKET",
+      "MAGMA_BUCKET",
+      "POWER_CRYSTAL"
     ],
     "name": "Enchanted Lava Bucket"
+  },
+  "PLASMA_BUCKET": {
+    "category": "Oddities",
+    "category_color": "d",
+    "related": [
+      "ENCHANTED_LAVA_BUCKET",
+      "HAMSTER_WHEEL",
+      "FOUL_FLESH",
+      "CATALYST",
+      "HYPER_CATALYST",
+      "MAGMA_BUCKET",
+      "POWER_CRYSTAL"
+    ],
+    "name": "Plasma Bucket"
+  },
+  "MAGMA_BUCKET": {
+    "category": "Oddities",
+    "category_color": "d",
+    "related": [
+      "ENCHANTED_LAVA_BUCKET",
+      "HAMSTER_WHEEL",
+      "FOUL_FLESH",
+      "CATALYST",
+      "HYPER_CATALYST",
+      "PLASMA_BUCKET",
+      "POWER_CRYSTAL"
+    ],
+    "name": "Magma Bucket"
+  },
+  "POWER_CRYSTAL": {
+    "category": "Oddities",
+    "category_color": "d",
+    "related": [
+      "ENCHANTED_LAVA_BUCKET",
+      "HAMSTER_WHEEL",
+      "FOUL_FLESH",
+      "CATALYST",
+      "HYPER_CATALYST",
+      "PLASMA_BUCKET",
+      "MAGMA_BUCKET"
+    ],
+    "name": "Power Crystal"
   },
   "ENCHANTED_PACKED_ICE": {
     "category": "Mining",
@@ -1226,7 +1278,17 @@
   "NETHERRACK": {
     "category": "Mining",
     "category_color": "b",
-    "related": [],
+    "related": [
+      "ENCHANTED_NETHERRACK"
+    ],
+    "name": "Netherrack"
+  },
+  "ENCHANTED_NETHERRACK": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "NETHERRACK"
+    ],
     "name": "Netherrack"
   },
   "SPONGE": {
@@ -1337,7 +1399,10 @@
       "ENCHANTED_LAVA_BUCKET",
       "HAMSTER_WHEEL",
       "FOUL_FLESH",
-      "HYPER_CATALYST"
+      "HYPER_CATALYST",
+      "PLASMA_BUCKET",
+      "MAGMA_BUCKET",
+      "POWER_CRYSTAL"
     ],
     "name": "Catalyst"
   },
@@ -1662,9 +1727,19 @@
     "category": "Oddities",
     "category_color": "d",
     "related": [
-      "COMPACTOR"
+      "COMPACTOR",
+      "DWARVEN_COMPACTOR"
     ],
     "name": "Super Compactor 3000"
+  },
+  "DWARVEN_COMPACTOR": {
+    "category": "Oddities",
+    "category_color": "d",
+    "related": [
+      "COMPACTOR",
+      "SUPER_COMPACTOR_3000"
+    ],
+    "name": "Dwarven Super Compactor"
   },
   "SUPER_EGG": {
     "category": "Farming",
@@ -1687,8 +1762,12 @@
     "category": "Mining",
     "category_color": "b",
     "related": [
+      "TITANIUM_ORE",
+      "ENCHANTED_TITANIUM",
+      "REFINED_TITANIUM",
       "ENCHANTED_MITHRIL",
-      "REFINED_MITHRIL"
+      "REFINED_MITHRIL",
+      "STARFALL"
     ],
     "name": "Mithril"
   },
@@ -1726,7 +1805,12 @@
     "category_color": "b",
     "related": [
       "TITANIUM_ORE",
-      "REFINED_TITANIUM"
+      "REFINED_TITANIUM",
+      "MITHRIL_ORE",
+      "ENCHANTED_MITHRIL",
+      "REFINED_MITHRIL",
+      "STARFALL",
+      "TREASURITE"
     ],
     "name": "Enchanted Titanium"
   },
@@ -1892,7 +1976,10 @@
       "ENCHANTED_LAVA_BUCKET",
       "FOUL_FLESH",
       "CATALYST",
-      "HYPER_CATALYST"
+      "HYPER_CATALYST",
+      "PLASMA_BUCKET",
+      "MAGMA_BUCKET",
+      "POWER_CRYSTAL"
     ],
     "name": "Hamster Wheel"
   },
@@ -2017,7 +2104,10 @@
       "ENCHANTED_LAVA_BUCKET",
       "HAMSTER_WHEEL",
       "CATALYST",
-      "HYPER_CATALYST"
+      "HYPER_CATALYST",
+      "PLASMA_BUCKET",
+      "MAGMA_BUCKET",
+      "POWER_CRYSTAL"
     ],
     "name": "Foul Flesh"
   },
@@ -2120,8 +2210,12 @@
     "category": "Mining",
     "category_color": "b",
     "related": [
+      "TITANIUM_ORE",
+      "ENCHANTED_TITANIUM",
+      "REFINED_TITANIUM",
       "MITHRIL_ORE",
-      "REFINED_MITHRIL"
+      "REFINED_MITHRIL",
+      "STARFALL"
     ],
     "name": "Enchanted Mithril"
   },
@@ -2329,7 +2423,15 @@
   "STARFALL": {
     "category": "Mining",
     "category_color": "b",
-    "related": [],
+    "related": [
+      "TITANIUM_ORE",
+      "ENCHANTED_TITANIUM",
+      "REFINED_TITANIUM",
+      "MITHRIL_ORE",
+      "ENCHANTED_MITHRIL",
+      "REFINED_MITHRIL",
+      "TREASURITE"
+    ],
     "name": "Starfall"
   },
   "LEATHER": {
@@ -2356,9 +2458,28 @@
     "category_color": "b",
     "related": [
       "TITANIUM_ORE",
-      "ENCHANTED_TITANIUM"
+      "ENCHANTED_TITANIUM",
+      "MITHRIL_ORE",
+      "ENCHANTED_MITHRIL",
+      "REFINED_MITHRIL",
+      "STARFALL",
+      "TREASURITE"
     ],
     "name": "Refined Titanium"
+  },
+  "TREASURITE": {
+    "category": "Mining",
+    "category_color": "b",
+    "related": [
+      "TITANIUM_ORE",
+      "ENCHANTED_TITANIUM",
+      "REFINED_TITANIUM",
+      "MITHRIL_ORE",
+      "ENCHANTED_MITHRIL",
+      "REFINED_MITHRIL",
+      "STARFALL"
+    ],
+    "name": "Treasurite"
   },
   "ENCHANTED_RABBIT": {
     "category": "Farming",
@@ -2464,7 +2585,8 @@
     "category": "Oddities",
     "category_color": "d",
     "related": [
-      "SUPER_COMPACTOR_3000"
+      "SUPER_COMPACTOR_3000",
+      "DWARVEN_COMPACTOR"
     ],
     "name": "Compactor"
   },
