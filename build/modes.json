@@ -189,6 +189,10 @@
           {
             "key": "ZOMBIES_DEAD_END",
             "name": "Dead End"
+          },
+          {
+            "key": "ZOMBIES_ALIEN_ARCADIUM",
+            "name": "Alien Arcadium"
           }
         ]
       },
@@ -473,6 +477,10 @@
         "name": "4v4v4v4"
       },
       {
+        "key": "BEDWARS_TWO_FOUR",
+        "name": "4v4"
+      },
+      {
         "key": "BEDWARS_PRACTICE",
         "name": "Practice"
       },
@@ -629,6 +637,10 @@
         "name": "UHC Duel"
       },
       {
+        "key": "DUELS_UHC_MEETUP",
+        "name": "UHC Deathmatch"
+      },
+      {
         "key": "DUELS_OP_DOUBLES",
         "name": "OP Doubles"
       },
@@ -752,7 +764,7 @@
       },
       {
         "key": "foraging_1",
-        "name": "Floating Islands"
+        "name": "The Park"
       },
       {
         "key": "dark_auction",
@@ -761,6 +773,10 @@
       {
         "key": "dungeon",
         "name": "Dungeons"
+      },
+      {
+        "key": "dungeon_hub",
+        "name": "Dungeon Hub"
       }
     ]
   }
