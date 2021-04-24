@@ -195,6 +195,8 @@
     "category": "Farming",
     "category_color": "e",
     "related": [
+      "FEATHER",
+      "ENCHANTED_FEATHER",
       "RAW_CHICKEN",
       "ENCHANTED_RAW_CHICKEN",
       "ENCHANTED_EGG",
@@ -229,6 +231,8 @@
     "category": "Farming",
     "category_color": "e",
     "related": [
+      "SEEDS",
+      "ENCHANTED_SEEDS",
       "ENCHANTED_BREAD",
       "HAY_BLOCK",
       "ENCHANTED_HAY_BLOCK",
@@ -472,6 +476,8 @@
     "category": "Farming",
     "category_color": "e",
     "related": [
+      "SEEDS",
+      "ENCHANTED_SEEDS",
       "WHEAT",
       "ENCHANTED_BREAD",
       "HAY_BLOCK",
@@ -802,6 +808,8 @@
     "category": "Farming",
     "category_color": "e",
     "related": [
+      "FEATHER",
+      "ENCHANTED_FEATHER",
       "RAW_CHICKEN",
       "ENCHANTED_RAW_CHICKEN",
       "ENCHANTED_CAKE",
@@ -834,6 +842,8 @@
     "category": "Farming",
     "category_color": "e",
     "related": [
+      "FEATHER",
+      "ENCHANTED_FEATHER",
       "ENCHANTED_RAW_CHICKEN",
       "ENCHANTED_EGG",
       "ENCHANTED_CAKE",
@@ -898,7 +908,12 @@
     "category": "Farming",
     "category_color": "e",
     "related": [
-      "ENCHANTED_SEEDS"
+      "ENCHANTED_SEEDS",
+      "WHEAT",
+      "ENCHANTED_BREAD",
+      "HAY_BLOCK",
+      "TIGHTLY_TIED_HAY_BALE",
+      "ENCHANTED_HAY_BLOCK"
     ],
     "name": "Seeds"
   },
@@ -948,6 +963,7 @@
     "category": "Mining",
     "category_color": "b",
     "related": [
+      "GRAVEL",
       "ENCHANTED_FLINT"
     ],
     "name": "Flint"
@@ -1077,7 +1093,10 @@
   "GRAVEL": {
     "category": "Mining",
     "category_color": "b",
-    "related": [],
+    "related": [
+      "FLINT",
+      "ENCHANTED_FLINT"
+    ],
     "name": "Gravel"
   },
   "MELON": {
@@ -1254,7 +1273,12 @@
     "category": "Farming",
     "category_color": "e",
     "related": [
-      "ENCHANTED_FEATHER"
+      "ENCHANTED_FEATHER",
+      "RAW_CHICKEN",
+      "ENCHANTED_RAW_CHICKEN",
+      "ENCHANTED_CAKE",
+      "ENCHANTED_EGG",
+      "SUPER_EGG"
     ],
     "name": "Feather"
   },
@@ -1359,6 +1383,8 @@
     "category": "Farming",
     "category_color": "e",
     "related": [
+      "FEATHER",
+      "ENCHANTED_FEATHER",
       "RAW_CHICKEN",
       "ENCHANTED_EGG",
       "ENCHANTED_CAKE",
@@ -1501,7 +1527,12 @@
     "category": "Farming",
     "category_color": "e",
     "related": [
-      "SEEDS"
+      "SEEDS",
+      "WHEAT",
+      "ENCHANTED_BREAD",
+      "HAY_BLOCK",
+      "TIGHTLY_TIED_HAY_BALE",
+      "ENCHANTED_HAY_BLOCK"
     ],
     "name": "Enchanted Seeds"
   },
@@ -1629,7 +1660,8 @@
     "category": "Mining",
     "category_color": "b",
     "related": [
-      "FLINT"
+      "FLINT",
+      "GRAVEL"
     ],
     "name": "Enchanted Flint"
   },
@@ -1745,6 +1777,8 @@
     "category": "Farming",
     "category_color": "e",
     "related": [
+      "FEATHER",
+      "ENCHANTED_FEATHER",
       "RAW_CHICKEN",
       "ENCHANTED_RAW_CHICKEN",
       "ENCHANTED_EGG",
@@ -1775,6 +1809,8 @@
     "category": "Farming",
     "category_color": "e",
     "related": [
+      "SEEDS",
+      "ENCHANTED_SEEDS",
       "WHEAT",
       "ENCHANTED_BREAD",
       "HAY_BLOCK",
@@ -2252,7 +2288,12 @@
     "category": "Farming",
     "category_color": "e",
     "related": [
-      "FEATHER"
+      "FEATHER",
+      "RAW_CHICKEN",
+      "ENCHANTED_RAW_CHICKEN",
+      "ENCHANTED_CAKE",
+      "ENCHANTED_EGG",
+      "SUPER_EGG"
     ],
     "name": "Enchanted Feather"
   },
@@ -2506,6 +2547,8 @@
     "category": "Farming",
     "category_color": "e",
     "related": [
+      "SEEDS",
+      "ENCHANTED_SEEDS",
       "WHEAT",
       "HAY_BLOCK",
       "ENCHANTED_HAY_BLOCK",
