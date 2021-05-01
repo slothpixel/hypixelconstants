@@ -214,5 +214,21 @@
     "lobby_name": "",
     "clean_name": "Pit",
     "standard_name": "Pit"
+  },
+  {
+    "id": 65,
+    "type_name": "REPLAY",
+    "database_name": "Replay",
+    "lobby_name": "",
+    "clean_name": "Replay",
+    "standard_name": "Replay"
+  },
+  {
+    "id": 67,
+    "type_name": "SMP",
+    "database_name": "SMP",
+    "lobby_name": "",
+    "clean_name": "SMP",
+    "standard_name": "SMP"
   }
 ]
