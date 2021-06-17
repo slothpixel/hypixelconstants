@@ -4,7 +4,19 @@
     "name": "Limbo"
   },
   {
-    "key": "MAIN",
+    "key": "IDLE",
+    "name": "Idle"
+  },
+  {
+    "key": "QUEUE",
+    "name": "Queue"
+  },
+  {
+    "key": "SMP",
+    "name": "SMP"
+  },
+  {
+    "key": "MAIN_LOBBY",
     "name": "Main Lobby",
     "matcher": {
       "startsWith": "lobby"
@@ -15,7 +27,7 @@
     "name": "Replay Viewer"
   },
   {
-    "key": "TOURNAMENT",
+    "key": "TOURNAMENT_LOBBY",
     "name": "Tournament Hall",
     "matcher": {
       "startsWith": "tourney"
@@ -51,7 +63,7 @@
       },
       {
         "key": "mega_doubles",
-        "name": "Meg Doubles"
+        "name": "Mega Doubles"
       },
       {
         "key": "lab",
@@ -147,6 +159,10 @@
         "name": "Party Games"
       },
       {
+        "key": "PARTY",
+        "name": "Party Games"
+      },
+      {
         "key": "FARM_HUNT",
         "name": "Farm Hunt"
       },
@@ -213,6 +229,10 @@
       {
         "key": "EASTER_SIMULATOR",
         "name": "Easter Simulator"
+      },
+      {
+        "key": "PVP_CTW",
+        "name": "Capture The Wool"
       }
     ]
   },
@@ -234,6 +254,9 @@
       },
       {
         "key": "TNTTAG",
+        "keys":[
+          "TNTAG"
+        ],
         "name": "TNT Tag"
       },
       {
@@ -437,10 +460,6 @@
     "name": "Prototype",
     "modes": [
       {
-        "key": "PVP_CTW",
-        "name": "Capture The Wool"
-      },
-      {
         "key": "TOWERWARS",
         "name": "TowerWars",
         "modes": [
@@ -502,7 +521,7 @@
           },
           {
             "key": "BEDWARS_EIGHT_ONE_ULTIMATE",
-            "name": "Ultimate Meme"
+            "name": "Ultimate Solo"
           },
           {
             "key": "BEDWARS_EIGHT_TWO_ULTIMATE",
