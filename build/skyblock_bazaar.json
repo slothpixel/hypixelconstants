@@ -1572,8 +1572,8 @@
     "category_color": "c",
     "related": [
       "ENDER_PEARL",
-      "ENCHANTED_ENDER_PEARL",
-      "ENCHANTED_EYE_OF_ENDER"
+      "ENCHANTED_EYE_OF_ENDER",
+      "ABSOLUTE_ENDER_PEARL"
     ],
     "name": "Enchanted Ender Pearl"
   },
@@ -2062,7 +2062,8 @@
     "category_color": "c",
     "related": [
       "ENCHANTED_ENDER_PEARL",
-      "ENCHANTED_EYE_OF_ENDER"
+      "ENCHANTED_EYE_OF_ENDER",
+      "ABSOLUTE_ENDER_PEARL"
     ],
     "name": "Ender Pearl"
   },
@@ -2181,9 +2182,20 @@
     "category_color": "c",
     "related": [
       "ENDER_PEARL",
-      "ENCHANTED_ENDER_PEARL"
+      "ENCHANTED_ENDER_PEARL",
+      "ABSOLUTE_ENDER_PEARL"
     ],
     "name": "Enchanted Eye of Ender"
+  },
+  "ABSOLUTE_ENDER_PEARL": {
+    "category": "Combat",
+    "category_color": "c",
+    "related": [
+      "ENDER_PEARL",
+      "ENCHANTED_ENDER_PEARL",
+      "ENCHANTED_EYE_OF_ENDER"
+    ],
+    "name": "Absolute Ender Pearl"
   },
   "ECTOPLASM": {
     "category": "Oddities",
@@ -2642,5 +2654,60 @@
       "REFINED_DIAMOND"
     ],
     "name": "Enchanted Diamond"
+  },
+  "RAW_SOULFLOW": {
+    "category": "Combat",
+    "category_color": "c",
+    "related": [
+      "SOULFLOW",
+      "NULL_OVOID",
+      "NULL_SPHERE",
+      "NULL_ATOM"
+    ],
+    "name": "Raw Soulflow"
+  },
+  "SOULFLOW": {
+    "category": "Combat",
+    "category_color": "c",
+    "related": [
+      "RAW_SOULFLOW",
+      "NULL_OVOID",
+      "NULL_SPHERE",
+      "NULL_ATOM"
+    ],
+    "name": "Soulflow"
+  },
+  "NULL_OVOID": {
+    "category": "Combat",
+    "category_color": "c",
+    "related": [
+      "RAW_SOULFLOW",
+      "SOULFLOW",
+      "NULL_SPHERE",
+      "NULL_ATOM"
+    ],
+    "name": "Null Ovoid"
+  },
+  "NULL_SPHERE": {
+    "category": "Combat",
+    "category_color": "c",
+    "related": [
+      "RAW_SOULFLOW",
+      "SOULFLOW",
+      "NULL_OVOID",
+      "NULL_ATOM"
+    ],
+    "name": "Null Sphere"
+  },
+  "NULL_ATOM": {
+    "category": "Combat",
+    "category_color": "c",
+    "related": [
+      "RAW_SOULFLOW",
+      "SOULFLOW",
+      "NULL_OVOID",
+      "NULL_SPHERE"
+    ],
+    "name": "Null Atom"
   }
 }
