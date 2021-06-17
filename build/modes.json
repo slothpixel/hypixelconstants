@@ -159,6 +159,10 @@
         "name": "Party Games"
       },
       {
+        "key": "PARTY",
+        "name": "Party Games"
+      },
+      {
         "key": "FARM_HUNT",
         "name": "Farm Hunt"
       },
