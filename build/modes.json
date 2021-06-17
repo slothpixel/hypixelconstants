@@ -229,6 +229,10 @@
       {
         "key": "EASTER_SIMULATOR",
         "name": "Easter Simulator"
+      },
+      {
+        "key": "PVP_CTW",
+        "name": "Capture The Wool"
       }
     ]
   },
@@ -452,10 +456,6 @@
     "key": "PROTOTYPE",
     "name": "Prototype",
     "modes": [
-      {
-        "key": "PVP_CTW",
-        "name": "Capture The Wool"
-      },
       {
         "key": "TOWERWARS",
         "name": "TowerWars",
