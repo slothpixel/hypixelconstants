@@ -4,7 +4,19 @@
     "name": "Limbo"
   },
   {
-    "key": "MAIN",
+    "key": "IDLE",
+    "name": "Idle"
+  },
+  {
+    "key": "QUEUE",
+    "name": "Queue"
+  },
+  {
+    "key": "SMP",
+    "name": "SMP"
+  },
+  {
+    "key": "MAIN_LOBBY",
     "name": "Main Lobby",
     "matcher": {
       "startsWith": "lobby"
@@ -15,7 +27,7 @@
     "name": "Replay Viewer"
   },
   {
-    "key": "TOURNAMENT",
+    "key": "TOURNAMENT_LOBBY",
     "name": "Tournament Hall",
     "matcher": {
       "startsWith": "tourney"
