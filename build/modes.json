@@ -253,9 +253,9 @@
         "name": "Bow Spleef"
       },
       {
-        "key": "TNTAG",
+        "key": "TNTTAG",
         "keys":[
-          "TNTTAG"
+          "TNTAG"
         ],
         "name": "TNT Tag"
       },
