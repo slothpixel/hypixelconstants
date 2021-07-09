@@ -309,8 +309,6 @@
   {
     "name": "UHC",
     "key": "UHC",
-    "move": 5,
-    "dir": "x",
     "modes": [
       {
         "key": "SOLO",
@@ -481,26 +479,32 @@
     "modes": [
       {
         "key": "BEDWARS_EIGHT_ONE",
+        "keys":["EIGHT_ONE"],
         "name": "Solo"
       },
       {
         "key": "BEDWARS_EIGHT_TWO",
+        "keys":["EIGHT_TWO"],
         "name": "Doubles"
       },
       {
         "key": "BEDWARS_FOUR_THREE",
+        "keys":["FOUR_THREE"],
         "name": "3v3v3v3"
       },
       {
         "key": "BEDWARS_FOUR_FOUR",
+        "keys":["FOUR_FOUR"],
         "name": "4v4v4v4"
       },
       {
         "key": "BEDWARS_TWO_FOUR",
+        "keys":["TWO_FOUR"],
         "name": "4v4"
       },
       {
         "key": "BEDWARS_PRACTICE",
+        "keys":["PRACTICE"],
         "name": "Practice"
       },
       {
@@ -509,54 +513,67 @@
         "modes": [
           {
             "key": "BEDWARS_EIGHT_ONE_RUSH",
+            "keys":["EIGHT_ONE_RUSH"],
             "name": "Rush Solo"
           },
           {
             "key": "BEDWARS_EIGHT_TWO_RUSH",
+            "keys":["EIGHT_TWO_RUSH"],
             "name": "Rush Doubles"
           },
           {
             "key": "BEDWARS_FOUR_FOUR_RUSH",
+            "keys":["FOUR_FOUR_RUSH"],
             "name": "Rush 4v4v4v4"
           },
           {
             "key": "BEDWARS_EIGHT_ONE_ULTIMATE",
+            "keys":["EIGHT_ONE_ULTIMATE"],
             "name": "Ultimate Solo"
           },
           {
             "key": "BEDWARS_EIGHT_TWO_ULTIMATE",
+            "keys":["EIGHT_TWO_ULTIMATE"],
             "name": "Ultimate Doubles"
           },
           {
             "key": "BEDWARS_FOUR_FOUR_ULTIMATE",
+            "keys":["FOUR_FOUR_ULTIMATE"],
             "name": "Ultimate 4v4v4v4"
           },
           {
             "key": "BEDWARS_CASTLE",
+            "keys":["CASTLE"],
             "name": "Castle"
           },
           {
             "key": "BEDWARS_EIGHT_TWO_LUCKY",
+            "keys":["EIGHT_TWO_LUCKY"],
             "name": "Lucky Block Doubles"
           },
           {
             "key": "BEDWARS_FOUR_FOUR_LUCKY",
+            "keys":["FOUR_FOUR_LUCKY"],
             "name": "Lucky Block 4v4v4v4"
           },
           {
             "key": "BEDWARS_EIGHT_TWO_VOIDLESS",
+            "keys":["EIGHT_TWO_VOIDLESS"],
             "name": "Voidless Doubles"
           },
           {
             "key": "BEDWARS_FOUR_FOUR_VOIDLESS",
+            "keys":["FOUR_FOUR_VOIDLESS"],
             "name": "Voidless 4v4v4v4"
           },
           {
             "key": "BEDWARS_EIGHT_TWO_ARMED",
+            "keys":["EIGHT_TWO_ARMED"],
             "name": "Armed Doubles"
           },
           {
             "key": "BEDWARS_FOUR_FOUR_ARMED",
+            "keys":["FOUR_FOUR_ARMED"],
             "name": "Armed 4v4v4v4"
           }
         ]
@@ -595,34 +612,42 @@
     "modes": [
       {
         "key": "BUILD_BATTLE_SOLO_NORMAL",
+        "keys":["SOLO_NORMAL"],
         "name": "Solo"
       },
       {
         "key": "BUILD_BATTLE_TEAMS_NORMAL",
+        "keys":["TEAMS_NORMAL"],
         "name": "Teams"
       },
       {
         "key": "BUILD_BATTLE_SOLO_PRO",
+        "keys":["SOLO_PRO"],
         "name": "Pro"
       },
       {
         "key": "BUILD_BATTLE_GUESS_THE_BUILD",
+        "keys":["GUESS_THE_BUILD"],
         "name": "Guess the Build"
       },
       {
         "key": "BUILD_BATTLE_HALLOWEEN",
+        "keys":["HALLOWEEN"],
         "name": "Halloween Hyper Mode"
       },
       {
         "key": "BUILD_BATTLE_CHRISTMAS_NEW_SOLO",
+        "keys":["CHRISTMAS_NEW_SOLO"],
         "name": "Christmas Solo"
       },
       {
         "key": "BUILD_BATTLE_CHRISTMAS_NEW_TEAMS",
+        "keys":["CHRISTMAS_NEW_TEAMS"],
         "name": "Christmas Teams"
       },
       {
         "key": "BUILD_BATTLE_SOLO_NORMAL_LATEST",
+        "keys":["SOLO_NORMAL_LATEST"],
         "name": "Solo (1.14)"
       }
     ]
@@ -633,106 +658,132 @@
     "modes": [
       {
         "key": "DUELS_BOW_DUEL",
+        "keys":["BOW_DUEL"],
         "name": "Bow Duel"
       },
       {
         "key": "DUELS_MW_DUEL",
+        "keys":["MW_DUEL"],
         "name": "Mega Walls Duel"
       },
       {
         "key": "DUELS_UHC_FOUR",
+        "keys":["UHC_FOUR"],
         "name": "UHC Four"
       },
       {
         "key": "DUELS_SW_DOUBLES",
+        "keys":["SW_DOUBLES"],
         "name": "SkyWars Doubles"
       },
       {
         "key": "DUELS_UHC_DOUBLES",
+        "keys":["UHC_DOUBLES"],
         "name": "UHC Doubles"
       },
       {
         "key": "DUELS_UHC_DUEL",
+        "keys":["UHC_DUEL"],
         "name": "UHC Duel"
       },
       {
         "key": "DUELS_UHC_MEETUP",
+        "keys":["UHC_MEETUP"],
         "name": "UHC Deathmatch"
       },
       {
         "key": "DUELS_OP_DOUBLES",
+        "keys":["OP_DOUBLES"],
         "name": "OP Doubles"
       },
       {
         "key": "DUELS_OP_DUEL",
+        "keys":["OP_DUEL"],
         "name": "OP Duel"
       },
       {
         "key": "DUELS_MW_DOUBLES",
+        "keys":["MW_DOUBLES"],
         "name": "Mega Walls Doubles"
       },
       {
         "key": "DUELS_CLASSIC_DUEL",
+        "keys":["CLASSIC_DUEL"],
         "name": "Classic Duel"
       },
       {
         "key": "DUELS_POTION_DUEL",
+        "keys":["POTION_DUEL"],
         "name": "Potion Duel"
       },
       {
         "key": "DUELS_COMBO_DUEL",
+        "keys":["COMBO_DUEL"],
         "name": "Combo Duel"
       },
       {
         "key": "DUELS_SW_DUEL",
+        "keys":["SW_DUEL"],
         "name": "SkyWars Duel"
       },
       {
         "key": "DUELS_BLITZ_DUEL",
+        "keys":["BLITZ_DUEL"],
         "name": "Blitz Duel"
       },
       {
         "key": "DUELS_BOWSPLEEF_DUEL",
+        "keys":["BOWSPLEEF_DUEL"],
         "name": "Bowspleef Duel"
       },
       {
         "key": "DUELS_SUMO_DUEL",
+        "keys":["SUMO_DUEL"],
         "name": "Sumo Duel"
       },
       {
         "key": "DUELS_SW_TOURNAMENT",
+        "keys":["SW_TOURNAMENT"],
         "name": "SkyWars Tournament"
       },
       {
         "key": "DUELS_UHC_TOURNAMENT",
+        "keys":["UHC_TOURNAMENT"],
         "name": "UHC Tournament"
       },
       {
         "key": "DUELS_SUMO_TOURNAMENT",
+        "keys":["SUMO_TOURNAMENT"],
         "name": "Sumo Tournament"
       },
       {
         "key": "DUELS_BRIDGE_DUEL",
+        "keys":["BRIDGE_DUEL"],
         "name": "Bridge Duel"
       },
       {
         "key": "DUELS_BRIDGE_DOUBLES",
+        "keys":["BRIDGE_DOUBLES"],
         "name": "Bridge Doubles"
       },
       {
         "key": "DUELS_BRIDGE_FOUR",
+        "keys":["BRIDGE_FOUR"],
         "name": "Bridge 4v4"
       },
       {
         "key": "DUELS_BRIDGE_2V2V2V2",
+        "keys":["BRIDGE_2V2V2V2"],
         "name": "Bridge 2v2v2v2"
       },
       {
         "key": "DUELS_BRIDGE_3V3V3V3",
+        "keys":["BRIDGE_3V3V3V3"],
         "name": "Bridge 3v3v3v3"
       },
       {
         "key": "DUELS_BRIDGE_TOURNAMENT",
+        "keys":["BRIDGE_TOURNAMENT"],
         "name": "Bridge Tournament"
       }
     ]
