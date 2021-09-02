@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1623505772072,
-  "version": "0.11.215",
+  "lastUpdated": 1630527777960,
+  "version": "0.12.61",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -652,8 +652,8 @@
           "unlocks": [
             "Spelunker 10   Grants +36➜40 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
             "+1 ❈ Defense",
-            "Molten Cube Reforge",
             "Dirt Bottle Reforge",
+            "Molten Cube Reforge",
             "+800 Coins"
           ]
         },
@@ -701,8 +701,8 @@
           "unlocks": [
             "Spelunker 15   Grants +56➜60 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
-            "Salmon Opal Reforge",
             "Diamonite Reforge",
+            "Salmon Opal Reforge",
             "+1,300 Coins"
           ]
         },
@@ -732,8 +732,8 @@
           "unlocks": [
             "Spelunker 18   Grants +68➜72 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
-            "Beating Heart Reforge",
             "Pure Mithril Reforge",
+            "Beating Heart Reforge",
             "+1,600 Coins"
           ]
         },
@@ -754,6 +754,7 @@
             "Spelunker 20   Grants +76➜80 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
             "Dragon Scale Reforge",
+            "Jaderald Reforge",
             "+2,000 Coins"
           ]
         },
@@ -774,8 +775,8 @@
           "unlocks": [
             "Spelunker 22   Grants +84➜88 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
-            "Dragon Claw Reforge",
             "Diamond Atom Reforge",
+            "Dragon Claw Reforge",
             "Optical Lens Reforge",
             "+2,400 Coins"
           ]
@@ -796,8 +797,8 @@
           "unlocks": [
             "Spelunker 24   Grants +92➜96 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
-            "Spirit Stone Reforge",
             "Lucky Dice Reforge",
+            "Spirit Stone Reforge",
             "+2,800 Coins"
           ]
         },
@@ -807,14 +808,14 @@
           "unlocks": [
             "Spelunker 25   Grants +96➜100 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
-            "Dragon Horn Reforge",
-            "Midas Jewel Reforge",
             "Giant Tooth Reforge",
-            "Sadan's Brooch Reforge",
-            "Blessed Fruit Reforge",
             "Refined Amber Reforge",
-            "Toil Log Reforge",
             "Bulky Stone Reforge",
+            "Midas Jewel Reforge",
+            "Dragon Horn Reforge",
+            "Toil Log Reforge",
+            "Blessed Fruit Reforge",
+            "Sadan's Brooch Reforge",
             "+3,000 Coins"
           ]
         },
@@ -862,6 +863,7 @@
           "unlocks": [
             "Spelunker 30   Grants +116➜120 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
+            "Amber Material Reforge",
             "Wither Blood Reforge",
             "Precursor Gear Reforge",
             "Golden Ball Reforge",
@@ -2306,6 +2308,7 @@
           "totalExpRequired": 67425,
           "unlocks": [
             "Carrot King Sea Creature",
+            "Water Worm Sea Creature",
             "Treasure Hunter 15   Increases the chance to find treasure when fishing by 2.8➜3%.",
             "+3 HP ❤ Health",
             "+1,300 Coins"
@@ -2327,6 +2330,7 @@
           "unlocks": [
             "Guardian Defender Sea Creature",
             "Werewolf Sea Creature",
+            "Poisoned Water Worm Sea Creature",
             "Treasure Hunter 17   Increases the chance to find treasure when fishing by 3.2➜3.4%.",
             "+3 HP ❤ Health",
             "+1,500 Coins"
@@ -2348,6 +2352,7 @@
           "totalExpRequired": 322425,
           "unlocks": [
             "Water Hydra Sea Creature",
+            "Flaming Worm Sea Creature",
             "Treasure Hunter 19   Increases the chance to find treasure when fishing by 3.6➜3.8%.",
             "+3 HP ❤ Health",
             "+1,800 Coins"
@@ -2357,7 +2362,8 @@
           "level": 20,
           "totalExpRequired": 522425,
           "unlocks": [
-            "The Sea Emperor Sea Creature",
+            "??? Sea Creature",
+            "??? Sea Creature",
             "Treasure Hunter 20   Increases the chance to find treasure when fishing by 3.8➜4%.",
             "+4 HP ❤ Health",
             "+2,000 Coins"
@@ -2367,7 +2373,7 @@
           "level": 21,
           "totalExpRequired": 822425,
           "unlocks": [
-            "Phantom Fisher Sea Creature",
+            "??? Sea Creature",
             "Treasure Hunter 21   Increases the chance to find treasure when fishing by 4➜4.2%.",
             "+4 HP ❤ Health",
             "+2,200 Coins"
@@ -2377,6 +2383,7 @@
           "level": 22,
           "totalExpRequired": 1222425,
           "unlocks": [
+            "??? Sea Creature",
             "Treasure Hunter 22   Increases the chance to find treasure when fishing by 4.2➜4.4%.",
             "+4 HP ❤ Health",
             "+2,400 Coins"
@@ -2395,7 +2402,8 @@
           "level": 24,
           "totalExpRequired": 2322425,
           "unlocks": [
-            "Great White Shark Sea Creature",
+            "??? Sea Creature",
+            "??? Sea Creature",
             "Treasure Hunter 24   Increases the chance to find treasure when fishing by 4.6➜4.8%.",
             "+4 HP ❤ Health",
             "+2,800 Coins"
@@ -2405,7 +2413,7 @@
           "level": 25,
           "totalExpRequired": 3022425,
           "unlocks": [
-            "Yeti Sea Creature",
+            "??? Sea Creature",
             "Treasure Hunter 25   Increases the chance to find treasure when fishing by 4.8➜5%.",
             "+4 HP ❤ Health",
             "+3,000 Coins"
@@ -2415,7 +2423,7 @@
           "level": 26,
           "totalExpRequired": 3822425,
           "unlocks": [
-            "Grim Reaper Sea Creature",
+            "??? Sea Creature",
             "Treasure Hunter 26   Increases the chance to find treasure when fishing by 5➜5.2%.",
             "+5 HP ❤ Health",
             "+3,500 Coins"
@@ -2906,6 +2914,7 @@
             "Conjurer 22   Gain 84➜88% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
+            "Pristine Enchantment",
             "Counter-Strike Enchantment",
             "+2,400 Coins"
           ]
@@ -5614,8 +5623,8 @@
           "unlocks": [
             "Spelunker 10   Grants +36➜40 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
             "+1 ❈ Defense",
-            "Molten Cube Reforge",
             "Dirt Bottle Reforge",
+            "Molten Cube Reforge",
             "+800 Coins"
           ]
         },
@@ -5663,8 +5672,8 @@
           "unlocks": [
             "Spelunker 15   Grants +56➜60 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
-            "Salmon Opal Reforge",
             "Diamonite Reforge",
+            "Salmon Opal Reforge",
             "+1,300 Coins"
           ]
         },
@@ -5694,8 +5703,8 @@
           "unlocks": [
             "Spelunker 18   Grants +68➜72 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
-            "Beating Heart Reforge",
             "Pure Mithril Reforge",
+            "Beating Heart Reforge",
             "+1,600 Coins"
           ]
         },
@@ -5716,6 +5725,7 @@
             "Spelunker 20   Grants +76➜80 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
             "Dragon Scale Reforge",
+            "Jaderald Reforge",
             "+2,000 Coins"
           ]
         },
@@ -5736,8 +5746,8 @@
           "unlocks": [
             "Spelunker 22   Grants +84➜88 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
-            "Dragon Claw Reforge",
             "Diamond Atom Reforge",
+            "Dragon Claw Reforge",
             "Optical Lens Reforge",
             "+2,400 Coins"
           ]
@@ -5758,8 +5768,8 @@
           "unlocks": [
             "Spelunker 24   Grants +92➜96 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
-            "Spirit Stone Reforge",
             "Lucky Dice Reforge",
+            "Spirit Stone Reforge",
             "+2,800 Coins"
           ]
         },
@@ -5769,14 +5779,14 @@
           "unlocks": [
             "Spelunker 25   Grants +96➜100 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
-            "Dragon Horn Reforge",
-            "Midas Jewel Reforge",
             "Giant Tooth Reforge",
-            "Sadan's Brooch Reforge",
-            "Blessed Fruit Reforge",
             "Refined Amber Reforge",
-            "Toil Log Reforge",
             "Bulky Stone Reforge",
+            "Midas Jewel Reforge",
+            "Dragon Horn Reforge",
+            "Toil Log Reforge",
+            "Blessed Fruit Reforge",
+            "Sadan's Brooch Reforge",
             "+3,000 Coins"
           ]
         },
@@ -5824,6 +5834,7 @@
           "unlocks": [
             "Spelunker 30   Grants +116➜120 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
+            "Amber Material Reforge",
             "Wither Blood Reforge",
             "Precursor Gear Reforge",
             "Golden Ball Reforge",
@@ -7268,6 +7279,7 @@
           "totalExpRequired": 67425,
           "unlocks": [
             "Carrot King Sea Creature",
+            "Water Worm Sea Creature",
             "Treasure Hunter 15   Increases the chance to find treasure when fishing by 2.8➜3%.",
             "+3 HP ❤ Health",
             "+1,300 Coins"
@@ -7289,6 +7301,7 @@
           "unlocks": [
             "Guardian Defender Sea Creature",
             "Werewolf Sea Creature",
+            "Poisoned Water Worm Sea Creature",
             "Treasure Hunter 17   Increases the chance to find treasure when fishing by 3.2➜3.4%.",
             "+3 HP ❤ Health",
             "+1,500 Coins"
@@ -7310,6 +7323,7 @@
           "totalExpRequired": 322425,
           "unlocks": [
             "Water Hydra Sea Creature",
+            "Flaming Worm Sea Creature",
             "Treasure Hunter 19   Increases the chance to find treasure when fishing by 3.6➜3.8%.",
             "+3 HP ❤ Health",
             "+1,800 Coins"
@@ -7319,7 +7333,8 @@
           "level": 20,
           "totalExpRequired": 522425,
           "unlocks": [
-            "The Sea Emperor Sea Creature",
+            "??? Sea Creature",
+            "??? Sea Creature",
             "Treasure Hunter 20   Increases the chance to find treasure when fishing by 3.8➜4%.",
             "+4 HP ❤ Health",
             "+2,000 Coins"
@@ -7329,7 +7344,7 @@
           "level": 21,
           "totalExpRequired": 822425,
           "unlocks": [
-            "Phantom Fisher Sea Creature",
+            "??? Sea Creature",
             "Treasure Hunter 21   Increases the chance to find treasure when fishing by 4➜4.2%.",
             "+4 HP ❤ Health",
             "+2,200 Coins"
@@ -7339,6 +7354,7 @@
           "level": 22,
           "totalExpRequired": 1222425,
           "unlocks": [
+            "??? Sea Creature",
             "Treasure Hunter 22   Increases the chance to find treasure when fishing by 4.2➜4.4%.",
             "+4 HP ❤ Health",
             "+2,400 Coins"
@@ -7357,7 +7373,8 @@
           "level": 24,
           "totalExpRequired": 2322425,
           "unlocks": [
-            "Great White Shark Sea Creature",
+            "??? Sea Creature",
+            "??? Sea Creature",
             "Treasure Hunter 24   Increases the chance to find treasure when fishing by 4.6➜4.8%.",
             "+4 HP ❤ Health",
             "+2,800 Coins"
@@ -7367,7 +7384,7 @@
           "level": 25,
           "totalExpRequired": 3022425,
           "unlocks": [
-            "Yeti Sea Creature",
+            "??? Sea Creature",
             "Treasure Hunter 25   Increases the chance to find treasure when fishing by 4.8➜5%.",
             "+4 HP ❤ Health",
             "+3,000 Coins"
@@ -7377,7 +7394,7 @@
           "level": 26,
           "totalExpRequired": 3822425,
           "unlocks": [
-            "Grim Reaper Sea Creature",
+            "??? Sea Creature",
             "Treasure Hunter 26   Increases the chance to find treasure when fishing by 5➜5.2%.",
             "+5 HP ❤ Health",
             "+3,500 Coins"
@@ -7868,6 +7885,7 @@
             "Conjurer 22   Gain 84➜88% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
+            "Pristine Enchantment",
             "Counter-Strike Enchantment",
             "+2,400 Coins"
           ]

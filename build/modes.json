@@ -821,6 +821,10 @@
         "name": "Dwarven Mines"
       },
       {
+        "key":"crystal_hollows",
+        "name":"Crystal Hollows"
+      },
+      {
         "key": "combat_1",
         "name": "Spider's Den"
       },
