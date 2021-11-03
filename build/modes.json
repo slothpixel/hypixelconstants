@@ -458,6 +458,10 @@
     "name": "Prototype",
     "modes": [
       {
+        "key": "PIXEL_PARTY",
+        "name": "Pixel Party"
+      },
+      {
         "key": "TOWERWARS",
         "name": "TowerWars",
         "modes": [
@@ -772,6 +776,14 @@
         "name": "Bridge 4v4"
       },
       {
+        "key": "DUELS_BRIDGE_THREES",
+        "name": "Bridge 3v3"
+      },
+      {
+        "key": "DUELS_CAPTURE_THREES",
+        "name": "Bridge CTF 3v3"
+      },
+      {
         "key": "DUELS_BRIDGE_2V2V2V2",
         "keys":["BRIDGE_2V2V2V2"],
         "name": "Bridge 2v2v2v2"
@@ -785,6 +797,18 @@
         "key": "DUELS_BRIDGE_TOURNAMENT",
         "keys":["BRIDGE_TOURNAMENT"],
         "name": "Bridge Tournament"
+      },
+      {
+        "key": "DUELS_BOXING_DUEL",
+        "name": "Boxing Duel"
+      },
+      {
+        "key": "DUELS_DUEL_ARENA",
+        "name": "Duel Arena"
+      },
+      {
+        "key": "DUELS_PARKOUR_EIGHT",
+        "name": "Parkour"
       }
     ]
   },
