@@ -458,6 +458,10 @@
     "name": "Prototype",
     "modes": [
       {
+        "key": "PIXEL_PARTY",
+        "name": "Pixel Party"
+      },
+      {
         "key": "TOWERWARS",
         "name": "TowerWars",
         "modes": [
