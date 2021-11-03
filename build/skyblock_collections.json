@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1630527777902,
-  "version": "0.12.61",
+  "lastUpdated": 1635889203177,
+  "version": "0.12.1035",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -1844,13 +1844,13 @@
               "tier": 2,
               "amountRequired": 250,
               "unlocks": [
-                "Flawed Ruby Gemstone Recipe",
-                "Flawed Jade Gemstone Recipe",
-                "Flawed Sapphire Gemstone Recipe",
-                "Flawed Amethyst Gemstone Recipe",
-                "Flawed Amber Gemstone Recipe",
-                "Flawed Topaz Gemstone Recipe",
-                "Flawed Jasper Gemstone Recipe"
+                "❤ Flawed Ruby Gemstone Recipe",
+                "☘ Flawed Jade Gemstone Recipe",
+                "✎ Flawed Sapphire Gemstone Recipe",
+                "❈ Flawed Amethyst Gemstone Recipe",
+                "⸕ Flawed Amber Gemstone Recipe",
+                "✧ Flawed Topaz Gemstone Recipe",
+                "❁ Flawed Jasper Gemstone Recipe"
               ]
             },
             {
@@ -1871,13 +1871,13 @@
               "tier": 5,
               "amountRequired": 5000,
               "unlocks": [
-                "Fine Ruby Gemstone Recipe",
-                "Fine Jade Gemstone Recipe",
-                "Fine Sapphire Gemstone Recipe",
-                "Fine Amethyst Gemstone Recipe",
-                "Fine Amber Gemstone Recipe",
-                "Fine Topaz Gemstone Recipe",
-                "Fine Jasper Gemstone Recipe"
+                "❤ Fine Ruby Gemstone Recipe",
+                "☘ Fine Jade Gemstone Recipe",
+                "✎ Fine Sapphire Gemstone Recipe",
+                "❈ Fine Amethyst Gemstone Recipe",
+                "⸕ Fine Amber Gemstone Recipe",
+                "✧ Fine Topaz Gemstone Recipe",
+                "❁ Fine Jasper Gemstone Recipe"
               ]
             },
             {
@@ -1909,13 +1909,13 @@
               "tier": 9,
               "amountRequired": 500000,
               "unlocks": [
-                "Flawless Ruby Gemstone Recipe",
-                "Flawless Jade Gemstone Recipe",
-                "Flawless Sapphire Gemstone Recipe",
-                "Flawless Amethyst Gemstone Recipe",
-                "Flawless Amber Gemstone Recipe",
-                "Flawless Topaz Gemstone Recipe",
-                "Flawless Jasper Gemstone Recipe"
+                "❤ Flawless Ruby Gemstone Recipe",
+                "☘ Flawless Jade Gemstone Recipe",
+                "✎ Flawless Sapphire Gemstone Recipe",
+                "❈ Flawless Amethyst Gemstone Recipe",
+                "⸕ Flawless Amber Gemstone Recipe",
+                "✧ Flawless Topaz Gemstone Recipe",
+                "❁ Flawless Jasper Gemstone Recipe"
               ]
             },
             {
@@ -1923,13 +1923,13 @@
               "amountRequired": 1000000,
               "unlocks": [
                 "Artifact of Power Recipe",
-                "Perfect Ruby Gemstone Dwarven Forge Recipe",
-                "Perfect Jade Gemstone Dwarven Forge Recipe",
-                "Perfect Sapphire Gemstone Dwarven Forge Recipe",
-                "Perfect Amethyst Gemstone Dwarven Forge Recipe",
-                "Perfect Amber Gemstone Dwarven Forge Recipe",
-                "Perfect Topaz Gemstone Dwarven Forge Recipe",
-                "Perfect Jasper Gemstone Dwarven Forge Recipe"
+                "❤ Perfect Ruby Gemstone Dwarven Forge Recipe",
+                "☘ Perfect Jade Gemstone Dwarven Forge Recipe",
+                "✎ Perfect Sapphire Gemstone Dwarven Forge Recipe",
+                "❈ Perfect Amethyst Gemstone Dwarven Forge Recipe",
+                "⸕ Perfect Amber Gemstone Dwarven Forge Recipe",
+                "✧ Perfect Topaz Gemstone Dwarven Forge Recipe",
+                "❁ Perfect Jasper Gemstone Dwarven Forge Recipe"
               ]
             },
             {
