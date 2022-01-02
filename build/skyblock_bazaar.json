@@ -236,7 +236,7 @@
       "ENCHANTED_BREAD",
       "HAY_BLOCK",
       "ENCHANTED_HAY_BLOCK",
-      "TIGHTLY-TIED_HAY_BALE"
+      "TIGHTLY_TIED_HAY_BALE"
     ],
     "name": "Wheat"
   },
@@ -276,7 +276,7 @@
     "category": "Woods & Fishes",
     "category_color": "4",
     "related": [
-      "ENCHANTED_PRIMSARINE_SHARD"
+      "ENCHANTED_PRISMARINE_SHARD"
     ],
     "name": "Prismarine Shard"
   },
@@ -955,7 +955,7 @@
       "WHEAT",
       "ENCHANTED_BREAD",
       "ENCHANTED_HAY_BLOCK",
-      "TIGHTLY-TIED_HAY_BALE"
+      "TIGHTLY_TIED_HAY_BALE"
     ],
     "name": "Hay Bale"
   },
@@ -1187,7 +1187,7 @@
     "category": "Woods & Fishes",
     "category_color": "4",
     "related": [
-      "PRIMSARINE_SHARD"
+      "PRISMARINE_SHARD"
     ],
     "name": "Enchanted Prismarine Shard"
   },
@@ -1814,7 +1814,7 @@
       "WHEAT",
       "ENCHANTED_BREAD",
       "HAY_BLOCK",
-      "TIGHTLY-TIED_HAY_BALE"
+      "TIGHTLY_TIED_HAY_BALE"
     ],
     "name": "Enchanted Hay Bale"
   },
@@ -2564,7 +2564,7 @@
       "WHEAT",
       "HAY_BLOCK",
       "ENCHANTED_HAY_BLOCK",
-      "TIGHTLY-TIED_HAY_BALE"
+      "TIGHTLY_TIED_HAY_BALE"
     ],
     "name": "Enchanted Bread"
   },
