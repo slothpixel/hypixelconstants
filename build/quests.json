@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1635905139365,
+  "lastUpdated": 1641318131513,
   "quests": {
     "quake": [
       {
@@ -495,6 +495,33 @@
           }
         ],
         "description": "Loot 100 Chests\nDeal 250 Damage to Players"
+      },
+      {
+        "id": "blitz_special_daily_north_pole",
+        "name": "Special Daily: Blitz North Pole",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 2500
+          },
+          {
+            "type": "MultipliedCoinReward",
+            "amount": 2500
+          }
+        ],
+        "objectives": [
+          {
+            "id": "blitz_special_gifts",
+            "type": "IntegerObjective",
+            "integer": 5
+          }
+        ],
+        "requirements": [
+          {
+            "type": "DailyResetQuestRequirement"
+          }
+        ],
+        "description": "Find 5 gifts of any type in chests"
       }
     ],
     "tntgames": [
@@ -551,6 +578,37 @@
           }
         ],
         "description": "Play 20 games of TNT Games"
+      },
+      {
+        "id": "tnt_weekly_special",
+        "name": "Special Weekly: Candy Cane Quest",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 30000
+          },
+          {
+            "type": "MultipliedCoinReward",
+            "amount": 22000
+          },
+          {
+            "type": "PackageReward",
+            "package": "candy_cane"
+          }
+        ],
+        "objectives": [
+          {
+            "id": "tnt_weekly_candy_canes",
+            "type": "IntegerObjective",
+            "integer": 40
+          }
+        ],
+        "requirements": [
+          {
+            "type": "WeeklyResetQuestRequirement"
+          }
+        ],
+        "description": "Collect 40 Candy Cane blocks! Find them in any mode!"
       },
       {
         "id": "tnt_tntrun_daily",
@@ -1488,6 +1546,33 @@
           }
         ],
         "description": "Kill 20 players in UHC Champions"
+      },
+      {
+        "id": "uhc_weekly_special_cookie",
+        "name": "Special Weekly: Hungry Stomp",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 15000
+          },
+          {
+            "type": "MultipliedCoinReward",
+            "amount": 20000
+          }
+        ],
+        "objectives": [
+          {
+            "id": "uhc_kills_after_cookie",
+            "type": "IntegerObjective",
+            "integer": 7
+          }
+        ],
+        "requirements": [
+          {
+            "type": "WeeklyResetQuestRequirement"
+          }
+        ],
+        "description": "Kill a player within 30s of eating a Santa Cookie, 7 times."
       },
       {
         "id": "solo_brawler",
@@ -2444,6 +2529,37 @@
         "description": "Win 10 games in any lab mode"
       },
       {
+        "id": "skywars_special_north_pole",
+        "name": "Special Daily: Skywars North Pole",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3000
+          },
+          {
+            "type": "MultipliedCoinReward",
+            "amount": 2000
+          },
+          {
+            "type": "SkyWarsSoulReward",
+            "amount": 5
+          }
+        ],
+        "objectives": [
+          {
+            "id": "skywars_special_gifts",
+            "type": "IntegerObjective",
+            "integer": 5
+          }
+        ],
+        "requirements": [
+          {
+            "type": "DailyResetQuestRequirement"
+          }
+        ],
+        "description": "Find 5 gifts of any type in mid chests"
+      },
+      {
         "id": "skywars_daily_tokens",
         "name": "Daily Quest: Tokens!",
         "rewards": [
@@ -2492,51 +2608,6 @@
           }
         ],
         "description": "Win 3 games in Solo or Team Mode"
-      },
-      {
-        "id": "skywars_halloween_harvest_2021",
-        "name": "Special Quest: Harvest Season",
-        "rewards": [
-          {
-            "type": "GameLootChestReward",
-            "amount": 1
-          },
-          {
-            "type": "SkyWarsTokenReward",
-            "amount": 80000
-          },
-          {
-            "type": "MultipliedCoinReward",
-            "amount": 20000
-          },
-          {
-            "type": "PackageReward",
-            "package": "cage_house"
-          }
-        ],
-        "objectives": [
-          {
-            "id": "skywars_halloween_kills",
-            "type": "IntegerObjective",
-            "integer": 333
-          },
-          {
-            "id": "skywars_halloween_corrupted_wins",
-            "type": "IntegerObjective",
-            "integer": 3
-          },
-          {
-            "id": "skywars_halloween_mega_wins",
-            "type": "IntegerObjective",
-            "integer": 3
-          }
-        ],
-        "requirements": [
-          {
-            "type": "OneTimeQuestRequirement"
-          }
-        ],
-        "description": "Collect %%aqua%%333 souls %%gray%%from kills and wins in insane Skywars\nWin 3 %%dark_purple%%spooky %%gray%%games\nWin 3 Mega or Mega Doubles games"
       }
     ],
     "truecombat": [
@@ -3020,32 +3091,23 @@
         "description": "Win 10 dream games in Bed Wars"
       },
       {
-        "id": "bedwars_daily_nightmares",
-        "name": "Special Daily: Nightmares",
+        "id": "bedwars_daily_gifts",
+        "name": "Special Daily: Gifting Spirit",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
-            "amount": 2000
+            "amount": 5000
           },
           {
             "type": "BedwarsExpReward",
-            "amount": 1000
-          },
-          {
-            "type": "MultipliedCoinReward",
-            "amount": 500
+            "amount": 700
           }
         ],
         "objectives": [
           {
-            "id": "bedwars_daily_nightmare_beds",
+            "id": "bedwars_daily_special_christmas_gifts",
             "type": "IntegerObjective",
-            "integer": 4
-          },
-          {
-            "id": "bedwars_daily_nightmare_wins",
-            "type": "IntegerObjective",
-            "integer": 2
+            "integer": 5
           }
         ],
         "requirements": [
@@ -3053,30 +3115,30 @@
             "type": "DailyResetQuestRequirement"
           }
         ],
-        "description": "Break 4 beds in Bed Wars\nWin 2 games of Bed Wars"
+        "description": "Claim 5 gifts! Gifts regularly spawn at diamond and emerald generators."
       },
       {
-        "id": "bedwars_weekly_pumpkinator",
-        "name": "Special Weekly: Pumpkinator",
+        "id": "bedwars_weekly_challenges",
+        "name": "Weekly Quest: Challenger",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
-            "amount": 666
+            "amount": 5000
           },
           {
             "type": "BedwarsExpReward",
-            "amount": 6666
+            "amount": 2500
           },
           {
-            "type": "GameLootChestReward",
-            "amount": 1
+            "type": "MultipliedCoinReward",
+            "amount": 2500
           }
         ],
         "objectives": [
           {
-            "id": "bedwars_special_weekly_pumpkinator",
+            "id": "bedwars_weekly_challenge_played",
             "type": "IntegerObjective",
-            "integer": 99
+            "integer": 10
           }
         ],
         "requirements": [
@@ -3084,7 +3146,7 @@
             "type": "WeeklyResetQuestRequirement"
           }
         ],
-        "description": "Bring 99 pumpkins back to any Shopkeeper. Pumpkins will drop from kills, final kills and bed breaks during Halloween"
+        "description": "Play 10 games with Bed Wars Challenges active"
       }
     ],
     "murdermystery": [
@@ -3259,35 +3321,39 @@
         "description": "Win 15 games in any mode."
       },
       {
-        "id": "mm_special_weekly_killer_instinct_2021",
-        "name": "Special Quest: Killer Instinct",
+        "id": "mm_special_weekly_santa",
+        "name": "Special Weekly: Big Time Santa",
         "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 20000
+          },
+          {
+            "type": "MultipliedCoinReward",
+            "amount": 10000
+          },
           {
             "type": "GameLootChestReward",
             "amount": 1
           },
           {
-            "type": "MultipliedExperienceReward",
-            "amount": 12000
-          },
-          {
-            "type": "MultipliedCoinReward",
-            "amount": 7500
+            "type": "PackageReward",
+            "package": "rudolphs_nose"
           }
         ],
         "objectives": [
           {
-            "id": "mm_target_kills",
+            "id": "mm_special_weekly_santa",
             "type": "IntegerObjective",
-            "integer": 66
+            "integer": 30
           }
         ],
         "requirements": [
           {
-            "type": "OneTimeQuestRequirement"
+            "type": "WeeklyResetQuestRequirement"
           }
         ],
-        "description": "Kill 66 targets in Assassins mode"
+        "description": "Find 30 gifts scattered throughout the maps"
       }
     ],
     "buildbattle": [
@@ -3373,8 +3439,8 @@
         "description": "Play 30 games of Build Battle"
       },
       {
-        "id": "build_battle_halloween",
-        "name": "Special Daily: Hyper",
+        "id": "build_battle_christmas",
+        "name": "Special Daily: Holiday",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -3397,7 +3463,38 @@
             "type": "DailyResetQuestRequirement"
           }
         ],
-        "description": "Play 2 Halloween Hyper Mode games"
+        "description": "Play 2 Holiday Mode games"
+      },
+      {
+        "id": "build_battle_christmas_weekly",
+        "name": "Special Weekly: Holiday Madness",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 42000
+          },
+          {
+            "type": "MultipliedCoinReward",
+            "amount": 100000
+          },
+          {
+            "type": "PackageReward",
+            "package": "santa"
+          }
+        ],
+        "objectives": [
+          {
+            "id": "win",
+            "type": "IntegerObjective",
+            "integer": 3
+          }
+        ],
+        "requirements": [
+          {
+            "type": "WeeklyResetQuestRequirement"
+          }
+        ],
+        "description": "Win 3 Holiday Mode games"
       }
     ],
     "duels": [
